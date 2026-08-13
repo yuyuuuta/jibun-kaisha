@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
+  <!-- ══ 開幕の最初の1枚だけ、ここに直接書く（2026-08-11・COOが見つけた「一瞬の間」対策）══
+       理由：本来のスタイルはstyle.cssという別ファイルにあり、<link>で外から取ってくる。
+       届くまでブラウザは何も描けないため、回線が遅いとOSの起動画面のあとに
+       一瞬白い画面が挟まり、ぎこちない流れになっていた。
+       ここに開幕（#splash）に必要な分だけ直接書いておけば、HTMLを読んだ瞬間に紫の画面が出て、
+       OSの起動画面と切れ目なくつながる。開幕はホーム画面など他の中身をすべて覆っている
+       （z-index:9999で画面全体を覆う）ので、本体のstyle.cssがまだ届いていなくても、
+       開幕の下に隠れている中身が乱れて見える心配はない。
+
+       値の正本はstyle.css（#splash〜.splash-sub、.lo-splash-in、@keyframes lo-settle）。
+       ここに書いた値はそのコピー。コピーしてよいのは「明るい／暗いの切り替えで
+       変わらない値」だけに絞った（ブランド色・資産7色・開幕の実測レイアウト・動きの速さ）。
+       これらは社長の明暗設定に関わらず常に同じ値なので、二重持ちしても食い違う心配が少ない。
+       ★もしデザイン班からこれらの値の更新が来たら、style.cssとこのブロックの両方を直すこと。 -->
+  <style>
+    #splash{position:fixed;inset:0;z-index:9999;background:#391F5C;overflow:hidden;}
+    .splash-content{position:absolute;inset:0;}
+    .splash-mark{position:absolute;left:50%;top:42.76%;width:clamp(70px,23.3vw,130px);height:clamp(70px,23.3vw,130px);transform:translate(-50%,-50%);}
+    .splash-mark .mark-spinner{display:block;width:100%;height:100%;}
+    .mark-spinner .d1{fill:#77C566;} .mark-spinner .d2{fill:#EC86CC;} .mark-spinner .d3{fill:#D3A813;}
+    .mark-spinner .d4{fill:#74ADFF;} .mark-spinner .d5{fill:#F2943C;} .mark-spinner .d6{fill:#00CBC3;} .mark-spinner .d7{fill:#FE8674;}
+    .splash-mark .dc{fill:#F8F8F8;}
+    .splash-title{position:absolute;left:50%;top:52.61%;transform:translate(-50%,-50%);font-family:"Quicksand",system-ui,-apple-system,"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",sans-serif;font-weight:700;font-size:28px;color:#F8F8F8;white-space:nowrap;}
+    .splash-sub{position:absolute;left:50%;top:56.11%;transform:translate(-50%,-50%);font-family:system-ui,-apple-system,"Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",sans-serif;font-size:13px;color:#C7C0D5;white-space:nowrap;}
+    @keyframes lo-settle{from{transform:rotate(-51.43deg);opacity:0}30%{opacity:1}to{transform:rotate(0deg);opacity:1}}
+    .lo-splash-in{animation:lo-settle 900ms cubic-bezier(.16,1,.3,1) both;transform-origin:50% 50%;will-change:transform,opacity;}
+    /* 2026-08-11 社長判断：開幕は据わらせず、ずっと回し続ける。
+       開始角0°＝OSの起動画面の静止画とまったく同じ向きなので、継ぎ目は出ない。 */
+    @keyframes lo-orbit{to{transform:rotate(360deg)}}
+    .lo-mark-spin{animation:lo-orbit 8s linear infinite;transform-origin:50% 50%;will-change:transform;}
+    @media (prefers-reduced-motion: reduce){.lo-splash-in,.lo-mark-spin{animation:none;opacity:1}}
+  </style>
+
+  <!-- ブラウザのアドレスバー等の色。下のスクリプトが、保存した設定に合わせて書きかえる -->
+  <meta name="theme-color" id="theme-color-meta" content="#391F5C">
+  <!-- 2026-08-05：保存した「画面の明るさ」の設定を、画面が描かれる前にここで反映する。
+       ここで先に決めておかないと、一瞬だけ違う色が出てからパッと切り替わって見えてしまう（ちらつき対策）。 -->
+  <script>
+  (function(){
+    try{
+      var mode='auto';
+      var raw=localStorage.getItem('jibun-data');
+      if(raw){
+        var d=JSON.parse(raw);
+        if(d && d.settings && (d.settings.theme==='light' || d.settings.theme==='dark')) mode=d.settings.theme;
+      }
+      if(mode==='light' || mode==='dark'){
+        document.documentElement.setAttribute('data-theme', mode);
+      }
+      var effective=mode;
+      if(effective==='auto'){
+        effective=(window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) ? 'light' : 'dark';
+      }
+      var mc=document.getElementById('theme-color-meta');
+      if(mc) mc.setAttribute('content', effective==='light' ? '#F6F4FB' : '#391F5C');
+    }catch(e){}
+  })();
+  </script>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Life Orbit">
+  <link rel="manifest" href="manifest.json">
+  <!-- ホーム画面に追加したときのアイコン。iPhoneはPNGしか読まないため専用に用意している
+       （これが無いと、追加したアイコンが画面の写真になってしまう） -->
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <!-- 2026-08-07：タブのアイコンは「点4つの簡易版」（assets/favicon.svg）を使う。
+       点7つの原本（icon.svg）は16pxまで縮むと団子に潰れるため、タブには使わない。
+       末尾の ?v=10 は「これは別のファイルだ」とブラウザに教える印。
+       ブラウザはタブのアイコンを普通の更新では手放さないため、印を付けて古いキャッシュを迂回させている。 -->
+  <link rel="icon" href="assets/favicon.svg?v=10" type="image/svg+xml">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png?v=10">
+  <link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png?v=10">
+
+  <!-- 起動中に一瞬映る画面（iPhoneでホーム画面から開いたとき用）。
+       端末ごとに画面サイズが違うので、サイズごとに1枚ずつ用意している -->
+  <link rel="apple-touch-startup-image" href="assets/splash-1290x2796.png"
+        media="(device-width:430px) and (device-height:932px) and (-webkit-device-pixel-ratio:3)">
+  <link rel="apple-touch-startup-image" href="assets/splash-1179x2556.png"
+        media="(device-width:393px) and (device-height:852px) and (-webkit-device-pixel-ratio:3)">
+  <link rel="apple-touch-startup-image" href="assets/splash-1170x2532.png"
+        media="(device-width:390px) and (device-height:844px) and (-webkit-device-pixel-ratio:3)">
+  <link rel="apple-touch-startup-image" href="assets/splash-1125x2436.png"
+        media="(device-width:375px) and (device-height:812px) and (-webkit-device-pixel-ratio:3)">
+  <link rel="apple-touch-startup-image" href="assets/splash-828x1792.png"
+        media="(device-width:414px) and (device-height:896px) and (-webkit-device-pixel-ratio:2)">
+
+  <!-- SNSでリンクを共有したときに出るカード -->
+  <meta property="og:title" content="Life Orbit">
+  <meta property="og:description" content="Every day you moved, stays.">
+  <meta property="og:image" content="https://yuyuuuta.github.io/jibun-kaisha/assets/og-image-1200x630.png">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <!-- 2026-08-11：style.css本体は、開幕（上の<style>）を出したあとに読み込む形に変えた。
+       <link rel="stylesheet">は普通に書くと「これを読み終わるまで画面に何も出さない」という
+       ブラウザの決まりがあり、それが「一瞬の間」のもう半分の原因だった（上の<style>を足すだけでは、
+       このlinkが残っている限り効果がない）。media="print"は「印刷するときだけ使うCSS」という
+       意味で、ブラウザは画面表示をこれで待たなくなる。読み終わった瞬間にonloadが動いて
+       media="all"（画面にも適用）に書きかえる。開幕が画面全体を覆っているので、本体のstyle.cssが
+       届くまでの間、その下に隠れているホーム画面等が未装飾でも見た目に影響しない。 -->
+  <link rel="stylesheet" href="style.css" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="style.css"></noscript>
+  <title>Life Orbit</title>
+</head>
+<body>
+
+<!-- ══ 開幕画面（splash）══
+     2026-08-08：iPhoneでホーム画面から開いたときに一瞬映る起動画面（静止画・OSが表示するもの）
+     から、継ぎ目が見えないように受け取る画面。中心位置・大きさ・文字色は
+     起動画面の画像（assets/splash-1170x2532.png）を実際に測った数値に合わせてある。
+     iPhone以外（パソコン・Android）では起動画面そのものが無いが、支度が整うまでの
+     短い間だけ同じ画面を出す（毎回JavaScriptが、支度が整い次第すぐ消す＝待たせすぎない）。
+
+     2026-08-11 社長判断：マークは据わらせず、ずっと回し続ける（.lo-mark-spin・1周8秒）。
+     デザイン班は「開幕で回転を使うのをやめるのが正解」としていたが、その根拠は
+     「支度にかかる時間しだいで、消える瞬間の向きがバラバラになる」ことだった。
+     そこで開幕の最低表示を --orbit-step（51.43°＝1143ms）のちょうど2倍にしてある。
+     マークは7点の回転対称なので、51.43°の整数倍で消えれば見た目は必ず開始時と同じ姿になる。
+     つまり回し続けても、デザイン班が避けたかったことは起きない。
+     （据わる動き .lo-splash-in と @keyframes lo-settle は消さずに残してある）
+     「視差効果を減らす」設定がオンの人には、回らず最初から静止した状態で見せる（<head>と style.css の両方に指定あり）。
+
+     2026-08-12 テックMGR検品で修正：上の「51.43°の倍数で消える」計算は、回転の開始時刻を
+     JavaScriptが時間を測り始める時刻（splashStartedAt）と同じだと仮定していたが、実機で
+     測ったところ違っていた。splashStartedAtは、index.html下部の<script>までブラウザが
+     読み進んだ時刻（回転が始まってから数十ms〜それ以上あとになりうる）。これを基準に
+     「2286ms後に消す」と計算すると、回転そのものの経過時間は2286msぴったりにならず、
+     51.43°の倍数からずれてしまう。
+     正しい直し方：このマークの回転はページの読み込みが始まった瞬間（0ms地点）を基準に
+     動くことを実測で確認した。performance.now()も同じ0ms地点を基準にした時計なので、
+     「splashStartedAtから何ms後か」ではなく「performance.now()そのものが51.43°の倍数に
+     なる時刻まで待つ」よう計算し直した（app.js側・readySplash()参照）。
+     また、視差軽減設定の人は回転自体が無いため「51.43°の倍数」の理由が当てはまらない。
+     回転なしの静止画を2秒以上見せ続けると間延びするため、専用の短い表示時間
+     （--splash-min-still）を使うようapp.js側で分けた。
+
+     マーク・文字は.splash-contentでひとまとめにし、背景（#splash自体）とは別に消す
+     （紫の背景だけは最後まで残す＝アプリ本体の背景も紫のため、継ぎ目をなくすため）。
+     マークの各点にdata-dot="1"〜"7"を付けてあるのは、支度が長引いたときに
+     app.js側が「据わる」から「点が順に光る」表示へ切り替えるため（下のsplashToLoading）。 -->
+<div id="splash" role="presentation">
+  <div class="splash-content">
+    <div class="splash-mark">
+      <svg class="mark-spinner lo-mark-spin" viewBox="0 0 120 120" aria-hidden="true">
+        <circle class="d1" data-dot="1" cx="60" cy="21.8" r="9.8"></circle>
+        <circle class="d2" data-dot="2" cx="89.9" cy="36.2" r="9.8"></circle>
+        <circle class="d3" data-dot="3" cx="97.2" cy="68.5" r="9.8"></circle>
+        <circle class="d4" data-dot="4" cx="76.6" cy="94.4" r="9.8"></circle>
+        <circle class="d5" data-dot="5" cx="43.4" cy="94.4" r="9.8"></circle>
+        <circle class="d6" data-dot="6" cx="22.8" cy="68.5" r="9.8"></circle>
+        <circle class="d7" data-dot="7" cx="30.1" cy="36.2" r="9.8"></circle>
+        <circle class="dc" cx="60" cy="60" r="11.8"></circle>
+      </svg>
+    </div>
+    <div class="splash-title">Life Orbit</div>
+    <div class="splash-sub">Every day you moved, stays.</div>
+  </div>
+</div>
+<script>
+// 安全策：app.jsの読み込みや実行に何か失敗があっても、開幕画面で止まったままにしない。
+// 通常はapp.js側がもっと早く（1秒未満で）消すので、こちらが先に動くことはない想定。
+// app.jsのhideSplash()と同じ仕組み（.splash-contentだけ消す・紫の背景は残す）を
+// ここでも独立して用意している（app.js側が動かない最悪のケースでも保険が効くように）。
+setTimeout(function(){
+  var el = document.getElementById('splash');
+  if(el && !el.dataset.hiding){
+    el.dataset.hiding = '1';
+    var content = el.querySelector('.splash-content');
+    if(content) content.classList.add('lo-splash-out');
+    setTimeout(function(){ if(el) el.remove(); }, 450);
+  }
+}, 4000);
+</script>
+
+<!-- PTR Indicator -->
+<div id="ptr-wrap"><span class="ptr-icon" id="ptr-icon"></span> <span id="ptr-label">引っ張って更新</span></div>
+
+<!-- News Popup -->
+<div class="news-popup-overlay" id="news-popup-overlay" onclick="closeNewsPopup(event)">
+  <div class="news-popup">
+    <button class="news-popup-close" onclick="closeNewsPopup()">×</button>
+    <div class="news-popup-source" id="popup-source"></div>
+    <div class="news-popup-title" id="popup-title"></div>
+    <div class="news-popup-desc" id="popup-desc"></div>
+    <a class="news-popup-link" id="popup-link" target="_blank" rel="noopener">記事を開く →</a>
+  </div>
+</div>
+
+<div class="header">
+  <div class="header-row">
+    <div>
+      <h1><svg class="logo-svg" viewBox="0 0 587.4 120" role="img" aria-label="Life Orbit">
+        <g>
+          <circle cx="60" cy="21.8" r="9.8" fill="#77C566"></circle>
+          <circle cx="89.9" cy="36.2" r="9.8" fill="#EC86CC"></circle>
+          <circle cx="97.2" cy="68.5" r="9.8" fill="#D3A813"></circle>
+          <circle cx="76.6" cy="94.4" r="9.8" fill="#74ADFF"></circle>
+          <circle cx="43.4" cy="94.4" r="9.8" fill="#F2943C"></circle>
+          <circle cx="22.8" cy="68.5" r="9.8" fill="#00CBC3"></circle>
+          <circle cx="30.1" cy="36.2" r="9.8" fill="#FE8674"></circle>
+          <circle cx="60" cy="60" r="11.8" fill="currentColor"></circle>
+        </g>
+        <path fill-rule="evenodd" fill="currentColor" transform="translate(158,-5.4)" d="M97.62 30L94.32 30.47L90.54 31.65L86.53 34.25L83.81 37.44L81.92 41.69L81.45 44.28L81.45 50.19L74.49 50.54L72.24 52.07L71.06 54.67L71.3 57.27L72.01 58.68L73.54 59.98L75.19 60.69L81.45 60.81L81.45 95.04L81.92 96.69L82.87 98.11L84.17 99.17L86.05 99.88L88.18 99.88L90.07 99.17L91.6 97.88L92.78 95.51L92.78 60.81L102.58 60.69L104.7 59.75L105.77 58.68L106.71 56.8L106.71 54.44L106.24 53.02L104.7 51.25L103.29 50.54L92.78 50.19L93.02 44.28L93.96 42.16L95.26 40.86L96.68 40.15L98.57 39.92L105.41 40.86L107.07 40.15L108.84 37.91L108.84 33.9L108.13 32.72L106.59 31.42L102.34 30L97.86 30Z M312.23 30L310.34 30.71L308.33 32.72L307.62 34.84L307.62 95.99L308.8 98.82L310.34 100.12L312.23 100.83L314.35 100.83L316.95 99.65L318.72 97.17L319.07 94.69L323.09 97.76L326.39 99.41L330.4 100.59L336.07 100.83L339.14 100.35L342.68 99.17L347.4 96.34L350.59 93.39L352.24 91.26L354.13 88.2L355.55 84.89L356.96 78.52L356.96 70.73L355.08 63.17L353.9 60.57L350.59 55.85L345.75 51.72L343.15 50.3L338.9 48.89L335.83 48.41L331.82 48.41L328.52 49.12L324.74 50.78L322.14 52.43L318.95 55.38L318.95 34.37L318.01 32.24L316.71 30.94L314.59 30L312.46 30Z M56.31 31.89L52.77 32.83L51.7 33.9L51.23 35.08L51.47 40.74L52.53 42.28L55.13 43.22L58.9 43.22L60.79 42.75L62.33 41.69L63.04 40.03L63.04 35.31L62.56 33.9L60.56 32.36L56.54 31.89Z M371.25 31.89L367.71 32.83L366.41 34.13L365.94 36.26L365.94 38.85L366.64 41.45L367.71 42.51L370.07 43.22L373.61 43.22L375.73 42.75L377.5 41.21L377.98 39.8L377.98 35.78L377.27 33.66L376.44 32.83L374.79 32.12L371.48 31.89Z M222.98 32.83L217.32 33.54L211.18 35.67L205.75 38.97L200.91 43.58L198.08 47.35L195.24 52.78L193.59 57.98L192.65 63.64L192.65 70.25L193.83 76.63L196.42 83.47L199.73 88.67L204.33 93.51L208.58 96.58L214.72 99.41L221.33 100.83L227.94 100.83L233.84 99.65L237.62 98.23L241.16 96.34L245.89 92.8L250.02 88.2L254.27 80.64L256.16 74.27L256.86 67.89L256.16 59.39L254.27 53.02L251.91 48.3L247.89 42.87L243.29 38.74L237.15 35.19L230.78 33.31L223.22 32.83Z M4.84 33.78L2.48 34.72L0.71 36.49L0 38.38L0 95.28L1.42 98.11L2.72 99.17L4.6 99.88L37.66 99.88L40.49 98.47L41.55 97.17L42.26 95.28L42.26 93.63L41.55 91.5L39.78 89.73L37.42 88.79L11.8 88.67L11.8 38.38L10.86 36.26L9.33 34.72L7.2 33.78L5.08 33.78Z M398.87 38.5L396.27 39.68L394.5 41.92L394.27 50.19L388.72 50.3L387.3 50.78L385.3 52.55L384.82 53.49L384.59 56.56L385.3 58.45L386.59 59.75L388.01 60.46L394.27 60.81L394.27 89.85L394.97 92.92L396.39 95.51L399.11 97.99L402.41 99.41L405.48 99.88L409.73 99.88L412.33 99.17L414.69 97.99L416.93 95.28L416.93 91.97L415.4 89.73L414.45 89.26L412.33 89.26L410.67 89.97L408.08 89.97L406.66 89.26L405.6 87.49L405.6 60.81L413.27 60.69L415.16 59.98L417.17 57.74L417.4 54.2L416.69 52.55L414.22 50.54L405.72 50.3L405.6 44.05L404.65 40.98L403.83 39.92L401.94 38.74L399.11 38.5Z M223.1 44.28L228.18 44.4L230.3 44.87L234.32 46.76L238.92 50.66L240.81 53.25L242.93 57.5L244.35 63.17L244.59 66.71L243.88 73.09L241.75 78.75L237.98 83.95L233.14 87.61L229.12 89.02L222.98 89.49L218.5 88.55L214.25 86.42L209.88 82.29L207.99 79.46L206.1 75.21L204.92 69.07L204.92 64.35L205.63 60.1L207.28 55.38L209.88 51.37L214.25 47.23L218.97 44.87L222.98 44.4Z M132.8 48.41L128.55 49.12L122.65 51.72L118.63 54.79L115.92 57.74L113.09 62.23L111.43 66.71L110.49 72.38L110.49 77.57L111.2 82.29L112.38 85.83L115.45 91.26L118.4 94.45L120.05 95.87L125.01 98.7L129.26 100.12L133.98 100.83L139.17 100.83L143.42 100.12L147.67 98.7L150.51 97.28L153.34 95.16L155.11 92.68L155.35 90.08L154.64 88.43L153.1 86.9L150.27 86.19L148.15 86.66L144.6 88.79L141.53 89.97L138.47 90.44L134.45 90.44L132.09 89.97L128.79 88.55L125.83 86.31L123.47 83.24L121.82 78.75L154.76 78.4L156.17 77.69L157.94 75.92L158.65 74.27L158.65 70.96L157.71 66.24L155.58 61.28L152.28 56.56L149.8 54.08L145.78 51.25L141.53 49.36L137.05 48.41L133.04 48.41Z M290.74 48.41L288.15 48.89L283.9 50.54L281.53 52.19L278.23 55.97L277.88 53.49L277.17 51.84L275.4 50.07L273.51 49.36L271.15 49.36L269.73 49.83L267.72 51.6L267.02 52.78L266.78 95.75L267.72 97.64L269.02 98.94L271.15 99.88L273.51 99.88L275.4 99.17L277.17 97.4L277.88 95.75L278.11 68.84L279.06 65.3L280.24 62.93L282.72 60.22L284.6 59.04L287.2 58.33L289.09 58.33L292.63 59.51L294.99 59.75L297.82 58.57L299.36 56.32L299.6 52.78L298.65 50.89L297.59 49.83L294.28 48.41L290.98 48.41Z M56.07 49.36L53.47 50.54L52.18 52.07L51.47 53.96L51.47 95.28L52.65 97.88L54.18 99.17L55.83 99.88L58.2 99.88L60.08 99.17L62.09 97.17L62.8 95.28L62.8 53.96L62.09 52.07L60.79 50.54L59.14 49.6L56.31 49.36Z M370.78 49.36L368.65 50.3L367.35 51.6L366.41 53.49L366.41 95.75L367.12 97.4L368.65 98.94L370.78 99.88L373.14 99.88L375.26 98.94L376.8 97.4L377.74 94.57L377.74 54.91L376.8 51.84L375.26 50.3L373.14 49.36L371.01 49.36Z M133.39 58.92L136.34 58.8L138.47 59.27L142.48 61.4L145.43 64.59L146.14 66L146.61 68.84L146.26 69.19L122.18 69.19L121.82 68.6L122.77 65.77L124.42 62.93L125.95 61.4L129.49 59.51L133.27 59.04Z M330.76 58.92L333.95 58.8L338.2 59.98L340.08 61.16L342.8 63.88L344.92 67.42L346.1 71.91L346.1 77.1L344.45 82.77L341.85 86.54L339.38 88.55L336.31 89.97L333.95 90.44L329.46 90.2L327.1 89.49L324.03 87.61L322.26 85.83L320.13 82.53L318.95 78.99L318.48 75.68L318.72 71.43L320.13 66.71L322.26 63.41L324.97 60.93L327.1 59.75L330.64 59.04Z"></path>
+      </svg></h1>
+      <div class="date" id="today-date"></div>
+    </div>
+    <div class="header-right">
+      <div class="wave-badge wave-stable editable" id="wave-badge" onclick="openWavePicker()">🟢 安定</div>
+      <!-- 2026-08-07（作り直し）：社長の実機フィードバック「ボタンがあると分からない・押したら何が起きるか分からない」
+           を受けて、絵文字1つのボタンから「☀️/🌙が横に並んだ2択スイッチ」に変更。
+           いま選ばれている側だけ枠と色が付く（レポート画面の3択と同じ選択の見せ方）。
+           「端末に合わせる」に戻したいときは、レポート画面の3択（そのまま残してある）を使う。 -->
+      <div class="theme-switch" role="group" aria-label="画面の明るさ">
+        <button type="button" class="theme-switch-btn" id="theme-switch-light" onclick="setThemeMode('light')" aria-label="明るい表示にする" title="明るい表示">☀️</button>
+        <button type="button" class="theme-switch-btn" id="theme-switch-dark" onclick="setThemeMode('dark')" aria-label="暗い表示にする" title="暗い表示">🌙</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══ さいしょの入口（ホーム画面への追加が済むまで、先へ進めない画面）══
+     2026-08-01：iPhoneでブラウザのまま使うと記録が消えるため、
+     「あとで」で素通りできる案内をやめ、この画面でいったん止める。
+     中身はJavaScriptが作る（アプリの中のブラウザかどうかで案内を変えるため）。 -->
+<div class="hs-gate" id="hs-gate" style="display:none;"></div>
+
+<!-- ══ 初回ガイド（3画面）══
+     2026-08-12：正本＝03_知性MGR/設計_20260807_初回ガイド.md（文言・画面数・順番はここに合わせてある）
+     ホーム画面追加の案内（↑hs-gate）が先、ガイドはそのあと出す（gateが出ている間は出さない。
+     理由はhs-gateがiPhoneで画面全体を覆って先にブロックするため。設計書4章参照）。
+     一度最後まで読むか「とばす」を押したら、次に開いたときからはもう出ない
+     （hsGateAckと同じ考え方で、この端末のlocalStorageだけに記録。中身はJavaScriptが作る）。 -->
+<div class="lo-guide" id="lo-guide" style="display:none;"></div>
+
+<!-- ══ HOME ══ -->
+<div class="page active" id="page-home">
+
+  <!-- 「どうしても追加できない」を選んだ人にだけ、ずっと出しつづける注意書き -->
+  <div class="section" id="hs-warn-section" style="display:none;">
+    <div class="hs-warn" id="hs-warn">
+      <div class="hs-warn-title">⚠️ 記録が消えるかもしれません</div>
+      <div class="hs-warn-body">
+        いまはSafariのタブから開いています。iPhoneには「7日ひらかなかったサイトの中身を消す」という決まりがあるため、
+        7日あけると今までの記録がなくなることがあります。<br>
+        <b>ホーム画面に追加</b>すれば消えなくなります。1分で終わります。
+      </div>
+      <button class="hs-warn-later" onclick="reopenHomeScreenGate()">追加のしかたをもう一度見る</button>
+    </div>
+  </div>
+
+  <!-- 控えを取っていない人へのうながし -->
+  <div class="section" id="backup-nudge-section" style="display:none;">
+    <div class="backup-nudge" id="backup-nudge"></div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">今日のブリーフ</div>
+    <div class="brief-card" id="brief-card"></div>
+  </div>
+  <div class="section">
+    <div class="section-title">継続のきろく</div>
+    <div class="streak-card">
+      <div class="streak-head">
+        <div class="streak-main"><span class="streak-fire">🔥</span><span id="streak-days">0</span><span class="streak-unit">日連続</span></div>
+        <div class="streak-sub" id="streak-month">今月 0日 機能</div>
+      </div>
+      <div class="cal-wrap"><div class="cal-grid" id="cal-grid"></div></div>
+      <div class="streak-hint">↓ 機能した資産をタップすると、ここが光ります</div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="section-title">起床・服薬・就寝</div>
+    <div class="edit-hint" style="display:block;">タップで記録（時刻は自動で記録されます・もう一度タップで取り消し）</div>
+    <div class="lifelog-grid" id="lifelog-grid"></div>
+    <div class="meds-remind" id="meds-remind"></div>
+  </div>
+  <div class="section">
+    <div class="section-title">今日、機能した資産は？</div>
+    <div class="edit-hint" style="display:block;">タップで「今日やった」を記録（行動バーは直近7日の自動集計）</div>
+    <div class="assets-grid" id="assets-grid"></div>
+    <button class="add-asset-btn" onclick="addAsset()">＋ 資産を追加</button>
+  </div>
+  <div class="section">
+    <div class="section-title">今日のタスク</div>
+    <div class="task-card" id="task-list"></div>
+    <button class="add-task-btn" onclick="addTask()">＋ タスクを追加</button>
+  </div>
+  <div class="section">
+    <div class="section-title" style="justify-content:space-between;">
+      <span style="display:flex;align-items:center;gap:6px;">今日のニュース<span id="report-updated" style="font-size:11px;color:var(--text3);font-weight:400;letter-spacing:0;text-transform:none;"></span></span>
+      <button id="report-refresh-btn" onclick="fetchReport(true)" style="background:var(--action-quiet-bg);border:1px solid var(--border);color:var(--action-quiet-text);border-radius:8px;padding:5px 12px;font-size:13px;font-weight:700;cursor:pointer;flex-shrink:0;">↻ 更新</button>
+    </div>
+    <div class="summary-list" id="summary-list"></div>
+  </div>
+  <div class="pb"></div>
+</div>
+
+<!-- ══ MANDALA ══ -->
+<div class="page" id="page-mandala">
+  <div class="section">
+    <div class="section-title">曼陀羅チャート</div>
+    <div class="asset-strip" id="asset-strip"></div>
+    <div id="mandala-layer1">
+      <div class="sample-notice" id="sample-notice" style="display:none;">
+        <div class="sample-notice-title">いま入っているのは見本です</div>
+        <div class="sample-notice-body">だれにでも当てはまる例を仮に置いてあります。<br>このまま押して使ってもいいですし、自分の言葉に書きかえることもできます。</div>
+        <div class="sample-notice-row">
+          <button class="sample-btn edit" onclick="startEditFromSample()">✏️ 書きかえる</button>
+          <button class="sample-btn keep" onclick="keepSample()">この見本を使う</button>
+          <button class="sample-btn clear" onclick="clearSample()">全部消す</button>
+        </div>
+      </div>
+      <div class="mandala-core-banner" id="mandala-core-banner"></div>
+      <div class="edit-hint">中心=コアゴール / 周囲8マス=サブゴール（タップでドリルダウン）</div>
+      <div class="mandala-wrap">
+        <div class="mandala-grid" id="mandala-grid-main"></div>
+      </div>
+    </div>
+    <div id="mandala-layer2" style="display:none;">
+      <div class="detail-header">
+        <button class="back-btn" onclick="backToLayer1()">← 戻る</button>
+        <div class="detail-title" id="detail-title"></div>
+      </div>
+      <div class="layer2-bar">
+        <div class="layer2-summary" id="layer2-summary"></div>
+        <button class="bulk-open-btn" onclick="openBulkInput()">まとめて入力</button>
+      </div>
+      <div class="layer2-hint" id="layer2-hint"></div>
+      <div class="mandala-wrap">
+        <div class="mandala-grid" id="mandala-grid-sub"></div>
+      </div>
+    </div>
+  </div>
+  <div class="pb"></div>
+</div>
+
+<!-- ══ DASHBOARD ══ -->
+<div class="page" id="page-report">
+  <div class="section">
+    <div class="section-title">週次ダッシュボード</div>
+    <div class="dash-hero">
+      <div class="week-label" id="dash-week-label"></div>
+      <div class="total-score" id="dash-total-score">—</div>
+      <div class="total-label" id="dash-total-label">直近7日で、記録をつけた日</div>
+      <div class="dash-hero-sub" id="dash-taps"></div>
+    </div>
+    <div style="text-align:center;margin-bottom:18px;">
+      <div class="streak-badge" id="dash-streak">🔥 いま — 日連続</div>
+    </div>
+    <div class="dash-section">
+      <div class="dash-section-title">資産ごとの動き（直近7日）</div>
+      <div id="dash-asset-bars"></div>
+    </div>
+    <div class="dash-section">
+      <div class="dash-section-title">終わった「今日のタスク」（直近7日）</div>
+      <div id="dash-tasks"></div>
+    </div>
+    <div class="dash-section">
+      <div class="dash-section-title">曼陀羅の実行（直近7日）</div>
+      <div class="dash-note" id="dash-subgoals-note"></div>
+      <div id="dash-subgoals"></div>
+    </div>
+    <div class="dash-section" id="dash-reports-section" style="display:none;">
+      <div class="dash-section-title">過去の記録</div>
+      <div id="report-list"></div>
+    </div>
+    <div class="dash-section">
+      <div class="dash-section-title">記録を守る</div>
+      <div class="backup-card">
+        <div class="open-mode" id="open-mode"></div>
+        <p class="backup-desc">書いた内容は、この端末の中だけに残ります。インターネット上には送っていません。<br>そのぶん、端末を変えたときや中身が消えたときに戻すには、<b>控えのファイル</b>が必要です。月に1回、下のボタンで書き出してください。</p>
+        <div class="backup-row">
+          <button class="backup-btn export" onclick="exportData()">📤 バックアップを書き出す</button>
+          <button class="backup-btn import" onclick="document.getElementById('import-file').click()">📥 復元する</button>
+        </div>
+        <button class="backup-btn share" id="backup-share-btn" style="display:none;" onclick="shareBackup()">📨 控えを自分あてに送って保存する</button>
+        <div class="backup-meta" id="backup-meta"></div>
+      </div>
+    </div>
+    <div class="dash-section">
+      <div class="dash-section-title">画面の明るさ</div>
+      <div class="theme-picker" id="theme-picker">
+        <button class="theme-btn" data-theme-mode="auto" onclick="setThemeMode('auto')">端末に合わせる</button>
+        <button class="theme-btn" data-theme-mode="light" onclick="setThemeMode('light')">明るい</button>
+        <button class="theme-btn" data-theme-mode="dark" onclick="setThemeMode('dark')">暗い</button>
+      </div>
+      <p class="backup-desc" style="margin-top:10px;margin-bottom:0;">選んだ設定は、この端末の中だけに保存されます。インターネットには送りません。</p>
+    </div>
+    <div class="dash-section">
+      <div class="dash-section-title">使い方</div>
+      <!-- 2026-08-12：はじめて開いたときに出る3画面の案内を、あとからでも見返せる入口。
+           設計書3章「読み返したい人のために、リンクを1つ置く」に対応。 -->
+      <button class="lo-guide-relink" onclick="reopenIntroGuide()">📖 使い方ガイドをもう一度見る</button>
+    </div>
+  </div>
+  <div class="pb"></div>
+</div>
+
+<input type="file" id="import-file" accept=".json,application/json" style="display:none;" onchange="importData(this)">
+
+<!-- Bottom Nav -->
+<div class="bottom-nav">
+  <div class="nav-btn active" onclick="switchPage('home',this)">
+    <div class="nav-icon">🏠</div><div class="nav-label">ホーム</div>
+  </div>
+  <div class="nav-btn" onclick="switchPage('mandala',this)">
+    <div class="nav-icon">🔷</div><div class="nav-label">曼陀羅</div>
+  </div>
+  <div class="nav-btn" onclick="switchPage('report',this)">
+    <div class="nav-icon">📋</div><div class="nav-label">レポート</div>
+  </div>
+</div>
+
+<!-- Edit FAB -->
+<button class="fab" id="edit-fab" onclick="toggleEditMode()">✏️ 編集</button>
+
+<!-- Modal -->
+<div class="modal-overlay" id="modal">
+  <div class="modal-sheet">
+    <div class="modal-label" id="modal-label">編集</div>
+    <textarea class="modal-input" id="modal-input" rows="3"></textarea>
+    <div class="modal-row">
+      <button class="modal-btn cancel" onclick="closeModal()">キャンセル</button>
+      <button class="modal-btn save" onclick="saveModal()">保存</button>
+    </div>
+  </div>
+</div>
+
+<!-- タスクを決める画面（自分で書く／候補から選ぶ） -->
+<div class="modal-overlay" id="pick-modal">
+  <div class="modal-sheet pick-sheet">
+    <div class="modal-label" id="pick-label">タスク</div>
+    <textarea class="modal-input" id="pick-input" rows="2" placeholder="やることを1つ書いてください"></textarea>
+    <div class="pick-hint">候補をタップすると上の欄に入ります。自分の言葉に直してから保存できます。</div>
+    <div class="pick-list" id="pick-list"></div>
+    <div class="modal-row">
+      <button class="modal-btn cancel" onclick="closeTaskPicker()">キャンセル</button>
+      <button class="modal-btn save" onclick="saveTaskPicker()">保存</button>
+    </div>
+  </div>
+</div>
+
+<!-- まとめて入力（8マスを1画面で） -->
+<div class="modal-overlay" id="bulk-modal">
+  <div class="modal-sheet bulk-sheet">
+    <div class="modal-label" id="bulk-label">まとめて入力</div>
+    <div class="bulk-paste">
+      <div class="bulk-paste-title">メモを貼り付けて振り分ける</div>
+      <textarea id="bulk-paste-input" rows="3" placeholder="1行に1つずつ書く（または貼り付ける）"></textarea>
+      <div class="bulk-paste-row">
+        <button class="bulk-sub-btn" onclick="bulkDistribute()">改行で8マスに振り分ける</button>
+        <button class="bulk-sub-btn" onclick="bulkFillSuggestions()">空きを候補で埋める</button>
+      </div>
+    </div>
+    <div class="bulk-fields" id="bulk-fields"></div>
+    <div class="modal-row">
+      <button class="modal-btn cancel" onclick="closeBulkInput()">キャンセル</button>
+      <button class="modal-btn save" onclick="saveBulkInput()">8マスをまとめて保存</button>
+    </div>
+  </div>
+</div>
+
+<!-- 波の状態を選ぶ -->
+<div class="modal-overlay" id="wave-modal">
+  <div class="modal-sheet">
+    <div class="modal-label">今日の調子</div>
+    <div class="wave-list" id="wave-list"></div>
+    <div class="modal-row">
+      <button class="modal-btn cancel" onclick="closeWavePicker()">閉じる</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
