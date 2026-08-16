@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15",
+  "updatedAt": "2026-08-16",
   "summaries": [
     {
       "id": "finance",
@@ -7,19 +7,34 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "日銀｢3カ月ぶり利上げ｣判断へ､マイナス金利解除後では初…物価高進を警戒して今後の利上げペース前倒しも | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "日銀が9月の利上げを視野に入れる背景には､物価上昇圧力や世界的な金利水準の変動といった複合的な要因が影響しています。",
-          "url": "https://toyokeizai.net/articles/-/954936?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "ファラージ氏が英補選戦勝利…ただしコメディアン｢ビンフェイス伯爵｣が4分の1を超える票を獲得して善戦 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "英右派ポピュリスト政党｢リフォームUK｣のファラージ党首が補欠選挙で勝利したものの､資金疑惑やコメディアン候補の健闘に苦戦。議会の調査再開や支持率低下など､彼の政治的未来は予断を許しません。",
+          "url": "https://toyokeizai.net/articles/-/954962?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "ソフトバンクグループ､台湾TSMC株の保有を198万5000株から56万5000株へ72%削減…SEC資料で明らかに | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "ソフトバンクグループが､半導体大手TSMCの保有株を突如72%も大幅削減したことが明らかになりました。",
-          "url": "https://toyokeizai.net/articles/-/954934?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "エヌビディア､ソフトバンクG出資のSBエナジーに最大30億ドル出資する方向で協議…オハイオ州のデータセンタープロジェクト | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "AIとインフラの革新が加速する中､エヌビディアがSBエナジーへの最大30億ドル出資を協議していることが明らかに。",
+          "url": "https://toyokeizai.net/articles/-/954942?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "台湾で食用油など食品不祥事が繰り返される根深い事情､2026年11月の地方選を前に『食の安全』が政争の火種に | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "台湾大手の中聯油脂が製造した大豆サラダ油から発がん性物質が基準値を大幅に超えて検出され､即席麺や冷凍食品など幅広い分野へ影響が拡大しています。過去にも相次いだ食品安全事件と同様､今回も社会の不信や政…",
-          "url": "https://toyokeizai.net/articles/-/954719?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "\"路線バス廃止時代\"の救世主になるか？ 大阪市で全区展開｢AIオンデマンドバス｣が地域の交通インフラを変える日 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "運転手不足などから､地域路線バスの減便や廃止が各地で相次いでいます。これへの有効な対策の1つとして考えられているのがオンデマンドバスです。大阪市の一部では社会実験の段階を終え､本格運行へ移行しました…",
+          "url": "https://toyokeizai.net/articles/-/954171?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "パランティアは過去最高の売上高93%増…｢AI主権｣掲げ､大手AIモデルへの依存に反旗 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "AIとデータ分析基盤で注目を浴びるパランティア･テクノロジーズが､2026年4〜6月期決算で過去最高の成長を記録しました。現場主導のAI活用とは？",
+          "url": "https://toyokeizai.net/articles/-/953852?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "下心から資本主義の行き着く先をユートピアにすりかえたケインズに代わって､バブルしかないディストピアを描いてみる | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "経済を語る上で避けて通れないケインズ理論と古典派経済学。両者の最大の違いは､金融市場の存在と需要不足への視点にあります。バブルや金融市場の本質まで掘り下げたケインズの真意を再考し､現代経済への教訓を…",
+          "url": "https://toyokeizai.net/articles/-/954841?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "オープンAI､アンソロピック…AIがルールを破ろうとしてしまう理由 人間をだます｢スキーミング｣が新たな脅威に | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "AIツールは、人間が行うほぼあらゆることをまねるよう訓練されている。だとしたら、機械がうそをついたり不正を働いたりするという、人間の悪癖まで模倣し始めるのは当然かもしれない。最近では、ごく一部のAI…",
+          "url": "https://toyokeizai.net/articles/-/954760?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "円買い協調介入で日銀「9月追加利上げ」の観測拡大 物価上振れリスクも影響",
@@ -37,27 +52,12 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCODVaRXBTcU13SWZfNnFMMklxZHBJR3prNHJQYkx1d0tNT3Z3NUNmT1k4SHBPWjhCRkdDTjdVWWloM1JrTkliWHJvU2VLcTlXbVBNVnhsQU1RVXNaa1NJakdYbUM5ZmhabExaODk4eWNtY2w0R3FMdmJpb1hLOVU?oc=5"
         },
         {
-          "text": "ＮＹ市場サマリー（11日）米国株続落、ドル横ばい、利回り低下幅縮小（ロイター）",
-          "desc": "ＮＹ市場サマリー（11日）米国株続落、ドル横ばい、利回り低下幅縮小（ロイター）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwWVhQbDZTYnZwcVdZOFIxeDhQazhSRDkxY09uSURubFFDZzRCOTlmUE1WSW1hcTlIUEYwSnNqbnRVWThsQkdaLWZNTEZGa1pxdzVZRmZkanNGVDVYZ3c5aWpOR2RjaVlpNG9CYVNvWXhIMUNreHhMWXlMYmtDMUE?oc=5"
-        },
-        {
-          "text": "日米「円安抑止」協調介入の米国の本当の狙い、日銀利上げの限界と為替相場の読み解き方",
-          "desc": "日米「円安抑止」協調介入の米国の本当の狙い、日銀利上げの限界と為替相場の読み解き方&nbsp;&nbsp;ダイヤモンド・オンライン",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBETG1Kb29yZVAxX21HR19maEpWN3JiSHFVMzFaSG1tNTRZWmVSNmxkWm1WTWtoT1BJX1I0WHRFdHQ3RHJCUU1iX0xteUvSAU9BVV95cUxOR3h6NDJpWjFVREFFSnluaEZBWExEbklabUEyTGllY19zcmxteXVlbGdiZVBwankyVTkyRGZ1aFRqamdFRm1NNmZJLVQxeC1F?oc=5"
-        },
-        {
-          "text": "日銀の次の一手を待つ為替市場、円相場は午後に対ドルでやや上昇基調",
-          "desc": "日銀の次の一手を待つ為替市場、円相場は午後に対ドルでやや上昇基調&nbsp;&nbsp;Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVnI5a1J0TE9meW5ULV9XMkI2WU4zY3RzLXhfQS1Cd0t2M2J0SzFIWjFRbE83NXliVENSMmJLRFRuRzRqWDdaZ2U5Sm43MWpCdEJxOTJYWmxxZXY1Tkx4YVNUSFhJY0pIcm5RRURDRUpiTHlIbVRLQ0tyYmVDUDJ1REhBTGtMVW1SUU8zUExMUTM?oc=5"
-        },
-        {
-          "text": "はや薄れる日米協調介入の神通力 円159円台、半値戻す",
-          "desc": "はや薄れる日米協調介入の神通力 円159円台、半値戻す&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCZGJnYlZzT01zQ3hMUUJDeUx0cDd1eDlYT19JWXVrNFdMSGdKQ1Y4ZENuSXl5dkxYR2g1RU4zNTRpcFBzZUVnb3VvZlh1ZjhVZlQxR0ZqU19Ec2lqMnRqbnVJd09DR3ZrN3lyWQ?oc=5"
+          "text": "主要各国の政策金利の推移をグラフでチェック！｜IMM通貨先物ポジション／経済指標・政策金利",
+          "desc": "主要各国の政策金利の推移をグラフでチェック！｜IMM通貨先物ポジション／経済指標・政策金利&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hdXRsUmtDeV9rYzNoSHNlTDVXQzNzdDVSMTNoQjJNVFRGN1k2X0pKX0NUQjRjR05MVnR5bDl3UkR0Y1hDcUs2WFdxd05uSHlJWnc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-15",
+      "lastFetchedAt": "2026-08-16",
       "source": "東洋経済 / Google News"
     },
     {
@@ -65,6 +65,11 @@
       "icon": "🧠",
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
+        {
+          "text": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明　「完全な書き直しなら消える」",
+          "desc": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
+          "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/"
+        },
         {
           "text": "「Qwen3.8",
           "desc": "中国Alibaba傘下のAlibaba Cloudが、AIモデル「Qwen3.8-27B」のウェイト（重み）を公開した。Hugging FaceとModelScopeからダウンロード可能で、商用利用もできるライセンス「Apache 2.0」で提供する。一部のベンチマークでは、米Anthropicの「Claude Opus 4.6」の推論エフォート最大（以下、Opus 4.6 Max）を上回るスコアをうたっている。",
@@ -94,14 +99,9 @@
           "text": "“梅干し職人”のためツール自作　老舗漬物店のClaude活用、「チャット+コピペ」で成果を出せたワケ",
           "desc": "明治創業の老舗漬物店が、AI活用で成果を出している。Claudeを活用して「梅干し職人向けツール」などを開発。PCが苦手な人にも使いやすいツールをどのように作っているのか。",
           "url": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html"
-        },
-        {
-          "text": "小田原の老舗梅干し店、世界で稼ぐ――「この外国人は何を言っているんだ」から逆転、築いた“売れる仕組み”",
-          "desc": "小田原の老舗梅干し店がビジネス変革を成し遂げた。主導したのはドイツ出身のゾェルゲルさん。数々の課題をどう乗り越えたのか。",
-          "url": "https://www.itmedia.co.jp/business/articles/2608/14/news019.html"
         }
       ],
-      "lastFetchedAt": "2026-08-15",
+      "lastFetchedAt": "2026-08-16",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -109,11 +109,6 @@
       "icon": "💪",
       "title": "健康資産 — 健康トピック",
       "items": [
-        {
-          "text": "睡眠改善をサポートするアイテム＆サービス8選 医師が快眠のコツを解説（WWDJAPAN.com）",
-          "desc": "睡眠改善をサポートするアイテム＆サービス8選 医師が快眠のコツを解説（WWDJAPAN.com）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1VtbDUyRkozdUVZckJKWHVqckNvMFBzbk45dVNOUjJWdFBzdTNLbVFuNDNnQzFCR1hST1hlVTV1Sy1EUFNJa1lFeWJhVVJBcG9hR3QwbGZ5VThPTTNkT1lvX3JUR1dtaTFVMVk5azRTWi05XzhTbzdydGZwczBMSjZqZkFTX29q?oc=5"
-        },
         {
           "text": "良質な睡眠を目的とした「スリープツーリズム」をNTT東日本Gが宿泊施設で実証実験、滞在後も「寝つき」改善（トラベルボイス）",
           "desc": "良質な睡眠を目的とした「スリープツーリズム」をNTT東日本Gが宿泊施設で実証実験、滞在後も「寝つき」改善（トラベルボイス）&nbsp;&nbsp;Yahoo!ニュース",
@@ -125,27 +120,27 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZEkwc1gwNTBiRElScXJmWkhMbmp5SGc2SUpKX2R0NkZYdWQzQk84UGMtTk11Zmg1d2NyR3dhOHFTTUFvb3p4MG9KTlNveko1VmtSVHhmT3I1MUZ6RG5HdC1naFhtMHF1aExvVFJ3b3VET3lIaTZaZ0dtMnp3TFE?oc=5"
         },
         {
-          "text": "「また」という絶望とどう向き合うか 令和8年熊本地震とこころのケア（西多昌規） - エキスパート",
-          "desc": "「また」という絶望とどう向き合うか 令和8年熊本地震とこころのケア（西多昌規） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeXZ2eVJXR3BzbHQydVA0UHhibVJzdzVYUU1kQzktS0FYb1ZDUnZGQkttTjgtQTZXbUhpR0ZnejYxc1ZrNzZva2JlSGp3THh5cGRLY0RpVWdyVnE4a2JUdDJmZkloYzFJTXk3ZVZUZUpZTDQtWDNWQWlwQWlJdmpzRjB5Wk0yenRk?oc=5"
-        },
-        {
-          "text": "【参加企業募集】Beatfit「企業対抗バーチャル大運動会」を2026年11月に開催",
-          "desc": "【参加企業募集】Beatfit「企業対抗バーチャル大運動会」を2026年11月に開催&nbsp;&nbsp;朝日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2OXF1NGtEek9TYjZkbkpxVUhPaDZmd21Rblhld2V2ZUl1RHZSVnlNVXB0dFJXbFpJWW1HOS1VdmNDRDlMQlBLOGZCMDBwUmtDTDMxbTJkbVRFZnM?oc=5"
-        },
-        {
           "text": "りらいぶとうるま市 健康づくり推進へ連携協定（沖縄テレビOTV）",
           "desc": "りらいぶとうるま市 健康づくり推進へ連携協定（沖縄テレビOTV）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHhXUU90X2Zid3Y5REFWTm5iR2dxOV81SFU3anh5cFVzNVZDSEc2YnNrV3hEX2xQMDNVRnhGSTZMQ0NaY1h3Z2htX0czY0hmLVdwcFJ5MGw1U2NieUFaaExkVi03UURKUnh1SFlhNGRUUTlxTWdIcXMtQW9IYVAwbUo0QXNydkVFelpweUp3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoMTU2RDFUc1BOMUd2QjhLaG5DTzFUOGcwNG9yMkhDaHpjbVFHaVNRN3Z3TThiWHhwTjltUExXNm42NE0xLXltSXFfMGFYdUJZV19sUVlOQzEyd3FBb1BCMzRtNE1TZUtyWFpyeXBCLU1PU1BuckRRczhPVmdIZG8?oc=5"
         },
         {
           "text": "日本人の大腸がんの約半数、特定の腸内細菌が出す「毒素」が発症に関連…予防法開発に期待",
-          "desc": "日本人の大腸がんの約半数、特定の腸内細菌が出す「毒素」が発症に関連…予防法開発に期待&nbsp;&nbsp;yomiuri.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ0EyeFFDQzVWRWtUQmJtZU5hZnZ2a3JMU3cxejBKZno4RjU5NkRfZmVsbW05bFI2WHJaT25WVFM4VWpxUjFjTlJyNlFvbzRxM0Zwakp1S1h5amJBN0pwdEFXdmJIcE1HUE9sLV9vTjRVQVVRanFKbjZiNjNYQjU5YkJxRkJYX2lWc3pYZg?oc=5"
+          "desc": "日本人の大腸がんの約半数、特定の腸内細菌が出す「毒素」が発症に関連…予防法開発に期待&nbsp;&nbsp;読売新聞",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96NDBCbVlpRkRsRkl1djZKSlFVYkNCOUZyUWVVNkFfYjdaQXlCV3hvV1hoc2NLcWduTHRUeEVjTDBPLUJ3NHZjY1hwMExnQ2lUM1dNem9lQWxtSHIwdUlQR0xwTjhLenRNMXpyUTc4YzNoZ19MblkzazRTVXE4NVk?oc=5"
+        },
+        {
+          "text": "CDI、仕事と介護の両立を支援するAI「SOIN-L（そわん エル）」を提供開始",
+          "desc": "CDI、仕事と介護の両立を支援するAI「SOIN-L（そわん エル）」を提供開始&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqWlBnTEhBbnI5cktCMGtINVJHQkdfR0J3a245M3FwS2VqdnpWQ1dvSGdGeW9jbTVzWlE4RFpXd2xXRkwwelQ4UmZ6SVFZVTFhelplbWcyOVlhbUNDTWVQbHZlekZ2MUVUWl96QlJlMHktX1E3OThGTkJPWUNyNkU?oc=5"
+        },
+        {
+          "text": "加藤綾菜 “お店みたい”な彩り満点の手料理公開!“レシピ本レベル”の具材ゴロゴロ＆和洋折衷の丁寧な献立に「カトちゃん幸せですね」（めざましmedia）",
+          "desc": "加藤綾菜 “お店みたい”な彩り満点の手料理公開!“レシピ本レベル”の具材ゴロゴロ＆和洋折衷の丁寧な献立に「カトちゃん幸せですね」（めざましmedia）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4dDdXNzhkcTh2ZXc5V2N1U1o2X0lwaEhWMkNoUVZ2c1M4V2JqNm9ISTE2dHNFX3dBWnB3QXMxYXVBQU5TRFRIODE4QjBvTlBVZjliZHRoOWtUTGNxWktHQ0FPdUJ3TTBhR3oxbXZCandGU3M3NGtlUC1CVkcyLVE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-15",
+      "lastFetchedAt": "2026-08-16",
       "source": "Google News"
     },
     {
@@ -157,6 +152,11 @@
           "text": "相次ぐ豪雨。ニュースをきっかけに見直したい「命と暮らしを守る」備え3選（ぴょこぴょこぴ） - エキスパート",
           "desc": "相次ぐ豪雨。ニュースをきっかけに見直したい「命と暮らしを守る」備え3選（ぴょこぴょこぴ） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWRHTjhLYnlLT2ZWU2hZVzRyTHZmV1lwN3NrcW0wamxLSHIzTmZkeHd2MFpOQTUxVG9ERzUwenotd04zcU5HdzJZN2dLLTB0NTNIVHB1cG5pcXl0aGNHU2VPd2pzT1MxV3ppQ3lZTUpMdHJ2dzlYRUkwMWhlZ1o4M2dsTU9kU0sx?oc=5"
+        },
+        {
+          "text": "「普通の暮らしが次の日にはもうない…」原爆で家族を奪われた94歳の被爆者 80歳まで語れなかった記憶 未来を生きる子どもたちへ託したい思い | RCC NEWS | 広島ニュース | RCC中国放送 (6ページ)",
+          "desc": "「普通の暮らしが次の日にはもうない…」原爆で家族を奪われた94歳の被爆者 80歳まで語れなかった記憶 未来を生きる子どもたちへ託したい思い | RCC NEWS | 広島ニュース | RCC中国放送 (6ページ)&nbsp;&nbsp;TBS NEWS DIG",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83ajJobUtPS1NLMHRVWTlJSGQ3WE1BUmMyeFBwM1ozQXNoMVY2T3lkbVgwLWNRWXFFVmtkU3ZNdWFXWlFmM0FmNGtLZmwtUWZzZ3J1cUdDRVU4SUYzV3gtbE1jaw?oc=5"
         },
         {
           "text": "暮らし上手の「朝時間」。10分ルーティンで自分をゆるやかに整える (ESSE-online)",
@@ -175,21 +175,16 @@
         },
         {
           "text": "災害への備えを楽しく学ぶ 子どもたちが防災グッズを手作りする体験会が開催 鳥取市",
-          "desc": "災害への備えを楽しく学ぶ 子どもたちが防災グッズを手作りする体験会が開催 鳥取市&nbsp;&nbsp;日テレNEWS NNN",
+          "desc": "災害への備えを楽しく学ぶ 子どもたちが防災グッズを手作りする体験会が開催 鳥取市&nbsp;&nbsp;news.ntv.co.jp",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmptVnlrMXJwaVIwR0tVOG9LS0dXTVdLbk5KTXBLUURBSkc5cHhDdnh6b01MbS1nUDd1cHBYUXl0TnN0bi14VGFsZXk1UkZ6VXcwY0lNejNqc002R2pSeU9WU1F5c3JoQjRheTVPM3JMelBMNlJOM290OFdlYjdLaVNZTnZENlE?oc=5"
         },
         {
-          "text": "地震防災の専門家に聞く「自然災害への備え」日頃からできる非常時への準備を《長崎》（長崎国際テレビ）",
-          "desc": "地震防災の専門家に聞く「自然災害への備え」日頃からできる非常時への準備を《長崎》（長崎国際テレビ）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hZEVabXdJM2ljUmpzTEhuclpxNVBySi1aeUdqSG8tNXRRR2VUU3dBSFFkbTM3NkMyVG0zdWl1dFhOOVo2eUxXNFUydFJUWHdMVV9HR0thWkRzZzVIbGU4ZHdNMjRKMzhtTEp0cHgya2JjWHJ3TGZCX0tfaDJxQVk?oc=5"
-        },
-        {
-          "text": "災害に立ち向かえ、備えのミカタ・防災レンジャー参上 東北福祉大",
-          "desc": "災害に立ち向かえ、備えのミカタ・防災レンジャー参上 東北福祉大&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qelV3TFdSeXNNN05KVHhrZUNBWFF5ZXoxeTdvdVI0eUJxTVRiNjNCd3NBSElOWVhwRnVKZnJiTERKNFRsQVh6U0dkdURyNkc1VUo5Y1AwUUhIOGZOdHpiWV80SG9UOTJ1TVpfaA?oc=5"
+          "text": "夏休みに体験で学ぶ「災害への備え」 赤十字キッズ防災ラボ",
+          "desc": "夏休みに体験で学ぶ「災害への備え」 赤十字キッズ防災ラボ&nbsp;&nbsp;TBS NEWS DIG",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LWDllMDVZakpYUGVVNWU2RGR4SmRRTC1UZnRjcWFxeE52cGpGS3Yxek1mcHpPanF5N29xbk5NcFFGblpZci1FMzJHVHVTaUY1U0dSd1oyaEdPSENwcnN3?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-15",
+      "lastFetchedAt": "2026-08-16",
       "source": "Google News"
     },
     {
@@ -247,6 +242,11 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EUEtocEJrcV9uU2ZnRmR2RHV0ME1MbUVtSlhmSktKWlJFczNKRzZLMjJBZlAyTUhiSE9XVnpGaWFnbzJUb0VUZ2NLc1I5TE5oMmFXb2dhei1YWlVaeS1nWHFjeGZyMV9vQXd3RE5UQ3ZLcnpG?oc=5"
         },
         {
+          "text": "【年収951万円】Pythonエンジニア案件2026年8月最新｜フリーランス調査【フリーランスボード調べ】",
+          "desc": "【年収951万円】Pythonエンジニア案件2026年8月最新｜フリーランス調査【フリーランスボード調べ】&nbsp;&nbsp;asahi.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FbXZ2aUVLWHdveXZzbVRocHBUbjByTldFWDJBMV9tbkVpTU8zVWVKM0pTSUdxTHhwX2pPanJ5WUc0YVVNdzg2eVJ6eW9lcC10bEtES2FDRVZuNFU?oc=5"
+        },
+        {
           "text": "「Python一択ではなくなった」 AIコーディング時代、新人が学んで損しないプログラミング言語は？",
           "desc": "「Python一択ではなくなった」 AIコーディング時代、新人が学んで損しないプログラミング言語は？&nbsp;&nbsp;ITmedia",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQNXh3Vi02ZGgxZHFOWlNUb3pmbDhiOGNiWkV0UUxRR0xYcnhrOGcya05Kc2FiM0RBUTRLcVZGUGxlNjI5aGUxOWpqS05Obk1BUHdlUi0zTmNRZmtZZ3N2OVVyZ2xkRWZ2UFh6NHlGRTl4Zw?oc=5"
@@ -262,7 +262,7 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmtoS0dOQnlDdDVDS3hjWFFvWjV4V1E4RE52dHVUOE4tczdoeHNyUFpMME9WVWRkSGVsWm1ZbEVOcWNoVGdqUjd2eEdncTEwMExkTEdzX29CZkljWUR4YjNRRVNPUUh5d2k5d3pQVGJaVGZMUXNNT18wcFZncVZlTXIyN2s2aXot?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-15",
+      "lastFetchedAt": "2026-08-16",
       "source": "Google News"
     },
     {
