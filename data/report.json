@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-08-20",
   "summaries": [
     {
       "id": "finance",
@@ -7,44 +7,44 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "化学･医薬品のアステナホールディングスの今期営業益予想を小幅増額､好調の背景とは？ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "グループで多角的事業を展開するアステナホールディングスが､化学品を中心に好調を維持しています。",
-          "url": "https://toyokeizai.net/articles/-/955016?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "フランス｢15歳未満SNS禁止｣に違憲判決､子ども保護でも｢全面禁止は過剰｣―｢親の自己責任｣の日本はどうすべきか | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "フランスが画期的に進めた15歳未満のSNS利用禁止法案は､憲法院の｢表現の自由侵害｣との判断で見送りに。背景にはSNS依存による学習障害や深刻ないじめ､自殺の増加､EU法との権限衝突が。子どもを守る…",
+          "url": "https://toyokeizai.net/articles/-/955242?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "ホルムズ海峡の次は｢黒海｣の穀物輸送ルートが危ない ロシアとウクライナの応酬が過熱…ある航海士が語る攻撃の恐怖 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "ロシアによる攻撃でウクライナの重要港オデーサがほぼ全面的に停止し､世界の食料供給が揺らいでいます。",
-          "url": "https://toyokeizai.net/articles/-/955035?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "〈時価総額約500億ドル突破〉中国ヒト型ロボットメーカー宇樹科技（ユニツリー）､上場初日に株価は460％高を記録 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "中国で最も知名度の高いヒト型ロボットメーカー、宇樹科技（ユニツリー）が19日、上海証券取引所の新興ハイテク企業向け株式市場「科創板（スター・マーケット）」に上場した。初値は1100元で、公開価格（1…",
+          "url": "https://toyokeizai.net/articles/-/955375?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "｢エヌビディアは墓穴を掘っている｣…中国AI｢ディープシーク｣創業者による流出した本音発言の内容に波紋が広がる | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "米中AI競争が激化するなか､中国AI企業ディープシーク創業者の率直な発言が波紋を広げています。創業者が語ったチップ調達の苦悩や中国国内の技術遅れ､非正規ルートでのアメリカ製半導体入手の実態とは。",
+          "url": "https://toyokeizai.net/articles/-/955119?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "再び長期金利2.9%…年金マネーに国債を買わせる〈財政難の国家あるある〉を目論むのなら知っておくべき歴史の教訓 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "急速に進む財政拡大とインフレへの警戒感の中､日本の長期金利が約30年ぶりに高水準へ。政府は年金基金GPIFを活用した金利抑制策に言及していますが､その運用は受益者の将来にどう影響するのでしょうか。",
+          "url": "https://toyokeizai.net/articles/-/955192?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘（Bloomberg）",
-          "desc": "FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘（Bloomberg）&nbsp;&nbsp;news.yahoo.co.jp",
+          "desc": "FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘（Bloomberg）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mcmZQU3g2Z2NhSGVyYVUyam1HeXo1Z19teXotajg1SFpVZmhLTEpoRlpXZ09pYWNkdlcwbzFFaHZ3X0dRUWJacVlYUGROWHByV1ZibldaWDRoV3VzalpTVWRVTk02TTM0dHB0SDZnWmVRMmJIb25hQXRQanVqV1U?oc=5"
         },
         {
-          "text": "日米「円安抑止」協調介入の米国の本当の狙い、日銀利上げの限界と為替相場の読み解き方",
-          "desc": "日米「円安抑止」協調介入の米国の本当の狙い、日銀利上げの限界と為替相場の読み解き方&nbsp;&nbsp;diamond.jp",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBETG1Kb29yZVAxX21HR19maEpWN3JiSHFVMzFaSG1tNTRZWmVSNmxkWm1WTWtoT1BJX1I0WHRFdHQ3RHJCUU1iX0xteUvSAU9BVV95cUxOR3h6NDJpWjFVREFFSnluaEZBWExEbklabUEyTGllY19zcmxteXVlbGdiZVBwankyVTkyRGZ1aFRqamdFRm1NNmZJLVQxeC1F?oc=5"
+          "text": "23兆円規模「円買い介入」でも止まらない円安、1ドル160円再突入を回避する150円台“定着”に必要な条件",
+          "desc": "23兆円規模「円買い介入」でも止まらない円安、1ドル160円再突入を回避する150円台“定着”に必要な条件&nbsp;&nbsp;ダイヤモンド・オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50ek8zUlQ4OGpwTjVvSHAyN2otcmgwckxLTXlXNGpSdkxPRjd5ZGJWOFYwdVFHa19xQV9CWGdISlhnYkk5TGZJRUQwOG_SAU9BVV95cUxONm5rSHhLRVh6NFBnbmNzQXFFVm1jVTRiU0w5RG9PLW5QdjNlRmh4YzBSSVlXQ05EdGVFQnV3a1RFcGtuRnpqVW5yQnMxdGw0?oc=5"
         },
         {
           "text": "日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇",
-          "desc": "日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇&nbsp;&nbsp;bloomberg.com",
+          "desc": "日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇&nbsp;&nbsp;Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93X3pnaHM5ZGZtb0dkN19OaU54SFJJWUlIT2pWblZGN2trc21LQkxRTUhfMldzSk5SclBSVHVyQ254VGlYOEZnb3BnR1gtZTJoT1BrTW1QSjJ2b2xTSWJjbVlWMmh6NldJenZ4ZGMtWC03cENRYVVz?oc=5"
         },
         {
           "text": "日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇（Bloomberg）",
-          "desc": "日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇（Bloomberg）&nbsp;&nbsp;news.yahoo.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JQVBBWXNTZ1Vhb0pxTC16MkcwVkZlRHFHQ0JqU05qLUx1OGQyTTQ5NHc4ZzRvTGJYVEI1NnpmMHdlYks1bkc3djI4bFJ4ZHlaVWlZTW03SjBGalZqVjR5ZWl5djhRNFBxdWJ3aDJiNTFpSVFwZTRJV0hnNUZrRW8?oc=5"
-        },
-        {
-          "text": "28年ぶり日米協調介入でドル円は155円台へ、それでも「164円」再接近が予想される理由",
-          "desc": "28年ぶり日米協調介入でドル円は155円台へ、それでも「164円」再接近が予想される理由&nbsp;&nbsp;diamond.jp",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fZmRsQkdfdHphWGMzTFFnLXNWdVduYUNMOXdDbUhmN3A4Wm5IYVRHZHNKZ0VNY1pGRk9hb0xKNk9xeWo0ZHFzS0txTDTSAU9BVV95cUxOWGJFVXJvREYtZ0pMcTRWTDdOSzE4bHQ3YktHV3lLcFFCMHpHYmRLQXRLU1IzbG1sRnRlY3I4ZHRZYUlTQzFKRkxscnp1anJ3?oc=5"
-        },
-        {
-          "text": "23兆円規模「円買い介入」でも止まらない円安、1ドル160円再突入を回避する150円台“定着”に必要な条件",
-          "desc": "23兆円規模「円買い介入」でも止まらない円安、1ドル160円再突入を回避する150円台“定着”に必要な条件&nbsp;&nbsp;diamond.jp",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50ek8zUlQ4OGpwTjVvSHAyN2otcmgwckxLTXlXNGpSdkxPRjd5ZGJWOFYwdVFHa19xQV9CWGdISlhnYkk5TGZJRUQwOG_SAU9BVV95cUxONm5rSHhLRVh6NFBnbmNzQXFFVm1jVTRiU0w5RG9PLW5QdjNlRmh4YzBSSVlXQ05EdGVFQnV3a1RFcGtuRnpqVW5yQnMxdGw0?oc=5"
+          "desc": "日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇（Bloomberg）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XMFROeWY0Wnk4OERZWThlQTZoOGpDNW9oV3c4U0FPc29RNDVmTWdDUzlYMGFhYUVsRVhjQmZ3bTBWWnYzeEhZWl8wQ3A1YkRtMzVBek1CSlpUcXV0bHg0LVhHbGJXcWpVV1NwMTZOdUJoeHFSM1NYQ3IxdVNNQmM?oc=5"
         },
         {
           "text": "円相場、26年末に1ドル=155円 三井住友信託の山本氏",
@@ -52,12 +52,12 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54LWcyYlZvTkg0ZmprRm00ajdlN1NWUnI3SlNKY2V2b01ud3lGOXZ5T2ZQeTZvTE1mMFFMZTZ2RExicVNtYS0zdUhJYWVuTHpNUFIyLU54YzBvRXhsWFd6d0VIdjN3alBZdmZwNA?oc=5"
         },
         {
-          "text": "１７日の株式相場見通し＝売り買い交錯、前週の急伸の反動で上値重いか",
-          "desc": "１７日の株式相場見通し＝売り買い交錯、前週の急伸の反動で上値重いか&nbsp;&nbsp;kabutan.jp",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DaWZqWS1LenlzS1pGNFgwYUFEbHFMWm9RTG41OFY0dF8yakpmUUowV3hsVkFqN1NKVWpzQWFkMmgzSFlqd0txbXFhUjBhaWlxSDg1RU02dmpxWHFBaVp1UQ?oc=5"
+          "text": "28年ぶり日米協調介入でドル円は155円台へ、それでも「164円」再接近が予想される理由",
+          "desc": "28年ぶり日米協調介入でドル円は155円台へ、それでも「164円」再接近が予想される理由&nbsp;&nbsp;ダイヤモンド・オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fZmRsQkdfdHphWGMzTFFnLXNWdVduYUNMOXdDbUhmN3A4Wm5IYVRHZHNKZ0VNY1pGRk9hb0xKNk9xeWo0ZHFzS0txTDTSAU9BVV95cUxOWGJFVXJvREYtZ0pMcTRWTDdOSzE4bHQ3YktHV3lLcFFCMHpHYmRLQXRLU1IzbG1sRnRlY3I4ZHRZYUlTQzFKRkxscnp1anJ3?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-19",
+      "lastFetchedAt": "2026-08-20",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "ChatGPTの反論で「道徳的判断」の3割超が覆る　高齢者が説得されやすい傾向　神戸大",
-          "desc": "生成AIの反論によって道徳的な判断の3割超が覆る――神戸大学がこのような研究結果を発表した。米OpenAIのチャットAI「ChatGPT」を利用し、AIの反論が正解のない道徳問題への回答に与える影響を調べた。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000627/"
+          "text": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
+          "desc": "AI営業電話に迷惑を被ったという声が少なくない。SNSでは迷惑がる声も……。",
+          "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/"
         },
         {
-          "text": "「オープンな国産モデル」に33Bパラメータの新バージョン　国立情報学研究所",
-          "desc": "国立情報学研究所（NII）が、オープンな国産LLMの新バージョン「LLM-jp-4 33B」を公開。約332億パラメータのDense型モデルで、4種類のベンチマーク全てで従来モデルを上回るスコアを記録したという。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/"
+          "text": "「ロボットのChatGPTモーメントが近づいている」　中国UnitreeのCEO、世界ロボット大会で言及",
+          "desc": "Unitreeのワン・シンシンCEOは世界ロボット大会で、ロボットの「ChatGPTモーメント」が近づいていると発言した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000656/"
         },
         {
-          "text": "「AIを使える人か、使えない人か」で仕事や評価に差が？　6割のエンジニアが実感した“AI格差”の正体",
-          "desc": "AIを使うかどうかだけではなく、どの程度使いこなせるかも問われる中、活用スキルの差は業務効率だけではなく、仕事やキャリアにも影響し始めているという。何が起きているのか。ITエンジニア572人の調査から探る。",
-          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news047.html"
+          "text": "日本精工が「国産人型ロボ」開発を後押し　スタートアップのアトムと協力、アクチュエータの検証など",
+          "desc": "人型ロボットを開発するスタートアップのアトムは、日本精工（NSK）と国産人型ロボットの開発・実装に向け、戦略的パートナーシップに関する基本合意書を締結したと発表した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000655/"
         },
         {
-          "text": "「うちの会社にAIなんて」――謙遜する中小企業に眠る伸びしろ　OpenAIがパートナー網拡充、新規3社が語る",
-          "desc": "米OpenAIが法人向けパートナーネットワークの日本での拡充を進めている。メディア向け座談会に登壇した新規パートナー3社が語ったのは、「うちの会社にAIなんて」と謙遜する中小企業にこそ眠る“伸びしろ”だった。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000615/"
+          "text": "エイベックス松浦会長、noteの“バズり記事”を「ほぼAI」で作成　「僕の60年分のデータを入れた」",
+          "desc": "エイベックスの松浦勝人会長は、8月13日から「note」に投稿している記事について、ほとんどAIで作成していたと自身のXアカウント（@maxmatsuuratwit）で明かした。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000644/"
         },
         {
-          "text": "なぜNTTは「小型LLM」にこだわるのか　国産AI「tsuzumi 2」に込めた狙い",
-          "desc": "LLMは大規模であるほどよいのか。NTTが開発する国産LLM「tsuzumi 2」は、小型化と日本語処理、データ主権を重視する。企業が生成AIを実務に組み込む際の現実解として、同モデルは何を目指しているのか。開発担当者の講演から読み解く。",
-          "url": "https://kn.itmedia.co.jp/kn/articles/2607/14/news012.html"
+          "text": "「AIで生産性向上」日本の従業員は57％、世界平均は81％　仕事の満足度でも大差──アクセンチュア調査",
+          "desc": "アクセンチュアの世界20カ国調査で、AIによる生産性向上を実感する日本の従業員は57％と、世界平均の81％を大きく下回った。仕事の満足度や成果の実感でも世界との差が開き、人材と組織の変革が課題となっている。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000641/"
         },
         {
-          "text": "Googleや英政府、AIで飛行機雲を回避する大規模実証開始　航空業界の温暖化影響を減らす狙い",
-          "desc": "Googleは、英政府や航空管制大手NATSなどと共同で、AIを用いて飛行機雲を回避する実証プログラムを開始すると発表した。北大西洋のシャンウィック洋上空域を対象に、航路をわずかに変更して温暖化影響を抑える。空域規模での協調的回避の実証は世界初となり、Googleは計算基盤などを現物提供する。",
-          "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000613/"
+          "text": "Stripe、AIモデルゲートウェイのOpenRouter買収　400以上のAIモデルを束ねる中立基盤は維持",
+          "desc": "Stripeは、AIモデルのゲートウェイを手掛けるOpenRouterを買収することで合意したと発表した。報道による買収額は約75億ドル。OpenRouterは単一APIで400超のモデル切り替えを可能にする。Stripeはトークンコスト最適化を強化し、OpenRouterは買収後も中立的な運営を継続する。",
+          "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/"
         },
         {
-          "text": "Claude Codeの週次制限枠「50％増」、8月31日まで延長　「恒久化したいものの……」",
-          "desc": "米Anthropicは、AIコーディング支援ツール「Claude Code」の週次利用制限枠を50％増やすキャンペーンを8月31日まで延長すると発表した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000611/"
+          "text": "OpenAI、ZDRを維持したまま悪用検知へ　ログ保持を求めるAnthropicに対抗",
+          "desc": "OpenAIは、APIデータの非保持設定（ZDR）を維持したまま、複数のやり取りを横断して悪用の兆候を検知する新機構「Private Safety Processing」を発表した。顧客データを自社インフラ外や暗号化で保護しつつ、活動シグナルのみでリスクを判定する。9月に展開を開始する予定。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/"
         }
       ],
-      "lastFetchedAt": "2026-08-19",
+      "lastFetchedAt": "2026-08-20",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -111,8 +111,13 @@
       "items": [
         {
           "text": "ヤクルト本社、「Y1000」など4品に免疫機能維持の表示を追加 10月5日リニューアル（食品産業新聞社ニュースWEB）",
-          "desc": "ヤクルト本社、「Y1000」など4品に免疫機能維持の表示を追加 10月5日リニューアル（食品産業新聞社ニュースWEB）&nbsp;&nbsp;news.yahoo.co.jp",
+          "desc": "ヤクルト本社、「Y1000」など4品に免疫機能維持の表示を追加 10月5日リニューアル（食品産業新聞社ニュースWEB）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52UkRVVnc5UWNYMVFrT1o1Zzl0YUpyLU84ZmJjQlNvN3IxUTJPazRlbWxnZERUd0tiYXRqRG9hb0FhYzFEM3Y0R3g3V3BXd05SM2NDZGRjVXpvTThNSWttZW85RXh0T3hHR3luSTI5bndjSWxNVnFidVBGUEJLVFk?oc=5"
+        },
+        {
+          "text": "【大京／穴吹工務店】マンションの室温と健康・快適性との関連を確認",
+          "desc": "【大京／穴吹工務店】マンションの室温と健康・快適性との関連を確認&nbsp;&nbsp;朝日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92TXA0c1NxbXg0NXZfOEFPNGt3TjRnZW1KRFhPQmtzY3pXWHNwV2pERmV4N2JIVmJEYS1kM2NvVGVXZ1BVcmdLTkM3UTdHVXdWN0ZuRWFlaVZiZmM?oc=5"
         },
         {
           "text": "令和８年度 健康増進普及月間について",
@@ -120,12 +125,17 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zeGN2Ynk4ckhnX3BBbWRJWHZwMkVHdUFHd19vQjljSFZ2ZEsyUTNYRG9JelhwYTZWSDBheWNBTm5qdGxTZjJEZXlMeUNzdmFtb0p6amVkNUg?oc=5"
         },
         {
-          "text": "ダイエット目的なら、いつ飲む？認知機能にも影響 「緑茶」の最新研究とは",
-          "desc": "ダイエット目的なら、いつ飲む？認知機能にも影響 「緑茶」の最新研究とは&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT3RkSzYtMzRoRlVNRTBWNHNybGEwRF9pVDJEamg3a092aHFLZnhZYWR3eXJaSDFrc0kyZWpPSlY2UFRaZUF5bGVtSTJaSU5xV3VaOVhBVTNydlBBZXd6bjJDOENub0pyMTRBN2JCZ1FrTDZLUy1LRVRKc1BaZmc0eUtPY1R1V3VjczgyamV3RkEyS05KREp5dEN1dm4?oc=5"
+          "text": "りらいぶとうるま市 健康づくり推進へ連携協定（沖縄テレビOTV）",
+          "desc": "りらいぶとうるま市 健康づくり推進へ連携協定（沖縄テレビOTV）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoMTU2RDFUc1BOMUd2QjhLaG5DTzFUOGcwNG9yMkhDaHpjbVFHaVNRN3Z3TThiWHhwTjltUExXNm42NE0xLXltSXFfMGFYdUJZV19sUVlOQzEyd3FBb1BCMzRtNE1TZUtyWFpyeXBCLU1PU1BuckRRczhPVmdIZG8?oc=5"
+        },
+        {
+          "text": "ダイエット目的なら、いつ飲む？認知機能にも影響 「緑茶」の最新研究とは （3ページ目）",
+          "desc": "ダイエット目的なら、いつ飲む？認知機能にも影響 「緑茶」の最新研究とは （3ページ目）&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazRfaUc1LW8tM3R4NTdqTVFqbkxobGpRempTd2xWd2RINlp4bVBCTUk1RGJzTnh5bF84UHAyc08wOVhZZUpXeXdBdU1VcGNkQWFNMVp4Vlp0SzFTSzlSV3U1a0dwbThrb0RVNXV2OW9teV9SRTVkSmlJT3lPUDNWRWhWcXNtMDJ2NUJnRGhYNEZMRjF2Yk5uUGFB?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-19",
+      "lastFetchedAt": "2026-08-20",
       "source": "Google News"
     },
     {
@@ -135,41 +145,41 @@
       "items": [
         {
           "text": "相次ぐ豪雨。ニュースをきっかけに見直したい「命と暮らしを守る」備え3選（ぴょこぴょこぴ） - エキスパート",
-          "desc": "相次ぐ豪雨。ニュースをきっかけに見直したい「命と暮らしを守る」備え3選（ぴょこぴょこぴ） - エキスパート&nbsp;&nbsp;news.yahoo.co.jp",
+          "desc": "相次ぐ豪雨。ニュースをきっかけに見直したい「命と暮らしを守る」備え3選（ぴょこぴょこぴ） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWRHTjhLYnlLT2ZWU2hZVzRyTHZmV1lwN3NrcW0wamxLSHIzTmZkeHd2MFpOQTUxVG9ERzUwenotd04zcU5HdzJZN2dLLTB0NTNIVHB1cG5pcXl0aGNHU2VPd2pzT1MxV3ppQ3lZTUpMdHJ2dzlYRUkwMWhlZ1o4M2dsTU9kU0sx?oc=5"
         },
         {
           "text": "60代ひとり暮らし、「手放してよかったもの」3つ。大きな家具が減るだけで暮らしは軽くなる (ESSE-online)",
-          "desc": "60代ひとり暮らし、「手放してよかったもの」3つ。大きな家具が減るだけで暮らしは軽くなる (ESSE-online)&nbsp;&nbsp;news.yahoo.co.jp",
+          "desc": "60代ひとり暮らし、「手放してよかったもの」3つ。大きな家具が減るだけで暮らしは軽くなる (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUxTeFBseUZXOEtfTWtUd1dUVkx0b1ZRMk5qWDZ6VUVySlp0LUxuNUMzUkhnZDhVSmhNZGNMbnhIakpURGk4R3prVkZpRTU3THZkWElma0d1T3lpN2gxbnlZQVBId2N2eE1IekNBTXpFMFJJZXZ6bnBuanpPWVlKVXlWZ1ZpMEdpT2lCSnFR?oc=5"
         },
         {
           "text": "「お疲れさま。でも今日からは…」最終出勤日を迎えた65歳夫、妻が切り出した〈これからの暮らし〉",
-          "desc": "「お疲れさま。でも今日からは…」最終出勤日を迎えた65歳夫、妻が切り出した〈これからの暮らし〉&nbsp;&nbsp;news.yahoo.co.jp",
+          "desc": "「お疲れさま。でも今日からは…」最終出勤日を迎えた65歳夫、妻が切り出した〈これからの暮らし〉&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9raEY5X29lRThpd19uUVJZSE5vNng3VF9WRGpKMUgwMDVZa042OWlFaGE5QjhyaWliVFZxcEdDV3J4RkQ4eDNUTzFoWmw4eTdQSjBYMnVNVEpPMVI1MnRSb3E1Q3BaSUZWd0dISTV0SXIwN1V5SlFUZ2pYSFZhbHM?oc=5"
         },
         {
-          "text": "トマトジュースで料理をつくったら絶品。50代、ふたり暮らしのリアルな食事 (ESSE-online)",
-          "desc": "トマトジュースで料理をつくったら絶品。50代、ふたり暮らしのリアルな食事 (ESSE-online)&nbsp;&nbsp;news.yahoo.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQjFvZlR0dlRfQjUzQXliV2M5eUlxQ3o0czdsU0ZOLXRJcmN1U25BZDB4QVpPcjFCbEFmY1c5ZHV0WmprQnRlZE9hQ2RtOVhyNDUybUtFNHQyaEhna3B0Tm5oblVpNUFpZnBkaUtROTRyQWlKQjJTb2dsZktLQVlBTVhCMDJuLXhVejdkeGp3?oc=5"
-        },
-        {
           "text": "お盆に帰省したら実家がものだらけ＞でも親に「捨てたら？」は禁句。「来客用布団」「使わない食器」から始める暮らしの見直し方 (婦人公論.jp)",
-          "desc": "お盆に帰省したら実家がものだらけ＞でも親に「捨てたら？」は禁句。「来客用布団」「使わない食器」から始める暮らしの見直し方 (婦人公論.jp)&nbsp;&nbsp;news.yahoo.co.jp",
+          "desc": "お盆に帰省したら実家がものだらけ＞でも親に「捨てたら？」は禁句。「来客用布団」「使わない食器」から始める暮らしの見直し方 (婦人公論.jp)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXVqYjRJN2F1Q1FEU3RHZVVyYWFmOF9HZ3NaZzZZcHhwRVZ3N0p3UjlkSDBFV0xoWEVDRkNhTURxSlUxS3JXVmZBZkRkX2xLbE51Rm9jajN1T2RTSFM4NzZHNjBKSW5RY2ZJOGhScXAzd0lyY3JBVURqcUMzQ05ibG9YTzFtdkY5RUZXNFFn?oc=5"
         },
         {
-          "text": "夏休みに体験で学ぶ「災害への備え」 赤十字キッズ防災ラボ | 愛媛のニュース - Nスタえひめ｜あいテレビは6チャンネル",
-          "desc": "夏休みに体験で学ぶ「災害への備え」 赤十字キッズ防災ラボ | 愛媛のニュース - Nスタえひめ｜あいテレビは6チャンネル&nbsp;&nbsp;TBS NEWS DIG",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNMDV5QzBfVUJfUWQyVjhZbTBDdXM4UW8xSHlraVJ0TGY0OGl2TExvV19sc2FoNWl1Qk1YOVExVWFHenNKNTlwVEh1UnkwWUp0Z1dWNXFEcXZBQQ?oc=5"
+          "text": "トマトジュースで料理をつくったら絶品。50代、ふたり暮らしのリアルな食事 (ESSE-online)",
+          "desc": "トマトジュースで料理をつくったら絶品。50代、ふたり暮らしのリアルな食事 (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQjFvZlR0dlRfQjUzQXliV2M5eUlxQ3o0czdsU0ZOLXRJcmN1U25BZDB4QVpPcjFCbEFmY1c5ZHV0WmprQnRlZE9hQ2RtOVhyNDUybUtFNHQyaEhna3B0Tm5oblVpNUFpZnBkaUtROTRyQWlKQjJTb2dsZktLQVlBTVhCMDJuLXhVejdkeGp3?oc=5"
         },
         {
-          "text": "夏休みに体験で学ぶ「災害への備え」 赤十字キッズ防災ラボ（あいテレビ）",
-          "desc": "夏休みに体験で学ぶ「災害への備え」 赤十字キッズ防災ラボ（あいテレビ）&nbsp;&nbsp;news.yahoo.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yZUFva1NiQ1FGY3k2eTFFRjdzVHJCWDl3ZFpTUGJTRE1xTWkwMVR5Wllfc3dIdkVoQU1hdzQ2WU80V2gwSXdDU28tdmRnSk0wbGZPWHNyTHR2Z1l5NklISnhIMm96YThtSjU1ZWZGd2dlSkxEaWpYUVBFRXJ1OUk?oc=5"
+          "text": "勤続34年の55歳女性管理職が「がんばり過ぎる毎日」を変えた、3つの小さな習慣（HALMEK up）",
+          "desc": "勤続34年の55歳女性管理職が「がんばり過ぎる毎日」を変えた、3つの小さな習慣（HALMEK up）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsNDNpOHVXdk9aRHVGWXJ0cjZBSVktbDJELTlXOXR6T1IyZk1Tcnc1Z3hxQzUyRlRlV3o4Uk1fNURpS3hCckRoQUxpQkZ2MjQzZVlkb29RMEVPTG9GRUtmQVpKZDhCZFdFMUcwVEktWUxlTDFMU0tFYnQ4eDZPSUE?oc=5"
+        },
+        {
+          "text": "災害への備え 防災グッズを紹介（2026年8月19日掲載）｜RNC NEWS NNN",
+          "desc": "災害への備え 防災グッズを紹介（2026年8月19日掲載）｜RNC NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWxMYmN2U1VBdzk3ZUJUS09pRWNWV0E3bVU2Y3F1YnVPY0NYWk43eUNsekhWWDNLMFpGX2x1b3R6LXBGLTZEMjN2bUNNVWg2MVNIS2RPUHRkdzlCeDVvZVJQTndaaldDX1JwOERVWXJtS0ZHN2xSVTRhTUNEdEFQWUM4elE1NmM?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-19",
+      "lastFetchedAt": "2026-08-20",
       "source": "Google News"
     },
     {
@@ -227,9 +237,9 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EUEtocEJrcV9uU2ZnRmR2RHV0ME1MbUVtSlhmSktKWlJFczNKRzZLMjJBZlAyTUhiSE9XVnpGaWFnbzJUb0VUZ2NLc1I5TE5oMmFXb2dhei1YWlVaeS1nWHFjeGZyMV9vQXd3RE5UQ3ZLcnpG?oc=5"
         },
         {
-          "text": "【ヤフコメで話題】「生成AI導入で逆に仕事が増える現象」「AI活用の現実と限界」 - 生成AIバブルの行方に注目集まる",
-          "desc": "【ヤフコメで話題】「生成AI導入で逆に仕事が増える現象」「AI活用の現実と限界」 - 生成AIバブルの行方に注目集まる&nbsp;&nbsp;news.yahoo.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GSFQ2WGs4OVVhQkdNYWpOVUpuYl9nX1E4WjI3NUlWcU9pdHl5V3dna1FjdUZhR21qellwNHFnMDNodWVFaXVCLWdFUjkxcHJtdW1RMGE0NTVBRld4T0cya1N4a0FxWVIwdUJoOHRneHFYbzFJNDRCR1FCSHJRZzQ?oc=5"
+          "text": "新潟県長岡市の「女性のテレワーク支援業務」を2年連続で受託",
+          "desc": "新潟県長岡市の「女性のテレワーク支援業務」を2年連続で受託&nbsp;&nbsp;朝日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fcU5hQXZaWHNrdUF5WUUtUW5ZU1ZvdW9pclAtR2V6TUY2UDJPWkxlak9vb2UtMzNSUGZtYXlueHh6OEc4c29jT3pIaVg1aUpMYzVkZ2dLMm9DUHM?oc=5"
         },
         {
           "text": "ＡＳＪ[2351]：コーポレート・ガバナンスに関する報告書 2026/08/19 2026年8月19日(適時開示) ：日経会社情報DIGITAL",
@@ -238,11 +248,11 @@
         },
         {
           "text": "国家公務員の離職対策や人材確保の取り組み強化…「キャリア官僚」退職増加や民主党政権の採用抑制で中堅世代の不足が深刻（読売新聞オンライン）",
-          "desc": "国家公務員の離職対策や人材確保の取り組み強化…「キャリア官僚」退職増加や民主党政権の採用抑制で中堅世代の不足が深刻（読売新聞オンライン）&nbsp;&nbsp;news.yahoo.co.jp",
+          "desc": "国家公務員の離職対策や人材確保の取り組み強化…「キャリア官僚」退職増加や民主党政権の採用抑制で中堅世代の不足が深刻（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wd3lBS2ZzRWhwbnY1QjdQcUF1eHp2aFY2b2hody1XSk5nc3pPVVNLN3VkdnNTV21BazVEaThBZDRmelRiNGg1SGJrUnVjVG5WUWN0RWtxNzdoVHpJSTdIYjNhWWVHYWN6T2hkYWxua0lzd1N5dy1sbF9hcWVDcnc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-19",
+      "lastFetchedAt": "2026-08-20",
       "source": "Google News"
     },
     {
