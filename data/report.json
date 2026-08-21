@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-21",
   "summaries": [
     {
       "id": "finance",
@@ -7,24 +7,34 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "フランス｢15歳未満SNS禁止｣に違憲判決､子ども保護でも｢全面禁止は過剰｣―｢親の自己責任｣の日本はどうすべきか | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "フランスが画期的に進めた15歳未満のSNS利用禁止法案は､憲法院の｢表現の自由侵害｣との判断で見送りに。背景にはSNS依存による学習障害や深刻ないじめ､自殺の増加､EU法との権限衝突が。子どもを守る…",
-          "url": "https://toyokeizai.net/articles/-/955242?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "デニー危うし？ ｢オール沖縄｣分裂と｢3期目のジンクス｣で大激戦､高市政権の行方も左右する｢沖縄知事選｣の超緊迫構図 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "歴代最多の7人が立候補する､波乱含みの沖縄県知事選。保守と革新が7勝7敗で拮抗する中､現職の玉城デニー氏が｢3期目のジンクス｣に挑みます。国政への影響も指摘される中､選挙戦はどのような展開となりそう…",
+          "url": "https://toyokeizai.net/articles/-/955545?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "〈時価総額約500億ドル突破〉中国ヒト型ロボットメーカー宇樹科技（ユニツリー）､上場初日に株価は460％高を記録 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "中国で最も知名度の高いヒト型ロボットメーカー、宇樹科技（ユニツリー）が19日、上海証券取引所の新興ハイテク企業向け株式市場「科創板（スター・マーケット）」に上場した。初値は1100元で、公開価格（1…",
-          "url": "https://toyokeizai.net/articles/-/955375?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢国民の生命を守る｣はどこへ行った？ トランプのICC制裁にモノ申せぬ高市首相｢言動不一致｣と｢弱腰外交｣の末路 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "｢国民の生命と財産を守る｣と誓った高市首相。そのリーダーシップは､内外の難題にどう立ち向かえているのでしょうか。アメリカによる国際刑事裁判所所長への制裁に揺れる中､リーダーの覚悟が問われています。",
+          "url": "https://toyokeizai.net/articles/-/955523?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "｢エヌビディアは墓穴を掘っている｣…中国AI｢ディープシーク｣創業者による流出した本音発言の内容に波紋が広がる | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "米中AI競争が激化するなか､中国AI企業ディープシーク創業者の率直な発言が波紋を広げています。創業者が語ったチップ調達の苦悩や中国国内の技術遅れ､非正規ルートでのアメリカ製半導体入手の実態とは。",
-          "url": "https://toyokeizai.net/articles/-/955119?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "〈米トランプ政権が制裁〉ICCの赤根所長が1年前に語っていた｢もし私が制裁対象になれば…｣その甚大な影響 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "アメリカのトランプ政権による国際刑事裁判所（ICC）所長･赤根智子氏への制裁指定は､戦争犯罪を裁く最後の砦であるICCの存続を揺るがしています。法の支配が失われた世界では何が起きるのか。国際秩序が危…",
+          "url": "https://toyokeizai.net/articles/-/955448?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "再び長期金利2.9%…年金マネーに国債を買わせる〈財政難の国家あるある〉を目論むのなら知っておくべき歴史の教訓 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "急速に進む財政拡大とインフレへの警戒感の中､日本の長期金利が約30年ぶりに高水準へ。政府は年金基金GPIFを活用した金利抑制策に言及していますが､その運用は受益者の将来にどう影響するのでしょうか。",
-          "url": "https://toyokeizai.net/articles/-/955192?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "やっぱりアメリカの問題意識は｢高止まりする米金利｣にある…サプライズの米国債買い戻しが協調介入の意図を裏付ける | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "米財務省が突如発表した長期･超長期国債のバイバック増額は､金融市場に大きな波紋を広げました。背景には｢下がらない米金利｣への強い警戒感があります。米国の政策措置は本当に金利と為替の混乱を鎮められるの…",
+          "url": "https://toyokeizai.net/articles/-/955427?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "石油､木材､電力…AI特需に沸くマレーシアで日本も関わってきた80年以上続く｢開発｣の問題と｢資源奪取｣の構造 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "中東情勢の影響でデータセンター建設先として注目を集めるマレーシア。しかしその裏では､日本企業との長い関係や再生可能エネルギー需要の拡大が､現地先住民の暮らしや権利を脅かしてきました。",
+          "url": "https://toyokeizai.net/articles/-/955353?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "主要各国の政策金利の推移をグラフでチェック！｜IMM通貨先物ポジション／経済指標・政策金利",
+          "desc": "主要各国の政策金利の推移をグラフでチェック！｜IMM通貨先物ポジション／経済指標・政策金利&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hdXRsUmtDeV9rYzNoSHNlTDVXQzNzdDVSMTNoQjJNVFRGN1k2X0pKX0NUQjRjR05MVnR5bDl3UkR0Y1hDcUs2WFdxd05uSHlJWnc?oc=5"
         },
         {
           "text": "FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘（Bloomberg）",
@@ -32,32 +42,22 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mcmZQU3g2Z2NhSGVyYVUyam1HeXo1Z19teXotajg1SFpVZmhLTEpoRlpXZ09pYWNkdlcwbzFFaHZ3X0dRUWJacVlYUGROWHByV1ZibldaWDRoV3VzalpTVWRVTk02TTM0dHB0SDZnWmVRMmJIb25hQXRQanVqV1U?oc=5"
         },
         {
+          "text": "ＦＲＢ当局者、金融政策の独立性強調 財務省の国債支援策巡り(ロイター)",
+          "desc": "ＦＲＢ当局者、金融政策の独立性強調 財務省の国債支援策巡り(ロイター)&nbsp;&nbsp;Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnE4Yno3WkdMY25xVEtyZDJyY1Q2d2wwZlM4aGlTR0NmNWotbWk3QkhDeUdVcFN6a2I2UWFoXzJlYVMyYjNMQV9qZncyUzRFbXdEV2FBS3o1UXlxMHpNXzdfYlpMMnI3ZGFQU25td2tkQmtxY2tYeWhvdHRPa1RDU21lekJNT1k?oc=5"
+        },
+        {
           "text": "23兆円規模「円買い介入」でも止まらない円安、1ドル160円再突入を回避する150円台“定着”に必要な条件",
           "desc": "23兆円規模「円買い介入」でも止まらない円安、1ドル160円再突入を回避する150円台“定着”に必要な条件&nbsp;&nbsp;ダイヤモンド・オンライン",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50ek8zUlQ4OGpwTjVvSHAyN2otcmgwckxLTXlXNGpSdkxPRjd5ZGJWOFYwdVFHa19xQV9CWGdISlhnYkk5TGZJRUQwOG_SAU9BVV95cUxONm5rSHhLRVh6NFBnbmNzQXFFVm1jVTRiU0w5RG9PLW5QdjNlRmh4YzBSSVlXQ05EdGVFQnV3a1RFcGtuRnpqVW5yQnMxdGw0?oc=5"
         },
         {
-          "text": "日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇",
-          "desc": "日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇&nbsp;&nbsp;Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93X3pnaHM5ZGZtb0dkN19OaU54SFJJWUlIT2pWblZGN2trc21LQkxRTUhfMldzSk5SclBSVHVyQ254VGlYOEZnb3BnR1gtZTJoT1BrTW1QSjJ2b2xTSWJjbVlWMmh6NldJenZ4ZGMtWC03cENRYVVz?oc=5"
-        },
-        {
           "text": "日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇（Bloomberg）",
           "desc": "日銀の次の一手を待つ為替市場、円相場は一時158円60銭まで上昇（Bloomberg）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XMFROeWY0Wnk4OERZWThlQTZoOGpDNW9oV3c4U0FPc29RNDVmTWdDUzlYMGFhYUVsRVhjQmZ3bTBWWnYzeEhZWl8wQ3A1YkRtMzVBek1CSlpUcXV0bHg0LVhHbGJXcWpVV1NwMTZOdUJoeHFSM1NYQ3IxdVNNQmM?oc=5"
-        },
-        {
-          "text": "円相場、26年末に1ドル=155円 三井住友信託の山本氏",
-          "desc": "円相場、26年末に1ドル=155円 三井住友信託の山本氏&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54LWcyYlZvTkg0ZmprRm00ajdlN1NWUnI3SlNKY2V2b01ud3lGOXZ5T2ZQeTZvTE1mMFFMZTZ2RExicVNtYS0zdUhJYWVuTHpNUFIyLU54YzBvRXhsWFd6d0VIdjN3alBZdmZwNA?oc=5"
-        },
-        {
-          "text": "28年ぶり日米協調介入でドル円は155円台へ、それでも「164円」再接近が予想される理由",
-          "desc": "28年ぶり日米協調介入でドル円は155円台へ、それでも「164円」再接近が予想される理由&nbsp;&nbsp;ダイヤモンド・オンライン",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fZmRsQkdfdHphWGMzTFFnLXNWdVduYUNMOXdDbUhmN3A4Wm5IYVRHZHNKZ0VNY1pGRk9hb0xKNk9xeWo0ZHFzS0txTDTSAU9BVV95cUxOWGJFVXJvREYtZ0pMcTRWTDdOSzE4bHQ3YktHV3lLcFFCMHpHYmRLQXRLU1IzbG1sRnRlY3I4ZHRZYUlTQzFKRkxscnp1anJ3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JQVBBWXNTZ1Vhb0pxTC16MkcwVkZlRHFHQ0JqU05qLUx1OGQyTTQ5NHc4ZzRvTGJYVEI1NnpmMHdlYks1bkc3djI4bFJ4ZHlaVWlZTW03SjBGalZqVjR5ZWl5djhRNFBxdWJ3aDJiNTFpSVFwZTRJV0hnNUZrRW8?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-20",
+      "lastFetchedAt": "2026-08-21",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
-          "desc": "AI営業電話に迷惑を被ったという声が少なくない。SNSでは迷惑がる声も……。",
-          "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/"
+          "text": "SNSのウソ画像、どう見破る？　熊本県庁やテレビ局も頼る“すごい企業”の正体",
+          "desc": "スペクティが提供する「Spectee Pro」は、さまざまな情報を収集し、その時に起きている「危機」を可視化するシステムだ。多くの自治体やマスコミも活用しているというSpectee Proは、どうやってデマや虚偽の情報を見分けるのか。",
+          "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/"
         },
         {
-          "text": "「ロボットのChatGPTモーメントが近づいている」　中国UnitreeのCEO、世界ロボット大会で言及",
-          "desc": "Unitreeのワン・シンシンCEOは世界ロボット大会で、ロボットの「ChatGPTモーメント」が近づいていると発言した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000656/"
+          "text": "エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」　note記事作成の“苦労”明かす",
+          "desc": "「AIで仕事が楽になると思ってたけど、真逆でした」――エイベックスの松浦勝人会長は、自身のXアカウントでこのように投稿した。AIを活用したnoteの記事制作の一端を明かした。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000684/"
         },
         {
-          "text": "日本精工が「国産人型ロボ」開発を後押し　スタートアップのアトムと協力、アクチュエータの検証など",
-          "desc": "人型ロボットを開発するスタートアップのアトムは、日本精工（NSK）と国産人型ロボットの開発・実装に向け、戦略的パートナーシップに関する基本合意書を締結したと発表した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000655/"
+          "text": "FANZAで「成人向けAIコンテンツ制作サービス」開始　8月24日から先行体験",
+          "desc": "成人向けECサイト「FANZA」を運営するデジタルコマースが、成人向けAIコンテンツプラットフォーム「FANZAスタジオ」の提供を始める予定だ。8月24日からβ版の先行体験を始める。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000676/"
         },
         {
-          "text": "エイベックス松浦会長、noteの“バズり記事”を「ほぼAI」で作成　「僕の60年分のデータを入れた」",
-          "desc": "エイベックスの松浦勝人会長は、8月13日から「note」に投稿している記事について、ほとんどAIで作成していたと自身のXアカウント（@maxmatsuuratwit）で明かした。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000644/"
+          "text": "「Claudeの使い方」を無料で学べる公式サイト登場　「Code」「Cowork」などサービスごとに解説",
+          "desc": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/"
         },
         {
-          "text": "「AIで生産性向上」日本の従業員は57％、世界平均は81％　仕事の満足度でも大差──アクセンチュア調査",
-          "desc": "アクセンチュアの世界20カ国調査で、AIによる生産性向上を実感する日本の従業員は57％と、世界平均の81％を大きく下回った。仕事の満足度や成果の実感でも世界との差が開き、人材と組織の変革が課題となっている。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000641/"
+          "text": "Googleのオープンモデル「Gemma」、累計10億ダウンロード超　GitHubに公式ディレクトリ公開",
+          "desc": "Googleは、オープンモデル「Gemma」ファミリーの累計ダウンロード数が10億回を突破したと発表した。派生モデルは10万種を超え、公式リポジトリ「Awesome Gemma」をGitHubで公開。宇宙空間での衛星データ解析や新規のがん治療経路の発見など、多様な活用事例を紹介している。",
+          "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000670/"
         },
         {
-          "text": "Stripe、AIモデルゲートウェイのOpenRouter買収　400以上のAIモデルを束ねる中立基盤は維持",
-          "desc": "Stripeは、AIモデルのゲートウェイを手掛けるOpenRouterを買収することで合意したと発表した。報道による買収額は約75億ドル。OpenRouterは単一APIで400超のモデル切り替えを可能にする。Stripeはトークンコスト最適化を強化し、OpenRouterは買収後も中立的な運営を継続する。",
-          "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/"
+          "text": "macOS版ChatGPT、Appleの「メッセージ」と連携　会話検索や下書き、送信に対応",
+          "desc": "OpenAIは、macOS版ChatGPT向けにAppleの「メッセージ」アプリと連携するプラグインを公開した。CodexやChatGPT Workのチャット上で過去の会話検索や下書き作成、送信が可能になる。誤送信防止のため都度承認フローを備える。Appleシリコン搭載Mac向けだ。",
+          "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/"
         },
         {
-          "text": "OpenAI、ZDRを維持したまま悪用検知へ　ログ保持を求めるAnthropicに対抗",
-          "desc": "OpenAIは、APIデータの非保持設定（ZDR）を維持したまま、複数のやり取りを横断して悪用の兆候を検知する新機構「Private Safety Processing」を発表した。顧客データを自社インフラ外や暗号化で保護しつつ、活動シグナルのみでリスクを判定する。9月に展開を開始する予定。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000638/"
+          "text": "「Fable禁止」で仕事が止まったあの日々を振り返る　日本企業が取るべき「脱・単一モデル」戦略",
+          "desc": "米政府の輸出管理で「Claude Fable 5」の提供が突如停止し、業務が止まった実体験を基に、単一AIモデル依存の地政学リスクを指摘。オンプレミス化やマルチモデル統合基盤など、日本企業が取るべき分散戦略を整理する。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/"
         }
       ],
-      "lastFetchedAt": "2026-08-20",
+      "lastFetchedAt": "2026-08-21",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -110,32 +110,27 @@
       "title": "健康資産 — 健康トピック",
       "items": [
         {
+          "text": "スリープトレーナー・ヒラノマリさんの睡眠ケア大賞8つ【有名スポーツ選手の睡眠もサポート！】（CanCam.jp）",
+          "desc": "スリープトレーナー・ヒラノマリさんの睡眠ケア大賞8つ【有名スポーツ選手の睡眠もサポート！】（CanCam.jp）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RcmgzdFdHVHdGLU1rM1FQV01vdUlKbWgzSkhiWW03X0ZFQ3czMVQyd3VKdTl2SS1xVjc5QWNDbmc4VU1XcEFxdUdrc0VkTjl1d1JpLXZ1Nms4WkdDbmtpRWlOdEVqSVpFaUwtQlh1SkRrNDBmOU9SY1lrZjM5SFU?oc=5"
+        },
+        {
           "text": "ヤクルト本社、「Y1000」など4品に免疫機能維持の表示を追加 10月5日リニューアル（食品産業新聞社ニュースWEB）",
           "desc": "ヤクルト本社、「Y1000」など4品に免疫機能維持の表示を追加 10月5日リニューアル（食品産業新聞社ニュースWEB）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52UkRVVnc5UWNYMVFrT1o1Zzl0YUpyLU84ZmJjQlNvN3IxUTJPazRlbWxnZERUd0tiYXRqRG9hb0FhYzFEM3Y0R3g3V3BXd05SM2NDZGRjVXpvTThNSWttZW85RXh0T3hHR3luSTI5bndjSWxNVnFidVBGUEJLVFk?oc=5"
         },
         {
-          "text": "【大京／穴吹工務店】マンションの室温と健康・快適性との関連を確認",
-          "desc": "【大京／穴吹工務店】マンションの室温と健康・快適性との関連を確認&nbsp;&nbsp;朝日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92TXA0c1NxbXg0NXZfOEFPNGt3TjRnZW1KRFhPQmtzY3pXWHNwV2pERmV4N2JIVmJEYS1kM2NvVGVXZ1BVcmdLTkM3UTdHVXdWN0ZuRWFlaVZiZmM?oc=5"
-        },
-        {
-          "text": "令和８年度 健康増進普及月間について",
-          "desc": "令和８年度 健康増進普及月間について&nbsp;&nbsp;mhlw.go.jp",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zeGN2Ynk4ckhnX3BBbWRJWHZwMkVHdUFHd19vQjljSFZ2ZEsyUTNYRG9JelhwYTZWSDBheWNBTm5qdGxTZjJEZXlMeUNzdmFtb0p6amVkNUg?oc=5"
-        },
-        {
-          "text": "りらいぶとうるま市 健康づくり推進へ連携協定（沖縄テレビOTV）",
-          "desc": "りらいぶとうるま市 健康づくり推進へ連携協定（沖縄テレビOTV）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoMTU2RDFUc1BOMUd2QjhLaG5DTzFUOGcwNG9yMkhDaHpjbVFHaVNRN3Z3TThiWHhwTjltUExXNm42NE0xLXltSXFfMGFYdUJZV19sUVlOQzEyd3FBb1BCMzRtNE1TZUtyWFpyeXBCLU1PU1BuckRRczhPVmdIZG8?oc=5"
-        },
-        {
           "text": "ダイエット目的なら、いつ飲む？認知機能にも影響 「緑茶」の最新研究とは （3ページ目）",
           "desc": "ダイエット目的なら、いつ飲む？認知機能にも影響 「緑茶」の最新研究とは （3ページ目）&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQazRfaUc1LW8tM3R4NTdqTVFqbkxobGpRempTd2xWd2RINlp4bVBCTUk1RGJzTnh5bF84UHAyc08wOVhZZUpXeXdBdU1VcGNkQWFNMVp4Vlp0SzFTSzlSV3U1a0dwbThrb0RVNXV2OW9teV9SRTVkSmlJT3lPUDNWRWhWcXNtMDJ2NUJnRGhYNEZMRjF2Yk5uUGFB?oc=5"
+        },
+        {
+          "text": "加藤綾菜 “お店みたい”な彩り満点の手料理公開!“レシピ本レベル”の具材ゴロゴロ＆和洋折衷の丁寧な献立に「カトちゃん幸せですね」（めざましmedia）",
+          "desc": "加藤綾菜 “お店みたい”な彩り満点の手料理公開!“レシピ本レベル”の具材ゴロゴロ＆和洋折衷の丁寧な献立に「カトちゃん幸せですね」（めざましmedia）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4dDdXNzhkcTh2ZXc5V2N1U1o2X0lwaEhWMkNoUVZ2c1M4V2JqNm9ISTE2dHNFX3dBWnB3QXMxYXVBQU5TRFRIODE4QjBvTlBVZjliZHRoOWtUTGNxWktHQ0FPdUJ3TTBhR3oxbXZCandGU3M3NGtlUC1CVkcyLVE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-20",
+      "lastFetchedAt": "2026-08-21",
       "source": "Google News"
     },
     {
@@ -144,24 +139,9 @@
       "title": "生活資産 — 生活・社会",
       "items": [
         {
-          "text": "相次ぐ豪雨。ニュースをきっかけに見直したい「命と暮らしを守る」備え3選（ぴょこぴょこぴ） - エキスパート",
-          "desc": "相次ぐ豪雨。ニュースをきっかけに見直したい「命と暮らしを守る」備え3選（ぴょこぴょこぴ） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWRHTjhLYnlLT2ZWU2hZVzRyTHZmV1lwN3NrcW0wamxLSHIzTmZkeHd2MFpOQTUxVG9ERzUwenotd04zcU5HdzJZN2dLLTB0NTNIVHB1cG5pcXl0aGNHU2VPd2pzT1MxV3ppQ3lZTUpMdHJ2dzlYRUkwMWhlZ1o4M2dsTU9kU0sx?oc=5"
-        },
-        {
           "text": "60代ひとり暮らし、「手放してよかったもの」3つ。大きな家具が減るだけで暮らしは軽くなる (ESSE-online)",
           "desc": "60代ひとり暮らし、「手放してよかったもの」3つ。大きな家具が減るだけで暮らしは軽くなる (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUxTeFBseUZXOEtfTWtUd1dUVkx0b1ZRMk5qWDZ6VUVySlp0LUxuNUMzUkhnZDhVSmhNZGNMbnhIakpURGk4R3prVkZpRTU3THZkWElma0d1T3lpN2gxbnlZQVBId2N2eE1IekNBTXpFMFJJZXZ6bnBuanpPWVlKVXlWZ1ZpMEdpT2lCSnFR?oc=5"
-        },
-        {
-          "text": "「お疲れさま。でも今日からは…」最終出勤日を迎えた65歳夫、妻が切り出した〈これからの暮らし〉",
-          "desc": "「お疲れさま。でも今日からは…」最終出勤日を迎えた65歳夫、妻が切り出した〈これからの暮らし〉&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9raEY5X29lRThpd19uUVJZSE5vNng3VF9WRGpKMUgwMDVZa042OWlFaGE5QjhyaWliVFZxcEdDV3J4RkQ4eDNUTzFoWmw4eTdQSjBYMnVNVEpPMVI1MnRSb3E1Q3BaSUZWd0dISTV0SXIwN1V5SlFUZ2pYSFZhbHM?oc=5"
-        },
-        {
-          "text": "お盆に帰省したら実家がものだらけ＞でも親に「捨てたら？」は禁句。「来客用布団」「使わない食器」から始める暮らしの見直し方 (婦人公論.jp)",
-          "desc": "お盆に帰省したら実家がものだらけ＞でも親に「捨てたら？」は禁句。「来客用布団」「使わない食器」から始める暮らしの見直し方 (婦人公論.jp)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLXVqYjRJN2F1Q1FEU3RHZVVyYWFmOF9HZ3NaZzZZcHhwRVZ3N0p3UjlkSDBFV0xoWEVDRkNhTURxSlUxS3JXVmZBZkRkX2xLbE51Rm9jajN1T2RTSFM4NzZHNjBKSW5RY2ZJOGhScXAzd0lyY3JBVURqcUMzQ05ibG9YTzFtdkY5RUZXNFFn?oc=5"
         },
         {
           "text": "トマトジュースで料理をつくったら絶品。50代、ふたり暮らしのリアルな食事 (ESSE-online)",
@@ -177,9 +157,24 @@
           "text": "災害への備え 防災グッズを紹介（2026年8月19日掲載）｜RNC NEWS NNN",
           "desc": "災害への備え 防災グッズを紹介（2026年8月19日掲載）｜RNC NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWxMYmN2U1VBdzk3ZUJUS09pRWNWV0E3bVU2Y3F1YnVPY0NYWk43eUNsekhWWDNLMFpGX2x1b3R6LXBGLTZEMjN2bUNNVWg2MVNIS2RPUHRkdzlCeDVvZVJQTndaaldDX1JwOERVWXJtS0ZHN2xSVTRhTUNEdEFQWUM4elE1NmM?oc=5"
+        },
+        {
+          "text": "【記者解説】防災への備えと、次はどうする？を考える「防災フェア」（BBCびわ湖放送）",
+          "desc": "【記者解説】防災への備えと、次はどうする？を考える「防災フェア」（BBCびわ湖放送）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vUUh2aDh1TTBIN3pGV1FFRlJJVWk2RnBtSVpWcVJqdGMzbVVrbWxxTkxMYlpHSDJuR01WQ1JjTmJ0dDgtSDhVOXgwWFdGbGlEbXdYZmlVYWstT3hfM0JEckZoZ016aVdXcWRrbEF4Y3JQaVpXcFdnRENDNGpEU0E?oc=5"
+        },
+        {
+          "text": "記憶なき世代がつなぐ｢災害への備え｣ 被災地の小学生が“無印良品”と防災セットを開発 ｢家族の命を守るために｣ 西日本豪雨8年 広島",
+          "desc": "記憶なき世代がつなぐ｢災害への備え｣ 被災地の小学生が“無印良品”と防災セットを開発 ｢家族の命を守るために｣ 西日本豪雨8年 広島&nbsp;&nbsp;TBS NEWS DIG",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tcnR1REF6UzdmYjQ5S2N3MDY0cjlqRVh4Yl9HLU1qTUhKVDFhOFQ2bGdoQUZOVk5BNVVTd0p6VS1tTFluMUZiVm9aY043dm5LY3pPQmtWbG1TZUE1RlVn?oc=5"
+        },
+        {
+          "text": "【千葉豪雨ルポ】「まさか」は誰にも起こる 記者も県庁に避難 身をもって知った防災の備え（千葉日報オンライン）",
+          "desc": "【千葉豪雨ルポ】「まさか」は誰にも起こる 記者も県庁に避難 身をもって知った防災の備え（千葉日報オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HSFN1bE90eFdJbEM3Y0xySjNBSlNvY0wwaW0tVnZTNVhjRWZXellaNTF0VTZIOWNjRFZJYzktNzZwblRMaVlZX3gzRjFCdE1VSHpJYzVGcDRZdWlrMWU5Y2Q0S2JDc3NOZFlYZU5HWFRmNGptaHVaTmJpOUNEVlk?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-20",
+      "lastFetchedAt": "2026-08-21",
       "source": "Google News"
     },
     {
@@ -188,9 +183,9 @@
       "title": "関係資産 — トレンド・体験",
       "items": [
         {
-          "text": "熊本県で今週末(8月22日・8月23日)に開催されるおすすめイベント20選",
-          "desc": "熊本県で今週末(8月22日・8月23日)に開催されるおすすめイベント20選&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40YWNZOHVzWU55YlNBand6SjVLVnQzUzI4UUZiLXlUNWlkYVJES0NyYzkxWm5qSXBZeGgtTWg1SmJiM3hjbHNpYTJ1ZkJtcVBkT1VuNjVmcGdSM3dTazRNejFKUUpVQQ?oc=5"
+          "text": "【2026年シルバーウィーク】全国の美術館・博物館のおすすめ展覧会26選｜マリー・アントワネット、アンドリュー・ワイエスから、笹岡由梨子、メル・チンまで（Tokyo Art Beat）",
+          "desc": "【2026年シルバーウィーク】全国の美術館・博物館のおすすめ展覧会26選｜マリー・アントワネット、アンドリュー・ワイエスから、笹岡由梨子、メル・チンまで（Tokyo Art Beat）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwbGg3ek9SOTU1LTdoZkZtaFZSZUFldHRwUUdzRlJjQkFEUW90YmtrQjdYOFRqalhDc0w0WTA0NjRSeVZqT3pHYUwtRWhxblFncnI3QXVTRklWNUt0ZjdFb05lcXduVXBFQVFaOU1QR2YwTG9UM1lud0xYWVdpeGM?oc=5"
         },
         {
           "text": "6つの都立美術館・博物館・ギャラリーで夜間開館「オータムナイトミュージアム」初開催",
@@ -198,32 +193,32 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jN00xbTA3X1pZWi1nUTh5R1ZtV3pwUjdCSGRKVXllNU9KdzVDazU5SWNmajM2TVhtZGExRFdjWWtiSnpiczdEUmk3bUkxVjB2MzU1ZE5FQ0tNcUlwcGtTejdTOEdVUjh0Q21CRGY3UXhSWXZKTnFpSA?oc=5"
         },
         {
-          "text": "大阪中之島美術館、2027年度の展覧会スケジュールが公開。「つくる女性の100年」展やターナー展、ウィーン工房展など",
-          "desc": "大阪中之島美術館、2027年度の展覧会スケジュールが公開。「つくる女性の100年」展やターナー展、ウィーン工房展など&nbsp;&nbsp;news.yahoo.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDBtVGh2eTJkM0ZZeW5FQWR0a1RpTGZ4aGVKWEpzdU9jUDVYakx4b3NuZHZnNHFYTGVtLVJuSy16aGpXVmo0U0lQVnRObWt6azhxSzZBT3NmSHZnaDRkTE5XM003ODJtVi16dGVRTVpETEkyLW8zMzhab0E2RHU5dm1TenNWSW04?oc=5"
-        },
-        {
-          "text": "富山県で遊ぶなら！富山県の人気おでかけスポット5選",
-          "desc": "富山県で遊ぶなら！富山県の人気おでかけスポット5選&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fX0wxYlloSUV2N3p4Q1NHY0phR0RBNjZNZXZEWEc1TW4xZlRLRE1oY21YeHh0MFQ1UFNtbGVEYkVTUXRydnZXMWZPTkVNWTItdXBreXpR0gFbQVVfeXFMTTBJVi1GY1FvR0hHb09uVFlBSGh3dEtITXZ5SHl5MFc2Yjc1VDBIZU56OUVVdzhNZjRRZnJtZnZGeDZUSmtOYmx3dVJSa1hoYWNEYmdqRk9kUzZBOA?oc=5"
-        },
-        {
-          "text": "観光スポットとしても人気の東京駅の「別の顔」 知る人ぞ知る出入り口に注目集まる（LIMO）",
-          "desc": "観光スポットとしても人気の東京駅の「別の顔」 知る人ぞ知る出入り口に注目集まる（LIMO）&nbsp;&nbsp;news.yahoo.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVElKYUlrbmx5aVRjS3ROWXRXTXFybXBZT0hWZHctbm5iREVFcTJ5aFl2d3lDTlNqVUNDVkQ3QU9vclRxV1djTkN0Z3NhaUU2TmpPQm5zM1ZVcFdKUVh3bHo5YUR2WmNXNW41YkFZcGJvMERZenpwdEFmamwycHM?oc=5"
-        },
-        {
-          "text": "新名所のららぽーと愛知東郷、5つの楽しみ方！話題のグルメやショップからVR体験まで楽しみ尽くそう",
-          "desc": "新名所のららぽーと愛知東郷、5つの楽しみ方！話題のグルメやショップからVR体験まで楽しみ尽くそう&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40dEpWMnZLUzdHNVZRbFVVZGZiU2dRclV2X1g3RnBEdkFrQm5OYnpROXowQ2k3TXM3eUl6Rk02d2VCbzNoaWxpRFZoNFpFVkg4bFhSdWJR0gFbQVVfeXFMUGJCZmd3RFE1MElrMkdlU2ttTVNPZVpCYWhXQ3JRcEhaTVRya0p6WWZDSDNOUEJ2dVR3LWtwNWtjUXczQ1Z1QmFTWWd6Z2pvQXROYmFlSHFteER6VQ?oc=5"
+          "text": "【2026年シルバーウィーク】関西の美術館・博物館のおすすめ展覧会20選｜フェルメール、フォンタネージから、坂本龍一、ジェフ･クーンズまで（Tokyo Art Beat）",
+          "desc": "【2026年シルバーウィーク】関西の美術館・博物館のおすすめ展覧会20選｜フェルメール、フォンタネージから、坂本龍一、ジェフ･クーンズまで（Tokyo Art Beat）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzTVRhRXZ3Wm1BcjlMQ0VHZ2FqS19WTXp2Z1FzTE1iLW56ZFpJbkJkbkkwS0dTOGVFOFhOZWJNVWdVWE4tamhVNE9henRiOVNsSHZkSGhpZy12b3U1b19ORHRZaUZoY2lsdm1lalV2cWNFOU1KeEg2T1FteUNOcVk?oc=5"
         },
         {
           "text": "「ニホンカワウソはまだいる？」最後の目撃から約半世紀の“未解決ミステリー”に迫る展覧会が四国水族館で開催",
           "desc": "「ニホンカワウソはまだいる？」最後の目撃から約半世紀の“未解決ミステリー”に迫る展覧会が四国水族館で開催&nbsp;&nbsp;ウォーカープラス",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvb3hZZDN1YnQ4ejVkR3I3Ym42TWVkdVB3djB4RlJDTmJCSHphYkFFNnZkM0NLNXpjcHJ1Qnd3QWhPSlhoX0liMFFmSGN2OC1LOWtKOVN30gFbQVVfeXFMTllkWHNSVFVsekdCMTRhT1lZeEs0c3NCUnJkb0EzVlNSRXBRdGhPVTlPcUlnYnRpSU9GM0xFNEFyY1Q5c3RWdldvUTBkMl9oUTVHaDVKc25YRkIzZw?oc=5"
+        },
+        {
+          "text": "秋の日比谷公園に台湾夜市が出現、「屋台湾フェス」が初開催",
+          "desc": "秋の日比谷公園に台湾夜市が出現、「屋台湾フェス」が初開催&nbsp;&nbsp;Time Out Tokyo",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tM1RyTXZuU1F6Q05udTQ1b0didDhmS0l3d19VQUVhazkyZ2hPZXNzTlE2cWtkRnBNLXNkdG9aUVBMNW1UaWZuY28xcHk5VmdxN0kydEFBQjRVbl9wblFlSnM5Q21OUFhKU184VA?oc=5"
+        },
+        {
+          "text": "御殿場高原 時之栖(静岡県)の情報",
+          "desc": "御殿場高原 時之栖(静岡県)の情報&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EVnZDbTk1dFJfVmFNY1Z2YWJhRG1PclgwdzVhQmV2dGUxdk9rQ2JheTI5NEVobGFfTkc1OGtZbWhLR0ZWby1XRTBpdGxpTkpKYmV5VHQ5bUpTQQ?oc=5"
+        },
+        {
+          "text": "東京都庭園美術館で「サマーナイトマルシェ」開催、夜の庭園で音楽や食を楽しむ",
+          "desc": "東京都庭園美術館で「サマーナイトマルシェ」開催、夜の庭園で音楽や食を楽しむ&nbsp;&nbsp;Time Out Tokyo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOTVoMFg4TVNXVGtibnVBZDRVVkEtVERXR3JHZExZTEdxNE1WTWhkY2lZM0RlQ1Nxd2lpUEtvX3h5YlBZOUNVamQwbEpMWHFjMHlZazlUZGRtOFZ0S2Rxb3JYQXJRMWd2VlRSNkU2UF9Ea1g1czZkYzRKNWo4NkxueDBEUmQ0SFUtdUVBdXF0WUNpZTg5WGhXa0hTc2JpNk90?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-19",
+      "lastFetchedAt": "2026-08-21",
       "source": "Google News"
     },
     {
@@ -232,27 +227,12 @@
       "title": "仕事資産 — キャリア・副業",
       "items": [
         {
-          "text": "年収1048万円の「フリーランスAIエンジニア」に仕事は来るか？ 一部出社を求める案件が増加：需要が大きい業界は（2/2 ページ）",
-          "desc": "年収1048万円の「フリーランスAIエンジニア」に仕事は来るか？ 一部出社を求める案件が増加：需要が大きい業界は（2/2 ページ）&nbsp;&nbsp;ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EUEtocEJrcV9uU2ZnRmR2RHV0ME1MbUVtSlhmSktKWlJFczNKRzZLMjJBZlAyTUhiSE9XVnpGaWFnbzJUb0VUZ2NLc1I5TE5oMmFXb2dhei1YWlVaeS1nWHFjeGZyMV9vQXd3RE5UQ3ZLcnpG?oc=5"
-        },
-        {
-          "text": "新潟県長岡市の「女性のテレワーク支援業務」を2年連続で受託",
-          "desc": "新潟県長岡市の「女性のテレワーク支援業務」を2年連続で受託&nbsp;&nbsp;朝日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fcU5hQXZaWHNrdUF5WUUtUW5ZU1ZvdW9pclAtR2V6TUY2UDJPWkxlak9vb2UtMzNSUGZtYXlueHh6OEc4c29jT3pIaVg1aUpMYzVkZ2dLMm9DUHM?oc=5"
-        },
-        {
-          "text": "ＡＳＪ[2351]：コーポレート・ガバナンスに関する報告書 2026/08/19 2026年8月19日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "ＡＳＪ[2351]：コーポレート・ガバナンスに関する報告書 2026/08/19 2026年8月19日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4MjBoZmZLTUh3Z1h0NzVCYVdOVS1SUElsODM3ZjY2REI5X2c4QktxNlBCMXlMUUxpbGN5STJsa3dhV2k1c2d2eVJEYXBaemlEX3gtRkNMd3BMRUVpRW40c3Y1NF9Xc25CUWc?oc=5"
-        },
-        {
-          "text": "国家公務員の離職対策や人材確保の取り組み強化…「キャリア官僚」退職増加や民主党政権の採用抑制で中堅世代の不足が深刻（読売新聞オンライン）",
-          "desc": "国家公務員の離職対策や人材確保の取り組み強化…「キャリア官僚」退職増加や民主党政権の採用抑制で中堅世代の不足が深刻（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wd3lBS2ZzRWhwbnY1QjdQcUF1eHp2aFY2b2hody1XSk5nc3pPVVNLN3VkdnNTV21BazVEaThBZDRmelRiNGg1SGJrUnVjVG5WUWN0RWtxNzdoVHpJSTdIYjNhWWVHYWN6T2hkYWxua0lzd1N5dy1sbF9hcWVDcnc?oc=5"
+          "text": "富士通、オムロン… 「入社して満足」で終わらせない新人成長プログラム",
+          "desc": "富士通、オムロン… 「入社して満足」で終わらせない新人成長プログラム&nbsp;&nbsp;日経ビジネス電子版",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNVhUdVZ5bGFtUFJtRHI2eklWVHVJZFNYOHhoSjlUN3o5cUh5TTdQcU1nQjlMNmhOV0ZJZVRUckZSTmpiMXNzOTZwdWVGNXhwRGVTMkNfdGppYUlHWUtsendkZS1iSGM?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-20",
+      "lastFetchedAt": "2026-08-21",
       "source": "Google News"
     },
     {
@@ -261,19 +241,19 @@
       "title": "制度資産 — 制度・法律",
       "items": [
         {
-          "text": "危険ドラッグの成分４物質を新たに指定薬物に指定",
+          "text": "監督指導による賃金不払残業の是正結果（令和７年）",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/houdou/0000212707_00056.html"
+          "url": "https://www.mhlw.go.jp/bunya/roudoukijun/chingin-c_r07.html"
         },
         {
-          "text": "第32回過労死等防止対策推進協議会　議事録",
+          "text": "賃金不払が疑われる事業場に対する監督指導結果（令和７年）を公表します",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/newpage_75595.html"
+          "url": "https://www.mhlw.go.jp/stf/newpage_75588.html"
         },
         {
-          "text": "建設業・運輸業の働き方改革に向けた新PR動画を公開",
+          "text": "第１０回インフラメンテナンス大賞の募集を開始します",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/newpage_74962.html"
+          "url": "https://www.mhlw.go.jp/stf/newpage_72810.html"
         },
         {
           "text": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
@@ -286,17 +266,17 @@
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
         },
         {
-          "text": "令和８年８月14日付幹部名簿",
+          "text": "世界メンタルヘルスデー JAPAN 2026 特設サイト",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/kouseiroudoushou/kanbumeibo/index.html"
+          "url": "https://www.mhlw.go.jp/kokoro/mental_health_day/index.html"
         },
         {
-          "text": "令和８年熊本地震により被災した学生・生徒の皆様へ",
+          "text": "柔道整復療養費に係る明細書を有償交付する施術所について",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/koyou/jakunen/75497.html"
+          "url": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html"
         }
       ],
-      "lastFetchedAt": "2026-08-18",
+      "lastFetchedAt": "2026-08-21",
       "source": "厚生労働省 / Google News"
     }
   ]
