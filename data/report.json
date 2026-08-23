@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22",
+  "updatedAt": "2026-08-23",
   "summaries": [
     {
       "id": "finance",
@@ -7,14 +7,19 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "【最新｢業界地図｣発売！】AIがもたらす業界の地殻変動､自律型エージェントと国産AIの台頭とは？ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "AI業界の急速な進化とともに､生成AIやサイバーセキュリティー､IPビジネスなど新たな業界の地殻変動が続出しています。『会社四季報 業界地図 2027年版』では､最新AI動向や各分野の動きを徹底解説…",
-          "url": "https://toyokeizai.net/articles/-/955527?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "トランプ米大統領が6月だけで1000件超の証券取引､バークシャー､ビザ､マスターカード､シンタスなどを大量購入 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "米大統領トランプ氏が6月だけで1000件超の証券取引を行い､その規模は最大で420億円にも上ることが明らかになりました。",
+          "url": "https://toyokeizai.net/articles/-/955648?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "政策語らぬFRBウォーシュ議長、ジャクソンホール講演を読み解く",
-          "desc": "政策語らぬFRBウォーシュ議長、ジャクソンホール講演を読み解く&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wVVI4YXJxSjB6a1Bzb3FtcU1GTDMtM0pEWkxvcVoxbTlmbG1DR052bFUxOWNtV1NYOUtSUjNscTFORGgtT0ExRjkxem9BSG5XcmxtVDllR2czdw?oc=5"
+          "text": "映像と科学の2事業を売却､｢祖業を売るなんて｣という批判の声はあったが決断は揺るがなかった | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "2019年､歴史ある映像･科学事業から撤退し､医療分野へ資源を集中するという大胆な決断を下しました。名門企業の大転換､その舞台裏にはどんな苦悩と信念があったのでしょうか。",
+          "url": "https://toyokeizai.net/articles/-/955339?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "イーライリリーが高齢者2000万人市場に踏み込む アメリカ政府が肥満症薬を｢月50ドル｣で解禁 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "減量薬ブームは終息したかと思いきや､イーライリリーの決算がその見方を覆しました。",
+          "url": "https://toyokeizai.net/articles/-/955000?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘（Bloomberg）",
@@ -22,9 +27,9 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mcmZQU3g2Z2NhSGVyYVUyam1HeXo1Z19teXotajg1SFpVZmhLTEpoRlpXZ09pYWNkdlcwbzFFaHZ3X0dRUWJacVlYUGROWHByV1ZibldaWDRoV3VzalpTVWRVTk02TTM0dHB0SDZnWmVRMmJIb25hQXRQanVqV1U?oc=5"
         },
         {
-          "text": "ＦＲＢ当局者、金融政策の独立性強調 財務省の国債支援策巡り(ロイター)",
-          "desc": "ＦＲＢ当局者、金融政策の独立性強調 財務省の国債支援策巡り(ロイター)&nbsp;&nbsp;Yahoo!ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnE4Yno3WkdMY25xVEtyZDJyY1Q2d2wwZlM4aGlTR0NmNWotbWk3QkhDeUdVcFN6a2I2UWFoXzJlYVMyYjNMQV9qZncyUzRFbXdEV2FBS3o1UXlxMHpNXzdfYlpMMnI3ZGFQU25td2tkQmtxY2tYeWhvdHRPa1RDU21lekJNT1k?oc=5"
+          "text": "NYの視点：米財務省は介入で長期金利押し下げVSウォーシュFRB議長は市場に委ねる姿勢、米国債務格下げの可能性警戒",
+          "desc": "NYの視点：米財務省は介入で長期金利押し下げVSウォーシュFRB議長は市場に委ねる姿勢、米国債務格下げの可能性警戒&nbsp;&nbsp;Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN19GNndabzlpZk9TLUdTdWFxSnV1Y3ZwUk55cV9WX2YwVkdKcXo5cEpxNVl5cE5MdG83V3pFcTAtak1oODJXNUFtYjlGcTlHeUZ0eThDOXNIMkpHeU1hd0toazhSZEtNaG5MdEFjZllPWmtYQmF2OUZ3bTBjMmxjSVlxck54S2M?oc=5"
         },
         {
           "text": "23兆円規模「円買い介入」でも止まらない円安、1ドル160円再突入を回避する150円台“定着”に必要な条件",
@@ -35,11 +40,6 @@
           "text": "円相場、26年末に1ドル=155円 三井住友信託の山本氏",
           "desc": "円相場、26年末に1ドル=155円 三井住友信託の山本氏&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54LWcyYlZvTkg0ZmprRm00ajdlN1NWUnI3SlNKY2V2b01ud3lGOXZ5T2ZQeTZvTE1mMFFMZTZ2RExicVNtYS0zdUhJYWVuTHpNUFIyLU54YzBvRXhsWFd6d0VIdjN3alBZdmZwNA?oc=5"
-        },
-        {
-          "text": "協調介入でも円安回帰、長期金利は3％の大台が目前に～マーケット・カルテ９月号 - nli",
-          "desc": "協調介入でも円安回帰、長期金利は3％の大台が目前に～マーケット・カルテ９月号&nbsp;&nbsp;nli-research.co.jp",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvLVdRSDlSazdqUU9UY3FlZlNIN0pwVkpSRUtpbXFQV0gwVVdvcC0xT1FUR3VndnR2dGFoZHhpNDZNbERFOXFRTENzUDlrZ1R2U2gwbC12QWw5WXEtd0hFNUZyUl81V3UteDdQaTdpbVptY1dUTFBv0gGHAUFVX3lxTE9xajFFdElja0p0aGJFU09HNXVaVEhoaVNHOVZFd01nQ0JSRmUyeG85NGJmWDREdDZtajJGSDBXZlRMX1VBbHR2YzktWXBOM1k3UnhSTTdYYVIxdzBkTl9zN0NGY0NzZjByRVcyb2ZmN1RBUEJWcWZrcUFDSlJJRUl2MmlvRGNwMA?oc=5"
         },
         {
           "text": "8月の外為専門家予想 日米協調介入で｢円安歯止めも円高に転じず｣",
@@ -57,7 +57,7 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95U0phcElSUjEyc1ZmVHJLbU5fSmdLZjJPdTgwZmlFSzZIczZtOWRUMEZubVl1MW00UFNLS1FaZHhnQ202TXc5dWkxbFJTbTE0UmdsT1hJMkQxbXRVY051Q0djR2xfR3IyZmxXR2JJdk1lUjFHRHRSYWptTng5bG8?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-22",
+      "lastFetchedAt": "2026-08-23",
       "source": "東洋経済 / Google News"
     },
     {
@@ -65,6 +65,11 @@
       "icon": "🧠",
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
+        {
+          "text": "OpenAI、「GPT",
+          "desc": "OpenAIは、フラグシップモデル「GPT-5.6 Sol」のAPI利用料金を期間限定で最大33％引き下げた。入力4ドル、出力20ドルとするプロモーション価格を少なくとも3カ月間適用し、ChatGPT WorkやCodexのクレジット消費量も削減。利用量や支出上限を追跡・制御できる管理機能も告知している。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/"
+        },
         {
           "text": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
           "desc": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表した。",
@@ -94,14 +99,9 @@
           "text": "Googleのオープンモデル「Gemma」、累計10億ダウンロード超　GitHubに公式ディレクトリ公開",
           "desc": "Googleは、オープンモデル「Gemma」ファミリーの累計ダウンロード数が10億回を突破したと発表した。派生モデルは10万種を超え、公式リポジトリ「Awesome Gemma」をGitHubで公開。宇宙空間での衛星データ解析や新規のがん治療経路の発見など、多様な活用事例を紹介している。",
           "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000670/"
-        },
-        {
-          "text": "macOS版ChatGPT、Appleの「メッセージ」と連携　会話検索や下書き、送信に対応",
-          "desc": "OpenAIは、macOS版ChatGPT向けにAppleの「メッセージ」アプリと連携するプラグインを公開した。CodexやChatGPT Workのチャット上で過去の会話検索や下書き作成、送信が可能になる。誤送信防止のため都度承認フローを備える。Appleシリコン搭載Mac向けだ。",
-          "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000669/"
         }
       ],
-      "lastFetchedAt": "2026-08-22",
+      "lastFetchedAt": "2026-08-23",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -120,6 +120,11 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RcmgzdFdHVHdGLU1rM1FQV01vdUlKbWgzSkhiWW03X0ZFQ3czMVQyd3VKdTl2SS1xVjc5QWNDbmc4VU1XcEFxdUdrc0VkTjl1d1JpLXZ1Nms4WkdDbmtpRWlOdEVqSVpFaUwtQlh1SkRrNDBmOU9SY1lrZjM5SFU?oc=5"
         },
         {
+          "text": "そろそろ更年期の皆さん、まずは「睡眠」の改善が大事よ！「冷え対策」の温活と腸活に加えて運動、そして「測定すること」【更年期ラジオvol.1】（OTONA SALONE）",
+          "desc": "そろそろ更年期の皆さん、まずは「睡眠」の改善が大事よ！「冷え対策」の温活と腸活に加えて運動、そして「測定すること」【更年期ラジオvol.1】（OTONA SALONE）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjNLeDZhR3ZjTFg0TUVYYlNSLVg1MjJSQk5JOVJhQlg5eERCNEpXd1R1S1dDRE5wOU5CWHF0MGF4NXpkcVdZX0NfQVRIRFcyNlRGR3B2S0RCUjB1T0phRTgtcnhydzNodlFUTDE3NGJCalU4MlpkMXJRRi1Qc21ENU8tV0s4UmRy?oc=5"
+        },
+        {
           "text": "ヤクルト本社、「Y1000」など4品に免疫機能維持の表示を追加 10月5日リニューアル（食品産業新聞社ニュースWEB）",
           "desc": "ヤクルト本社、「Y1000」など4品に免疫機能維持の表示を追加 10月5日リニューアル（食品産業新聞社ニュースWEB）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52UkRVVnc5UWNYMVFrT1o1Zzl0YUpyLU84ZmJjQlNvN3IxUTJPazRlbWxnZERUd0tiYXRqRG9hb0FhYzFEM3Y0R3g3V3BXd05SM2NDZGRjVXpvTThNSWttZW85RXh0T3hHR3luSTI5bndjSWxNVnFidVBGUEJLVFk?oc=5"
@@ -130,7 +135,7 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GSzQ3NGQ2VW5XbGpLYTV6MDIyMjZaS1AydnNKQ2h6VnFrQ0ljeDNzbjVUUTRRcG1Rek5lMXJ4TGFoWUEzZk8zNzluUTRSRGl2U2FpWHFJSFhxNHBKQkROMFBiYWg4Y3p0eTU3WkdFUHhscUR4bXlEUGpXYXFPcUU?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-22",
+      "lastFetchedAt": "2026-08-23",
       "source": "Google News"
     },
     {
@@ -154,9 +159,14 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8za2g5VnRQWkR5WDdSREU1ZVZHd29najN2QmxNdFd3YnhxWFE2WWREa19lX1VEMWM5UjNmYlpVN3RmaWtSVHdkTlpELS1HWkNtVTFsTlhsME1MTlRMRGNsdmFvVmF1eDVJVHJDWg?oc=5"
         },
         {
+          "text": "60代ひとり暮らし、「手放してラクになった」考え方。人間関係の悩みも、失敗も引きずらない (ESSE-online)",
+          "desc": "60代ひとり暮らし、「手放してラクになった」考え方。人間関係の悩みも、失敗も引きずらない (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVFmLVV5aUZWY3hsS3VvQUh3bm84OUZSUzMwSVBObVBqSVJVaWZmTW56LTNBOUI2ZGFhOFpQVjc1NHdualpNdkRDYkQ5MGRUVHBEQVdqZzdmOUMycDB1VkdLVjRBRGJPMG9XMENXbGtKbUlOX1JlQ2ZkeGZaNUR4eFZNZ1lkSHZzWGVTWW9R?oc=5"
+        },
+        {
           "text": "トマトジュースで料理をつくったら絶品。50代、ふたり暮らしのリアルな食事 (ESSE-online)",
           "desc": "トマトジュースで料理をつくったら絶品。50代、ふたり暮らしのリアルな食事 (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQjFvZlR0dlRfQjUzQXliV2M5eUlxQ3o0czdsU0ZOLXRJcmN1U25BZDB4QVpPcjFCbEFmY1c5ZHV0WmprQnRlZE9hQ2RtOVhyNDUybUtFNHQyaEhna3B0Tm5oblVpNUFpZnBkaUtROTRyQWlKQjJTb2dsZktLQVlBTVhCMDJuLXhVejdkeGp3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMm1tM3hKaElQLW1hdk9sTGRNVHlhNEhfUmw0SzhsWHNqamwxNTVvMXFGOHVXdi1SSmpGam9IdWRKMThudjVVQl9TSG9Ibi1mVzlLRTZLZFVtNURpSDdnZ0JQNlkxYWVSZTFZVDF2eWhOSlZIbWpnSmpJemQtVkZnaEo0anMtcDEzaXd6cGVR?oc=5"
         },
         {
           "text": "「お疲れさま。でも今日からは…」最終出勤日を迎えた65歳夫、妻が切り出した〈これからの暮らし〉",
@@ -167,14 +177,9 @@
           "text": "勤続34年の55歳女性管理職が「がんばり過ぎる毎日」を変えた、3つの小さな習慣（HALMEK up）",
           "desc": "勤続34年の55歳女性管理職が「がんばり過ぎる毎日」を変えた、3つの小さな習慣（HALMEK up）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsNDNpOHVXdk9aRHVGWXJ0cjZBSVktbDJELTlXOXR6T1IyZk1Tcnc1Z3hxQzUyRlRlV3o4Uk1fNURpS3hCckRoQUxpQkZ2MjQzZVlkb29RMEVPTG9GRUtmQVpKZDhCZFdFMUcwVEktWUxlTDFMU0tFYnQ4eDZPSUE?oc=5"
-        },
-        {
-          "text": "災害への備え 防災グッズを紹介（2026年8月19日掲載）｜RNC NEWS NNN",
-          "desc": "災害への備え 防災グッズを紹介（2026年8月19日掲載）｜RNC NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWxMYmN2U1VBdzk3ZUJUS09pRWNWV0E3bVU2Y3F1YnVPY0NYWk43eUNsekhWWDNLMFpGX2x1b3R6LXBGLTZEMjN2bUNNVWg2MVNIS2RPUHRkdzlCeDVvZVJQTndaaldDX1JwOERVWXJtS0ZHN2xSVTRhTUNEdEFQWUM4elE1NmM?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-22",
+      "lastFetchedAt": "2026-08-23",
       "source": "Google News"
     },
     {
@@ -188,37 +193,37 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwbGg3ek9SOTU1LTdoZkZtaFZSZUFldHRwUUdzRlJjQkFEUW90YmtrQjdYOFRqalhDc0w0WTA0NjRSeVZqT3pHYUwtRWhxblFncnI3QXVTRklWNUt0ZjdFb05lcXduVXBFQVFaOU1QR2YwTG9UM1lud0xYWVdpeGM?oc=5"
         },
         {
-          "text": "6つの都立美術館・博物館・ギャラリーで夜間開館「オータムナイトミュージアム」初開催",
-          "desc": "6つの都立美術館・博物館・ギャラリーで夜間開館「オータムナイトミュージアム」初開催&nbsp;&nbsp;Time Out Tokyo",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jN00xbTA3X1pZWi1nUTh5R1ZtV3pwUjdCSGRKVXllNU9KdzVDazU5SWNmajM2TVhtZGExRFdjWWtiSnpiczdEUmk3bUkxVjB2MzU1ZE5FQ0tNcUlwcGtTejdTOEdVUjh0Q21CRGY3UXhSWXZKTnFpSA?oc=5"
-        },
-        {
           "text": "【2026年シルバーウィーク】関西の美術館・博物館のおすすめ展覧会20選｜フェルメール、フォンタネージから、坂本龍一、ジェフ･クーンズまで（Tokyo Art Beat）",
           "desc": "【2026年シルバーウィーク】関西の美術館・博物館のおすすめ展覧会20選｜フェルメール、フォンタネージから、坂本龍一、ジェフ･クーンズまで（Tokyo Art Beat）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzTVRhRXZ3Wm1BcjlMQ0VHZ2FqS19WTXp2Z1FzTE1iLW56ZFpJbkJkbkkwS0dTOGVFOFhOZWJNVWdVWE4tamhVNE9henRiOVNsSHZkSGhpZy12b3U1b19ORHRZaUZoY2lsdm1lalV2cWNFOU1KeEg2T1FteUNOcVk?oc=5"
         },
         {
-          "text": "「ニホンカワウソはまだいる？」最後の目撃から約半世紀の“未解決ミステリー”に迫る展覧会が四国水族館で開催",
-          "desc": "「ニホンカワウソはまだいる？」最後の目撃から約半世紀の“未解決ミステリー”に迫る展覧会が四国水族館で開催&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvb3hZZDN1YnQ4ejVkR3I3Ym42TWVkdVB3djB4RlJDTmJCSHphYkFFNnZkM0NLNXpjcHJ1Qnd3QWhPSlhoX0liMFFmSGN2OC1LOWtKOVN30gFbQVVfeXFMTllkWHNSVFVsekdCMTRhT1lZeEs0c3NCUnJkb0EzVlNSRXBRdGhPVTlPcUlnYnRpSU9GM0xFNEFyY1Q5c3RWdldvUTBkMl9oUTVHaDVKc25YRkIzZw?oc=5"
+          "text": "観光スポットとしても人気の東京駅の「別の顔」 知る人ぞ知る出入り口に注目集まる（LIMO）",
+          "desc": "観光スポットとしても人気の東京駅の「別の顔」 知る人ぞ知る出入り口に注目集まる（LIMO）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WVElKYUlrbmx5aVRjS3ROWXRXTXFybXBZT0hWZHctbm5iREVFcTJ5aFl2d3lDTlNqVUNDVkQ3QU9vclRxV1djTkN0Z3NhaUU2TmpPQm5zM1ZVcFdKUVh3bHo5YUR2WmNXNW41YkFZcGJvMERZenpwdEFmamwycHM?oc=5"
         },
         {
-          "text": "秋の日比谷公園に台湾夜市が出現、「屋台湾フェス」が初開催",
-          "desc": "秋の日比谷公園に台湾夜市が出現、「屋台湾フェス」が初開催&nbsp;&nbsp;Time Out Tokyo",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tM1RyTXZuU1F6Q05udTQ1b0didDhmS0l3d19VQUVhazkyZ2hPZXNzTlE2cWtkRnBNLXNkdG9aUVBMNW1UaWZuY28xcHk5VmdxN0kydEFBQjRVbl9wblFlSnM5Q21OUFhKU184VA?oc=5"
+          "text": "＜画像7 / 11＞今話題の遊びスポット「ボートレース住之江」でボレジョデビューしよう！",
+          "desc": "＜画像7 / 11＞今話題の遊びスポット「ボートレース住之江」でボレジョデビューしよう！&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdmJBbkV2SHBaRGVVWU9mQmsyYUhDN2M3RFR5SVFFTTY0a044QzdFWEhEcGtiZXhVMDdGX1l4dHVyejlxMTN3NmMzaWNOTVhJcGtKRjZmdTRHOGtxOUxjOFJTRm91MVNSdVE?oc=5"
         },
         {
-          "text": "御殿場高原 時之栖(静岡県)の情報",
-          "desc": "御殿場高原 時之栖(静岡県)の情報&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EVnZDbTk1dFJfVmFNY1Z2YWJhRG1PclgwdzVhQmV2dGUxdk9rQ2JheTI5NEVobGFfTkc1OGtZbWhLR0ZWby1XRTBpdGxpTkpKYmV5VHQ5bUpTQQ?oc=5"
+          "text": "新大阪駅から一駅！JR大阪駅直結の最新スポット「グラングリーン大阪」ならグルメ、ショッピング、宿泊に温泉までそろう！うめきた公園でのんびりおさんぽも",
+          "desc": "新大阪駅から一駅！JR大阪駅直結の最新スポット「グラングリーン大阪」ならグルメ、ショッピング、宿泊に温泉までそろう！うめきた公園でのんびりおさんぽも&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TV21iSVhLVGE2VUNfRVFZOXRLa3FKUDF3c2NGZVJObHpZVUtGTVN5ekU1V0x5Qy1DNmlwMXZJYTBybDdkRzd6eU9uOS1TeTVFamloMzN30gFbQVVfeXFMTmFYQWNBODVvcTluelpFcTZjeXZvdERTT0owWEpPak15SzQ3X0hkWkhIQ3o3S2ZWWTdIWi1McUVtQWl2VHZfV2N3NTlDSjZfRUhUbTNEQUpDU0thRQ?oc=5"
         },
         {
-          "text": "東京都庭園美術館で「サマーナイトマルシェ」開催、夜の庭園で音楽や食を楽しむ",
-          "desc": "東京都庭園美術館で「サマーナイトマルシェ」開催、夜の庭園で音楽や食を楽しむ&nbsp;&nbsp;Time Out Tokyo",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOTVoMFg4TVNXVGtibnVBZDRVVkEtVERXR3JHZExZTEdxNE1WTWhkY2lZM0RlQ1Nxd2lpUEtvX3h5YlBZOUNVamQwbEpMWHFjMHlZazlUZGRtOFZ0S2Rxb3JYQXJRMWd2VlRSNkU2UF9Ea1g1czZkYzRKNWo4NkxueDBEUmQ0SFUtdUVBdXF0WUNpZTg5WGhXa0hTc2JpNk90?oc=5"
+          "text": "新感覚の水上アクティビティを体験！熊本・菊池のおでかけスポット4選",
+          "desc": "新感覚の水上アクティビティを体験！熊本・菊池のおでかけスポット4選&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tcFNMTUpzaXQ2TVB4MkF3NFpYTER2bXJmNkdHVkdxMm5SMDFrOTdLX0VuUHdzQWRpMXVWcU9xa1JFUDNvaGtlR2FWdTAzX21RT1BhRtIBWkFVX3lxTE5VZjVFcDlvT1dRbXdIUGdUa1hhRDdfOEt3RDFzeTB6ZE9yLTFYS2VVcEwxN3VfR2xZcGJOTm5OQ1FFTlBWZ3YzclNTUTNIblhnc3lyeFMzMHF4UQ?oc=5"
+        },
+        {
+          "text": "「岐阜城楽市」が岐阜城のある金華山のふもとにオープン！モーニング、ランチ、お土産…目的別・岐阜らしさ満点の必食グルメをリサーチ",
+          "desc": "「岐阜城楽市」が岐阜城のある金華山のふもとにオープン！モーニング、ランチ、お土産…目的別・岐阜らしさ満点の必食グルメをリサーチ&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OV0lMNUxNZVg2Z0ZxSmpSajRJQk9vbjYyWF9LN2VITXdCYTBxVlNrT1RqRF94R1B5R2pqMlFQcXFIcGgxMWFwQ3Vxd1hxcEhXcXhWeTJR0gFbQVVfeXFMTURmTWdjSFVZa2JGbkRGSE5jU0cyUXNwb0tRbXVnRlBrdmhDNVBfTVU2LW5nWk5DQ0dkc05RYlVxYWNhcGhqMXVmM0RBWjZ3b01mWnIyX25aNkhMWQ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-21",
+      "lastFetchedAt": "2026-08-23",
       "source": "Google News"
     },
     {
@@ -226,11 +231,6 @@
       "icon": "💼",
       "title": "仕事資産 — キャリア・副業",
       "items": [
-        {
-          "text": "「AIを使える人か、使えない人か」で仕事や評価に差が？ 6割のエンジニアが実感した“AI格差”の正体",
-          "desc": "「AIを使える人か、使えない人か」で仕事や評価に差が？ 6割のエンジニアが実感した“AI格差”の正体&nbsp;&nbsp;ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aNDliUXBfYjdzdV9naDRiMWJTd3drMGlJNFFDU1JJM291RHNRWlVicmVwcjZyNUp4cnRpNWlsVEFWU0lkeElRSEhTdkM3MHhrTXdvWHA1ZEJoZVB2ZGE0OEVOeFc4WmdZeEtFUlNnV3pUQQ?oc=5"
-        },
         {
           "text": "富士通、オムロン… 「入社して満足」で終わらせない新人成長プログラム",
           "desc": "富士通、オムロン… 「入社して満足」で終わらせない新人成長プログラム&nbsp;&nbsp;日経ビジネス電子版",
@@ -242,7 +242,7 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4MjBoZmZLTUh3Z1h0NzVCYVdOVS1SUElsODM3ZjY2REI5X2c4QktxNlBCMXlMUUxpbGN5STJsa3dhV2k1c2d2eVJEYXBaemlEX3gtRkNMd3BMRUVpRW40c3Y1NF9Xc25CUWc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-22",
+      "lastFetchedAt": "2026-08-23",
       "source": "Google News"
     },
     {
