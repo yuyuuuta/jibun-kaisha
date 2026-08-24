@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-24",
   "summaries": [
     {
       "id": "finance",
@@ -7,24 +7,44 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "トランプ米大統領が6月だけで1000件超の証券取引､バークシャー､ビザ､マスターカード､シンタスなどを大量購入 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "米大統領トランプ氏が6月だけで1000件超の証券取引を行い､その規模は最大で420億円にも上ることが明らかになりました。",
-          "url": "https://toyokeizai.net/articles/-/955648?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "力ずくの第1次再建合意｢大蔵省に従うことにしたい｣､日債銀ノンバンクが原型　住専アリ地獄③ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "バブル崩壊後の金融危機で､住専問題は銀行と行政の思惑が複雑に絡み合い､損失分担交渉は難航。公的資金なき再建､時間稼ぎの戦略､手詰まりの調整。行政指導は銀行を動かせるのか。危機対応の舞台裏に迫ります。",
+          "url": "https://toyokeizai.net/articles/-/955338?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "映像と科学の2事業を売却､｢祖業を売るなんて｣という批判の声はあったが決断は揺るがなかった | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "2019年､歴史ある映像･科学事業から撤退し､医療分野へ資源を集中するという大胆な決断を下しました。名門企業の大転換､その舞台裏にはどんな苦悩と信念があったのでしょうか。",
-          "url": "https://toyokeizai.net/articles/-/955339?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢ゴキブリは殺せない｣ 自画自賛と意味不明の投稿を繰り返した高市首相､夏休み明けに迫る秋政局は｢終わりの始まり｣か | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "2週間にわたった永田町の｢夏休み｣が終わりました。夏休み明けの政界で話題となっているのが､休み中の高市首相の言動です。展開次第では高市政権の先行きにも大きな影響を及ぼしかねません。",
+          "url": "https://toyokeizai.net/articles/-/955705?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "イーライリリーが高齢者2000万人市場に踏み込む アメリカ政府が肥満症薬を｢月50ドル｣で解禁 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "減量薬ブームは終息したかと思いきや､イーライリリーの決算がその見方を覆しました。",
-          "url": "https://toyokeizai.net/articles/-/955000?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "トランプ氏の大ばくち…イランへの新たな経済制裁と海上封鎖はアメリカが示す条件での戦争終結につながるのか | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "トランプ政権による新たな経済制裁と海上封鎖は､イランへの圧力を一段と強化し､中国やインドにも波及する可能性があります。",
+          "url": "https://toyokeizai.net/articles/-/955661?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘（Bloomberg）",
-          "desc": "FRB利上げ観測、市場はタカ派に傾きすぎ－ゴールドマンが指摘（Bloomberg）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mcmZQU3g2Z2NhSGVyYVUyam1HeXo1Z19teXotajg1SFpVZmhLTEpoRlpXZ09pYWNkdlcwbzFFaHZ3X0dRUWJacVlYUGROWHByV1ZibldaWDRoV3VzalpTVWRVTk02TTM0dHB0SDZnWmVRMmJIb25hQXRQanVqV1U?oc=5"
+          "text": "欧州を〈食品インフレ〉が襲う…燃料･肥料高騰に酷暑が追い打ち､難渋する金融財政政策でユーロ高や政局への影響も | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "記録的な酷暑と干ばつが欧州全体を襲い､農業生産に甚大な打撃を与えています。コーンやワイン用ブドウなど主要作物の不作が食品価格を押し上げ､追い討ちをかけるようにエネルギー･肥料高騰も直撃。これらが引き…",
+          "url": "https://toyokeizai.net/articles/-/955301?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "デフレを脱したはずなのに…今度はインフレ懸念でやっぱり根強い｢ネガティブ･ノルム｣､実質賃金プラス化でも弱い消費 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "実質賃金が回復しつつも､個人消費は力強さを欠き続けています。家計は物価高や将来の不安から消費拡大に慎重で､増えた所得も貯蓄へ回されがちです。デフレからインフレへの転換期､日本経済はなぜ消費マインドを…",
+          "url": "https://toyokeizai.net/articles/-/955470?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "ジャクソンホールのFRB議長講演、物価・AIの認識次第でドル安波乱も",
+          "desc": "ジャクソンホールのFRB議長講演、物価・AIの認識次第でドル安波乱も&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZ1FNMmtXN294czItZUtmWjhrRTNwSDBtYmxwSEZRelBkdjJYZHR0M19jXzBFMl9QZDFzUXNiRV9GZXlUYkNfR1A5Y3BGeXZYWEFZbXd2WVdkMzM4cldkTHFBTFVuUGp4emlONA?oc=5"
+        },
+        {
+          "text": "FX・為替相場の注目指標や予想を解説 - 【8月24日～の週】為替相場の注目材料スケジュールと焦点",
+          "desc": "FX・為替相場の注目指標や予想を解説 - 【8月24日～の週】為替相場の注目材料スケジュールと焦点&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Tks5UFhQeUh4OS1jTmxJdGhuN1lJcUdvX25BbUt5UkxVTEZ3a0RKeVhodDkxdFF4TGFZb1ppVGZ1MkV4dm5PcTN2ZURweUNtb1E?oc=5"
+        },
+        {
+          "text": "FX・為替相場の注目指標や予想を解説 - 8月24日(月)■『米国の長期金利の動向(米国債利回りの動向)』と『米国の金融政策への思惑』、そして『米ドル、日本円、ユーロの方向性』に注目！",
+          "desc": "FX・為替相場の注目指標や予想を解説 - 8月24日(月)■『米国の長期金利の動向(米国債利回りの動向)』と『米国の金融政策への思惑』、そして『米ドル、日本円、ユーロの方向性』に注目！&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yVHVYaTVSakY1NVowWjFlejE1b056NjBtNnkxcDZmbFBEVlhsaF9rbmQ5aDJNdzg0UG02a3VfX1R3Z2dEZnhJNkEyUjc1dGRNcVE?oc=5"
         },
         {
           "text": "NYの視点：米財務省は介入で長期金利押し下げVSウォーシュFRB議長は市場に委ねる姿勢、米国債務格下げの可能性警戒",
@@ -32,32 +52,12 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN19GNndabzlpZk9TLUdTdWFxSnV1Y3ZwUk55cV9WX2YwVkdKcXo5cEpxNVl5cE5MdG83V3pFcTAtak1oODJXNUFtYjlGcTlHeUZ0eThDOXNIMkpHeU1hd0toazhSZEtNaG5MdEFjZllPWmtYQmF2OUZ3bTBjMmxjSVlxck54S2M?oc=5"
         },
         {
-          "text": "23兆円規模「円買い介入」でも止まらない円安、1ドル160円再突入を回避する150円台“定着”に必要な条件",
-          "desc": "23兆円規模「円買い介入」でも止まらない円安、1ドル160円再突入を回避する150円台“定着”に必要な条件&nbsp;&nbsp;ダイヤモンド・オンライン",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50ek8zUlQ4OGpwTjVvSHAyN2otcmgwckxLTXlXNGpSdkxPRjd5ZGJWOFYwdVFHa19xQV9CWGdISlhnYkk5TGZJRUQwOG_SAU9BVV95cUxONm5rSHhLRVh6NFBnbmNzQXFFVm1jVTRiU0w5RG9PLW5QdjNlRmh4YzBSSVlXQ05EdGVFQnV3a1RFcGtuRnpqVW5yQnMxdGw0?oc=5"
-        },
-        {
-          "text": "円相場、26年末に1ドル=155円 三井住友信託の山本氏",
-          "desc": "円相場、26年末に1ドル=155円 三井住友信託の山本氏&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54LWcyYlZvTkg0ZmprRm00ajdlN1NWUnI3SlNKY2V2b01ud3lGOXZ5T2ZQeTZvTE1mMFFMZTZ2RExicVNtYS0zdUhJYWVuTHpNUFIyLU54YzBvRXhsWFd6d0VIdjN3alBZdmZwNA?oc=5"
-        },
-        {
-          "text": "8月の外為専門家予想 日米協調介入で｢円安歯止めも円高に転じず｣",
-          "desc": "8月の外為専門家予想 日米協調介入で｢円安歯止めも円高に転じず｣&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xMkV4OVVibXViTzJLaDlvbVhzOVgxa0FhZExQZWZXek41dXB4ZjY5ZlRSbmJhQVVuUm9GeGthZzdEOXNmRFNwTkNYRWxyUVZjUWRJWHQtQW8taTMteUdHQTRlLU9oNVRmb3pEVXQ5VTZDUW1YR3dnOXhvUXFZQQ?oc=5"
-        },
-        {
-          "text": "１７日の株式相場見通し＝売り買い交錯、前週の急伸の反動で上値重いか",
-          "desc": "１７日の株式相場見通し＝売り買い交錯、前週の急伸の反動で上値重いか&nbsp;&nbsp;株探",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DaWZqWS1LenlzS1pGNFgwYUFEbHFMWm9RTG41OFY0dF8yakpmUUowV3hsVkFqN1NKVWpzQWFkMmgzSFlqd0txbXFhUjBhaWlxSDg1RU02dmpxWHFBaVp1UQ?oc=5"
-        },
-        {
-          "text": "〔東京株式〕反落＝米国株安で（21日前場）☆差替（時事通信）",
-          "desc": "〔東京株式〕反落＝米国株安で（21日前場）☆差替（時事通信）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95U0phcElSUjEyc1ZmVHJLbU5fSmdLZjJPdTgwZmlFSzZIczZtOWRUMEZubVl1MW00UFNLS1FaZHhnQ202TXc5dWkxbFJTbTE0UmdsT1hJMkQxbXRVY051Q0djR2xfR3IyZmxXR2JJdk1lUjFHRHRSYWptTng5bG8?oc=5"
+          "text": "円相場の中長期見通し「今が円安ピーク、徐々に円高か」市場アンケート",
+          "desc": "円相場の中長期見通し「今が円安ピーク、徐々に円高か」市場アンケート&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tTDR4T1h0VVA5MktqVFRLX2MyNmRJbWZaeHA2S296OEd5NERkdUhFNm1HdkRtc2Y3bF80TWozbjRHR0F4TnBoZ3RfRHoxMHZHXzJoeU81aUFuOVFZQVp3eVdNeHE1M3YtNGZKUw?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-23",
+      "lastFetchedAt": "2026-08-24",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "OpenAI、「GPT",
-          "desc": "OpenAIは、フラグシップモデル「GPT-5.6 Sol」のAPI利用料金を期間限定で最大33％引き下げた。入力4ドル、出力20ドルとするプロモーション価格を少なくとも3カ月間適用し、ChatGPT WorkやCodexのクレジット消費量も削減。利用量や支出上限を追跡・制御できる管理機能も告知している。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/"
+          "text": "【復旧済み】「Claude」で障害発生中",
+          "desc": "米AnthropicのAIサービス「Claude」「Claude Code」などで障害が発生している。同社のステータスサイトによると、日本時間の8月24日午後2時27分時点でエラーの原因を特定し、修正作業中という。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000719/"
         },
         {
-          "text": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
-          "desc": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/"
+          "text": "なぜいま30Bクラスのオープンモデルが“熱い”のか　「27BパラメータでOpus 4.6超え」も",
+          "desc": "MetaとNVIDIA、Alibabaが30Bクラスのオープンモデルを相次ぎ公開し、国産の「LLM-jp-4 33B」も登場した。このサイズのモデルが今“熱い”理由と留意点を考察する。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/"
         },
         {
-          "text": "SNSのウソ画像、どう見破る？　熊本県庁やテレビ局も頼る“すごい企業”の正体",
-          "desc": "スペクティが提供する「Spectee Pro」は、さまざまな情報を収集し、その時に起きている「危機」を可視化するシステムだ。多くの自治体やマスコミも活用しているというSpectee Proは、どうやってデマや虚偽の情報を見分けるのか。",
-          "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000682/"
+          "text": "AIエージェント活用を阻む“予算の壁”　セールスフォースらの新機能は打開策になり得るか？",
+          "desc": "企業にとってはあらかじめAI利用コストを想定できないと投資が決まらない。そうなると予算が立てられず、ROIの見通しもつかない。そんな企業のAIエージェント活用に立ちはだかる“予算の壁”を打破するにはどうすればよいのか。セールスフォース、IBM、マネーフォワードが提供を開始した最新機能はその打開策となるのか。",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news075.html"
         },
         {
-          "text": "エイベックス松浦会長「AIで仕事が楽になると思ってたけど、真逆」　note記事作成の“苦労”明かす",
-          "desc": "「AIで仕事が楽になると思ってたけど、真逆でした」――エイベックスの松浦勝人会長は、自身のXアカウントでこのように投稿した。AIを活用したnoteの記事制作の一端を明かした。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000684/"
+          "text": "ChatGPT、Gemini、Claude Sonnet 5の“最強”は？　「速度」と「安定性」を実測して比べてみた",
+          "desc": "主要なAIチャットサービスの「ChatGPT」「Gemini」「Claude Sonnet 5」の中で、応答速度が一番速いのはどれなのか。時間帯によって速度は変わるのか。測定値はどれだけ安定しているのか。実測を基に検証する。",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news049.html"
         },
         {
-          "text": "FANZAで「成人向けAIコンテンツ制作サービス」開始　8月24日から先行体験",
-          "desc": "成人向けECサイト「FANZA」を運営するデジタルコマースが、成人向けAIコンテンツプラットフォーム「FANZAスタジオ」の提供を始める予定だ。8月24日からβ版の先行体験を始める。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000676/"
+          "text": "生成AIの品質を“AIで測る”――「LLM as a Judge」を機能させる3つの要素",
+          "desc": "AIの出力を別のAIが評価する手法「LLM as a Judge」。その基礎をdotDataがブログで解説した。AIにAIを評価させながら、その品質を確保するにはどのような手法が有効なのか。",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news048.html"
         },
         {
-          "text": "「Claudeの使い方」を無料で学べる公式サイト登場　「Code」「Cowork」などサービスごとに解説",
-          "desc": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/"
+          "text": "AI×設計開発ニュースまとめ（2026年5～6月）",
+          "desc": "MONOistに掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、設計や解析など製品開発の現場で活用が進みつつあるAI関連のニュースをまとめた「AI×設計開発ニュースまとめ（2026年5～6月）」をお送りします。",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2608/24/news020.html"
         },
         {
-          "text": "Googleのオープンモデル「Gemma」、累計10億ダウンロード超　GitHubに公式ディレクトリ公開",
-          "desc": "Googleは、オープンモデル「Gemma」ファミリーの累計ダウンロード数が10億回を突破したと発表した。派生モデルは10万種を超え、公式リポジトリ「Awesome Gemma」をGitHubで公開。宇宙空間での衛星データ解析や新規のがん治療経路の発見など、多様な活用事例を紹介している。",
-          "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000670/"
+          "text": "Sakana AI、防衛省の「情報分析」をAIで支援　自衛隊の指揮統制システム高度化に続き",
+          "desc": "Sakana AIは、防衛省における情報の分析業務を支援するAIの開発に関する契約を締結したと発表した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/"
         }
       ],
-      "lastFetchedAt": "2026-08-23",
+      "lastFetchedAt": "2026-08-24",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -130,12 +130,17 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52UkRVVnc5UWNYMVFrT1o1Zzl0YUpyLU84ZmJjQlNvN3IxUTJPazRlbWxnZERUd0tiYXRqRG9hb0FhYzFEM3Y0R3g3V3BXd05SM2NDZGRjVXpvTThNSWttZW85RXh0T3hHR3luSTI5bndjSWxNVnFidVBGUEJLVFk?oc=5"
         },
         {
+          "text": "ＮＺ、16歳未満のＳＮＳ利用禁止法案を提出へ 成立は不透明（ロイター）",
+          "desc": "ＮＺ、16歳未満のＳＮＳ利用禁止法案を提出へ 成立は不透明（ロイター）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WVBORVRKSFUyMTRuc0NkNEJvLXRwMy16NDltUm11Z3J5blVDRGJLd05JWUZobWI0aWR4SlN2dS1MQ3IxOGFxTm54bWp1R2pmZm9DNGNFM0NNRlB5YnRpT1pUWHJNald2MmhHR3BUQ0tMRHVQSFRodlNZU1dIWDA?oc=5"
+        },
+        {
           "text": "韓国成人の4人に1人が「代謝異常脂肪性肝疾患」…生活習慣でリスク低下（KOREA WAVE）",
           "desc": "韓国成人の4人に1人が「代謝異常脂肪性肝疾患」…生活習慣でリスク低下（KOREA WAVE）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GSzQ3NGQ2VW5XbGpLYTV6MDIyMjZaS1AydnNKQ2h6VnFrQ0ljeDNzbjVUUTRRcG1Rek5lMXJ4TGFoWUEzZk8zNzluUTRSRGl2U2FpWHFJSFhxNHBKQkROMFBiYWg4Y3p0eTU3WkdFUHhscUR4bXlEUGpXYXFPcUU?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-23",
+      "lastFetchedAt": "2026-08-24",
       "source": "Google News"
     },
     {
@@ -144,9 +149,9 @@
       "title": "生活資産 — 生活・社会",
       "items": [
         {
-          "text": "60代ひとり暮らし、「手放してよかったもの」3つ。大きな家具が減るだけで暮らしは軽くなる (ESSE-online)",
-          "desc": "60代ひとり暮らし、「手放してよかったもの」3つ。大きな家具が減るだけで暮らしは軽くなる (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUxTeFBseUZXOEtfTWtUd1dUVkx0b1ZRMk5qWDZ6VUVySlp0LUxuNUMzUkhnZDhVSmhNZGNMbnhIakpURGk4R3prVkZpRTU3THZkWElma0d1T3lpN2gxbnlZQVBId2N2eE1IekNBTXpFMFJJZXZ6bnBuanpPWVlKVXlWZ1ZpMEdpT2lCSnFR?oc=5"
+          "text": "60代シニア3人暮らし「キッチン収納」を見直し。「ざっくりor細かく」、2つの基準でラクに片付く (ESSE-online)",
+          "desc": "60代シニア3人暮らし「キッチン収納」を見直し。「ざっくりor細かく」、2つの基準でラクに片付く (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdjYtcFJiU0hLaGJYbXhuTnh6TWtuQ19BM2VmNEtURklsYjdBYk0yVF9HNjVzeUNtS3B0TmxuRzFDdnhtanNyTkJLTE9Pd2VjSnMyVlJFZXJWVUhZZ2dQdDg1d05EYmkzU3JZdjNwWFFCWlh4d25DTnU2V2hjSXRmM085VHFibTJ4UWxuNWZR?oc=5"
         },
         {
           "text": "探りながら職員が目指す「本人の望む暮らし」 やまゆり園事件10年",
@@ -154,9 +159,9 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HNEZPamFScmE3UHUzbnRlQ2ZWRjZoTHZwUjhtMGVqNzc2MTBUUFpNbS1HbVdNNVhGRXBPMTdPQWo5Tms1S25oUUV6VFdMejJLMmdMYWlRRnUtaGwzMTl4aHd3MFVDTzg?oc=5"
         },
         {
-          "text": "JAL「マイル修行」は一生涯 ガスや自社株、上級会員へ暮らし丸ごと",
-          "desc": "JAL「マイル修行」は一生涯 ガスや自社株、上級会員へ暮らし丸ごと&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8za2g5VnRQWkR5WDdSREU1ZVZHd29najN2QmxNdFd3YnhxWFE2WWREa19lX1VEMWM5UjNmYlpVN3RmaWtSVHdkTlpELS1HWkNtVTFsTlhsME1MTlRMRGNsdmFvVmF1eDVJVHJDWg?oc=5"
+          "text": "60代ひとり暮らし、「手放してよかったもの」3つ。大きな家具が減るだけで暮らしは軽くなる (ESSE-online)",
+          "desc": "60代ひとり暮らし、「手放してよかったもの」3つ。大きな家具が減るだけで暮らしは軽くなる (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUxTeFBseUZXOEtfTWtUd1dUVkx0b1ZRMk5qWDZ6VUVySlp0LUxuNUMzUkhnZDhVSmhNZGNMbnhIakpURGk4R3prVkZpRTU3THZkWElma0d1T3lpN2gxbnlZQVBId2N2eE1IekNBTXpFMFJJZXZ6bnBuanpPWVlKVXlWZ1ZpMEdpT2lCSnFR?oc=5"
         },
         {
           "text": "60代ひとり暮らし、「手放してラクになった」考え方。人間関係の悩みも、失敗も引きずらない (ESSE-online)",
@@ -164,22 +169,22 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVFmLVV5aUZWY3hsS3VvQUh3bm84OUZSUzMwSVBObVBqSVJVaWZmTW56LTNBOUI2ZGFhOFpQVjc1NHdualpNdkRDYkQ5MGRUVHBEQVdqZzdmOUMycDB1VkdLVjRBRGJPMG9XMENXbGtKbUlOX1JlQ2ZkeGZaNUR4eFZNZ1lkSHZzWGVTWW9R?oc=5"
         },
         {
-          "text": "トマトジュースで料理をつくったら絶品。50代、ふたり暮らしのリアルな食事 (ESSE-online)",
-          "desc": "トマトジュースで料理をつくったら絶品。50代、ふたり暮らしのリアルな食事 (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMm1tM3hKaElQLW1hdk9sTGRNVHlhNEhfUmw0SzhsWHNqamwxNTVvMXFGOHVXdi1SSmpGam9IdWRKMThudjVVQl9TSG9Ibi1mVzlLRTZLZFVtNURpSDdnZ0JQNlkxYWVSZTFZVDF2eWhOSlZIbWpnSmpJemQtVkZnaEo0anMtcDEzaXd6cGVR?oc=5"
-        },
-        {
           "text": "「お疲れさま。でも今日からは…」最終出勤日を迎えた65歳夫、妻が切り出した〈これからの暮らし〉",
           "desc": "「お疲れさま。でも今日からは…」最終出勤日を迎えた65歳夫、妻が切り出した〈これからの暮らし〉&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9raEY5X29lRThpd19uUVJZSE5vNng3VF9WRGpKMUgwMDVZa042OWlFaGE5QjhyaWliVFZxcEdDV3J4RkQ4eDNUTzFoWmw4eTdQSjBYMnVNVEpPMVI1MnRSb3E1Q3BaSUZWd0dISTV0SXIwN1V5SlFUZ2pYSFZhbHM?oc=5"
         },
         {
-          "text": "勤続34年の55歳女性管理職が「がんばり過ぎる毎日」を変えた、3つの小さな習慣（HALMEK up）",
-          "desc": "勤続34年の55歳女性管理職が「がんばり過ぎる毎日」を変えた、3つの小さな習慣（HALMEK up）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsNDNpOHVXdk9aRHVGWXJ0cjZBSVktbDJELTlXOXR6T1IyZk1Tcnc1Z3hxQzUyRlRlV3o4Uk1fNURpS3hCckRoQUxpQkZ2MjQzZVlkb29RMEVPTG9GRUtmQVpKZDhCZFdFMUcwVEktWUxlTDFMU0tFYnQ4eDZPSUE?oc=5"
+          "text": "55歳女性管理職が「頑張りすぎる人生」をやめた訳。手放してわかった3つのこと（HALMEK up）",
+          "desc": "55歳女性管理職が「頑張りすぎる人生」をやめた訳。手放してわかった3つのこと（HALMEK up）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBselkwT1dQYmZVUFc2LXN5RDFDZzhybUtPUXcxYjloSDlnQ2V4aGU5V2xSby14ZGpBMV9UVkt2YkNaaFc3NkdjQVQxVlZ5eDFyZ0xLbV9mTW1PSmhtNFRfR3pRWVJfaFVuMlcwaDlQNlFoMTZOMzNZQ2Z0Z1M1N0k?oc=5"
+        },
+        {
+          "text": "災害への備え 防災グッズを紹介（2026年8月19日掲載）｜RNC NEWS NNN",
+          "desc": "災害への備え 防災グッズを紹介（2026年8月19日掲載）｜RNC NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRDMycUg5MHRCNmxaM2JGRGRrR2s3TF94QlNYM2VFT1hnenNldVI3MmhXZEx0TUljOXhQUm5ZZG05NXFpeUxkQ2E2UDNtSFFmX0wyUkVzakZRZEhDemhXVWNpUHFEYXdXby1ZX0dwNTdhX05IcHp1NjhpU2FfS3c?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-23",
+      "lastFetchedAt": "2026-08-24",
       "source": "Google News"
     },
     {
@@ -232,9 +237,24 @@
       "title": "仕事資産 — キャリア・副業",
       "items": [
         {
-          "text": "富士通、オムロン… 「入社して満足」で終わらせない新人成長プログラム",
-          "desc": "富士通、オムロン… 「入社して満足」で終わらせない新人成長プログラム&nbsp;&nbsp;日経ビジネス電子版",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNVhUdVZ5bGFtUFJtRHI2eklWVHVJZFNYOHhoSjlUN3o5cUh5TTdQcU1nQjlMNmhOV0ZJZVRUckZSTmpiMXNzOTZwdWVGNXhwRGVTMkNfdGppYUlHWUtsendkZS1iSGM?oc=5"
+          "text": "ITエンジニアの約6割が職場で「AI格差」を実感「AIスキルによる年収格差は拡大する」と65％が予想",
+          "desc": "ITエンジニアの約6割が職場で「AI格差」を実感「AIスキルによる年収格差は拡大する」と65％が予想&nbsp;&nbsp;朝日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zRHFXSkNFMmpzdDJyN0dvMnJiR2pnckJTM3diVzlnZHh2RTlPcnlDWFNrR21HbWVmUXcxQ3p6Tm44MzQzdF84LWRYalJyemZqTFdhbHBjY3hQczg?oc=5"
+        },
+        {
+          "text": "【IT転職市場動向】コンサル求人倍率31.6倍、40〜50代転職者は3年で3倍 求められるのは「AIに負けない即戦力」",
+          "desc": "【IT転職市場動向】コンサル求人倍率31.6倍、40〜50代転職者は3年で3倍 求められるのは「AIに負けない即戦力」&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYmpLSWhsY3BNNzlEYjJiWXpIZDFiQmJpbC1ySW0tbnM1WmN5TTR3azMyVnc1UFNJbXNqZkNaWTkzQ0lfOXZfX3lTMnUyc0hzWUtraDNNR2lIcEE0QlZWTFM4bHpkV00tbVBsaGp4VGI4VWVnUzFtTzhWNS1oRWs?oc=5"
+        },
+        {
+          "text": "紀陽銀行[8370]：コーポレート・ガバナンスに関する報告書 2026/08/24 2026年8月24日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "紀陽銀行[8370]：コーポレート・ガバナンスに関する報告書 2026/08/24 2026年8月24日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNERxVkcxMGx6QU9GdFNkemZtcUVJRlRFWkJmQk0tSnBwR1ZyZGo1YXZ4dmZjU3oxQWZsbUVrZU5pMnU4dGtaYlRTcFc3U1pLakhWMGN1Wlh6TGJqQ0U5eE93U3Y2Q2xQcF9OaHRUSFVvZzhRcjlaTFBPZUhQQVVJMEI0WmJtRWZSZk5LdG1kOURKVmpaRVRKSS00QnJyMEdVN3Q0ZVJBdzlMUUhLc3FLd0RoV1JIM05STkFuUGdmTXhmRmdwNk5oblNpOEs?oc=5"
+        },
+        {
+          "text": "Ｓａｎｓａｎ[4443]：コーポレート・ガバナンスに関する報告書 2026/08/24 2026年8月24日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "Ｓａｎｓａｎ[4443]：コーポレート・ガバナンスに関する報告書 2026/08/24 2026年8月24日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX1dDYmtsZzJ2NFg3cmlLbGRGNjlzX2FRaVN0c0Q0SVZfb1lsa2oxWU1Sek9pV1h3YUozZVRuMGFpVWZHWVJsWjRPbS1ERjUtdVlXOUF3RVFRaHlJcVM0UU9STjJ0QjdaaEdvOGFVUFZHMmFiUEJTZ2EzakpTYWpHVnpTdUc5U0FKSHNXTHNkczNCN0djcjVPQUViV3d3SDFXT2g3Vk5ENm9RdG0zQlpxNXYzN0VLSHpkYmVJNlJ6ZEhKN0JNVDVaRmpudWQ?oc=5"
         },
         {
           "text": "ＡＳＪ[2351]：コーポレート・ガバナンスに関する報告書 2026/08/19 2026年8月19日(適時開示) ：日経会社情報DIGITAL",
@@ -242,7 +262,7 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4MjBoZmZLTUh3Z1h0NzVCYVdOVS1SUElsODM3ZjY2REI5X2c4QktxNlBCMXlMUUxpbGN5STJsa3dhV2k1c2d2eVJEYXBaemlEX3gtRkNMd3BMRUVpRW40c3Y1NF9Xc25CUWc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-23",
+      "lastFetchedAt": "2026-08-24",
       "source": "Google News"
     },
     {
@@ -250,6 +270,21 @@
       "icon": "📜",
       "title": "制度資産 — 制度・法律",
       "items": [
+        {
+          "text": "採用情報（非常勤職員（人材開発統括官） )募集情報",
+          "desc": "",
+          "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan03.html"
+        },
+        {
+          "text": "採用情報（任期付職員（臨床研究等情報化推進専門官）募集情報）",
+          "desc": "",
+          "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-rinsyokenkyutoujouhoukasuisinsenmonkan.html"
+        },
+        {
+          "text": "毎月勤労統計調査ー2026（令和８）年６月分結果確報",
+          "desc": "",
+          "url": "https://www.mhlw.go.jp/toukei/itiran/roudou/monthly/r08/2606r/2606r.html"
+        },
         {
           "text": "監督指導による賃金不払残業の是正結果（令和７年）",
           "desc": "",
@@ -269,24 +304,9 @@
           "text": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
           "desc": "",
           "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
-        },
-        {
-          "text": "新型コロナウイルス感染症の定点当たり報告数の推移を更新しました",
-          "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html"
-        },
-        {
-          "text": "世界メンタルヘルスデー JAPAN 2026 特設サイト",
-          "desc": "",
-          "url": "https://www.mhlw.go.jp/kokoro/mental_health_day/index.html"
-        },
-        {
-          "text": "柔道整復療養費に係る明細書を有償交付する施術所について",
-          "desc": "",
-          "url": "https://www.mhlw.go.jp/bunya/iryouhoken/jyuudou/ryouyouhi_yusyokouhu_sejutsusho.html"
         }
       ],
-      "lastFetchedAt": "2026-08-21",
+      "lastFetchedAt": "2026-08-24",
       "source": "厚生労働省 / Google News"
     }
   ]
