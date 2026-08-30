@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-08-31",
   "summaries": [
     {
       "id": "finance",
@@ -7,29 +7,44 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "過去1カ月の為替介入額は15兆3993億円と過去最大､期間中には日米協調 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "財務省は28日､過去1カ月間の為替介入の実施状況を公表した。7月30日から8月26日までの介入額は15兆3993億円と､月次ベースでは過去最大を更新した。円相場は7月下旬に1ドル＝164円台に迫る円…",
-          "url": "https://toyokeizai.net/articles/-/956247?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "【特報】｢ロシアは勝てない｣…CIA長官がモスクワ電撃訪問でプーチンに突きつけた〈侵攻停止〉と〈和平交渉開始〉 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "4年半続くウクライナ侵攻が大転換を迎えています。米CIA長官がモスクワを訪れ､ロシアの勝利は不可能と伝達し､和平交渉を強く要求。アメリカがウクライナ･欧州側に付く立場を鮮明にし､戦局は新たな局面をむ…",
+          "url": "https://toyokeizai.net/articles/-/956302?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "6.4億円相当のダイヤのネックレスが白昼堂々盗まれる…ウィーンのオーストリア応用美術博物館で | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "ウィーンのオーストリア応用美術博物館で､エジプト王室の結婚式のために製作された約6億円相当のダイヤモンドネックレスが白昼堂々と盗まれました。",
-          "url": "https://toyokeizai.net/articles/-/956255?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "【短パン通勤】猛暑で始まった男性のカジュアル出勤､｢通勤用｣と｢休日向け｣の衣服の線引きが曖昧に | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "毎週金曜日にリラックスした服装で出勤するカジュアル・フライデーの試みでも定着してこなかった男性の「短パン通勤」が、今夏の記録的な暑さを受けて広がり始めている。一足早く動きが出たのは東京だ。東京都はこ…",
+          "url": "https://toyokeizai.net/articles/-/956303?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "ネパール土石流の生死を分けた｢15秒｣､生存者が語る濁流の恐怖…わずか数秒で命運が分かれる未曽有の災害の全貌 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "静かな朝､ヒマラヤ山中の税関職員が体験した突如の異変──地鳴り､濁流､逃げ惑う人々。わずか数秒で命運が分かれる未曽有の災害の全貌とは。",
-          "url": "https://toyokeizai.net/articles/-/956262?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢お父さんのいびきには要注意｣｢減量はすごい！｣…処方薬の直接広告NGの中国肥満症薬市場で広がる\"ステルス広告\" | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "中国では処方薬の直接広告が禁止されている中､急増する肥満問題を背景に減量薬メーカー各社が｢ステルス広告｣戦略を展開しています。",
+          "url": "https://toyokeizai.net/articles/-/956292?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "世界の指導者はトランプの言うことを聞かなくなったのか カナダとアメリカの｢衝突｣が象徴する変化 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "アメリカのトランプ大統領に\"屈しない\"ことが世界のトレンドになりつつあります。",
-          "url": "https://toyokeizai.net/articles/-/956177?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢中国軍と関係はない｣…中国メモリー大手CXMTが｢中国軍支援企業リスト｣への掲載を不服として米政府を提訴 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "中国最大のメモリー半導体メーカー､長鑫存儲技術（CXMT）が米国防総省の｢中国軍支援企業｣リスト掲載を不服とし､米政府を提訴しました。",
+          "url": "https://toyokeizai.net/articles/-/956294?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "【特別連載ダイジェスト】神津里季生･連合前会長が語る､激動の日本政治と｢働き方改革｣論議の舞台裏 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "歴代最長で連合会長を務めた神津里季生氏が､働き方改革や野党再編の激動期に何を考え､どのように闘ったのか―。政労使の知られざる舞台裏や緊迫の交渉､次世代への提言まで､トップの葛藤と決断の真実に迫ります。",
-          "url": "https://toyokeizai.net/articles/-/955727?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢われわれの目標を100%達成できない可能性もある｣イラン大統領､戦争終結へ妥協の用意を示唆 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "イランのペゼシュキアン大統領が､戦争終結に向けて｢100%の目標達成は難しい｣と発言し､譲歩の可能性を示唆しました。",
+          "url": "https://toyokeizai.net/articles/-/956276?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "【トランプ氏の大誤算】終わらぬイラン戦争…戦争継続への不満が強まる中で共和党は危機を乗り越えられるのか | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "イランとの戦争が長期化し､インフレやガソリン高を招いたことで､トランプ大統領と共和党は支持基盤の動揺に直面しています。中間選挙を控え､戦争継続への不満が党への逆風を強めるなか､共和党はこの危機をどう…",
+          "url": "https://toyokeizai.net/articles/-/956286?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "アメリカ財務省が踏み込んだ｢異例の決断｣､それでも止まらない｢日米同時金利上昇｣に潜む歴史的円安の\"不都合な真実\" | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "世界的な長期金利の高騰と円安の動きが止まらない。アメリカのスコット･ベッセント財務長官は｢長期債の買い戻し｣という異例の措置に踏み切ったが､効果は1日しかもたなかった。",
+          "url": "https://toyokeizai.net/articles/-/955850?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "米アプライド･マテリアルズの最新決算が映す｢AI半導体の供給逼迫｣ 顧客は2年先まで発注を確約 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "アメリカの半導体製造装置最大手アプライド･マテリアルズは､AIブームを背景に過去最高の業績を記録しました。",
+          "url": "https://toyokeizai.net/articles/-/955686?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "FRB議長、インフレ高止まりなら「やるべき仕事ある」 利上げに含み",
@@ -37,27 +52,12 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kZlFYR1V0dFAxOHJralV3dDY1QTBIbDdDR1huQ1FnUU8yYVlaeFBzU0xkNllVc1ZNNnVEN0FvQnhybk03djJjZl9nQkZqcUQ1X3pXaGRESFVMWVJkS2p6TTJ1QnEtSzFiWUg1Vg?oc=5"
         },
         {
-          "text": "焦点：ジャクソンホール、切望されるウォーシュＦＲＢ議長の明確な政策説明",
-          "desc": "焦点：ジャクソンホール、切望されるウォーシュＦＲＢ議長の明確な政策説明&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHAyRVBEUWZTb0c1b1NvWFBkZkxnWVFoTFNMY0FHeTVsWUZkOUdGVzM1bjB5ZWMyN3ptQmFtTWhuUUV5WG02S3JpNlBkVUxOOTZKQ0tuVzZiNEtudnV1aHpzT1loZHZzWG0wdlhySW1HdWVnT1FiWFFuc29NTUg2cw?oc=5"
-        },
-        {
           "text": "FRB議長ケビン・ウォーシュ、インフレなお高すぎると懸念──ジャクソンホール初講演",
           "desc": "FRB議長ケビン・ウォーシュ、インフレなお高すぎると懸念──ジャクソンホール初講演&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEV0NGUwTGRGOVgtNlhLamdYRkR5S2lac1A5d3BKNGhqNEVCd2xwQTZJVGJFQVoyTjNxUXoxMEJLWnFqMmJfV2pEVlhTekpaNHFSZklLYlZlX3dXR2RxTlJBZW1QU2ZyMC12Z1BBU0Q4X05kbmNwcERlbS1WM3BnWGRQOGtqRHF3?oc=5"
-        },
-        {
-          "text": "FX・為替相場の注目指標や予想を解説 - 8月27日(木)■『米ドル、日本円、ユーロの方向性』と『日本と米国の金融政策への思惑』、そして『明日28日に控えるウォーシュFRB議長の講演』に注目！",
-          "desc": "FX・為替相場の注目指標や予想を解説 - 8月27日(木)■『米ドル、日本円、ユーロの方向性』と『日本と米国の金融政策への思惑』、そして『明日28日に控えるウォーシュFRB議長の講演』に注目！&nbsp;&nbsp;ザイFX！",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uUzM4eVdOSjZoaGs2TXhLQ0lCYm4yYlZCSlhRNm1OYl9YeExkSWwyZHFfNk8zSWF5TWdsU2RsYlBuamszV1NRYTQxSTJwcTllVmc?oc=5"
-        },
-        {
-          "text": "ジャクソンホールのFRB議長講演、物価・AIの認識次第でドル安波乱も",
-          "desc": "ジャクソンホールのFRB議長講演、物価・AIの認識次第でドル安波乱も&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZ1FNMmtXN294czItZUtmWjhrRTNwSDBtYmxwSEZRelBkdjJYZHR0M19jXzBFMl9QZDFzUXNiRV9GZXlUYkNfR1A5Y3BGeXZYWEFZbXd2WVdkMzM4cldkTHFBTFVuUGp4emlONA?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-30",
+      "lastFetchedAt": "2026-08-31",
       "source": "東洋経済 / Google News"
     },
     {
@@ -65,6 +65,16 @@
       "icon": "🧠",
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
+        {
+          "text": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+          "desc": "OpenAIと評価機関METRは、Hugging Face侵害事案の技術報告書を公開した。約1200体のAIエージェントが非公式掲示板で結託し、難問攻略のため採点機構を探る過程で攻撃を実行したという。OpenAIは根本原因を報酬ハッキングとし対策を公表したが、METRは自律的集団行動の再発リスクに警戒を示している。",
+          "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/"
+        },
+        {
+          "text": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
+          "desc": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
+          "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/"
+        },
         {
           "text": "キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく",
           "desc": "2026年8月24日～28日に公開された記事の中から、MONOist編集部が厳選した今週のニュースをお届けします。",
@@ -89,19 +99,9 @@
           "text": "Hugging Face、あひる型ロボット「Microduck」発表　399ドルで予約開始",
           "desc": "Pollen Roboticsは、二足歩行ロボット「Microduck」を発表し予約受付を開始した。399ドルで25cmの小型設計。強化学習による動作学習に特化し、SDKやシミュレーターをOSSとして公開する。大型機と異なり家庭や教室で安全に試行錯誤できる「行動するAIのためのプラットフォーム」を目指す。",
           "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/"
-        },
-        {
-          "text": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表　将来オープンソース化へ",
-          "desc": "Anthropicは、AIエージェントが実験・製造機器を安全に操作するための共通仕様「Model Hardware Standard」（MHS）を発表した。機器の統合作業を大幅に短縮し、基本命令や安全制限を標準化して自律制御を可能にする。先行導入事例を公開し、安全性評価を進めた上でオープンソース化する方針だ。",
-          "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/"
-        },
-        {
-          "text": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
-          "desc": "Googleは、信頼できる情報源をAI製品で活用する取り組み「Expert Intelligence」を発表した。第1弾として「Google Playブックス」の対象電子書籍を「Gemini Notebook」のソースに追加可能にした。大手出版社の10万冊以上が対象で、今後は他サービスにも拡大する。",
-          "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/"
         }
       ],
-      "lastFetchedAt": "2026-08-30",
+      "lastFetchedAt": "2026-08-31",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -130,22 +130,22 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTdmaE1ib0ZQU0ZObmhLZWUzbDc1LVNUTEpWWWh5c2xyV1h0cnJ1S1VDUzRvVVM0Z1d5d3FIbnVaRnEyUUVtcXc1cDZxWEtNUE1UYVphTjFaVDN4M05WVmxZaVZMZ3ZoVFFNWGdmSFI3c3pRY3gxQTVBYUw4TnFneTA4aVRhSkxj?oc=5"
         },
         {
+          "text": "シニアこそ「ピラティス」 体幹を強化し、転倒予防や尿漏れ改善に期待（産経新聞）",
+          "desc": "シニアこそ「ピラティス」 体幹を強化し、転倒予防や尿漏れ改善に期待（産経新聞）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ca3NoN0lvUHVKRUl5Q2ZXQ3FSY3lVSm1WXzBZX05ob0V4dXk0Mlp5NjI1RTRqeU4zY2NLcXBFSlEtUWFVVmtzSUtLd2xRSFRSUDktUFgzRmxIRVJTTlYyWGphUjVwWTVhcXN3ZC01TlBZVGttQzhxSjIzakxZNk0?oc=5"
+        },
+        {
+          "text": "心と体の休め方＆ストレス解消法 リーダーたちの休日",
+          "desc": "心と体の休め方＆ストレス解消法 リーダーたちの休日&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42SS1WTE9mYnNOSVVPUFlpRnlHS3IyOV9JSTBPVkR1UGlCNUExSEJPMk9Cb3ZmRW5MVXVzWXp1YjFMX2N4cU9ULXladXhEcl9nMnRJb1Jmek84YVFEN1VF?oc=5"
+        },
+        {
           "text": "ＮＺ、16歳未満のＳＮＳ利用禁止法案を提出へ 成立は不透明（ロイター）",
           "desc": "ＮＺ、16歳未満のＳＮＳ利用禁止法案を提出へ 成立は不透明（ロイター）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3WVBORVRKSFUyMTRuc0NkNEJvLXRwMy16NDltUm11Z3J5blVDRGJLd05JWUZobWI0aWR4SlN2dS1MQ3IxOGFxTm54bWp1R2pmZm9DNGNFM0NNRlB5YnRpT1pUWHJNald2MmhHR3BUQ0tMRHVQSFRodlNZU1dIWDA?oc=5"
-        },
-        {
-          "text": "健康寿命と平均寿命、実は何年違う?最新データで見る男女差と老後の備え（LIMO）",
-          "desc": "健康寿命と平均寿命、実は何年違う?最新データで見る男女差と老後の備え（LIMO）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcGprVWx6blBjeG9yaGJmcklJdG9FbjZna3RNQVRFQXc4MldSS1FMdTRmcjBhUVYySF92TWtIZjlPemRzZm5YVGNZWHZERlI3aUxzWmQzRFFCZmRndldENW1kdE9oMVVvNGUxUjVuRklGNHpDelVTVEl1c3EzMTdtOWRJS1prZlUt?oc=5"
-        },
-        {
-          "text": "「野菜、足りてる？」 1日350グラム 達成は2割前後／岡山・津山市（津山朝日新聞）",
-          "desc": "「野菜、足りてる？」 1日350グラム 達成は2割前後／岡山・津山市（津山朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwTHFORzBJRi1nWE84cGtuNjBRRUUtWTJrczRya3lLaVdDREhHc1NmRHZPV0t1YmMzVDVWTWtfbHBnRjItblpoWnJaWGhvMU1OYkVUMnI1bUNjcjVfaGkzYWhuVUhBS2RHeFlhX2gza2t4YkoyM0VPVmg4OUxGcW8?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-30",
+      "lastFetchedAt": "2026-08-31",
       "source": "Google News"
     },
     {
@@ -154,24 +154,14 @@
       "title": "生活資産 — 生活・社会",
       "items": [
         {
-          "text": "60代シニア3人暮らし「キッチン収納」を見直し。「ざっくりor細かく」、2つの基準でラクに片付く",
-          "desc": "60代シニア3人暮らし「キッチン収納」を見直し。「ざっくりor細かく」、2つの基準でラクに片付く&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdjYtcFJiU0hLaGJYbXhuTnh6TWtuQ19BM2VmNEtURklsYjdBYk0yVF9HNjVzeUNtS3B0TmxuRzFDdnhtanNyTkJLTE9Pd2VjSnMyVlJFZXJWVUhZZ2dQdDg1d05EYmkzU3JZdjNwWFFCWlh4d25DTnU2V2hjSXRmM085VHFibTJ4UWxuNWZR?oc=5"
-        },
-        {
           "text": "暮らし上手が「見直してよかった」夏の家事ラク3つ。麦茶づくりはやめて、火を使わない料理メインに (ESSE-online)",
           "desc": "暮らし上手が「見直してよかった」夏の家事ラク3つ。麦茶づくりはやめて、火を使わない料理メインに (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUEJwanVycnN4U0E5VFpzZXp3Q1ZodHNrTDg5aTVwRl9jQ3djU01kbzF1R0hLVjlPUEphN3FxTlRjekxsZWNSWUhMT0lNNUlmNWVlVDZYSXJCd3Y1dUZGTHNlbzVTNnhQZ0MtcnMtQ19YT2hLSl9Gc19uUy04NXdRS29ENGJWcHMzNXdyV1ZR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSkJiaGRyUWFUZFpJSjAxc1BacFVvWWl1ZE0zeGZNaldhbTN0a2lIM2prMnZ2ZFlvODZTYWU1YTNGWllIS0JDLVNhYTdsdmU2RWV0X3NmZTNWS0dNd2paVDd1RTRSUHBnY2Y4bU56ck9oWG05VS1aNkVOMThGTmxEbXJzYVVJUHlmZFd6dTJ3?oc=5"
         },
         {
           "text": "40代、「自分らしく暮らすために見直したもの」。ふきんや箸は使いやすく、鍋はとことんこだわる (ESSE-online)",
           "desc": "40代、「自分らしく暮らすために見直したもの」。ふきんや箸は使いやすく、鍋はとことんこだわる (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWthVWhHZkhLSXBRX1lzNE1Hc2dKMlMxVW1WN2RsRWRsR1BXWjB5MGZXX2FJZnR3M1pTWEV3RmJGckhjMkZyUkZjMUwwR25Tb1loUDhxR2JTczM0YTNhWEk4eG01aHVJMG9haHd6UmVGRmxHVFpTcno1MTJMTzBhNW0xbzFkdzFkdFFTS2NR?oc=5"
-        },
-        {
-          "text": "田舎で住み込みインターンシップ 大学生が南越前町で企業の課題解決 豊かな自然の中での暮らし満喫",
-          "desc": "田舎で住み込みインターンシップ 大学生が南越前町で企業の課題解決 豊かな自然の中での暮らし満喫&nbsp;&nbsp;日テレNEWS NNN",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeWpscnVtOEd4V2hLWUhiNFBxTHFvWjVkUGhnT0t0d21jTWlVN2pqMG14RnVaRzlqNmRYRHRmdmR3Qk5OUnJzLU4wZmc0dFRRdTkzSFdqZjdTSUJVdV9FYUdTZkJ1OWZSSlIxbEw1VkhHVDk5M1FLaUhDU2daZzlWZ29wR2lCWUE?oc=5"
         },
         {
           "text": "災害に備える 2026 【LINE / Yahoo! JAPAN 共同企画】",
@@ -187,9 +177,19 @@
           "text": "【防災】こどもを災害から守る 万が一に備えてこどもに共有しておきたいこと（ウェザーマップ）",
           "desc": "【防災】こどもを災害から守る 万が一に備えてこどもに共有しておきたいこと（ウェザーマップ）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ed0k2WDJMRzNNV0xHeDdZeWRFQnRRX2YwcnRMb3NYajVKQ2xrUnk4MVlxU0FCcFpTRkdRZG9UTTAxVWtRY2Z3ZmZyRDNLVG9vVzE5TEFDZEx0bkN6elZqb0NLc3VDdjJ4TFBqX3BwOHAyMER3RVA1WmgxTXRSbXM?oc=5"
+        },
+        {
+          "text": "防災の専門家から学ぶ“被災地での注意点” 大雨など複合災害への備えが必要（2026年8月27日掲載）｜KKT NEWS NNN",
+          "desc": "防災の専門家から学ぶ“被災地での注意点” 大雨など複合災害への備えが必要（2026年8月27日掲載）｜KKT NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWpzcHg3ZGFxV3NDTkoxcHpUYmtvYVpjVUY3WXhrMzFlRWpWLXN0UUhjNDFDZHRMVFozekNWbTExMXhYVXMxczQ1ZTdjX0Z3bVFXSU1wME1EaEFiLVlvV3lTbzRIMG9Qay16aHluNFZGblAyWExFdExkZTdFQ2xJNEJYN0V2eGM?oc=5"
+        },
+        {
+          "text": "災害は“遠い出来事”じゃない…過去の教訓から命を守る行動につなげる新制度「NIPPON防災資産」とは？（TOKYO FM＋）",
+          "desc": "災害は“遠い出来事”じゃない…過去の教訓から命を守る行動につなげる新制度「NIPPON防災資産」とは？（TOKYO FM＋）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pdWpoQXlIQ21WWDl1bmprTk5OMlQtNDBtclNCTjdmV21ValozTDNNbzJQVXNBaU52LTdGYms2eDFoNzBUQUFlX0JYYTVuUFlMTWQ0d0Z6dkRabGJaSUtGc0pYUzFMaElxVkRzRmRzZ0tyelhTUUNsQVdOaThPVnc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-30",
+      "lastFetchedAt": "2026-08-31",
       "source": "Google News"
     },
     {
@@ -242,14 +242,19 @@
       "title": "仕事資産 — キャリア・副業",
       "items": [
         {
-          "text": "【IT転職市場動向】コンサル求人倍率31.6倍、40〜50代転職者は3年で3倍 求められるのは「AIに負けない即戦力」",
-          "desc": "【IT転職市場動向】コンサル求人倍率31.6倍、40〜50代転職者は3年で3倍 求められるのは「AIに負けない即戦力」&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYmpLSWhsY3BNNzlEYjJiWXpIZDFiQmJpbC1ySW0tbnM1WmN5TTR3azMyVnc1UFNJbXNqZkNaWTkzQ0lfOXZfX3lTMnUyc0hzWUtraDNNR2lIcEE0QlZWTFM4bHpkV00tbVBsaGp4VGI4VWVnUzFtTzhWNS1oRWs?oc=5"
+          "text": "AIスキルがあると給与62％増？ 10億件の求人データから読み解く“AI時代の市場価値”（AMP［アンプ］）",
+          "desc": "AIスキルがあると給与62％増？ 10億件の求人データから読み解く“AI時代の市場価値”（AMP［アンプ］）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aeGhZMDRGUkFodlduemNsOG9VUlVNV1ozSmV3U1pYeC1SUGtkenVIZXNPZllxSEprOUV1Znc2UG81S2NTR1h5NTBRamxmVVE2UDQ3T0FhUFNjd3pZcktFNzFKOU5SQ0VCU2pDYUc1dVBBdEJPaVV0a3o3d203MlE?oc=5"
         },
         {
           "text": "2035年、AI推論需要の半分は「コード生成」に 推論市場の今と未来：主要ベンダー6企業を解説",
           "desc": "2035年、AI推論需要の半分は「コード生成」に 推論市場の今と未来：主要ベンダー6企業を解説&nbsp;&nbsp;ITmedia",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nVy11RF9qMmx6NmFKLWJWdnVZNGtvYUxCUm8wenlrYlFEbnBjT2lMRFdwQXJ4MlNKUjk0eHN5dE9TM2pzakpkb0Z2QU1fdGVSMkYybHQxeDgyd3JlZFdWeGVFZTRDb0t1TnhjOGFicS1uUQ?oc=5"
+        },
+        {
+          "text": "【IT転職市場動向】コンサル求人倍率31.6倍、40〜50代転職者は3年で3倍 求められるのは「AIに負けない即戦力」",
+          "desc": "【IT転職市場動向】コンサル求人倍率31.6倍、40〜50代転職者は3年で3倍 求められるのは「AIに負けない即戦力」&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zYmpLSWhsY3BNNzlEYjJiWXpIZDFiQmJpbC1ySW0tbnM1WmN5TTR3azMyVnc1UFNJbXNqZkNaWTkzQ0lfOXZfX3lTMnUyc0hzWUtraDNNR2lIcEE0QlZWTFM4bHpkV00tbVBsaGp4VGI4VWVnUzFtTzhWNS1oRWs?oc=5"
         },
         {
           "text": "LINEヤフー、育休中にもスキルアップ AI研修で復職への不安軽減",
@@ -262,17 +267,17 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5keVdUQXFuOHVvX3g0X0JZaV9QYkVQX1VSUHU5WlB4WHJfUVA4WGdGdTVyUFNhSmNuYWs3SHVMQW0tNF9kT09lR000U2lyWjdDNHpCck5Ja3dDWnNFRGM1U3IyRVRxUWctT0RYRA?oc=5"
         },
         {
-          "text": "ＥＲＩホールディングス[6083]：コーポレート・ガバナンスに関する報告書 2026/08/27 2026年8月27日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "ＥＲＩホールディングス[6083]：コーポレート・ガバナンスに関する報告書 2026/08/27 2026年8月27日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzB0TVUyeHJDUGdJZEx0S1J5bkZMNzVoNTZYclhDMlFVbTQzTTc2RWFaZTJzS2tYdnJzTEx0MGdTcWVqT2d0VXM5VXRjZ3BwM2tDTjh2cDhUU2RiYnI4b3VyTDJvSkVHS21SS0FSazlqV2xEaFhFWXpPOWs4UDFWU2pTMGI4VTFZdEpuM3BjTUttT2JlTGVtaDQwb3Z5MGlEZmlRWWZVZVBaRVM1dlZ0eVF2VHo3UlI5Sk5RY3NMQm1JcW5xOW5Fa0Z4Yzc?oc=5"
+          "text": "紀陽銀行[8370]：コーポレート・ガバナンスに関する報告書 2026/08/24 2026年8月24日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "紀陽銀行[8370]：コーポレート・ガバナンスに関する報告書 2026/08/24 2026年8月24日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tVlQ4bFpyZDlvNDg2bWdReGNsOTdQYjZRb3NITmVuMmhlNFVHR3lSdUc1bng3dENaU0NpUVhzNWFVeGhYWGJfU3FlSm5QU2VNOHJRaEc1aG94c0t2bXlBcXpweTNhRHBKV0E?oc=5"
         },
         {
-          "text": "雲南で「多様な人材とAI」セミナー 人材不在時代の企業戦略を考える（みんなの経済新聞ネットワーク）",
-          "desc": "雲南で「多様な人材とAI」セミナー 人材不在時代の企業戦略を考える（みんなの経済新聞ネットワーク）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xS0M3dDIzM09UbWVKVWRWVXNnR20wR1NiZWtsYVBkR2hVLWd1bldFX1pYdTdFanhldXBnOFh5Zmg5SlZGWnBhRWpQZmpTMDdjN3JSdWl2X0hzS3pqajN1aTBlRmVFakpzWU9PWXBOb2thaXNXR2dMeUJxZzQtQWM?oc=5"
+          "text": "未達なら年数百万円の“ペナルティ”なのに、障害者雇用の達成率は46％止まり…「採用後の1年以内離職」が続くワケ",
+          "desc": "未達なら年数百万円の“ペナルティ”なのに、障害者雇用の達成率は46％止まり…「採用後の1年以内離職」が続くワケ&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlUzWXhmNmRQRERUZkxXaVg4STFlcVFGaGNEdnhRcEhUUjRmZl9JcHpNbVFsVmhnZUhlY0RoYkZfVmR0WF9aLUhwZ2lTMWxpTXdiM1FtcENUanA4VkN6QVpuRFRvNE5WWndqNHh1T2MwRUNiQUtHVG1jUHpuWmV3NzUwdjh4dDVv?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-08-30",
+      "lastFetchedAt": "2026-08-31",
       "source": "Google News"
     },
     {
@@ -281,42 +286,42 @@
       "title": "制度資産 — 制度・法律",
       "items": [
         {
-          "text": "令和６年度　介護保険事業状況報告（年報）",
+          "text": "調剤医療費（電算処理分）の動向　～令和7年度版～",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/topics/kaigo/osirase/jigyo/24/index.html"
+          "url": "https://www.mhlw.go.jp/topics/medias/year/25/gaiyou.html"
         },
         {
-          "text": "薬剤師免許の申請手続き等について",
+          "text": "歯科医療費（電算処理分）の動向　～令和7年度版～",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/bunya/iyakuhin/yakuzaishi/menkyo.html"
+          "url": "https://www.mhlw.go.jp/topics/medias/year/25/shika_iryou_doukou_r07.html"
         },
         {
-          "text": "労働基準監督官採用試験広報HP",
+          "text": "医療費の動向（年次版）　令和７年度",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/kantokukan.html"
+          "url": "https://www.mhlw.go.jp/topics/medias/year/25/index.html"
         },
         {
-          "text": "後期高齢者医療制度被保険者実態調査",
+          "text": "最近の調剤医療費（電算処理分）の動向　令和7年度3月号",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/iryouhoken/database/seido/kouki_jittai.html"
+          "url": "https://www.mhlw.go.jp/topics/medias/c-med/2026/03/"
         },
         {
-          "text": "自分らしく生きるための「人生会議」ポータルサイト",
+          "text": "最近の歯科医療費（電算処理分）の動向　令和7年度3月号",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/acp-jinseikaigi/"
+          "url": "https://www.mhlw.go.jp/topics/medias/shika_iryou/2026/03/"
         },
         {
-          "text": "第２１回アレルギー疾患対策推進協議会　資料",
+          "text": "最近の医科医療費（電算処理分）の動向　令和7年度3月号",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/newpage_75783.html"
+          "url": "https://www.mhlw.go.jp/topics/medias/ika_iryou/2026/03/"
         },
         {
-          "text": "【公的支援制度の調査】前向きに検討しても約3割が申請手続きを「途中で断念」？オンライン化が進む今、改めて見えた課題とは",
-          "desc": "【公的支援制度の調査】前向きに検討しても約3割が申請手続きを「途中で断念」？オンライン化が進む今、改めて見えた課題とは&nbsp;&nbsp;朝日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrSm5xTmxYM1JpZDMzUzlyX0tFQ2hxSWl6aHYweXhWOE5ndDRIMGVyVmNVQ0FSclcyWVJRQzRvX3lUTG9lYi1hNGZkbTZrWTU2bXRWS2xSVkFvVWs?oc=5"
+          "text": "最近の医療費の動向-MEDIAS",
+          "desc": "",
+          "url": "https://www.mhlw.go.jp/topics/medias/month/26/03.html"
         }
       ],
-      "lastFetchedAt": "2026-08-28",
+      "lastFetchedAt": "2026-08-31",
       "source": "厚生労働省 / Google News"
     }
   ]
