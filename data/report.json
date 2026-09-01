@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-02",
   "summaries": [
     {
       "id": "finance",
@@ -7,33 +7,28 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "人類はすでに｢3度のグローバリゼーション｣を経験している　分断と危機の時代に見える｢新たな波｣ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "｢グローバリゼーション｣は近年の新現象と思われがちですが､人類は実は過去に3度もの世界的な拡大と普遍的思想の誕生を経験しています。古代から現代まで､私たちの活動と共存への模索はどんな道筋をたどってき…",
-          "url": "https://toyokeizai.net/articles/-/955594?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "まさに｢2度あることは3度ある｣､中道｢寄せ集め選挙互助会｣崩壊の必然と｢ポスト高市｣を狙う公明党の\"したたかな思惑\" | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "野党第1党･中道改革連合が分裂･解体の瀬戸際に立たされています。なぜ立憲民主党､公明党との合流は破談になったのか､そして､この混乱が政局をどう左右するのか､長年､永田町で取材を続けてきたベテラン政治…",
+          "url": "https://toyokeizai.net/articles/-/956468?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "ウォーシュFRB議長の｢語らぬ｣姿勢に変化､｢われわれの判断基準を提示する｣と前置きして語り始めた内容とは？ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "インフレ高止まりに揺れる米経済の中､FRBウォーシュ議長が従来の無口な姿勢を緩め､金融政策の方向性に関する手がかりを初めて市場に示しました。",
-          "url": "https://toyokeizai.net/articles/-/956314?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "ネパール･中国国境の洪水､行方不明者が4800人に急増…救助隊は孤立した地域への到達に難航 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "氷河崩壊により引き起こされた壊滅的な洪水と土砂災害が､ネパールと中国に甚大な被害をもたらしています。",
+          "url": "https://toyokeizai.net/articles/-/956425?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "AI･半導体相場はまだ終わっておらず｢株価の年末高予想も不変｣､だが金利は｢危険水域｣に近づいている | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "米国FRB議長ウォーシュ氏のジャクソンホール会議でのタカ派的発言を受け､AI･半導体株人気に陰りが見え始めた今､相場は転換期を迎えています。金利上昇や為替､地政学リスクも複雑に絡む中､果たしてAI･…",
-          "url": "https://toyokeizai.net/articles/-/956304?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢親トランプは腐敗の証し｣アルバニアの反政府デモが示す新潮流…腐敗した政権ほどトランプのマフィア国家と仲がよい | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "アルバニアで｢フラミンゴ革命｣と呼ばれる抗議デモが首都ティラナを揺るがしています。政権の腐敗は､トランプと手を結ぶか否かで容易に判断できる時代になったようです。",
+          "url": "https://toyokeizai.net/articles/-/956032?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "黒字化7割超！日本企業が熱視線を送るインド｢第3次ブーム｣の正体と､最新日印連携から読み解くビジネス地図 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "人口15億人へと成長し続けるインド。近年､日系企業の黒字化が7割を超える\"第3次インドブーム\"が到来しています。本記事では､日印首脳会談や経済フォーラムで打ち出された経済安全保障､先端産業連携の全貌…",
-          "url": "https://toyokeizai.net/articles/-/955421?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "豊田通商はなぜレアアースが生み出す\"厄介者\"トリウムに向き合うのか…レアアース開発で動き始めた次世代原子力 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "世界で自動車の電動化が進む中､重要度を増すレアアース。その生産時に生じる\"外部不経済\"トリウムを豊田通商はどう扱うのか。経済活動へ組み込む新たな挑戦に迫り､資源戦略の分岐点を考察します。",
-          "url": "https://toyokeizai.net/articles/-/955152?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢脱炭素社会｣実現の切り札？九十九里沖のCO2回収貯留めぐり賛否両論…環境への影響､莫大なコストの実態とは | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "千葉県･九十九里沖で進むCCS（CO2回収･貯留）事業は､脱炭素社会実現の切り札と期待される一方で､環境リスクや巨額のコスト負担､住民意見の反映不足など課題が山積みです。巨大プロジェクトの成否はどこ…",
+          "url": "https://toyokeizai.net/articles/-/956372?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "FRB議長、インフレ高止まりなら「やるべき仕事ある」 利上げに含み",
-          "desc": "FRB議長、インフレ高止まりなら「やるべき仕事ある」 利上げに含み&nbsp;&nbsp;nikkei.com",
+          "desc": "FRB議長、インフレ高止まりなら「やるべき仕事ある」 利上げに含み&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kZlFYR1V0dFAxOHJralV3dDY1QTBIbDdDR1huQ1FnUU8yYVlaeFBzU0xkNllVc1ZNNnVEN0FvQnhybk03djJjZl9nQkZqcUQ1X3pXaGRESFVMWVJkS2p6TTJ1QnEtSzFiWUg1Vg?oc=5"
         },
         {
@@ -44,20 +39,25 @@
         {
           "text": "FRB議長ケビン・ウォーシュ、インフレなお高すぎると懸念──ジャクソンホール初講演",
           "desc": "FRB議長ケビン・ウォーシュ、インフレなお高すぎると懸念──ジャクソンホール初講演&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEV0NGUwTGRGOVgtNlhLamdYRkR5S2lac1A5d3BKNGhqNEVCd2xwQTZJVGJFQVoyTjNxUXoxMEJLWnFqMmJfV2pEVlhTekpaNHFSZklLYlZlX3dXR2RxTlJBZW1QU2ZyMC12Z1BBU0Q4X05kbmNwcERlbS1WM3BnWGRQOGtqRHF3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rallaZEdGOFlSczdyR0hqZFJwRWNpbFNjeHVSSHdlUktjSDh3cXRzRHJCZHBZRU03eTc2b3BQOW5PLXJVVlVPU2JlTjNheW52YlItdG5WWXRuNDdfWjNwSkRNTjNhM0VMVDFsU0xxd0hpSnFoeWZqWDlYNEwzY2c?oc=5"
         },
         {
-          "text": "ジャクソンホール会議が開幕、FRBの針路占う 28日深夜に議長講演",
-          "desc": "ジャクソンホール会議が開幕、FRBの針路占う 28日深夜に議長講演&nbsp;&nbsp;nikkei.com",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wUTNXMW1Nb3d6V3I1Rl9LdXhtSHVFdWZfSzF5eDFXYnNLa2haSzJiUjVyN0FmeHkwOVNNOHNZNFVMRkNmVDBnMnlyN0NVR3pnMm9mQ2hfZ2NTMERjbVBTLWdaNGZKNjlJMkZ0Uw?oc=5"
+          "text": "FRB議長が利上げに含み、突然見せたタカ派の顔 9月利上げ予想拡大",
+          "desc": "FRB議長が利上げに含み、突然見せたタカ派の顔 9月利上げ予想拡大&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uQW0zWXRpM183V2oybHhua2NGRXF0bW5GWXZrNDI1RXoyRmdJdHdNeFpTaGdQeXQ4YWRUNk1DYnNhcUQ4aWxjZjluNlVraDYxMlZHd3NpVnZkck1mcU0zR0UxeElfRWUxbGNjQg?oc=5"
         },
         {
           "text": "2026年8月ジャクソンホール会議レビュー～タカ派のウォーシュ発言【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】（THE GOLD ONLINE（ゴールドオンライン））",
           "desc": "2026年8月ジャクソンホール会議レビュー～タカ派のウォーシュ発言【三井住友DSアセットマネジメント・チーフマーケットストラテジスト】（THE GOLD ONLINE（ゴールドオンライン））&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QZjNiWk8xN2tjQUZZT1VlQnlYeFBwM1F2ZjBYbVRCR1M0dV9DclNmdkN3eXFqM0xMenRRemlIRVhrSThBSC1GWXp2cld0dGxxaHVubW9xdFpHRnBUdlJYUkZHTU1sUzgyckZwb3IzLUFEQVFfMURXZC1hUk5rVjA?oc=5"
+        },
+        {
+          "text": "ジャクソンホール会議が開幕、FRBの針路占う 28日深夜に議長講演",
+          "desc": "ジャクソンホール会議が開幕、FRBの針路占う 28日深夜に議長講演&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wUTNXMW1Nb3d6V3I1Rl9LdXhtSHVFdWZfSzF5eDFXYnNLa2haSzJiUjVyN0FmeHkwOVNNOHNZNFVMRkNmVDBnMnlyN0NVR3pnMm9mQ2hfZ2NTMERjbVBTLWdaNGZKNjlJMkZ0Uw?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-01",
+      "lastFetchedAt": "2026-09-02",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "サイボウズ「kintone」の動向に見る、AI時代に向けた大企業の課題と対策",
-          "desc": "大企業を対象とした「AI時代の課題と今後の対応」について、サイボウズが「kintone」の実績や顧客動向を踏まえて見解を示した。AIを活用したい全ての企業にとっても参考になりそうだ。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2608/31/news095.html"
+          "text": "総務省、「AX・新技術戦略室」を新設　AI推進に注力",
+          "desc": "林芳正総務大臣は、9月1日の会見で、総務省に「AX・新技術戦略室」を新設すると発表した。同省におけるAI推進施策の取りまとめや、関係省庁との連携を担う。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001044/"
         },
         {
-          "text": "Anthropic、AIに「AIの安全性研究」を任せる実験　うそ、迎合などの問題行動を性能落とさず改善",
-          "desc": "AnthropicはAIモデル「Claude」にAIの安全性研究を自律的に任せる実験結果を公開。うそや追従など10種類の問題行動全てで、性能を落とさず行動を改善する手法を発見した。人間の研究者28人の成績を上回ったという。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000964/"
+          "text": "“軍事向けChatGPT”導入、米国防総省　「Gemini」「Grok」の計3モデルが利用可能に",
+          "desc": "米国防総省は、米OpenAIの「ChatGPT」のカスタマイズ版「ChatGPT Mil」を導入したと発表した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/01/2000001033/"
         },
         {
-          "text": "“脱Excel”なんて言えない　「システムが出したデータをExcelで検算」がなくならない理由",
-          "desc": "システムを導入すれば、Excelを使った手作業はなくせるはず――。ところが実態は、そう単純ではない。なぜシステム外の作業が残り続けるのか。給与計算に関する調査結果から探る。",
-          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news031.html"
+          "text": "「ChatGPT」一部プランに広告表示、売上高は年1600億円ペース　「Google」「Meta」の牙城を崩せるか",
+          "desc": "「ChatGPT」に広告を表示できるようになった。OpenAIの広告事業は年換算の売上高10億ドルに達したという。“Web広告の巨人”であるGoogleに対抗できるのか。",
+          "url": "https://www.itmedia.co.jp/business/articles/2609/01/news074.html"
         },
         {
-          "text": "“チャッピー”に押し付けられる「嫌な役回り」　上司がAIを頼る場面とは？",
-          "desc": "米国の調査によると、多くのマネジャーが部下との特定のテーマに関する面談を準備するに当たり、汎用AIツールに頼っているという。彼らはAIに何を打ち明けているのか。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2608/29/news014.html"
+          "text": "Instagram、「AIクリエイター」ラベルを「AI生成プロフィール」に改称　未設定なら表示を制限",
+          "desc": "Metaは、Instagramの「AIクリエイター」ラベルを「AI-generated profile」に改称すると発表した。実在の人物ではないAI生成プロフィールであることを明確にする狙い。AI生成人物を使用しながら未設定のアカウントは、おすすめ表示などのリーチを制限し、自主的な設定を促す。",
+          "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001010/"
         },
         {
-          "text": "ビル・ゲイツが語る「AIで開発者はいらなくなる」の先にある話",
-          "desc": "AIにコードを書かせる時代が来た。では、開発者は不要になるのか。ビル・ゲイツ氏は、ソフトウェア開発がAIによる大きな変化にさらされる一方、新たな需要も生まれると指摘する。その先にあるのは、開発者の「仕事」そのものの再定義だ。",
-          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news039.html"
+          "text": "生成AI画像はなぜ“キショい”のか　消費者が抱く違和感の正体　広報のプロが解説",
+          "desc": "昨今、生成AIで作成した画像を巡る“炎上”が相次いでいる。その本質を長年製造メーカーやIT企業の危機管理広報に携わる長沼史宏さんに聞く。",
+          "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000743/"
         },
         {
-          "text": "「Claude Code」の週次制限枠、9月14日に\"25％引き上げ\"　実質は現状比17％減に",
-          "desc": "Anthropicは、コーディング支援「Claude Code」の週間利用上限を標準比25％増に恒久設定すると発表した。現在は期間限定で50％増が適用されているため、9月14日の切り替え後は現状比で約17％の減少となる。同社は利用状況の可視性や管理性を高める改善も進めているとしている。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/"
+          "text": "AIに人生相談、約8割が言われた通り行動　でも幸福度上がらず　英研究機関が6000人調査",
+          "desc": "英国の研究機関UK AI Security Instituteと医療系AI企業Limbic AIに所属する研究者らが発表した論文「People readily follow personal advice from AI but it does not improve their well-being」は、日常的な悩みをAIに相談した際、人がその助言通りに行動するのか、またそれが精神的な健康にどう影響するのかを調査した研究報告だ。",
+          "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000987/"
         },
         {
-          "text": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
-          "desc": "Sony Music PublishingやWarner Chappell Musicなどの音楽出版社グループは、Anthropicと同社幹部を著作権侵害で提訴した。海賊版サイトからの歌詞取得や無断学習を「史上最大の知財窃盗」と主張し、数十億ドル規模の損害賠償を請求している。Anthropicは全面的に争う姿勢だ。",
-          "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/"
+          "text": "NVIDIA、MediaTekの転換社債に35億ドル投資　「NVLink Fusion」採用などでAI協業を強化",
+          "desc": "NVIDIAとMediaTekは、AI基盤をめぐる協業拡大を発表した。NVIDIAはMediaTekの転換社債に35億ドルを投資する。独自AIチップのラック統合やPC・車載向けチップの共同開発などを推進し、NVIDIAは顧客の囲い込みを、MediaTekは受託設計事業の強化を図る構えだ。",
+          "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001005/"
         }
       ],
-      "lastFetchedAt": "2026-09-01",
+      "lastFetchedAt": "2026-09-02",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -109,11 +109,6 @@
       "icon": "💪",
       "title": "健康資産 — 健康トピック",
       "items": [
-        {
-          "text": "あなたの「スマホ依存度」をチェック！依存症から抜けだすための対策5選（HALMEK up）",
-          "desc": "あなたの「スマホ依存度」をチェック！依存症から抜けだすための対策5選（HALMEK up）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pQXRqX1I4NndCc0prRHVFVkl2dmtTV1RRZll4VjBfZmZJaVZidFp2S0hlNTNSbzNodzdNTkdtd1BBbHIxOTdpRmVWTHRiN2pkMWVCMllTTHZjVW03YUh3eE5IclRtem8wZEN3Zk1NOXM2T0F4OVJFcm91bmpvWDg?oc=5"
-        },
         {
           "text": "睡眠の質は「朝」の行動がカギを握る ～睡眠改善インストラクターの「快眠」ワンポイントアドバイス～",
           "desc": "睡眠の質は「朝」の行動がカギを握る ～睡眠改善インストラクターの「快眠」ワンポイントアドバイス～&nbsp;&nbsp;スポーツナビ",
@@ -125,9 +120,9 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tU1liMi0ydUdvdVRoY2VGQzFDOXAtVEM2eDB2bDN6N1ZoOU52TEdpWUxIeTZtQnQ5MXNpVVBSWkxfbDFrYjQ4NjRMNzZYMGpFTTRBM3I0R2FMZ1pGa2ZxWHhCX2NodGJNZXZLbDgyaEtINWpyd09BMmE2NVNHdGs?oc=5"
         },
         {
-          "text": "気分任せをやめてみる。Xiaomiの新作スマウォで続く「目標ベース」な運動習慣（ライフハッカー・ジャパン）",
-          "desc": "気分任せをやめてみる。Xiaomiの新作スマウォで続く「目標ベース」な運動習慣（ライフハッカー・ジャパン）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTdmaE1ib0ZQU0ZObmhLZWUzbDc1LVNUTEpWWWh5c2xyV1h0cnJ1S1VDUzRvVVM0Z1d5d3FIbnVaRnEyUUVtcXc1cDZxWEtNUE1UYVphTjFaVDN4M05WVmxZaVZMZ3ZoVFFNWGdmSFI3c3pRY3gxQTVBYUw4TnFneTA4aVRhSkxj?oc=5"
+          "text": "運動でも食べ物でもない…研究で証明｢睡眠時間が平均66分延びて朝の眠気を抑制した\"部屋のひと工夫\"｣",
+          "desc": "運動でも食べ物でもない…研究で証明｢睡眠時間が平均66分延びて朝の眠気を抑制した\"部屋のひと工夫\"｣&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RRXd0MEh1SlMwRGl2VW5SRUc0Sm1nS0Y0TTBzc0VIVHBjc2tvVF9MZDVxRHBkeTkxUWpXUjlKMVVaeHVaUm9ycksyM2pma3dEbENxVGlnaGpfSzZReVVNSm9kM3R0Wk16bVVJX0k4dFlHaVh6MHZLTWlfWUtocHc?oc=5"
         },
         {
           "text": "シニアこそ「ピラティス」 体幹を強化し、転倒予防や尿漏れ改善に期待（産経新聞）",
@@ -140,12 +135,17 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zTW5Idkt2cHByYXJ6T1V1SGI3OUxYMlptdHJGYm9ENmVjV1N0dmVzak16ZzFaUEg1U2gweC0zbWxoX1VQMldmckFHb2tNVjA5a2I2RjJWT29ZcDczR2RES2hZOGJWX0hiM3o0NkY4b04?oc=5"
         },
         {
-          "text": "8月31日は「野菜の日」 岡山市が大手マヨネーズメーカーと「わくわく岡山サラダ」を共同開発 家庭でレシピ活用し生活習慣病の予防を（RSK山陽放送）",
-          "desc": "8月31日は「野菜の日」 岡山市が大手マヨネーズメーカーと「わくわく岡山サラダ」を共同開発 家庭でレシピ活用し生活習慣病の予防を（RSK山陽放送）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwTGlQZFRRa1R4WmJoZ3ZOQ25WSHFsY1ctYW5uLVRWUE01Y0t6eXlTc2JlZzdxbURuU0lzMUczZlV3NF9CX0xUZDlQNk5vbVFMOU9sSmtxaWhXMmpjbmp0MmJCYXpDQVpwdnZ3TDJENXZnNk1aZWFpSVlzUHhLWEk?oc=5"
+          "text": "11の肥満関連疾患、進行すると生命に関わる／日本肥満症予防協会・宮崎滋理事長（日刊スポーツ）",
+          "desc": "11の肥満関連疾患、進行すると生命に関わる／日本肥満症予防協会・宮崎滋理事長（日刊スポーツ）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWmI3bURUczdKd2dHQ0NneU1pZkhGY1A5MVB0TE41YUF2MjhieHNtX3R5SG1jN3VuZmU2V2tyMW1xaVRPdXdQUzhFNno4VF80VWdERjVmVFlrSWZBVzczaDR0d3p5TEhRUnJFT0FyeHZoSVRNZ0R4T25HM21lYms?oc=5"
+        },
+        {
+          "text": "「野菜、足りてる？」 1日350グラム 達成は2割前後／岡山・津山市（津山朝日新聞）",
+          "desc": "「野菜、足りてる？」 1日350グラム 達成は2割前後／岡山・津山市（津山朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwTHFORzBJRi1nWE84cGtuNjBRRUUtWTJrczRya3lLaVdDREhHc1NmRHZPV0t1YmMzVDVWTWtfbHBnRjItblpoWnJaWGhvMU1OYkVUMnI1bUNjcjVfaGkzYWhuVUhBS2RHeFlhX2gza2t4YkoyM0VPVmg4OUxGcW8?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-01",
+      "lastFetchedAt": "2026-09-02",
       "source": "Google News"
     },
     {
@@ -154,24 +154,14 @@
       "title": "生活資産 — 生活・社会",
       "items": [
         {
-          "text": "暮らし上手が「見直してよかった」夏の家事ラク3つ。麦茶づくりはやめて、火を使わない料理メインに (ESSE-online)",
-          "desc": "暮らし上手が「見直してよかった」夏の家事ラク3つ。麦茶づくりはやめて、火を使わない料理メインに (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzdBWV9qVm5UbFBCWjdlLV9oeVJVYVU2dXJFY3ZoNWpYVXBTNF9HaHVzdExteTlsU2FXc2xvV0JlaWkyNDFMcW52UUs0VVE1UE5sNElhMUdfdG45QkdjNTFtdjRRMmFJRG5YajZ3RFFXck1GbDh6cld6Rm1KOUN4TFM5cnNBVmhUeEUyZEhR?oc=5"
-        },
-        {
-          "text": "多世代の暮らしを知ることも社会保障改革 大江加代氏",
-          "desc": "多世代の暮らしを知ることも社会保障改革 大江加代氏&nbsp;&nbsp;nikkei.com",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xLXRPUVhxWFdxbEJEVjhxQnRSNUlGZnduNkp5NktoWllPQXFwbVBLTnMwVWlyZU1nTTRiRFJxLWlBR0phZlJrN2I0bFhlYl9rYnpqU25lM2NYWFZab1VRRF9ZQnRkaEZwQ0lXbQ?oc=5"
-        },
-        {
           "text": "40代、「自分らしく暮らすために見直したもの」。ふきんや箸は使いやすく、鍋はとことんこだわる (ESSE-online)",
           "desc": "40代、「自分らしく暮らすために見直したもの」。ふきんや箸は使いやすく、鍋はとことんこだわる (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWthVWhHZkhLSXBRX1lzNE1Hc2dKMlMxVW1WN2RsRWRsR1BXWjB5MGZXX2FJZnR3M1pTWEV3RmJGckhjMkZyUkZjMUwwR25Tb1loUDhxR2JTczM0YTNhWEk4eG01aHVJMG9haHd6UmVGRmxHVFpTcno1MTJMTzBhNW0xbzFkdzFkdFFTS2NR?oc=5"
         },
         {
-          "text": "「ものを減らして暮らしが好転」家事ラク、防災にもつながるアイデア3つ：防災士・1児の母が解説 (ESSE-online)",
-          "desc": "「ものを減らして暮らしが好転」家事ラク、防災にもつながるアイデア3つ：防災士・1児の母が解説 (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUE4yTlVESDFBbUJzeUVpLUNjZTNwcWU2b1NhbVlZTkFSanFKbC1DanRjejY2NlVFQTQ2VHFaSlJ5dFNabUE2b2pkMmNEX1RZdWdQeWhKZDU3M3B5dV96NVh5V3VtM1ZGQXJmUzVTdUplM0h5czFoNXphUE52bzlEVW44SGtGSEMwOENCZWJ3?oc=5"
+          "text": "多世代の暮らしを知ることも社会保障改革 大江加代氏",
+          "desc": "多世代の暮らしを知ることも社会保障改革 大江加代氏&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xLXRPUVhxWFdxbEJEVjhxQnRSNUlGZnduNkp5NktoWllPQXFwbVBLTnMwVWlyZU1nTTRiRFJxLWlBR0phZlJrN2I0bFhlYl9rYnpqU25lM2NYWFZab1VRRF9ZQnRkaEZwQ0lXbQ?oc=5"
         },
         {
           "text": "あす9月1日から変わります！【くらピタ！】「生活道路」の速度制限が「30キロ」に引き下げ 摘発されると「一発免停」＝30日間の免許停止に 4923品目で9月に値上げを予定 約3年ぶりの値上げラッシュ！ 「残業時間の一律指導」見直し 「数字重視」から「健康管理の質」をチェックへ",
@@ -179,17 +169,27 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TMkhOQ2drNnh0XzFfNDhoaDNIcENrVVI5S3dYbVVkNVAtNklyWGk3NTF1dW5ST1llc3hNZUl4Nkw3REl0cDBjQ19nZ0ZIVE5abHNHNURrb29LRHRVdU9HUGdDZWVTd1E?oc=5"
         },
         {
+          "text": "「ものを減らして暮らしが好転」家事ラク、防災にもつながるアイデア3つ：防災士・1児の母が解説 (ESSE-online)",
+          "desc": "「ものを減らして暮らしが好転」家事ラク、防災にもつながるアイデア3つ：防災士・1児の母が解説 (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUE4yTlVESDFBbUJzeUVpLUNjZTNwcWU2b1NhbVlZTkFSanFKbC1DanRjejY2NlVFQTQ2VHFaSlJ5dFNabUE2b2pkMmNEX1RZdWdQeWhKZDU3M3B5dV96NVh5V3VtM1ZGQXJmUzVTdUplM0h5czFoNXphUE52bzlEVW44SGtGSEMwOENCZWJ3?oc=5"
+        },
+        {
+          "text": "巨大地震の備え確認、「防災の日」各地で訓練 初動対応や救助活動",
+          "desc": "巨大地震の備え確認、「防災の日」各地で訓練 初動対応や救助活動&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fMGRtelBaS1RtaGFWdG9ocEpGVUVMdzNUclRZcWhYemFrRXVRTXFDM1RUR3JDbjd4cm5YbHZOeExqSjFLOXhPZzVrUlpVaksydDFhZU1PVnlBdFl0T0RreWw3LW9feFFCekdiSQ?oc=5"
+        },
+        {
           "text": "熊本地震から1カ月 首都直下地震の備え、防災体験施設で学ぶ 発災72時間をどう生きる？（TOKYO MX）",
           "desc": "熊本地震から1カ月 首都直下地震の備え、防災体験施設で学ぶ 発災72時間をどう生きる？（TOKYO MX）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdHh5R1VYSjdyT2ptSnQ1ODFhTkxGQnJ6N0tDQk9hNnpBZTRGY2pLZG5RTWVubUhhNmlLMDVpOE1QMGRHVkp0VUpKVi1XSTg3dm93Zml5dC1vY2RhV3pCRC1tSDFnRHRtcktMOW1aamxsUWN2NktSaVFZM1UyQzg?oc=5"
         },
         {
-          "text": "防災の専門家から学ぶ“被災地での注意点” 大雨など複合災害への備えが必要（2026年8月27日掲載）｜KKT NEWS NNN",
-          "desc": "防災の専門家から学ぶ“被災地での注意点” 大雨など複合災害への備えが必要（2026年8月27日掲載）｜KKT NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWpzcHg3ZGFxV3NDTkoxcHpUYmtvYVpjVUY3WXhrMzFlRWpWLXN0UUhjNDFDZHRMVFozekNWbTExMXhYVXMxczQ1ZTdjX0Z3bVFXSU1wME1EaEFiLVlvV3lTbzRIMG9Qay16aHluNFZGblAyWExFdExkZTdFQ2xJNEJYN0V2eGM?oc=5"
+          "text": "正しく避難して命を守る 「防災の日」に考える災害への備え 【徳島】（2026年9月1日掲載）｜JRT NEWS NNN",
+          "desc": "正しく避難して命を守る 「防災の日」に考える災害への備え 【徳島】（2026年9月1日掲載）｜JRT NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3QmZPa29jb0lwZnlCdlMyQ0pqQUFBM3F4UU1TWEZiYlpuZ0JxN3JmdTFlMFRkemExN2VnQ3V6dmFfTU1tQnBnVlpNNDkwYlA3RHRZZ2huc2k1OXR3WWdEaUZKZjBOZURJc2kwOFNNRVI5WUpza3VPTmJhSzI5VVU?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-01",
+      "lastFetchedAt": "2026-09-02",
       "source": "Google News"
     },
     {
@@ -247,37 +247,37 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aeGhZMDRGUkFodlduemNsOG9VUlVNV1ozSmV3U1pYeC1SUGtkenVIZXNPZllxSEprOUV1Znc2UG81S2NTR1h5NTBRamxmVVE2UDQ3T0FhUFNjd3pZcktFNzFKOU5SQ0VCU2pDYUc1dVBBdEJPaVV0a3o3d203MlE?oc=5"
         },
         {
-          "text": "LINEヤフー、育休中にもスキルアップ AI研修で復職への不安軽減",
-          "desc": "LINEヤフー、育休中にもスキルアップ AI研修で復職への不安軽減&nbsp;&nbsp;日経ビジネス電子版",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTd09nWDJkNzlnYkQwdU40RnZhN19CRHVLRXE2aENtRXU2Q3l2M1IwSlptb3hHODFLZ2ZZNU9zUmtLZkVmdFFsajBYLUhzQzE4LWJTVmRZLW9kOHFMTGxkcm1ETUN2d1U?oc=5"
+          "text": "“AI離れ”こそ重要？ AIで成果を出す人の共通点 「差がつくスキルと思考法」を専門家に聞いた",
+          "desc": "“AI離れ”こそ重要？ AIで成果を出す人の共通点 「差がつくスキルと思考法」を専門家に聞いた&nbsp;&nbsp;ITmedia",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5keVdUQXFuOHVvX3g0X0JZaV9QYkVQX1VSUHU5WlB4WHJfUVA4WGdGdTVyUFNhSmNuYWs3SHVMQW0tNF9kT09lR000U2lyWjdDNHpCck5Ja3dDWnNFRGM1U3IyRVRxUWctT0RYRA?oc=5"
+        },
+        {
+          "text": "AIに奪われるのは｢仕事｣ではなく｢能力｣だった…いま職場で静かに進行する｢人間のスキル劣化｣の危機（プレジデントオンライン）",
+          "desc": "AIに奪われるのは｢仕事｣ではなく｢能力｣だった…いま職場で静かに進行する｢人間のスキル劣化｣の危機（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sU21vVFVnVjlfRnRWbWVyX1k4NHBpYlF6NERLV3pDWFpJWjgyLVNtbHZpQ05saTZIT2RZcEtMRTdweDBsVHpUNVNHYzYyQWF3eG5LanBhcW5DNzhiRnRXeFhLVTFzZlFwdDlOakJQZ05MU2VLNklMaWF4bXdkQXc?oc=5"
         },
         {
           "text": "ビル・ゲイツが語る「AIで開発者はいらなくなる」の先にある話：ソフトウェア開発の激変に備えよ",
-          "desc": "ビル・ゲイツが語る「AIで開発者はいらなくなる」の先にある話：ソフトウェア開発の激変に備えよ&nbsp;&nbsp;atmarkit.itmedia.co.jp",
+          "desc": "ビル・ゲイツが語る「AIで開発者はいらなくなる」の先にある話：ソフトウェア開発の激変に備えよ&nbsp;&nbsp;ITmedia",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wUHgzTGFybUF1TGxncXZFaEQ4ZFN1UXFkV3FVQkU3Z0tYN1FiSFRoSk5sbkI5M21zVE1XRE9kV05LOVVYMjR1YnZHMzVjWmEyejd4NFdtekl3US0xX2RuWFpYbXliRkh5YlE0Tm0wY2F0Zw?oc=5"
         },
         {
-          "text": "ファーマライズホールディングス[2796]：コーポレート・ガバナンスに関する報告書 2026/08/31 2026年8月31日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "ファーマライズホールディングス[2796]：コーポレート・ガバナンスに関する報告書 2026/08/31 2026年8月31日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;nikkei.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0xYQ3BWOWJ5S3lJZmZBc2d4aWktSXFTbVdVX2REUlJWRjZMc3FXVzh2dkRzM0lSUHVwRlV4YjE0WlBGaGtJTGlsQWZxbjhfNWFiY2xNZTRLT1ZtSnZBM2FXMmJod1JyOHFEVmtrVU8zWmMxMDBqc3FzeE9xMUFZTVd5X0VtaS1kVEgzM1E1Q0hxeEpZRjdKVlJvRTFMVEZ1UmtESU8yMkpUdWpWYTZHUmp4MG13dHk4N0FYcDV0RUh1SVhmMFpCOUpRaFQ?oc=5"
-        },
-        {
-          "text": "雲南で「多様な人材とAI」セミナー 人材不在時代の企業戦略を考える（みんなの経済新聞ネットワーク）",
-          "desc": "雲南で「多様な人材とAI」セミナー 人材不在時代の企業戦略を考える（みんなの経済新聞ネットワーク）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xS0M3dDIzM09UbWVKVWRWVXNnR20wR1NiZWtsYVBkR2hVLWd1bldFX1pYdTdFanhldXBnOFh5Zmg5SlZGWnBhRWpQZmpTMDdjN3JSdWl2X0hzS3pqajN1aTBlRmVFakpzWU9PWXBOb2thaXNXR2dMeUJxZzQtQWM?oc=5"
-        },
-        {
           "text": "山陰合同銀行[8381]：コーポレート・ガバナンスに関する報告書 2026/08/26 2026年8月26日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "山陰合同銀行[8381]：コーポレート・ガバナンスに関する報告書 2026/08/26 2026年8月26日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;nikkei.com",
+          "desc": "山陰合同銀行[8381]：コーポレート・ガバナンスに関する報告書 2026/08/26 2026年8月26日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UOTViY1VDRjNYR1loZFpIeWZ1MW5hWU4yNkxQaTQyY2F4WVAxY25keF8yb1d2WnZ0b242VTJORmp0cVlDOHJ4NHBLUUdvSkg1SllFSlNQY2Zac2FRZnl3S3owX21oNHd3TFE?oc=5"
         },
         {
           "text": "未達なら年数百万円の“ペナルティ”なのに、障害者雇用の達成率は46％止まり…「採用後の1年以内離職」が続くワケ",
           "desc": "未達なら年数百万円の“ペナルティ”なのに、障害者雇用の達成率は46％止まり…「採用後の1年以内離職」が続くワケ&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYlUzWXhmNmRQRERUZkxXaVg4STFlcVFGaGNEdnhRcEhUUjRmZl9JcHpNbVFsVmhnZUhlY0RoYkZfVmR0WF9aLUhwZ2lTMWxpTXdiM1FtcENUanA4VkN6QVpuRFRvNE5WWndqNHh1T2MwRUNiQUtHVG1jUHpuWmV3NzUwdjh4dDVv?oc=5"
+        },
+        {
+          "text": "ファーマライズホールディングス[2796]：コーポレート・ガバナンスに関する報告書 2026/08/31 2026年8月31日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "ファーマライズホールディングス[2796]：コーポレート・ガバナンスに関する報告書 2026/08/31 2026年8月31日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0xYQ3BWOWJ5S3lJZmZBc2d4aWktSXFTbVdVX2REUlJWRjZMc3FXVzh2dkRzM0lSUHVwRlV4YjE0WlBGaGtJTGlsQWZxbjhfNWFiY2xNZTRLT1ZtSnZBM2FXMmJod1JyOHFEVmtrVU8zWmMxMDBqc3FzeE9xMUFZTVd5X0VtaS1kVEgzM1E1Q0hxeEpZRjdKVlJvRTFMVEZ1UmtESU8yMkpUdWpWYTZHUmp4MG13dHk4N0FYcDV0RUh1SVhmMFpCOUpRaFQ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-01",
+      "lastFetchedAt": "2026-09-02",
       "source": "Google News"
     },
     {
