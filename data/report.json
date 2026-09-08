@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08",
+  "updatedAt": "2026-09-09",
   "summaries": [
     {
       "id": "finance",
@@ -7,34 +7,19 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "問題の核心は農林系統にあり､総量規制の抜け穴に資金流入…住専に深入りした理由とは　住専アリ地獄④ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "1992年､バブル崩壊の波が住宅金融専門会社を直撃。再建案が浮上する一方で､農林系統の金融機関は規制の穴を突く形で巨額融資を実行していました。なぜ農業支援の金融機関がこれほどまでに住専へ深入りしたの…",
-          "url": "https://toyokeizai.net/articles/-/956618?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "高市改造人事\"最大の焦点\"は｢政界の119番｣の処遇､多才な世襲エリートを試す｢リリーフからの脱皮｣と｢閣内残留の誘惑｣ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "高市早苗首相がもくろむ内閣改造と自民党の役員人事。最大の焦点として浮上しているのが､林芳正総務相の去就です。両者の思惑が交錯する舞台裏に迫ります。",
+          "url": "https://toyokeizai.net/articles/-/957309?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "福岡発のスキャンダルが中央政界に飛び火… 与野党入り乱れる大混戦で政権中枢が恐れる｢選挙の高市｣イメージの崩壊 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "福岡県議会を舞台にした金銭授受疑惑が中央政界にも波及。来春の統一地方選を目前に､国政をどう揺さぶるのか注目されます。",
-          "url": "https://toyokeizai.net/articles/-/957145?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "\"無名の30歳\"に2割も持っていかれた… 国民民主･玉木代表｢3度目の代表戦勝利｣に透けて見える\"深刻な焦り\"の正体 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "国民民主党の玉木雄一郎氏が代表選で3選を果たし､新たな政権獲得への道を歩み始めました。しかし今回の選挙戦では､変化を求める党内の声や投票用紙不着問題など､課題も浮き彫りに。はたして玉木氏の野望は成就…",
+          "url": "https://toyokeizai.net/articles/-/957275?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "企業再生の｢名医｣か悪質な｢略奪者｣か　｢プライベート･エクイティ｣ファンドの合理性と｢企業価値｣の真実 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "医療や住宅､公共サービスなど生活必需分野に急速に浸透するPEファンド。名医の顔をした略奪者なのか､資本主義の必然なのか。私たちの暮らしと資本主義の本質に､深い問いを投げかけます。",
-          "url": "https://toyokeizai.net/articles/-/956519?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "｢われわれには新たなアイデアがある｣…米特使が開戦後初めて首都キーウ入り…ロシアとの戦争終結に向けて協議 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "ロシアのウクライナ全面侵攻から4年半､米国特使と欧州高官が初めてキーウでゼレンスキー大統領と会談しました。和平への懸念や新たな提案､戦後復興計画まで議論が広がる中､戦争終結への道筋は見えてくるのでし…",
-          "url": "https://toyokeizai.net/articles/-/957100?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "ドイツ極右政党AfD（ドイツのための選択肢）､ザクセン･アンハルト州議会選挙で第1党に…CDUの得票率は大幅に減少 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "ドイツ東部ザクセン･アンハルト州の州議会選挙で､極右政党AfDが過去最高の得票率を記録し､政界に激震が走りました。既成政党への不満と社会不安を背景に支持を伸ばすAfDの躍進は､ドイツの政治情勢を大き…",
-          "url": "https://toyokeizai.net/articles/-/957098?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "資産26億円の兼業投資家reformer21さんが解説！ ｢超割安小型株｣投資の極意 年平均リターン約30％ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "信用取引を使わずに元手300万円程度を26億円に増やした､兼業投資家のreformer21さん。四季報を｢バイブル｣として活用する投資法についてご解説いただきました。",
-          "url": "https://toyokeizai.net/articles/-/956761?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "サムスンとSKの法人税が国の経済を左右？　韓国･巨大財閥｢メモリー需要｣依存の危うい構造 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "韓国経済を牽引する｢財閥｣の実態に迫る最新レポート。サムスンやSKなど巨大グループの支配構造､巨大化する半導体依存がもたらすリスク､そして政府規制強化の動きを解説します。",
+          "url": "https://toyokeizai.net/articles/-/956802?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "ECBの追加利上げが濃厚に 日銀とFRBの「次の一手」も焦点",
@@ -42,22 +27,37 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EeUwxUFRnWGpid0ZIWDRjcUJzSEY5Q0ZSWnpRVjdKNFNSelRORVNzLVJIWU1vU0QyVHVWR0kzNjlaTW5CT3dWbEpGVEFfQnN0QzFGUy03MjVzMkI1SF9fUnhuRmRkZTQ?oc=5"
         },
         {
+          "text": "コラム：ＦＯＭＣと日銀会合、金融政策ウイークの注目点＝植野大作氏",
+          "desc": "コラム：ＦＯＭＣと日銀会合、金融政策ウイークの注目点＝植野大作氏&nbsp;&nbsp;jp.reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFBJRmNHdEpHcnp4ZkJ4amNPd0N0ejRuYU5QTnczTC1pZFZYMWk4dFpKZHlVdGV1bEhoaGluaTgtLTdEM0F6aGRINzYzTnN6UHRyTnNGb2FtR3dmUVBTalhDZ2Z2ZW5FdF9ZVTQ1MFdnODZFODVyQTRUaEtrdnFrc1lxa1R2THB2?oc=5"
+        },
+        {
+          "text": "トランプが仕掛ける「FRB解体」…世界からマネーを吸い上げ、日本を追い詰める「デジタルドル」の狙い",
+          "desc": "トランプが仕掛ける「FRB解体」…世界からマネーを吸い上げ、日本を追い詰める「デジタルドル」の狙い&nbsp;&nbsp;ダイヤモンド・オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1URHN4UHhjWEhnU1ZLYTJrSHJkaERzSzJqUEtLQk8wbHhzbXMyTGpXOWtuRXZ3aTRlOV9vaFVFLUV4b1VvemRNS3RZTm7SAU9BVV95cUxNRktueGZKLTE2d3JiNWhkbGtrSnN5Tmh5Z2RTQkV5MlVEcmxuSnEwZHlqLUhreUVGdVR5RVNrendvSGJueHVVczNWTE1IZTg4?oc=5"
+        },
+        {
           "text": "9月の日米金融政策で何を見極める？FOMC・日銀会合と金利、為替、企業利益（MONEY PLUS）",
           "desc": "9月の日米金融政策で何を見極める？FOMC・日銀会合と金利、為替、企業利益（MONEY PLUS）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nSkRmakdmZDk0Mjd2NUdHcm4yWmxVUzhKV1FKcGhCNGFxcnlCeGVIMVVObDRia1dwYTJhQ2ZYOXd0TmI1OGdYbW1jelF4aXg1dldOdzV2T0hSZ3lta2NPNURDNzExTXg5bFpTRHc0YzNBNUZkSTdBcWhiU3FJZ1U?oc=5"
         },
         {
-          "text": "米長期債利回り上昇、インフレ懸念でなく堅調な経済の反映＝ＮＹ連銀総裁",
-          "desc": "米長期債利回り上昇、インフレ懸念でなく堅調な経済の反映＝ＮＹ連銀総裁&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmlPZTh0aUVzelNrcldmc0YyM3VVNlJtcWk4Wk9hbDhpdURMdlRCaG1hUXVsTFk4MjVuWkJjWGk4M2o5S0V5RUF6VXNWUXgxc2dDTGR3dnVfVlFSUGo1RWJWWWlhZlVGcmpGVzZSWmt6Qjk0ZEM4ZVJLWGczeUI5cQ?oc=5"
-        },
-        {
           "text": "「米国は年内3回利上げ」 雇用よりインフレ抑制重視で",
           "desc": "「米国は年内3回利上げ」 雇用よりインフレ抑制重視で&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1aFJ0aEZyNmZOeHZKeGNPcWV3NHcxZTJzTFI3NW9xZ1VSTGJMWlZEUDBMeTNKLThaV1ZMTFZESmNTN21CQ00wc0hBSFVtUy1ZS19ONGc2aE93TGtuUEJPY3FUOEVTWkVqS0U2Yg?oc=5"
+        },
+        {
+          "text": "米長期債利回り上昇、インフレ懸念でなく堅調な経済の反映＝ＮＹ連銀総裁",
+          "desc": "米長期債利回り上昇、インフレ懸念でなく堅調な経済の反映＝ＮＹ連銀総裁&nbsp;&nbsp;jp.reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmlPZTh0aUVzelNrcldmc0YyM3VVNlJtcWk4Wk9hbDhpdURMdlRCaG1hUXVsTFk4MjVuWkJjWGk4M2o5S0V5RUF6VXNWUXgxc2dDTGR3dnVfVlFSUGo1RWJWWWlhZlVGcmpGVzZSWmt6Qjk0ZEM4ZVJLWGczeUI5cQ?oc=5"
+        },
+        {
+          "text": "FX・為替相場の注目指標や予想を解説 - 9月7日(月)■『米国の雇用統計の発表明け(先週末に発表)での反応』と『米国の長期金利の動向(米国債利回りの動向)』、そして『日本と米国の金融政策への思惑(来週に金融政策の発表を控える)』に注目！",
+          "desc": "FX・為替相場の注目指標や予想を解説 - 9月7日(月)■『米国の雇用統計の発表明け(先週末に発表)での反応』と『米国の長期金利の動向(米国債利回りの動向)』、そして『日本と米国の金融政策への思惑(来週に金融政策の発表を控える)』に注目！&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwV1hzSFFtWUNzb3EzN2hteC12dDV5OFpzdjJFbk82b1ZGZXNyb0oyQTAwbFI0eTJjbU84QlBOM242WnUyOXR2cWtMbEJuMmlFeXc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-08",
+      "lastFetchedAt": "2026-09-09",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "独自AI搭載の「国産四足歩行ロボ」、デモ動画を公開　東大発スタートアップのHighlanders",
-          "desc": "ロボット開発企業のHighlandersは、国産をうたう四足歩行ロボット「HLQ EDGE」を発表した。同日に公開したデモ動画では、段差を昇降する姿などを披露した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001223/"
+          "text": "マラソン大会のポスターが“AIっぽい”と波紋　「説明に不適切な部分があった」と事務局声明",
+          "desc": "鹿児島県指宿市のマラソン大会を告知するポスターに、「生成AIで描かれているようだ」などの指摘が相次ぎ、同事務局が9月8日に声明を発表した",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001291/"
         },
         {
-          "text": "生成AIの普及だけじゃない　「デザイン業の倒産」が前年同期比166％増になった意外な理由",
-          "desc": "グラフィックデザインやインテリアデザインなど「デザイン業」の倒産が急増している。東京商工リサーチの調査によると、2026年上半期に発生したデザイン業の倒産は40件（前年同期比166.6％増）だった。",
-          "url": "https://www.itmedia.co.jp/business/articles/2609/07/news075.html"
+          "text": "日立社長の“フィジカルAI”熱弁に「あれは、叱咤激励だ」　社内外に刺さるトップメッセージの核心とは",
+          "desc": "日立製作所の徳永社長が講演で「フィジカルAI」について熱弁を振るった。その講演は、社員にも響いたようだ。社内外に刺さるトップメッセージの核心とは。",
+          "url": "https://www.itmedia.co.jp/business/articles/2609/08/news028.html"
         },
         {
-          "text": "「Copilot、Word文書まとめて」で社内全滅？　勝手に増殖するAIウイルスで大騒ぎ：895th Lap",
-          "desc": "「Microsoft Copilot」が仕事で使われるようになるなか、Word文書を介して感染が広がる、これまでとは少し違った脅威が見つかった。生成AIを仕事で使う企業が増えているだけに、警戒した方が良さそうだ。",
-          "url": "https://kn.itmedia.co.jp/kn/article/2609/04/2000001139/"
+          "text": "OpenAI「GPT",
+          "desc": "OpenAIは、次世代AIモデル「GPT-6 Astra」を発表した。PC自律操作やコーディング、セキュリティ検証などの能力が大幅に向上し、抽象推論ベンチマークテスト「ARC-AGI-3」で99.9％のスコアを達成したという。",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news035.html"
         },
         {
-          "text": "M365 Copilotでも「GPT",
-          "desc": "Microsoftは、OpenAIの新モデル「GPT-6 Astra」を「Copilot Cowork」と「Copilot Studio」で提供開始。作業を細かく分けて指示せずとも、より大きなタスクを委任できるとうたう。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/"
+          "text": "「人型ロボット向け救急車」登場、国内初うたう　世界の救急車両を参考にデザイン　GMO傘下",
+          "desc": "GMO AI&ロボティクス商事は人型ロボットの故障・トラブル時に診断や修理、代替機の提供などを行う「GMOヒューマノイド救急車」を導入すると発表した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001279/"
         },
         {
-          "text": "M365 Copilotを配っても「使われない」 でもAI活用が進んだ福島県庁の\"逆張り\"戦略",
-          "desc": "福島といえば喜多方ラーメン。毎日でも飽きないスープのように、生成AIも職員が日常的に使う存在にできるのか。有償アカウント100件と研修を用意しても利用が二極化した福島県が、それでも約6000人への全庁展開に踏み切った理由を追う。",
-          "url": "https://kn.itmedia.co.jp/kn/article/2609/07/2000000807/"
+          "text": "「2026年はフィジカルAI元年」　日立、AIサービス群全体で売上5000億円へ　ミュトス利用の知見を基にした新サービスも",
+          "desc": "日立製作所は9月3日、社会インフラ向けAIソリューション群「HMAX」を拡充し、データセンター運用やサイバー防御などの新サービスを発表。2026年を「フィジカルAI元年」と位置付け、HMAXを売上高5000億円の事業に育てる見込み。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001272/"
         },
         {
-          "text": "Teslaのロボタクシー「Cybercab」が日本で実車初公開　東京・大阪・名古屋で",
-          "desc": "Tesla Japanが自動運転タクシー専用車両「Cybercab」を日本初公開。9月11日から東京・大阪・名古屋の4会場で「Cybercab Japan Tour」を開き、ハンドルもペダルもない2人乗りの実車を展示する。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001207/"
+          "text": "「中に人いる？」と疑われた人型ロボ、ついに量産へ　2027年に市場投入　中国EVメーカーのシャオペン",
+          "desc": "中国のEVメーカー小鵬汽車（シャオペン）は、人型ロボット「IRON」の生産ラインを稼働させたと発表した。2026年内に量産を始め、27年に中国および海外市場に投入する予定だ。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001261/"
         },
         {
-          "text": "日立、フィジカルAIの4つの新サービスを発表　「なんちゃってFDE」で終わらせないアプローチとは",
-          "desc": "「FDE」を名乗るサービスが次々に誕生する中、日立はフィジカルAIの実装を担うFDEをあえて「チーム」として構成する。「1人のスーパーマンでは足りない」理由とは。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news040.html"
+          "text": "100万円のPCが注目ランキング1位に？　ローカルLLMブームを生んだ「3つの条件」",
+          "desc": "価格比較サイト「価格.com」のデスクトップPC注目ランキング1位に約100万円のAIスパコンが掲載されるなど、いま「ローカルLLM」が熱い状況だ。ここでは3本の記事で、ローカルLLM関連が急速に盛り上がりを見せている理由を解剖していく。1本目となるこの記事では、「モデル」「ハードウェア」「ソフトウェア」という3つの土壌が成熟しつつあることを紹介する。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/08/2000001257/"
         }
       ],
-      "lastFetchedAt": "2026-09-08",
+      "lastFetchedAt": "2026-09-09",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -122,7 +122,7 @@
         {
           "text": "安心できる睡眠 眠れるときに眠れるだけ【随時連載「医師に聞く 被災者ケアQ＆A」⑪】 (熊本日日新聞)",
           "desc": "安心できる睡眠 眠れるときに眠れるだけ【随時連載「医師に聞く 被災者ケアQ＆A」⑪】 (熊本日日新聞)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHYtY2U3YWx3S1FuQUJTWWNLWnc4RXE2V2R3ckEwMVpOeTExUHFiVkVlNXEzTDY5TkJaNmhaMHFPR0VJVDlaVEhDcjRjbnFjaEtRSWJkcDVmaFJGVDBBaWc0UmdfVFIyNU16NzNuekNzZFNqOVlSeEp2N0JBR0V2NVFQZHc2SnJzQmtvQURn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLU44OTFJMm1fM0dKcXNjX21kUDFTUFBBWE11aTFweVV1WFVEZmk0MEZIeHIzSldsMmdjNmRDM3M4cENjNEw0eFg4Q0ZiSHpMd0xqWUtkNnlPelpMOGRjaFVDMVdvbmMzclI2cHBpX25nX29MTVhPR19mZmdWTkhrYUd0ai03TFlSb3ltMWZB?oc=5"
         },
         {
           "text": "メンタルヘルス検定、受検者が１６年で５倍に…「心を病む人」増加で管理職に推奨する企業も",
@@ -138,9 +138,14 @@
           "text": "健康カラオケ（下）腹式呼吸で生活習慣病予防",
           "desc": "健康カラオケ（下）腹式呼吸で生活習慣病予防&nbsp;&nbsp;読売新聞",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbnhLOUh4WXhJaXF6MXZ0UHR4SXZFaEYwMVF4VFNFWGdyOEFUWExOLS0tcFQwa29lXzR2Rnl6TVRySWxVbzU5WlYyYUMyUk1RaERkWTNZTnNjV0N3V00tY3E1WHdnT21sYjdlQWFXRzd5bEpncTd1QTBjVGljUHJyV2JpV09BX1Q3ODBOZjR0ajF0Sno1R2c?oc=5"
+        },
+        {
+          "text": "「肥満」と「肥満症」は違う 「自己責任」という偏見を越え、必要な人を医療へ 千葉市・千葉大・ノボ ノルディスク ファーマ座談会",
+          "desc": "「肥満」と「肥満症」は違う 「自己責任」という偏見を越え、必要な人を医療へ 千葉市・千葉大・ノボ ノルディスク ファーマ座談会&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JaktULVZCT2lZcmVYRzdDbUFyek9xRUhja010bEdoUUt6eVRTY1JyaE9SWWQ5RkdMMHJPbTFRblFUaUhZYTZmN3RSWk8wZXdGTEJ3Ql9QdmFocjA1Z19xag?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-08",
+      "lastFetchedAt": "2026-09-09",
       "source": "Google News"
     },
     {
@@ -154,14 +159,14 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQTVra0psdGQ1dVJtMVhsX2JMR2JmWmFTYTRjcTRNRnI4cThwbl9xeFZDMGJtc1V1d0ljWmtxZkM5VWxmUThZcG9TSDdLSDAwZ01NZkdIMGxQNEZSbDhNd1VWeXFLMjM2dnppX2NXRWVRblVhY3BIanlNa0lXbWlzaWZLUnMwUm4xMGdiM2pB?oc=5"
         },
         {
-          "text": "【ヤフコメで話題】「年金生活の現実と“老後の暮らし方”」「資産・住まい・消費の選択に多様な声」 - 年金生活者の生活設計をめぐる意見が交錯",
-          "desc": "【ヤフコメで話題】「年金生活の現実と“老後の暮らし方”」「資産・住まい・消費の選択に多様な声」 - 年金生活者の生活設計をめぐる意見が交錯&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGFHWXZZMHZtN1p1a21VUWpIUGdqRlRxRWR2cmQwa0d0X0xKa2RMNWFHcnFTSnNUZUJwU0VCN1hId2ZTV2Jjckl3eUkyYU9EVV9uTEV6a1haVzZkdUFOck9fMDhOX2FwamR0b0xpUXpJODdvUkN6MlBLX0NQbU40QWR6RVZBbHo5MWctZGlR?oc=5"
+          "text": "国民はこんなに負担しているのに、なぜ暮らしは楽にならないのか（WEB Voice）",
+          "desc": "国民はこんなに負担しているのに、なぜ暮らしは楽にならないのか（WEB Voice）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzd0M5aE5nQXdmcXJpN0VnREdRQXlDZWxvSEJDbnJLMVE0MFhNNWJWMG1NNkd2czZxRHJkZTBCbGRpSkJhdllMTGlrLVVYa094NHdXVzY4c1dwcTVpTndRcWRTYUFsVF9LXzhHSlo0RW1UZ3NzSlVCRFI5Y2RabkU?oc=5"
         },
         {
-          "text": "50代ふたり暮らし「リアルな昼ごはん5日分」。1食300円、炒める・蒸す・出すだけで簡単 (ESSE-online)",
-          "desc": "50代ふたり暮らし「リアルな昼ごはん5日分」。1食300円、炒める・蒸す・出すだけで簡単 (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVW5UaTF6R2hWZ3RGc0xYRXNRME1TVTdGVDdNaEVObFlLaDZFVzI1ZWdoUnFtOEFlcjZYbkF0aEhtV19fNEZkLWktbnNudHB4R1F6QkoycWpHRU1USGRweGNGUV9RaTZBUkVHdEVVbEVuN0NmUExlLXJJaU8xdXZSdXN4ZC1XMFJxSThxdC1B?oc=5"
+          "text": "50代ふたり暮らし「リアルな昼ごはん5日分」。1食300円、炒める・蒸す・出すだけで簡単（ESSE-online）",
+          "desc": "50代ふたり暮らし「リアルな昼ごはん5日分」。1食300円、炒める・蒸す・出すだけで簡単（ESSE-online）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXFoellKUjRoM2tnd1lJWWxxbU1ySERWVmpGREQzQXMzbEN3cEZnY1J4bXpVWGJ4cE1PX1JXUUhadGhQbFk5QVBOQXVSbkdOSk95ZGdIblA0SVJBVjZMNkFXYVRsTzhIXzZ5cl9sRFNjdU85SVk3Sm1ZdlI4RExUU0lJdzJKRDhP?oc=5"
         },
         {
           "text": "【60代女性の暮らし】60代で“部屋の探し物を減らすコツ”とは？心も整う整理術が注目の的に（LIMO）",
@@ -169,9 +174,9 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sU3lnYmNlaGRDZ2ZXM04yVmZEM1dCZlIzcTEzMDg2NlV3b1dXb09hMXN1dWpjLUN4T0cyU2pNdmJsNlJKVWd3NXA3TWpGdmVoTFpmdnM4WTExNmthSDJuUEFZYnBqUHQ1MGZjSDJrQjFVWWpCT05vcDNqTS1pTWs?oc=5"
         },
         {
-          "text": "巨大地震の備え確認、「防災の日」各地で訓練 初動対応や救助活動",
-          "desc": "巨大地震の備え確認、「防災の日」各地で訓練 初動対応や救助活動&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fMGRtelBaS1RtaGFWdG9ocEpGVUVMdzNUclRZcWhYemFrRXVRTXFDM1RUR3JDbjd4cm5YbHZOeExqSjFLOXhPZzVrUlpVaksydDFhZU1PVnlBdFl0T0RreWw3LW9feFFCekdiSQ?oc=5"
+          "text": "「備えあれば…」はアイドルの鉄則 モノと心の防災対策を普段から",
+          "desc": "「備えあれば…」はアイドルの鉄則 モノと心の防災対策を普段から&nbsp;&nbsp;asahi.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80NE1qNmpnODlHR2ZqMzdWRWcxTHZMNkN4b0ttRVBPTU9FcVJyZlJRVFh0Z09fSVVBRDZJWUY2cTJXVHRTdmJGNS1VcTMyblduXzhVZm5ocEs1VFM2Q3p4LWVtRHVmTUE?oc=5"
         },
         {
           "text": "【防災】授乳への不安・暑さ対策…“乳幼児”守る日頃の備え 「避難所は何でも揃っているわけではない」防災士に聞く備蓄や衛生管理（FNNプライムオンライン）",
@@ -179,12 +184,12 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMVV5M3FsZ21iOExFQXFOTXh1ZzI3QTNOUEpQTzJVc2dYWFhXdkNJREkyNlNVZlYzaDRVeTFxanpXcXdYZ1dYVV9Ea2FZYXpkbjE0eEk4MG9iT0RsN2o1OWtmNWtaTWd0OE1iWVRtbDZVRDRXR1ZyWWE3Q3FuV28?oc=5"
         },
         {
-          "text": "正しく避難して命を守る 「防災の日」に考える災害への備え 【徳島】（2026年9月1日掲載）｜JRT NEWS NNN",
-          "desc": "正しく避難して命を守る 「防災の日」に考える災害への備え 【徳島】（2026年9月1日掲載）｜JRT NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3QmZPa29jb0lwZnlCdlMyQ0pqQUFBM3F4UU1TWEZiYlpuZ0JxN3JmdTFlMFRkemExN2VnQ3V6dmFfTU1tQnBnVlpNNDkwYlA3RHRZZ2huc2k1OXR3WWdEaUZKZjBOZURJc2kwOFNNRVI5WUpza3VPTmJhSzI5VVU?oc=5"
+          "text": "「自分の命は自分で守る」小学生が災害への備え学ぶ 区役所と連携し大阪府警が防災教室",
+          "desc": "「自分の命は自分で守る」小学生が災害への備え学ぶ 区役所と連携し大阪府警が防災教室&nbsp;&nbsp;日テレNEWS NNN",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU3RZSWxza091a19HTlBnNHRIN0hSSDlWVUtCcFZYTy1wNDJIX2NHT29VLU9RNzJienFJdm9PWXM5RFVVaTIzc0tIR2pJeDdrWEdnRlgtVllvYkhRZ29GeW5WV0dLa2xFT0sxcjFPRkhGUHh6cFM1dFdkMF9sa1ZnSEFtc3FHOUk?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-08",
+      "lastFetchedAt": "2026-09-09",
       "source": "Google News"
     },
     {
@@ -198,8 +203,13 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10RlZCeVFJRGhfeXc4bFhpZm5XeXdvbVhfcU10dHE1TzFvR2dhQ0xVeU5LU2QtWlJMOXdBSHl1em1fQ3JONXJlVVlLVzRZaWtVb0ppUTlFTjgwXzZSaEt3TURVXzJKUXNPQlhTdHNBNXBqdkZC?oc=5"
         },
         {
+          "text": "「光」を追い続けた多田美波の70年をたどる展覧会が「東京都現代美術館」で開催",
+          "desc": "「光」を追い続けた多田美波の70年をたどる展覧会が「東京都現代美術館」で開催&nbsp;&nbsp;Time Out Tokyo",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iZjdfdFIwTzBzaWxsYVduNGd5dlFpZ2ZwQjM4V0hIV0RaSGZ3WUhsbG1GdEFFRFEyOVhKeUUwU0Y4ekZ0b3h1ZUlIc2RKOWZWX0tqc25ZcTZJMURFSFFmbWgtQ0VQUQ?oc=5"
+        },
+        {
           "text": "「赤とこにゃん」が話題の愛知県常滑市。観光客を1・5倍に急増させた町の取り組みとは？ #エキスパートトピ",
-          "desc": "「赤とこにゃん」が話題の愛知県常滑市。観光客を1・5倍に急増させた町の取り組みとは？ #エキスパートトピ&nbsp;&nbsp;news.yahoo.co.jp",
+          "desc": "「赤とこにゃん」が話題の愛知県常滑市。観光客を1・5倍に急増させた町の取り組みとは？ #エキスパートトピ&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT1B1U0VMb0h3eE5PSzhxZDRPTE5CUnUxQWg0MVBDcDVxQ1MtWks2TWJ4eWoyN2FENkF2aC01a29HcGJ5RGMxMVdsWTJaXzhGeDI1SG1ENjRmcGRQV0NkbmVkTnlVemh0RFp0SnNWS0dQSllpMjd0WUJkc0dHb3dpWS1NUVRsTE1w?oc=5"
         },
         {
@@ -213,22 +223,17 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TV21iSVhLVGE2VUNfRVFZOXRLa3FKUDF3c2NGZVJObHpZVUtGTVN5ekU1V0x5Qy1DNmlwMXZJYTBybDdkRzd6eU9uOS1TeTVFamloMzN30gFbQVVfeXFMTmFYQWNBODVvcTluelpFcTZjeXZvdERTT0owWEpPak15SzQ3X0hkWkhIQ3o3S2ZWWTdIWi1McUVtQWl2VHZfV2N3NTlDSjZfRUhUbTNEQUpDU0thRQ?oc=5"
         },
         {
-          "text": "東京、9月に行くべきマーケットイベント6選",
-          "desc": "東京、9月に行くべきマーケットイベント6選&nbsp;&nbsp;Time Out Tokyo",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hUU1jM0FCLUVWTHZXeEhicWItLTFrQzJMWWdGVUhiZVJjcmhDM3M0Q2lvVmlxeDhaV29wMmlPVzNsVXl6VENzeFVPMGNrWG5LbUF1UThhSVdHdnNXdkc3amFEelVrZ3BsTGUwTzZiT0xWQXNDejN1c1NTMA?oc=5"
-        },
-        {
-          "text": "ワークショップ Playground for Tennoz Isle(東京都)の情報",
-          "desc": "ワークショップ Playground for Tennoz Isle(東京都)の情報&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93U2FnM3FqYXMtRTRCRU1HekJ4RFFSYnExdDNBOFdzNi0xSnZkaFB1YnNISE9LeHU2WHFtYUdVOVlWcENBRGNzMC1fa1JtT0pCMkExQmNvSmRDWjA?oc=5"
-        },
-        {
           "text": "火災保険の“盲点”を専門家が明かす「水漏れや窓のヒビ」修理は自腹…その思い込みで数十万円の損？",
           "desc": "火災保険の“盲点”を専門家が明かす「水漏れや窓のヒビ」修理は自腹…その思い込みで数十万円の損？&nbsp;&nbsp;ウォーカープラス",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdnd0b0lpZGUyOWFCdldRc1NEb0JyS0daZFhJTTZCYy1CQTdtRml1T2lpUkNlYWpaakpxaFp6dlNhT1BHVnpZNm9VZlhFWC1wbzVYU1VR0gFbQVVfeXFMUDNHTmxHWnRTZWtZSFRoZVlkLWcwYm1mLWJJN1FNSjByMElyTmtqdEY1T1kyYlV1UEJSa3ZWWXhDZXcycFZfSTV6dnZRbXdjN2ZZclBvM2dyOEpXOA?oc=5"
+        },
+        {
+          "text": "昭和の熱気を再現、ホテルニューアカオで80年代ディスコイベントが開催",
+          "desc": "昭和の熱気を再現、ホテルニューアカオで80年代ディスコイベントが開催&nbsp;&nbsp;Time Out Tokyo",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHVia1hEeUFYMVo4SE1PUENGX2RkYmRmMV9oSVRTNWt5UF9hQmZnX2NLcGpNR3ZyWkhBUnJ0T0xJZndqSnF1eG5IRWQwSFQzejhkSF8tZUJDQzVreWtrQzJuRVZUMnQ5bkFGRlhxQUwyY2FZNHVGZ212X1RwNTQ3R1hQbw?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-07",
+      "lastFetchedAt": "2026-09-09",
       "source": "Google News"
     },
     {
@@ -237,17 +242,12 @@
       "title": "仕事資産 — キャリア・副業",
       "items": [
         {
-          "text": "AIに奪われるのは｢仕事｣ではなく｢能力｣だった…いま職場で静かに進行する｢人間のスキル劣化｣の危機（プレジデントオンライン）",
-          "desc": "AIに奪われるのは｢仕事｣ではなく｢能力｣だった…いま職場で静かに進行する｢人間のスキル劣化｣の危機（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sU21vVFVnVjlfRnRWbWVyX1k4NHBpYlF6NERLV3pDWFpJWjgyLVNtbHZpQ05saTZIT2RZcEtMRTdweDBsVHpUNVNHYzYyQWF3eG5LanBhcW5DNzhiRnRXeFhLVTFzZlFwdDlOakJQZ05MU2VLNklMaWF4bXdkQXc?oc=5"
-        },
-        {
           "text": "ビル・ゲイツが警鐘を鳴らす「生成AI」3つのリスク…増える仕事と減る仕事、最も影響を受けるのは誰か？（Wedge（ウェッジ））",
           "desc": "ビル・ゲイツが警鐘を鳴らす「生成AI」3つのリスク…増える仕事と減る仕事、最も影響を受けるのは誰か？（Wedge（ウェッジ））&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2dESGtBYjVtZHQ4aUNFYXRKMUJ4WXZCdzhqMThDWFBSc2hhcGhIRTNvTFRyM2tKTTQ1NmdDTGR3cGdIdnZ1cU5iZndlQV9KYzM0U2ZiQWZCZDc0Y2lVTjhmYWRmdnpvckdVT21NTTF6YkRVTkFpYmVEX2tESzFEUndzV0pMZXlZ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-08",
+      "lastFetchedAt": "2026-09-09",
       "source": "Google News"
     },
     {
