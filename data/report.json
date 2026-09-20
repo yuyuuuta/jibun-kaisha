@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20",
+  "updatedAt": "2026-09-21",
   "summaries": [
     {
       "id": "finance",
@@ -7,29 +7,34 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "海自哨戒艦名が｢すぎ｣｢ひのき｣でいいのか？新型｢さくら｣級への雑木林のような命名が示す海自のおざなりな体質 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "海上自衛隊の新型｢さくら｣級哨戒艦。その艦名には｢すぎ｣や｢ひのき｣といった樹木名が並び､国民との結び付きや士気向上の観点から妥当な命名なのか疑問が噴出しています。",
-          "url": "https://toyokeizai.net/articles/-/958256?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "日銀の利上げ姿勢に失望感広がる…円相場は｢一段安｣のリスクを抱えながら波乱必至の1週間へ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "大型連休で流動性が低下するなか､円相場は一段安リスクを抱えながら波乱必至の一週間を迎えます。",
+          "url": "https://toyokeizai.net/articles/-/958784?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "最新！｢四季報プロ500｣秋号が選ぶ､今期の純利益増加率50社　大幅増益の背景は？ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "企業の純利益は､配当や株価にも直結する重要な指標です。最新の『会社四季報プロ500』秋号から､今期純利益増加率が高い有望企業トップ50をランキング形式で紹介します。",
-          "url": "https://toyokeizai.net/articles/-/958475?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "フアンCEOは不安を否定…｢世界の終わりになる可能性は0%だ｣エヌビディアCEOがAIによる人類絶滅リスクを完全否定 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "AIが人類を滅ぼすリスクは本当にあるのか――AI業界の巨人エヌビディアのフアンCEOは｢世界の終わりは0％｣と断言し､悲観論に真っ向から反論します。",
+          "url": "https://toyokeizai.net/articles/-/958752?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "ウォーレン･バフェット氏（96）の長男ハワード･バフェット氏（71）がバークシャー会長に…異色の経歴､取締役33年 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "著名投資家ウォーレン･バフェット氏（96）の長男で､父の後を継いで複合企業バークシャー･ハサウェイの会長に就くハワード･バフェット氏は､企業統治でも豊富な経験を持つ。ウォーレン･バフェット氏は今後､…",
-          "url": "https://toyokeizai.net/articles/-/958734?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "米オラクル決算から見えた｢AIインフラの現在地｣ 4年以上前のGPUが20%高い価格で再契約 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "アメリカのオラクルがAI時代の最前線で急成長を遂げています。",
+          "url": "https://toyokeizai.net/articles/-/958314?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "｢芯がない｣と元同僚もバッサリ… 新党｢民主｣旗揚げから\"軸ブレまくり\"の呆れた実態と野党再結集の絶望的状況 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "8カ月で瓦解した中道改革連合。その所属議員のうち立憲民主党出身者が結党したのが｢民主改革の会｣でしたが､船出前から針路は荒れ模様。元同僚からも｢芯がない｣と切って捨てられる､呆れた現状とは？",
-          "url": "https://toyokeizai.net/articles/-/958615?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "中国｢一帯一路｣がヨーロッパで暗礁､インドもなびかず…米中首脳会談を前に外交マラソンを始めた習近平の次の一手は | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "経済成長の鈍化や人口減に直面する中国は､｢一帯一路｣戦略やBRICSを通じて影響力拡大を図るも､欧州やインドとの関係悪化など想定外の壁に直面しています。世界秩序の再編が進む中､日本が果たすべき役割と…",
+          "url": "https://toyokeizai.net/articles/-/958574?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "原油価格100ドル再突破で世界に広がる怒りと政情不安 いま注目すべき｢臨界状態｣地域の現状 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "イラン戦争によるエネルギー価格高騰が世界各地で波紋を広げています。燃料不足と急騰する原油価格が市民生活や経済を直撃し､抗議やストライキが続発。補助金拡大か物価高容認か､各国は難しい選択を突きつけられ…",
-          "url": "https://toyokeizai.net/articles/-/958594?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "これこそ〈投機家ケインズ〉が本当に伝えたかったこと…落ちるナイフを誰もつかまない市場を一変させるショック療法 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "ケインズの｢一般理論｣をめぐる解釈や論争は今なお尽きません。｢有効需要｣か｢流動性選好｣か､現代のマクロ経済政策にも大きな影響を与えています。しかし､その本質に誰もたどり着けていないのはなぜでしょう…",
+          "url": "https://toyokeizai.net/articles/-/958533?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "極右政党がドイツ地方選挙で圧勝､メルツ首相の\"大惨事\"  ｢どうしてここまでの事態になったのか｣ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "ドイツ東部で極右政党AfDが歴史的勝利を収め､中道右派のメルツ首相は政権維持の危機に直面しています。",
+          "url": "https://toyokeizai.net/articles/-/958117?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "FRBが3年ぶり利上げ決定、年内あと1回予想 議長「インフレ高すぎる」",
@@ -50,14 +55,9 @@
           "text": "FX・為替相場の注目指標や予想を解説 - 9月16日(水)■『米国の小売売上高の発表』と『米国の金融政策の発表及びウォーシュFRB議長の記者会見(今回はSEPの発表もあり)』、そして『米国の国債利回りの動向(米国の長期金利)』に注目！",
           "desc": "FX・為替相場の注目指標や予想を解説 - 9月16日(水)■『米国の小売売上高の発表』と『米国の金融政策の発表及びウォーシュFRB議長の記者会見(今回はSEPの発表もあり)』、そして『米国の国債利回りの動向(米国の長期金利)』に注目！&nbsp;&nbsp;ザイFX！",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZdHJsV0ZKRmFEckxWdVpRdl9RVlJ1eDNxcjNoZG4xSDZhRFdXQXRGMkZqTzZFMmNQajZsQnN6VGNFdkRKMlQwQ19nWUoxemNlUXc?oc=5"
-        },
-        {
-          "text": "「FRB利上げ」の市場予想9割超、10年債利回りは5％に 苦悶のウォーシュ氏",
-          "desc": "「FRB利上げ」の市場予想9割超、10年債利回りは5％に 苦悶のウォーシュ氏&nbsp;&nbsp;日経ビジネス電子版",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82N3kyaTZSdnhTaEtXRlZYdjdvR2RESVhldjM2eUcxNUVISjQ3VzQ1eXp2eWMyajREQV92SWJINy1MSzRiMXNGUXpSSFpYSHhHTDgtdS1XOXF1dmRZNzM2MUpTRkl6dFU?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-20",
+      "lastFetchedAt": "2026-09-21",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
+          "text": "「Jev」とは　“文章を書かないAI”がなぜ話題に？　元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
+          "desc": "米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。この記事では、Jevとは何か、LLMとはどう違うのかなどを整理する。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/"
+        },
+        {
+          "text": "AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス",
+          "desc": "生成AIを導入しても、現場で使いこなせなければ業務改善にはつながらない。中小企業ではAI人材の不足や研修、費用が壁となる中、専門人材を常時抱えるのではなく、「必要な時だけ活用する」という選択肢を提供するベンダーがある。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001626/"
+        },
+        {
+          "text": "AIを入れても仕事は変わらない？　アビームとNotionが「企業ナレッジ」に注目する理由",
+          "desc": "AIエージェントの導入が進む一方、企業固有の業務を任せるには、社内に分散する知識や個人の経験則をAIが使える形に整える必要がある。アビームとNotionは、ナレッジを起点に業務と組織を変える。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001660/"
+        },
+        {
+          "text": "AIを入れても「最後は人頼み」　自動化の穴を「AI＋人」で埋める新たなBPOサービス",
+          "desc": "RPAや生成AIを導入しても、例外処理や目視確認、システム更新など「最後に人がやる仕事」は残る。Generative Partnersは、こうした自動化しきれない業務をAIと人力で分担し、BPOとして丸ごと引き受けるサービスを始めた。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001625/"
+        },
+        {
+          "text": "AI導入でつまずく中小企業、「何を・誰が・どう変えるか」を丸ごと支援",
+          "desc": "生成AIを導入したくても、「どの業務から始めるか分からない」「AI人材がいない」と悩む中小企業は少なくない。ただツールを導入するだけでは業務は変わらない。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001627/"
+        },
+        {
+          "text": "AI攻撃は「調べて対応」では間に合わない　ゼットスケーラーがSOCをAIエージェント化",
+          "desc": "AIによってサイバー攻撃のスピードが増す一方、企業の防御現場では人が大量のアラートを調査し、対応を判断している。人手不足も重なる中、ゼットスケーラーはAIエージェントを活用し、検知から調査、対応までを自動化する新たなSOCを打ち出した。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001661/"
+        },
+        {
           "text": "東京ゲームショウと生成AI　ゲームの祭典で商談見込むベンダーたち",
           "desc": "ゲームでのAI活用と言えば、オンライン発表会での動画生成AI使用が物議を醸したレベルファイブをはじめ、まだまだユーザー側の拒否感が強い領域でもある。こうした状況下で、ベンダーはどういったソリューションを、どんな企業にプッシュしようとしているのか。TGS2026現地で何社かに話を聞いてみた。",
           "url": "https://www.itmedia.co.jp/news/article/2609/19/2000001639/"
-        },
-        {
-          "text": "パナソニック・サムスン撤退の裏で「中国勢5割」　独IT見本市「IFA」トップが明かす舞台裏",
-          "desc": "出展2000社超の過半数が中国勢、そして長年メイン会場の“顔”だったサムスン電子の電撃的な撤退──。欧州最大の家電見本市「IFA」の会場には、中国勢の巨大ブースと50モデルものヒューマノイドなど地殻変動の熱気が渦巻いていた。主役の交代と「脱・家電」シフトが加速する中、IFA運営トップのライフ・リントナーCEOを現地ベルリンで単独直撃。サムスン離脱の本当の理由から、パナソニックがブースを壁で覆った真相など、グローバルハイテク市場の今に迫る。",
-          "url": "https://www.itmedia.co.jp/business/articles/2609/19/news010.html"
-        },
-        {
-          "text": "「規定を探す時間」をAIで短縮　豊川信用金庫が生成AIを職員のFAQに活用",
-          "desc": "業務規定や商品知識など、金融機関には日々参照する情報が多い。必要な情報を探したり、詳しい職員に確認したりする時間も課題となる。ココペリは、こうした情報検索を生成AIで支援する「SAF」を豊川信用金庫に導入した。",
-          "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/"
-        },
-        {
-          "text": "「AIで資料は作れるけど、増えすぎた」を解消するNotebook機能とは？",
-          "desc": "生成AIでスライドや図解を手軽に作れるようになった一方、作成物が増えるほど「どれが何の資料か分からない」「目的の資料を探せない」といった問題が起きやすい。",
-          "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001614/"
-        },
-        {
-          "text": "AI導入は6割、でも8割超が「チャット止まり」　業務自動化まで進まない原因は？",
-          "desc": "「AIを導入したが、チャットに使うだけ」。そんな中小企業は少なくない。クラウドワークスの調査では、AI利用企業の8割超がチャット利用にとどまった。業務自動化を阻む原因は何か。",
-          "url": "https://kn.itmedia.co.jp/kn/article/2609/19/2000001624/"
-        },
-        {
-          "text": "生成AIで物議のレベルファイブ、東京ゲームショウ当日の様子は……現地を見てきた",
-          "desc": "9月10日のオンライン発表会でAI生成動画を利用し、SNSで物議を醸したレベルファイブ。数日後に「東京ゲームショウ2026」（幕張メッセ）の開催を控えての炎上になったが、イベント当日の様子はどうか。現地を実際に見てきたので、写真を交えて紹介する。",
-          "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001633/"
-        },
-        {
-          "text": "Anthropic、AI開発の26％を「Claudeが主導」　「1％未満」から半年で急拡大",
-          "desc": "同社のAIモデルの研究開発全体を100とした時、AIが主導する仕事が全体の26％を占めた。人間が細かく指示しながらAIと進める仕事と合わせると90％を超えた。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2609/18/2000001634/"
         }
       ],
-      "lastFetchedAt": "2026-09-20",
+      "lastFetchedAt": "2026-09-21",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -110,14 +110,14 @@
       "title": "健康資産 — 健康トピック",
       "items": [
         {
+          "text": "スマホのブルーライトをカットすれば、睡眠の質は改善するの？",
+          "desc": "スマホのブルーライトをカットすれば、睡眠の質は改善するの？&nbsp;&nbsp;読売新聞",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVdiR3hTNWFZNENUZUIyYURpM0dLWHZHbzJYMk1xM1lBVXl5SHNIZ01NNE1uVTZMNng5aFJfd21KMkVBSmZyTEJ4bXVBTVF5UmQwalFFckY1NWc4Y3ZvYVFaUXFrakRLSnY0R1hjbDNKV01UZE9NeXdCWG14WjV4aF9fUmlDRUR2eXZ2dURoQQ?oc=5"
+        },
+        {
           "text": "愛犬の睡眠が浅い気がする？ 犬をぐっすり眠らせるための工夫とは（いぬのきもち WEB MAGAZINE）",
           "desc": "愛犬の睡眠が浅い気がする？ 犬をぐっすり眠らせるための工夫とは（いぬのきもち WEB MAGAZINE）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBleS14RThxX3VtRkVRWjgtQ20waFF3Zi1Dd0xsMUE4eXgyX3FKMHFjM0Z4Zzk1QmNaMmxHSmh3T2I2aEVjOFh3WnUxbExkeFI4czBJODIxMGdsQ1ltLS1UZl9XZ1Z4djBCSE5oMi1aOExFSkhSeTZVYWNqMkptS3M?oc=5"
-        },
-        {
-          "text": "【ラスカー賞受賞】柳沢正史教授が語る「睡眠学」とは？ 人はなぜ眠り、なぜ眠れなくなるのか（ダイヤモンド・オンライン）",
-          "desc": "【ラスカー賞受賞】柳沢正史教授が語る「睡眠学」とは？ 人はなぜ眠り、なぜ眠れなくなるのか（ダイヤモンド・オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HRWFGYVd2YW1KZlRQMk90NDgwTW1DdU9nVUN3dG9iWmEwWXBrM1dxUl91UlJuQjNnYWZReGNNX1VLME53ZHFfbnhDcGswV05nd19qOUdSR1dUN0wwdk01bENYZUlHdmRrN0syOGN4YXZLWFhyWkFOcURiaHQ4a1U?oc=5"
         },
         {
           "text": "専門家15人が選んだ脳・血管・腸の老化を止める「究極の習慣」ランキング 圧倒的1位は「毎日の適度な運動」 有酸素運動で「ワーキングメモリ」の改善、「後ろ歩き」は認知症予防も（女性セブンプラス）",
@@ -125,9 +125,9 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdjJ3YTRnTGtnelNQTEEwb0E1eWhyUExMT1hkSllJVVNzb3EzbGVfMzRqYmZ6VGJrdlJGOVdaeEIxTXl5cmQ5VmkwU29WZUpTZkkzVUp4cS1QOHd5WnJ1eXpVQTFoZFZYUy1KUjlUcUtndEh1aUNTYkNXQzE2YUpMT0JEUFFMc0Nz?oc=5"
         },
         {
-          "text": "心と体の休め方＆ストレス解消法 リーダーたちの休日",
-          "desc": "心と体の休め方＆ストレス解消法 リーダーたちの休日&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42SS1WTE9mYnNOSVVPUFlpRnlHS3IyOV9JSTBPVkR1UGlCNUExSEJPMk9Cb3ZmRW5MVXVzWXp1YjFMX2N4cU9ULXladXhEcl9nMnRJb1Jmek84YVFEN1VF?oc=5"
+          "text": "うつ病も生活習慣病の一つ？ 京都で公開講座、リスク下げる「地中海式食事」とは（京都新聞）",
+          "desc": "うつ病も生活習慣病の一つ？ 京都で公開講座、リスク下げる「地中海式食事」とは（京都新聞）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdFlJaG1oTFpPMF9DSFF5eVk3cmU2Wk1JaGFGdWZZazdoRDNHOE1GV1ZycDJWRnNfNXRTRDliYlZ6Z3JEWThVdGlSeTZNYXByeU1TRk5rcGVoMVNWbnZOOEFuTVotbTJ4ODN3ajBMQnkxZ3Jna2ZFYVc1M1BjSGs?oc=5"
         },
         {
           "text": "壮年期からの健康支援～事業所への取組と関係機関との連携～（新潟県三条市）｜地域・職域連携のポータルサイト",
@@ -145,7 +145,7 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RNDV2V0ZNb1AtSnIxaEtKVG5fcHZqQjRfMzBrSlAtcnQyYUttSkoyTGdjUFdUaldsTkxGR3daZXpJMkdLWnEySGxnRTNtUURXUmhUNS1tWXNfNTRKRUI1cFdsRjl2UlVCTXdFV2d3?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-20",
+      "lastFetchedAt": "2026-09-21",
       "source": "Google News"
     },
     {
@@ -159,9 +159,9 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOFlZVkpWeWpqZGZuYld5OFBMNTlwX1Z2WWlpVTQyLXlrdm9YLWREWU4zdDE4dUFCNmJEQVcxR0JwaTNPUzBMMmoyaFpsM2h3dHVGcjlBdDBtWFh5eWhZMGNOeGdKQ1l0Zjl5Q1d5NEVTQzFxZnl6SmNLR2EwNDdoOHpTblJqZDZRV1BtU0dR?oc=5"
         },
         {
-          "text": "人権侵害や暮らしの悩みに対応「高齢者あんしん電話」受け付け始まる",
-          "desc": "人権侵害や暮らしの悩みに対応「高齢者あんしん電話」受け付け始まる&nbsp;&nbsp;TBS NEWS DIG",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Sk5fUW5XaVFjLVoyZ05UTzdkRXJVT0JwVm03QnplVmxBZjhFczU4Wjd5Vm5FSkFMeGJaeHFfaWhxQVJZRXgtMDhNak5GX2UxNGtodWllM251UQ?oc=5"
+          "text": "老後のひとり暮らし「極上の孤独」を愉しむための人間関係の見直し術 基準は「一緒にいて心地よいか疲れるか」、“付き合う回数を減らす”という選択肢も (マネーポストWEB)",
+          "desc": "老後のひとり暮らし「極上の孤独」を愉しむための人間関係の見直し術 基準は「一緒にいて心地よいか疲れるか」、“付き合う回数を減らす”という選択肢も (マネーポストWEB)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDdMOTBhSkh5UW9GbjBUakFhQVJwTlZOd1dudmhRV3lhdmI0eEdpRTZHXzJoUnN3ZUNoMXhVdjBodWxBbTJtSnJ3dzJiMHRRRDRvaUpDLWFaZVAzZVZSMTBPbVIxMXVOV2J5NkgzempqZlkxODdLR2tacmdrcFRpRXl3NVQxdGVYazNTUWp3?oc=5"
         },
         {
           "text": "暮らし上手が「秋服を買う前」にやること。服を手放す“5つのルール”や、クローゼットの見直し方も (ESSE-online)",
@@ -179,17 +179,17 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUZIZkxIbzlaTFBwcGhkb1dRMllTOVNURzlXbnhTU0p5NjBxeXlYY2R3M1pNZEJjRjFiUlJuNVdsakhCaXdiQkstUmYwZEctNFZVX1FJMHR3dlcxRnRQcXhJbTlxVzZGT2xLdlpqMkhSOWxwMVNKb25sc0haY1dkVmZOUWRyNnV4UU5La0Fn?oc=5"
         },
         {
-          "text": "40代がこの10年で「手放してよかったこと」。暮らし上手の身軽に生きるルーティン (ESSE-online)",
-          "desc": "40代がこの10年で「手放してよかったこと」。暮らし上手の身軽に生きるルーティン (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSFYySEE4bUlPLWRNa2NEWjBvb3Y1TnhuYTE2ZWJzRWdKSzFXUWhvV0Vhb0ZUX21MR0dWYVl3SzdLUTNMSFZZY3MtLUtNSWw1RFBqUUUxV3RmVDdsSExRM2w2WXNjUVlWM3JlaHVlNTBVOHJwLVRiZUlya3NMdGF0MlRWclZBbU5IUmlSSm5B?oc=5"
+          "text": "お金を貯めたかっただけなのに！思いがけず暮らしが軽やかになった3つの変化 (サンキュ！)",
+          "desc": "お金を貯めたかっただけなのに！思いがけず暮らしが軽やかになった3つの変化 (サンキュ！)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1IzVUNqdUhEYUhqbkZ3VGw0U0I3a3NNVHFIaTlNZ3RuN1NVRjR6eFYzNmE4LTVONG5PTWpTb084TTgtTzQ0RkpOV2RfbHk0YVNVLWVrTGVsY0pJZm02dUxkWFVhMXJhSWZHaTFmU2dsOTJlT3RlVGVVYnFqZ185dE4tQ1Mwb3FJOUI3dFZR?oc=5"
         },
         {
-          "text": "ライフラインが止まっても生き延びるために。備えておくべき防災アイテムチェックリスト【防災アドバイザーに聞く】（レタスクラブ）",
-          "desc": "ライフラインが止まっても生き延びるために。備えておくべき防災アイテムチェックリスト【防災アドバイザーに聞く】（レタスクラブ）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJYWlyR2R1YUh6cDQyNVpDZUpWWEp2VzlOa1l4T1hIb0RVNC1ZTXFaYUFucllaRHJndkUxbEVVUzlESm9HT09MZjdObjY4SnJBc25NSXlZVjlJNi15T3FnRUViVlNLOXVkTDU5N2tlN1BwQkhIVXM5MG1NV3VMXzQ?oc=5"
+          "text": "人権侵害や暮らしの悩みに対応「高齢者あんしん電話」受け付け始まる",
+          "desc": "人権侵害や暮らしの悩みに対応「高齢者あんしん電話」受け付け始まる&nbsp;&nbsp;TBS NEWS DIG",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96Sk5fUW5XaVFjLVoyZ05UTzdkRXJVT0JwVm03QnplVmxBZjhFczU4Wjd5Vm5FSkFMeGJaeHFfaWhxQVJZRXgtMDhNak5GX2UxNGtodWllM251UQ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-20",
+      "lastFetchedAt": "2026-09-21",
       "source": "Google News"
     },
     {
@@ -198,8 +198,8 @@
       "title": "関係資産 — トレンド・体験",
       "items": [
         {
-          "text": "鹿児島県で今週末(9月19日・9月20日)に開催されるおすすめイベント13選",
-          "desc": "鹿児島県で今週末(9月19日・9月20日)に開催されるおすすめイベント13選&nbsp;&nbsp;ウォーカープラス",
+          "text": "鹿児島県で今週末(9月26日・9月27日)に開催されるおすすめイベント19選",
+          "desc": "鹿児島県で今週末(9月26日・9月27日)に開催されるおすすめイベント19選&nbsp;&nbsp;ウォーカープラス",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2WkdJOTAtZHdXbEtKY3FTd3Z6RGt5UnNwMzJ1TW9XVVFFRVd5czV1cTBTcVFQbERPNjlVOHVSZ21VZURxSnRxcW1VdkV6QnZNbEktY3NMS2FLejVjaUIwOHJBb2cxUQ?oc=5"
         },
         {
@@ -213,9 +213,9 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YN3hMZ2JSVzNITHh3OXlOdHlzcWh2SmJSRHY3cnphZWFtMEcwVXlfWFhrczMyTFoxaDNDamdMcklTZ2IycGVhTVdLRGtiNlNSeFRfLTkxeW14a2Z0S1BicUd6VjFKNWFBTzNiRmVibEIwV1dFU09kU0NTYTVkanM?oc=5"
         },
         {
-          "text": "感性の原点で紐解く、「蜷川実花展 はじまりの光」が川口市立美術館で開催",
-          "desc": "感性の原点で紐解く、「蜷川実花展 はじまりの光」が川口市立美術館で開催&nbsp;&nbsp;Time Out Tokyo",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcV9fYUgwRk84cXFrOHVUdDhYODZfZ0hZTk5LQ2JuY3dkdzJ2dVpEUU5VOElXay1tWkgzQ1JaVVByc1JsNjhBdTl5NlFkMWVBYjFWeEkyek9EUVZmRG5IeHJxUFZUaWhtT0lzUmFITmdORk41TGpUWGlFTWtNSjRUcXlRYw?oc=5"
+          "text": "神奈川のおすすめ観光地5選！人気スポットから穴場まで徹底紹介",
+          "desc": "神奈川のおすすめ観光地5選！人気スポットから穴場まで徹底紹介&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3b25LMWlWcjRkU1BwUW95bHBIZzdjQ0FLUVNLdVJ0dUJBWk1GOEhQRzJPNUtnUlRzMGhjOWpiUE9UMllQd054b0Q2MWd2MmJVMldJQ3Zn?oc=5"
         },
         {
           "text": "「かわいさが日本中にバレた」と話題 23歳アナ、肩出し私服に「超美人」「かわいすぎる」の声（ENCOUNT）",
@@ -223,17 +223,17 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Jd2NRQTRsNmE0QW4zeUt4Y0VzSjg0d1hSaElLVGdSNnFqWjV0ZDNiNS0yZ3JqbXRIQjJ6SEpJUWZzTmFacm1QS2tCeEJrZHJJUUw5QWlIajRIVUN5aGFmbGdEdkJCQ0FjODlZMTNDZzg5UGppY1hFTVRxMW41ZXc?oc=5"
         },
         {
-          "text": "【京都観光】江戸時代の京の都で18禁イベント!?リニューアルした「太秦映画村」でイマーシブ体験！(1/2)",
-          "desc": "【京都観光】江戸時代の京の都で18禁イベント!?リニューアルした「太秦映画村」でイマーシブ体験！(1/2)&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05QldkcUtLdUZPWW91RDFOcDRxQ19VUkhXMzBhMDVtdkNjdUI3QzBBVllSdXdlS3RXSTFTWTdDX2p6eThEcDVpbjdTSHU0cUl6VlQ2MWNn0gFbQVVfeXFMT1llUTNweURadjhOcF91VkZFQTZvMDBESEwyRUZWNXJ1SFJBX0lDYnJrbW9WWVdSYUFVWUh4R1g3bmRSMzk0UW1hYW10TXRrVjF6NWdSeFZuNWdsQQ?oc=5"
-        },
-        {
           "text": "東京、9月シルバーウィークにするべき10のこと",
           "desc": "東京、9月シルバーウィークにするべき10のこと&nbsp;&nbsp;Time Out Tokyo",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMmg2Y1NzRVZuUTJlcTd6M0d0UTF6cmRzNW0xMU8zSlZ1blB2OW0zenlZZ3RfZmJ4YktoNVotQXEtb2dINklfMVBGdVV2bFRTc1pxSE9rX3pyY1dwQTdDYWNJY09ReXlmcmJXcnpsWEEtS1hPMnptbFRkOWdxNHdHZ1N3?oc=5"
+        },
+        {
+          "text": "シルバーウィーク特集「イオンモールのシルバーウィーク大満喫作戦2026」がオープンしました",
+          "desc": "シルバーウィーク特集「イオンモールのシルバーウィーク大満喫作戦2026」がオープンしました&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HMHJsTk41bEpzM04zREFuSmlYbjRNcDBGbndJTk1KYXVrRHNXYTVKZzAtMWRVdXhRVlR6SEVnZWhOTlpwaWdEdXk5Wi1taUY1NlJvN2N30gFbQVVfeXFMUFBVRXpwbXZuMlR4UzQwd3RQX21hSlpDRjZzaUswMWxqY0R1R0FPNEg1ckctQVZiUnpCbVNiOEc1WThBNk8zV0o4QU9PT2JlemR3YWI4QzRuT2NsWQ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-19",
+      "lastFetchedAt": "2026-09-21",
       "source": "Google News"
     },
     {
@@ -243,7 +243,7 @@
       "items": [
         {
           "text": "AIで仕事を効率化するのに最適 入門から本格活用まで、部長おすすめの8冊",
-          "desc": "AIで仕事を効率化するのに最適 入門から本格活用まで、部長おすすめの8冊&nbsp;&nbsp;bookplus.nikkei.com",
+          "desc": "AIで仕事を効率化するのに最適 入門から本格活用まで、部長おすすめの8冊&nbsp;&nbsp;日経BOOKプラス",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1ZkhsVk8zWTBBY203Q3JuOWh0RTdMZHhFODFaa3I5YmFXTHFBQUJXR0lYb1phMnBJY0N3N2VuN1dmSG5sWXZSSDFvdG54S1VQdnhOSUpBdGhubDRSenVnWU1HeDVPQjBBQi01TQ?oc=5"
         },
         {
@@ -252,14 +252,9 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHV2ZrM1Jra1RlVlJGU1NBMHRLeUs4QXhUdEFVU0dKR3hsTXJtUnhDZkhuMGhnVGZ4RVZLNTF2WXEyNTY5WjR0ZjlsbmRtMlhyTU91ZG81cEdGdUV4TGNaeFRtVUM?oc=5"
         },
         {
-          "text": "楠木建×山口周 モーツァルトとビートたけしに共通する「需要の最前線」",
-          "desc": "楠木建×山口周 モーツァルトとビートたけしに共通する「需要の最前線」&nbsp;&nbsp;日経ビジネス電子版",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDMVYtb3lpLWtzdFhwaW9hQWVzYzhwdUljcVRNQlk2TWFhZ2tYLWY1UllobFhWeHd6Smg3NVY5QmZTUXY1SV9iX1RKZXpaZzNUZGt6Ukd2c2s2WmtpOFpuTkJadzRPNDA?oc=5"
-        },
-        {
-          "text": "「推し活」が仕事にも役立つ？ 約4人に1人が実践、6割超が「働きがい・キャリア形成に役立つ」（オーヴォ）",
-          "desc": "「推し活」が仕事にも役立つ？ 約4人に1人が実践、6割超が「働きがい・キャリア形成に役立つ」（オーヴォ）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wdU5ZcEx3VGNLUURUbWdBbEFLbmRzT1RnRnJTUl96cVdBaGZGcWMyWFRJZHZPZy1kb2k5QThTTkRnakVIcmZUcE5EWDhiWTAtb0VqRTdYYXkyazd3UmVJVDlRcWE3ejZPaFhVUVU2enhqeWs1S2RxUnk3dUFBTEE?oc=5"
+          "text": "ユーザーローカル[3984]：コーポレート・ガバナンスに関する報告書 2026/09/18 2026年9月18日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "ユーザーローカル[3984]：コーポレート・ガバナンスに関する報告書 2026/09/18 2026年9月18日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05cW1XbkpxdWFvYnd3WG5YMXNmdmk3anNfRkhzaVhxVkptYkFjQlZibkdBOWhxbmtuSGdKeGsxN1EwVjNOTW0wbEdlOU5NOF9aQk93clpSRloxZnhOb3BFVVIwSjAweElYcnc?oc=5"
         },
         {
           "text": "信頼される｢CSR企業ランキング｣人材活用部門…同率2位にNTT西日本､ファンケル､ピジョン､では1位は？",
@@ -267,7 +262,7 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrTEpZS3FzUU9EVlJUS1VUTWZFVWlRdVJKeDJKcTVwaUR1dUhpQ3Z6TmZyYkluUVFNa25vMkJXU0dSc2pqeEh5WlI0VHo5OWxfN0FpWS1QcnlwZ2s?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-20",
+      "lastFetchedAt": "2026-09-21",
       "source": "Google News"
     },
     {
