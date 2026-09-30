@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "summaries": [
     {
       "id": "finance",
@@ -7,9 +7,34 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "\"可燃性\"高めのいわく付きが入閣できたのは｢棚ボタ｣だった？ ｢高市×維新｣の蜜月が生んだ臨時国会の\"時限爆弾\" | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "日本維新の会から入閣した中司規制改革相をめぐって､永田町が揺れています。10月5日から始まる臨時国会で過去の疑惑が追及されるのは必至。政権維持の行方はどうなるのでしょうか。",
-          "url": "https://toyokeizai.net/articles/-/959488?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "ニデック前期決算､監査法人は｢意見不表明｣…不正会計受け資産を精査､6321億円規模の減損損失計上 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "ニデックが発表した約6321億円の巨額減損損失。不正会計問題を受けた資産価値の見直しで､車載･家電事業にも深刻な影響が及びました。",
+          "url": "https://toyokeizai.net/articles/-/959691?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "｢言葉の変化に注意しろ｣ 岩屋×王毅会談に秘められた中国の変心､｢最悪の日中関係｣改善へ中国が見せた\"譲歩\"のサイン | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "日中関係の緊張が続いていますが､ここに来て､中国が求める台湾問題発言に関する変化が注目されています。歴史的合意や外交の微妙な駆け引きの中､日本はどのような判断を下すべきなのでしょうか。",
+          "url": "https://toyokeizai.net/articles/-/959670?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "スタートアップと既存企業はCVCという｢両刃の剣｣を使いこなせ…3つのジレンマをいかに引き受けるか | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "近年、日本経済においてコーポレート・ベンチャーキャピタル（CVC）の存在感は増す一方である。事業会社によるスタートアップへの持ち分出資であるCVCは、既存の経営資源と外部の新しい技術を掛け合わせる、…",
+          "url": "https://toyokeizai.net/articles/-/958938?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "日本でも深まる｢リベラル不信｣の正体　 ｢過激なリベラリズム｣が招いたアメリカを蝕む｢冷たい内戦｣ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "従来の右派対左派の枠を超え､アメリカ社会に広がる｢エリート対大衆｣という新たな分断。｢共通善｣をキーワードに､社会再生への道を探ります。",
+          "url": "https://toyokeizai.net/articles/-/958701?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "｢外国人は去れ｣の対象は誰なのか…ドイツ地方選のAfD大勝利を意外と冷静に受け止める地元マクテブルクの移民系住民 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "旧東ドイツのザクセン･アンハルト州で行われた州議会選挙は､移民排斥を掲げる右派政党AfDの躍進で国際的な注目を集めました。現地取材から見る移民系住民の本音や､社会の分断が進むドイツの〈今〉に迫ります。",
+          "url": "https://toyokeizai.net/articles/-/959356?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "著名デザイナーのNIGO氏が手がけるアパレル｢ヒューマンメイド｣が利益計画を上方修正した背景  | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "著名なデザイナーのNIGO氏が手がけるヒューマンメイドが今期の利益計画を上方修正しました。",
+          "url": "https://toyokeizai.net/articles/-/959335?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "「金融政策は緩くない」利上げ批判 トランプ氏側近のミラン元FRB理事",
@@ -17,47 +42,22 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rQm5xeGcxNFowV3lBYWxCWWRGRWdjbWFNOUl4N1JmT0VfMFN4ekZMUS1sVWNtUjJxYnE4eWhGcGt1MnRrMWozZFc2cHFMUzRTMXNMWXotV01TQmV5WjE3WktIRVljOHJFaW5tbw?oc=5"
         },
         {
+          "text": "ＦＲＢ、追加利上げに性急な対応不要 指標見極めへ＝ＮＹ連銀総裁",
+          "desc": "ＦＲＢ、追加利上げに性急な対応不要 指標見極めへ＝ＮＹ連銀総裁&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTGFrVUlDLUZZQ2xYMEtnSHBLN1dLQnNFVE9wMktkVEpNOW0zbEhRMWpoYTBGdm41R0VjVzJXZjJqSjNwTUNqck5RTTBodmlNekdpak1zcEQ0U0V2WEJRREJob3lCdGU5SDE4aEdhRkw1dF9vRl9IU0FlWE5kM1djQ2U4RlJGUQ?oc=5"
+        },
+        {
           "text": "米国債が逆イールド接近、FRB利上げで景気冷え込みに警戒(Bloomberg)",
           "desc": "米国債が逆イールド接近、FRB利上げで景気冷え込みに警戒(Bloomberg)&nbsp;&nbsp;Yahoo!ファイナンス",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmxYcnhZbTA3SHpNV3E0ZkJESVlJSDNQcW5CM3pIcHBPTzhucnlaSUtwOUhxTjB2dndabTM0TWxjVlhjQ2w5ckllV2tDQWhqQWNONlMyTDlkd0MwNjk3eEo2Ykt6YXJFMjgxY2tsOFJKN0d2YmhGVzZQVUozcEN5Mks1dkNrQkE?oc=5"
         },
         {
-          "text": "ＮＹ外為市場＝ドル上昇、対円で158円後半 ＦＲＢ当局者タカ派発言で追加利上げ観測",
-          "desc": "ＮＹ外為市場＝ドル上昇、対円で158円後半 ＦＲＢ当局者タカ派発言で追加利上げ観測&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XVnpKQXJpam9wZ0t4aVBkMnhZREYwMVR0OUFka0VjSWFiVjB1RGh6Z1BBb2tnamZ5V1ZDazhhU1MwUnZqZ1BQcEV6SkJ1VUotUWh2OG9SWFpzZWhoTlRPWTdmSG92N0tPVzRoNUdwbENuOXJqNHZLdFZBM2NoQQ?oc=5"
-        },
-        {
-          "text": "強い円へ日米タッグ、雇用統計・日銀が波乱要素 防衛ラインは160円？",
-          "desc": "強い円へ日米タッグ、雇用統計・日銀が波乱要素 防衛ラインは160円？&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UQktTQVZHVTlOa0RVdFdZTm9ZbHFsVjROTEcwbF9xQmMxMVAyOEFYaEhKaWR4Ul9IaFZUZ2t4WVQ4NDFKMjViUThxVVpvQ2pFTnd3d2ZHZ1dTRmRBdjJvV3ctbENmekZKNkk5Xw?oc=5"
-        },
-        {
-          "text": "コラム：日銀の利上げでも消えない円安リスク、協調介入に残る「構造的限界」＝内田稔氏",
-          "desc": "コラム：日銀の利上げでも消えない円安リスク、協調介入に残る「構造的限界」＝内田稔氏&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEQyNXd2a0Y4VXk4bTllcmI2MzBIeG9Lb3Uwa253UFFFVlRuOWotekt5YVdmdWRMQkZZVzdTVzJKOWdIbTdMU05RSzZCR2RtZTlrLTFCVVdscnJxV3c3Y1lZQUlpbmlCQW1kY0U4MnJUWDduWktzZUQxU1JoWEsxS2pJdUFBVm9uTVAyU25B?oc=5"
-        },
-        {
-          "text": "大型連休直前の日銀“不意打ち”レートチェックでも止まらぬ円安圧力 為替動向に株式市場が大きく左右される局面で注目される「日銀短観の想定為替レート」の水準（マネーポストWEB）",
-          "desc": "大型連休直前の日銀“不意打ち”レートチェックでも止まらぬ円安圧力 為替動向に株式市場が大きく左右される局面で注目される「日銀短観の想定為替レート」の水準（マネーポストWEB）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lQUZzQkMtR3N0czJRbmUtVHJUSVVpMGF0S0Q4VkhiMV9fWlhqcWFvcHVsck05LXQ5WHNTZ295bjVYVUt0cTdXc29YV2tCcmZkRFZBbU05NGxTc2pfTkVITVR3ZDlvSjNKVFNVMVc4RG5xSEpDLVMyeTh5MGNnZE0?oc=5"
-        },
-        {
-          "text": "円買い介入ペース加速か ｢トランプ氏が円安懸念｣で160円死守の思惑",
-          "desc": "円買い介入ペース加速か ｢トランプ氏が円安懸念｣で160円死守の思惑&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xbWZJWTRSaVY4MlVLVU1Cc190Mndvdk9IWGVWU0tSOTlhc1BuLWlnbXc0N0huYXBYOV9CV2c0eERocDhyMU03U2UxMHJ2RWQyNFNaTU56ZjhrcU0xSDc5UktwNGNFRGRNT1JENA?oc=5"
-        },
-        {
-          "text": "円安止まらず一時159円台 ドル全面高、政府・日銀の介入に限界論",
-          "desc": "円安止まらず一時159円台 ドル全面高、政府・日銀の介入に限界論&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yRng1LTV4VDRIYnBpS2tZUXYyUHNpWkFwcmdZLWhTc2czNW9SUW1mN0xBYkhOZHJFODNObUZUTXlueVloejEwOG5nRmhfTDdKLW9lWmhSX2prODNvaFhDa3o2WGwwTFhCaDVsaA?oc=5"
-        },
-        {
-          "text": "円急落158円台、レートチェック前水準に 米長期金利5.1%に上昇",
-          "desc": "円急落158円台、レートチェック前水準に 米長期金利5.1%に上昇&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zdlcyV2FnWUhMemhwdUlvVTZZNzBybXNaZG5GZGtxV2tncFU5blh1ak8zc0NWMkVYaTBBSVBqQnl6UnlqQ0d0YlJoSUxFcmJoZGNkQTliUWw0VVVtZzJrMTNZYmltTVQ1eEFDRA?oc=5"
+          "text": "FX・為替相場の注目指標や予想を解説 - 【9月28日～の週】為替相場の注目材料スケジュールと焦点",
+          "desc": "FX・為替相場の注目指標や予想を解説 - 【9月28日～の週】為替相場の注目材料スケジュールと焦点&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BdG9JVnJSTnE1VlFOLTVaWFdnX3ZhVVBTaUVFemx0WDBJQzBnSC1VRUswVWJ1SDI1TlphQ083M0NjM2VpZktXY2Y2YlZMMWd2V2c?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-30",
+      "lastFetchedAt": "2026-10-01",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "Anthropic、IPO目論見書でAIによる「人類存亡リスク」を警告　海外報道",
-          "desc": "英Reutersは9月28日（現地時間）、米Anthropicが新規株式公開（IPO）の目論見書で、AIが人類存亡に関わるリスクをもたらす可能性があると投資家に警告していると報じた。",
-          "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001860/"
+          "text": "「まず、その業務なくせない？」　野村不動産HDが経理DXで「年間9000時間」を生み出した“引き算”の考え方",
+          "desc": "DXやAI活用自体が目的となり、具体的な成果になかなか結び付かない企業は少なくない。野村不動産ホールディングスの経理DXを取材すると、DXを進める前の「一呼吸」に、成功の要因があることが見えてきた。",
+          "url": "https://www.itmedia.co.jp/business/articles/2609/30/news089.html"
         },
         {
-          "text": "7割の企業が生成AI「個人利用」への対策せず　デロイト調査",
-          "desc": "デロイト トーマツ グループが不正リスク調査白書を発表。業務で使うAIの個人利用についてガイドラインを策定・周知している企業は5％で、74％は「実施していない、わからない」と回答。対応は利用者本人に委ねられているとした。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001855/"
+          "text": "大企業に勤める回答者の過半数が「非エンジニアによる開発を実施」　全社に行き渡ったコード、検証できているのか？【調査】",
+          "desc": "非エンジニアによるAI開発は、大企業ほど広がっている――。全社に行き渡ったAI生成コードは、誰がどう検証しているのか。調査からは、大企業のIT部門が品質チェックの他に求める施策が浮かび上がった。",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2609/29/news097.html"
         },
         {
-          "text": "ChatGPT、サブスク最上位プランの新規受付を再開へ　“5時間制限”を完全撤廃　「利用枠を消費しない新機能」も",
-          "desc": "米OpenAIのプロダクト責任者ティボー・ソティオ氏は、「ChatGPT」サブスクリプションの最上位プラン「Pro（20倍）」の新規受付を9月29日（現地時間）に再開すると発表した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2609/29/2000001851/"
+          "text": "「マルチエージェント」を名乗るだけの作品が続出　Googleが数千の応募から見つけた“勝てる設計”4つのパターン",
+          "desc": "Googleは、AIエージェント開発コンテストの上位作に見られる4つの設計パターンを公開した。応募の多くが「マルチエージェントシステム」を掲げていたが、実態は単一のモデルがプロンプトをつなげているだけのものもあったという。",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news048.html"
         },
         {
-          "text": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開　特定のLLMに依存せず入れ替え可能",
-          "desc": "Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開しました。",
-          "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001837/"
+          "text": "AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名",
+          "desc": "トランプ大統領はIT首脳らと昼食会を開き、行政機関で「人工知能（AI）」に代わり「超知能（SI）」の呼称使用を命じる大統領令に署名した。主要各社は自主的安全合意「White House Accord on Super Intelligence」に署名。米連邦政府は行政窓口サイト「America.gov」の創設も発表した。",
+          "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001871/"
         },
         {
-          "text": "Geminiの「Gem」廃止へ、11月17日から「スキル」へ刷新",
-          "desc": "米Googleは、生成AI「Gemini」のカスタムbot機能「Gem」を廃止し、後継の「スキル」へ移行するとアプリ内で告知した。個人向けアカウントでは11月17日から自動移行を始め、既存のGemはユーザーの操作なしにスキルへ変換する。",
-          "url": "https://www.itmedia.co.jp/news/article/2609/29/2000001839/"
+          "text": "AIは魔法の杖ではなく“子ども”だ　「ずる賢く」育つのを阻止するための3つのポイント",
+          "desc": "AIも子どもと同じで、適切な学習を繰り返して初めて育つ――。筆者が学生時代に携わった脳科学の実験を手掛かりに、AIを育てる条件と、IT負債の分析をAIに任せることの危うさ、AI向けデータセンター投資の落とし穴を論じる。",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2609/30/news017.html"
         },
         {
-          "text": "「○○にAI使ってます」だけで、製品の魅力になるのか？",
-          "desc": "なお、筆者はこのインタビュー取材の翌日に購入してしまいました（笑）。",
-          "url": "https://monoist.itmedia.co.jp/mn/articles/2609/29/news029.html"
+          "text": "OpenAI、豪政府サイトへの不正アクセスで謝罪　最先端AI学習の安全指針も公開",
+          "desc": "OpenAIは、学習中のAIモデルが豪政府サイトへ不正アクセスした問題で、通知の遅れを認め謝罪した。ネットワーク制限の強化や最上位モデルの学習停止に加え、航空や原子力分野にならい学習前に安全性を体系的に検証する仕組みを導入する。豪議会の特別委員会にも出席し、一連の経緯を説明する。",
+          "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001869/"
         },
         {
-          "text": "AIを使ったCOBOLのJava変換、「百害あって一利なし」　AI活用の“落とし穴”を考察",
-          "desc": "「AIがあればCOBOLをJavaに変換できる」という期待に対し、PM歴40年の筆者は「極めて安易で危険」と断じる。レガシーシステムの刷新プロジェクトにおけるAI活用に期待する筆者が、COBOLからJavaへの変換での利用に懸念を示す理由とは。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2609/25/news111.html"
+          "text": "マネーフォワード、2800人の情報をNotionに集約　「AIに聞けば分かる」環境へ",
+          "desc": "社内の情報が複数の場所に分散していれば、従業員もAIも必要な情報にたどり着きにくい。マネーフォワードは約2800人規模のグループでNotionを活用し、社内情報を集約した。「AIに聞けば分かる」環境づくりをどう進めているのか。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2609/30/2000001856/"
         }
       ],
-      "lastFetchedAt": "2026-09-30",
+      "lastFetchedAt": "2026-10-01",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -115,9 +115,14 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1haVRaMDVpM0ZpLXRsLVdHZEZIUmhtWUtmRS03ekx2Q2g3clNYUzF2QVFEOHQtLUdjRmp0dlRialJSRkNYaW9CQkdubzBIZ1A3c05ycGg3clp0VENSODM1aGdDa3hwOUxvaEhLR3h4R0RSZW90TmlHeDhDT210dWc?oc=5"
         },
         {
-          "text": "【美しさの土台は健康】檀れいさんに学ぶ！40代・50代からの“ながら”血行改善｜美ST（magacol）",
-          "desc": "【美しさの土台は健康】檀れいさんに学ぶ！40代・50代からの“ながら”血行改善｜美ST（magacol）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KVW5iTjhvRmIzMHREV2tQUEp2d3JCZFdiU2ZjX01lc0VCalNvNnZzRnAzaHdvWVRmQ0taZ21LcWNMV2pHT3FMY242Ynl3R2VmU09zZ2tzTlF5R0lRdEUzTTUtN2hsbEk3dGNIY201LWw2THFUQTZ1eDZ0OV9NdEU?oc=5"
+          "text": "香川県産ヒノキの根から採ったオイルの香り 睡眠時のデルタ波が増加 女性の自宅実験で 九州大と高松の住宅メーカーが発表",
+          "desc": "香川県産ヒノキの根から採ったオイルの香り 睡眠時のデルタ波が増加 女性の自宅実験で 九州大と高松の住宅メーカーが発表&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZekRRQnhiMjdYQUZyMXRwbFZqMjFTSW0xNGFLS2xKLVlDR3RYSG8yWmU0MldsaF91VzlDTUp2NEt0Si1MTVdlWkFkZlVtU2FFOC10eFdCZENiVDBRbFBYSlJNTENCd3NlX08zRVRBLWtRNXF2NXczcGVyeENZRWs?oc=5"
+        },
+        {
+          "text": "子育てはまず「あれもこれも」を手放すことから始まる！日米の違いに学ぶ「健康の土台」とは？(東洋経済オンライン)",
+          "desc": "子育てはまず「あれもこれも」を手放すことから始まる！日米の違いに学ぶ「健康の土台」とは？(東洋経済オンライン)&nbsp;&nbsp;Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjNsQ1M1eFc3QkY3SlJuczJONFk2X0oyY2lPLTY5UFBrU3dRNlpMRDV5Tm85dFJ5R3RDMHdWRExQdnF2bk5xQnJCa2RQVGNIRFF4ZDNIdjFvTjBqeGRkTS02cjdiUmxoN1BNUlpaUERQNmxGNlFkR0VBc0ozVmh5enViYXlFQWc?oc=5"
         },
         {
           "text": "なぜ競技用ゲーミングPCは光らない？ HPSC久木留所長とマウス軣社長が語るアスリート支援の未来（ITmedia PC USER）",
@@ -133,19 +138,9 @@
           "text": "認知症の手前「軽度認知障害MCI」増える傾向…進行を予防・遅らせるために！何をする？（読売新聞（ヨミドクター））",
           "desc": "認知症の手前「軽度認知障害MCI」増える傾向…進行を予防・遅らせるために！何をする？（読売新聞（ヨミドクター））&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QQlZ5ekwzRk1FMlRub3BnUzN4a1RqcVV0cEZGVHFPTmlicGo5RkZ2REV1TmJxU1ZqTm1qZmxXc0tNV1l3ZThDZHlXVVF4T2NjZnBuWUpoRFdPZ0RJbkd5M1RiY0NhdEdCNzk2eVByZE4zNENhR1JKdktfaTZocFU?oc=5"
-        },
-        {
-          "text": "【10/12は豆乳の日】料理にも大活躍！注目の新商品＆「豆乳フェス2026」最新情報（レタスクラブ）",
-          "desc": "【10/12は豆乳の日】料理にも大活躍！注目の新商品＆「豆乳フェス2026」最新情報（レタスクラブ）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SUFdzdTlCSElUOHFxWW5tX1pHUmYtU0tzNVNDT2hhSHBXZjI0aUlmZVZHQi1nWVl4VU5LMmNHNXdHdHlCTEhQLWgwRlJxLXROeXV6WmJZYlN0akU3UEVKMTVxVHFnMWhFN3FwQzNQaE9Qd2hzY1R6VTBRWTdYekE?oc=5"
-        },
-        {
-          "text": "西野未姫 ２児の母なのに「１個もママタレの仕事が来ない…」 夫は極楽とんぼ・山本圭壱（東スポWEB）",
-          "desc": "西野未姫 ２児の母なのに「１個もママタレの仕事が来ない…」 夫は極楽とんぼ・山本圭壱（東スポWEB）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02X1RGcFlBaEl3aFNuWklkR1ZYeFpXbkNJMTBvdFpQdS1ZOGJqa1FvQzY1RUtyYTBTeUx3NFNsUlNBM0V2UlJzX1dfV2UtTlJmcFVEbGpOUC1PVkpaMUZ0MEdfdDlqSnoyTXF4X3dLWk1FV09PbzB3QXVSTFNHcUk?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-30",
+      "lastFetchedAt": "2026-10-01",
       "source": "Google News"
     },
     {
@@ -159,24 +154,19 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwNFR2UWpqeDNXdVRJS1BwQXpoclQxenM3R05BbVk1eHZEZE13OFhueld1ZXF2SkpYMEF0cWFtT1g1cE5yOG5HakthQlFBWkpU?oc=5"
         },
         {
-          "text": "物価高騰下の家計管理を伝授 ファイナンシャルプランナー招き「くらしの見直し講座」10月7日（水)〔共済連〕",
-          "desc": "物価高騰下の家計管理を伝授 ファイナンシャルプランナー招き「くらしの見直し講座」10月7日（水)〔共済連〕&nbsp;&nbsp;朝日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZcmpjYVRaYml0cXlVTnl6Q1dtTXJoMkdYNGRzM2Z4U2tLZzRGZTBORURuNEJmVzFFLTZGN3RFeC1nVmQzZ3pGR2RMbjdTMVJjS0tkcVI2OEVWMTg?oc=5"
-        },
-        {
           "text": "かけ心地を見直しても1,990円！ 暮らしに寄り添う、無印良品のサングラス（fashion tech news）",
           "desc": "かけ心地を見直しても1,990円！ 暮らしに寄り添う、無印良品のサングラス（fashion tech news）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rVXJOelF4N1pla0p0Y3pOZVJvSDVEWGJ3aUp2ZWZiS3ZBYWZMT3ZQODk0eUpld2FPRTdtRERDOUI3dVcwcTZQQlR1ZU1FMllyUjRRdVJRSXFHQzBZVGdsRVJKaUxMRzdMdFk4b05CNXpGOFdZdzNOX3pjMTE2eHc?oc=5"
         },
         {
-          "text": "「106万円の壁」廃止、酒税見直し…10月から暮らしどう変わる? (毎日新聞)",
-          "desc": "「106万円の壁」廃止、酒税見直し…10月から暮らしどう変わる? (毎日新聞)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWjRfdHpMdFdmb21SYTFMbnpHTWxGanAtTm1XSHlLeWxKbTJsQ0czWFhQR2E3Y19rYkw3U2xPWWxCRlRfN1ZKcjlCSzRsZzNCQkpyWTBmbEFKOGhfS3ZmVkJKLWk0aXF6SXpSYkhXUTN2SWR5YVNZZGhWUEJFQWgwa0ZqbVdYSGpmVlpnd0V3?oc=5"
+          "text": "10月から何が変わる? 約3000品目の値上げ、「酒税」見直しでビール“減税”、「106万円の壁」撤廃、「カスハラ」対策義務化…変わる暮らしのあれこれ（FNNプライムオンライン）",
+          "desc": "10月から何が変わる? 約3000品目の値上げ、「酒税」見直しでビール“減税”、「106万円の壁」撤廃、「カスハラ」対策義務化…変わる暮らしのあれこれ（FNNプライムオンライン）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MNEZoeUFjdjhJMHRGcmZCUV9MSXNJbVJOTnZxSjVnMzFTbDctOUdHN1ctM216NDVPZ3dWSGR0a2k0WVAxbURsYnlGWEplU3o5emN6S0N6WDVYS3RHMDlYMXRpbVREdWhKNDE1dFZCbFlJZ1JBTkdOMFNmdlF2c1k?oc=5"
         },
         {
-          "text": "家事の見直しで「夜時間が充実」。ご褒美アイスタイム、メモで自分と向き合う…暮らし上手の夜活をのぞき見",
-          "desc": "家事の見直しで「夜時間が充実」。ご褒美アイスタイム、メモで自分と向き合う…暮らし上手の夜活をのぞき見&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc3drRFJISFdNbmstUWYyZXRuWU1GU1pOM25CTm0ySnlzX2FMUkloTERsVUpQMzU2TG1ERklUS3I5U1BJUmpRbFhFY0lzN19vMmRuZVJVZkFocUdUclptdlJ6Ylg4ZG1xdEZLQlNjdFJGV01MUkZEamNxTHhOYmlubmdDMEY0anp3ZkhJZC13?oc=5"
+          "text": "お金も時間もムダなく使え、心も軽く。60代ひとり暮らし、やってよかった「家事の工夫」3つ（ESSE-online）",
+          "desc": "お金も時間もムダなく使え、心も軽く。60代ひとり暮らし、やってよかった「家事の工夫」3つ（ESSE-online）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV0VEd2Q2T19GU0J3RlJLMk00OF9aLTBsQUhsYnhXMDJVT0FsSVA4R3h2NGJfSGZibU84WUNPOWR2dGFzLTJXVFFvVzlIRlMxbi1JaEZjdDJ5ZER4RmJodWdKek5hZVczYlFjVXJHZXdXNTBmeTFGelVuWkc1TUE?oc=5"
         },
         {
           "text": "1000万貯めてる人の9割が実践！手書き習慣で暮らしと家計が整う理由（サンキュ！）",
@@ -184,12 +174,17 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUcGdLNndqdGhMVG1DcHVmVjdWR2RvVzdNWEo4ekFKblR0M1A1cHNUeFBodzdJTzFQQkNUNnNnSzcxdG9CUFJORzV2dWJ6emNIM01zYmJBa0hEY21QWnc1Z1pCbE5XYkhvQWtxQzF2Mjd6bGhMTFdnYjFlMkl6bU0?oc=5"
         },
         {
-          "text": "【保険の見直し】「減らした」人、「増やした」人がほぼ同数 物価高の今、それぞれの選択をした理由は",
-          "desc": "【保険の見直し】「減らした」人、「増やした」人がほぼ同数 物価高の今、それぞれの選択をした理由は&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83UGtMUkJkem11bTFYVnJYX19EQ3pkbGhlNGd3Umh4Q2o0VHFUOVVXOFNMU3BSX1NFTVVrbjctTGZnSkk3S0p0UGlqMHQ3LUlJLU1naHNnNzlyc3g3eDhWQW9OX3Y4TExUNW1RVDRjb1hQOTZjX04wOEN0VGN2QVk?oc=5"
+          "text": "【ヤフコメで話題】「世帯年収1,000万円でも都内暮らしは厳しい」「再雇用や管理職の賃金差にも不満」 - 年収と生活実感のずれが議論に",
+          "desc": "【ヤフコメで話題】「世帯年収1,000万円でも都内暮らしは厳しい」「再雇用や管理職の賃金差にも不満」 - 年収と生活実感のずれが議論に&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDFUeEtkWFZDbE54RmVuTjQ2WTVMWUs5ZzlXN1dZMGtDQVlfenhLVTg5X2NJeHJkTi0wZVMzbDl6cDItVUloV2FSdFZWTE5JN1gxY2JWYllhMGdYd2Q2QVlaRllUNGpuZVZQLUhRTkhjZ1R4MElWQ1VESzN0R3VfcnZjeEo2SVptRC1YN2hB?oc=5"
+        },
+        {
+          "text": "防災庁は日本を変えられるか 巨大災害を前に問われる「国のあり方」 #災害に備える",
+          "desc": "防災庁は日本を変えられるか 巨大災害を前に問われる「国のあり方」 #災害に備える&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVR2J3eURFamV1eURpWjRIdTZwSzZ2RnR0eFFzVlhHb0hPOS1qVng3WThOaEN5REhmbGhBSFBtaG55YjFiWUZzaWZyampxeU9FdWdLTWJZblRsaUVjNjl6WF9fdUF3bUdpcXNFaFJRazVzbHhNWFZPMU5fYml5bFE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-30",
+      "lastFetchedAt": "2026-10-01",
       "source": "Google News"
     },
     {
@@ -267,17 +262,17 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0hyaDd0M2dxOGRNdFBXUmMtYXEzcDIyOG9mREFMT0t6TmdQekZ0NENGTVhXS21pV2xBV0JleGRFWURoeUxxbE9BRFB5UzhHdERfelZRNzdfT2sxSnJUaVZ0a1duMDNIUWdWa0JhZ21CcU1wbWZvN3doM29MOGJRYUZ4ZElyMHZFQ1JwWW9ZNHBURUJaRl9xU0Z6eC1wczY2SkNJWHBSZmg0c0FhTmRudFFKRmpwY1d0MTk5MEN1WFRnU3owWVlPN2tzaWM?oc=5"
         },
         {
-          "text": "タウンズ[197A]：コーポレート・ガバナンスに関する報告書 2026/09/29 2026年9月29日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "タウンズ[197A]：コーポレート・ガバナンスに関する報告書 2026/09/29 2026年9月29日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObVotQi1fV2RldC1KclR5WGVIWl9ScE5IeXVWa1dJSzJIRXlObzYyNEhtbzdzOGdnRlRVNFVqTG9JTUdWZGtGaXBjQmlidElBMWxxcmVPUGNhRFlzeTZmbm5vaEFTM1dlbXFqbThhRlhMd01xckZwS0podGtLdmczaVQ0Z1VNVFBCZ2FfcXdoQmVHYVpBZWVLNElWX08ySUVVV2ZYU3pubjFROGZxRmNGV3cyUkljdXlrTjdkS2JjU0NVMF9qWGZiS0dzMFg?oc=5"
+          "text": "北川精機[6327]：コーポレート・ガバナンスに関する報告書 2029/09/29 2026年9月30日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "北川精機[6327]：コーポレート・ガバナンスに関する報告書 2029/09/29 2026年9月30日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc21TYVE5MnRoM2lILW1WRW85MUx5dm5GdloyWHBOQnhzS00xM2dGR2JyOVZhUkVZRFNfMzZXb3IybE5RNnNrU05rRnlsd05DYnowLUdOeGdZeVdRdEwzN2pHWVgwQmo0TjJ4eVExNnhuempNLVpzYXZ2Q1pPeGtWMEt4cm1pLWp3amJyaFh4TlRDeUZqeVQ5d1N2U3MyNUZ0ME1wU2xSN1diTHZ6YVBSOEZtSGkzM0VycWlzWFdQWC1jZWd1Y2JVdlBhRnM?oc=5"
         },
         {
-          "text": "あいホールディングス[3076]：コーポレート・ガバナンスに関する報告書 2026/09/28 2026年9月28日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "あいホールディングス[3076]：コーポレート・ガバナンスに関する報告書 2026/09/28 2026年9月28日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQno3Rko0S0EzRW9kdkY4Y3pGYnc0QmdzMU8tSUFSVXRmUXBzdzh0SXZYVUlQUWxvaGpIMTlLX0sxUEExTjc0NDNoZVJ6SU5PcXhpSWhPZXhRQ1RBTTBZUnF4YmxNWWthajZvNEJzVm54VEhId3NjNTJfZ3k5RHhsZ0Z5X0o2YWs3MHhpMllWYmVkeVRPWDVWV1lJS2lGLVJ0WGR4UnkyZnppQndGODZKc3BsUjNQSnNRZ3NVbFJQa3Vxcmp1Z0xXLUdkU2E?oc=5"
+          "text": "東宝[9602]：コーポレート・ガバナンスに関する報告書 2026/09/30 2026年9月30日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "東宝[9602]：コーポレート・ガバナンスに関する報告書 2026/09/30 2026年9月30日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xWHVhZFNJU19YdGtiZlFmZnB1ZmRPZWVtWmtaN2FnVWQ2REkyNEZ6WUFzNzA1NjVlRE5PMDhqSFZ0NmRBbVdUSmFWTUU0elFDelh1OGZrQzlXdzczdE5ZWGRNLTlQUWppRFE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-30",
+      "lastFetchedAt": "2026-10-01",
       "source": "Google News"
     },
     {
