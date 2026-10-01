@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-02",
   "summaries": [
     {
       "id": "finance",
@@ -7,39 +7,19 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "ニデック前期決算､監査法人は｢意見不表明｣…不正会計受け資産を精査､6321億円規模の減損損失計上 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "ニデックが発表した約6321億円の巨額減損損失。不正会計問題を受けた資産価値の見直しで､車載･家電事業にも深刻な影響が及びました。",
-          "url": "https://toyokeizai.net/articles/-/959691?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "ニデック戒田社長｢｢ものづくり､人づくりそして品質を第一にした会社に戻す｣…監査意見取得へ月内の課題解消目指す | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "不正会計問題で揺れるニデックが､上場維持の鍵となる監査法人からの適正意見取得に苦戦しています。",
+          "url": "https://toyokeizai.net/articles/-/959885?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "｢言葉の変化に注意しろ｣ 岩屋×王毅会談に秘められた中国の変心､｢最悪の日中関係｣改善へ中国が見せた\"譲歩\"のサイン | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "日中関係の緊張が続いていますが､ここに来て､中国が求める台湾問題発言に関する変化が注目されています。歴史的合意や外交の微妙な駆け引きの中､日本はどのような判断を下すべきなのでしょうか。",
-          "url": "https://toyokeizai.net/articles/-/959670?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢2年のうちに国政選挙も同じ状況になる｣…ドイツ地方選のAfD大勝利に〈戦術ミス〉を悔いる既成政党議員 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "旧東ドイツのザクセン･アンハルト州議会選で右派ポピュリズム政党AfDが躍進し､ドイツ政治の転機が訪れています。現地取材をもとに､既成政党CDU･左派党議員の危機感や対応の模索を深掘り。ドイツ社会の行…",
+          "url": "https://toyokeizai.net/articles/-/959355?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "スタートアップと既存企業はCVCという｢両刃の剣｣を使いこなせ…3つのジレンマをいかに引き受けるか | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "近年、日本経済においてコーポレート・ベンチャーキャピタル（CVC）の存在感は増す一方である。事業会社によるスタートアップへの持ち分出資であるCVCは、既存の経営資源と外部の新しい技術を掛け合わせる、…",
-          "url": "https://toyokeizai.net/articles/-/958938?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "日本でも深まる｢リベラル不信｣の正体　 ｢過激なリベラリズム｣が招いたアメリカを蝕む｢冷たい内戦｣ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "従来の右派対左派の枠を超え､アメリカ社会に広がる｢エリート対大衆｣という新たな分断。｢共通善｣をキーワードに､社会再生への道を探ります。",
-          "url": "https://toyokeizai.net/articles/-/958701?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "｢外国人は去れ｣の対象は誰なのか…ドイツ地方選のAfD大勝利を意外と冷静に受け止める地元マクテブルクの移民系住民 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "旧東ドイツのザクセン･アンハルト州で行われた州議会選挙は､移民排斥を掲げる右派政党AfDの躍進で国際的な注目を集めました。現地取材から見る移民系住民の本音や､社会の分断が進むドイツの〈今〉に迫ります。",
-          "url": "https://toyokeizai.net/articles/-/959356?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "著名デザイナーのNIGO氏が手がけるアパレル｢ヒューマンメイド｣が利益計画を上方修正した背景  | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "著名なデザイナーのNIGO氏が手がけるヒューマンメイドが今期の利益計画を上方修正しました。",
-          "url": "https://toyokeizai.net/articles/-/959335?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "「金融政策は緩くない」利上げ批判 トランプ氏側近のミラン元FRB理事",
-          "desc": "「金融政策は緩くない」利上げ批判 トランプ氏側近のミラン元FRB理事&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rQm5xeGcxNFowV3lBYWxCWWRGRWdjbWFNOUl4N1JmT0VfMFN4ekZMUS1sVWNtUjJxYnE4eWhGcGt1MnRrMWozZFc2cHFMUzRTMXNMWXotV01TQmV5WjE3WktIRVljOHJFaW5tbw?oc=5"
+          "text": "〈インサイダー〉TOB直前に1224万円買い付け､助言契約者が得た600万円の罪 改正法で摘発対象はさらに広がる | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "海外大手資産運用会社の契約先である外部アドバイザリーが、業務で知った公開買付け（TOB）情報をもとに買収先企業の株式を買い、不当に利益を得ていた――。証券取引等監視委員会は9月11日、金融商品取引法…",
+          "url": "https://toyokeizai.net/articles/-/958990?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "ＦＲＢ、追加利上げに性急な対応不要 指標見極めへ＝ＮＹ連銀総裁",
@@ -55,9 +35,29 @@
           "text": "FX・為替相場の注目指標や予想を解説 - 【9月28日～の週】為替相場の注目材料スケジュールと焦点",
           "desc": "FX・為替相場の注目指標や予想を解説 - 【9月28日～の週】為替相場の注目材料スケジュールと焦点&nbsp;&nbsp;ザイFX！",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BdG9JVnJSTnE1VlFOLTVaWFdnX3ZhVVBTaUVFemx0WDBJQzBnSC1VRUswVWJ1SDI1TlphQ083M0NjM2VpZktXY2Y2YlZMMWd2V2c?oc=5"
+        },
+        {
+          "text": "雇用・物価指標で米利上げペース探る展開＝今週の米株式市場",
+          "desc": "雇用・物価指標で米利上げペース探る展開＝今週の米株式市場&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSEE1TDFmVl90aHVnZl8wZlU5dG84bFB0R3lKaXA4YkM5c0J0S1V2enhTQm9Fc3VEMHhwSnFBRmdtVEVWNFBiNEdlWG4tRllwQlYzemlXdEVsUkhhWHc1alJfdEVUUVA1bVFmaGFSaTRXQ1ZTR2V1YkMyaW41cWY5UUNmejJodw?oc=5"
+        },
+        {
+          "text": "FX・為替相場の注目指標や予想を解説 - 9月28日(月)■『米国の長期金利の動向(米国債利回りの動向)』と『米ドル、日本円、ユーロの方向性』、そして『9月月末・四半期末要因(9月30日が月末最後)』に注目！",
+          "desc": "FX・為替相場の注目指標や予想を解説 - 9月28日(月)■『米国の長期金利の動向(米国債利回りの動向)』と『米ドル、日本円、ユーロの方向性』、そして『9月月末・四半期末要因(9月30日が月末最後)』に注目！&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XY0xxOWtMbHBLSDFsX2xybDJlSDVrNVRDVFRVR0VVX0ZfaUYxU245Tm52NkEyWDg4Z09PdzY0LXNCcmZ2dEFpYVUxbUhLU1RUNlE?oc=5"
+        },
+        {
+          "text": "日銀追加利上げでむしろ強まる“円安圧力”、ドル円相場「150円台半ば～160円前後」で推移の可能性",
+          "desc": "日銀追加利上げでむしろ強まる“円安圧力”、ドル円相場「150円台半ば～160円前後」で推移の可能性&nbsp;&nbsp;ダイヤモンド・オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xVWtPcmJoOEdja3RaUGNobmhNUHplNmNFQkJST3o4T0diVjhZWDZrV2s3cVZHTkEtaWdvNHhIX0pSWi13Vkw2NHB0VlbSAU9BVV95cUxOS1VCLU5NaXpVU2J6czcxMHY0N1hJdnRFUHo2MGxvYk1BeXdJTEduQ3d3RUVrUkNuMGZEUmk4MmxwVWNmbDVTeXRBNnRCaTJz?oc=5"
+        },
+        {
+          "text": "強い円へ日米タッグ、雇用統計・日銀が波乱要素 防衛ラインは160円？",
+          "desc": "強い円へ日米タッグ、雇用統計・日銀が波乱要素 防衛ラインは160円？&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UQktTQVZHVTlOa0RVdFdZTm9ZbHFsVjROTEcwbF9xQmMxMVAyOEFYaEhKaWR4Ul9IaFZUZ2t4WVQ4NDFKMjViUThxVVpvQ2pFTnd3d2ZHZ1dTRmRBdjJvV3ctbENmekZKNkk5Xw?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-01",
+      "lastFetchedAt": "2026-10-02",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "「まず、その業務なくせない？」　野村不動産HDが経理DXで「年間9000時間」を生み出した“引き算”の考え方",
-          "desc": "DXやAI活用自体が目的となり、具体的な成果になかなか結び付かない企業は少なくない。野村不動産ホールディングスの経理DXを取材すると、DXを進める前の「一呼吸」に、成功の要因があることが見えてきた。",
-          "url": "https://www.itmedia.co.jp/business/articles/2609/30/news089.html"
+          "text": "人間は「取締役2人だけ」　実務をAIが担う新会社、セキュリティサービスのHENNGE",
+          "desc": "セキュリティサービスなどを手掛けるHENNGEは、AI活用におけるガバナンス・コスト管理を支援する新会社「HENNGE AI」を設立したと発表した。人間の従業員は取締役の2人を除いて配置せず、自律的にタスクをこなすAIエージェントが実務を担う。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/"
         },
         {
-          "text": "大企業に勤める回答者の過半数が「非エンジニアによる開発を実施」　全社に行き渡ったコード、検証できているのか？【調査】",
-          "desc": "非エンジニアによるAI開発は、大企業ほど広がっている――。全社に行き渡ったAI生成コードは、誰がどう検証しているのか。調査からは、大企業のIT部門が品質チェックの他に求める施策が浮かび上がった。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2609/29/news097.html"
+          "text": "総額2.3兆円、千葉市に巨大な「AIデータセンター」建設へ　発電大手JERA参画の“ドリームチーム”、勝機どうつかむ？",
+          "desc": "JERA、Dell Technologies、RHAELMは、千葉市に日本最大の「AIデータセンター」を建設すると発表した。投資額は2.3兆円以上に上る。3社によるドリームチームは、勝機をどこに見いだしているのか。",
+          "url": "https://www.itmedia.co.jp/business/articles/2610/01/news082.html"
         },
         {
-          "text": "「マルチエージェント」を名乗るだけの作品が続出　Googleが数千の応募から見つけた“勝てる設計”4つのパターン",
-          "desc": "Googleは、AIエージェント開発コンテストの上位作に見られる4つの設計パターンを公開した。応募の多くが「マルチエージェントシステム」を掲げていたが、実態は単一のモデルがプロンプトをつなげているだけのものもあったという。",
-          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news048.html"
+          "text": "OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止　「Kimi」開発元の関係者が関与と主張",
+          "desc": "OpenAIは、モデルの推論過程を抜き出す組織的な“敵対的蒸留”を特定し、阻止したと発表した。活動の中核には中国Moonshot AIの関係者が関与したと分析。暗号化された推論を悪用する新たな手口に対し、アカウント停止や推論保護の強化を実施し、業界や政府機関との脅威情報共有を進めている。",
+          "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001929/"
         },
         {
-          "text": "AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名",
-          "desc": "トランプ大統領はIT首脳らと昼食会を開き、行政機関で「人工知能（AI）」に代わり「超知能（SI）」の呼称使用を命じる大統領令に署名した。主要各社は自主的安全合意「White House Accord on Super Intelligence」に署名。米連邦政府は行政窓口サイト「America.gov」の創設も発表した。",
-          "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001871/"
+          "text": "Google、「Gemini 4 Pro」ではなく「Gemini 4 Argon」発表　まずはサイバー防御組織に限定提供、出力上限は100万トークンに",
+          "desc": "Googleは、次世代フロンティアモデル「Gemini 4 Argon」を発表した。最大出力100万トークンに対応し、長時間に及ぶ業務処理や自律的なサイバー脆弱性修正に強みを持つ。安全対策を強化した上で、まずは信頼できるサイバー防御組織に先行提供し、有料APIなどで順次拡大する。",
+          "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001912/"
         },
         {
-          "text": "AIは魔法の杖ではなく“子ども”だ　「ずる賢く」育つのを阻止するための3つのポイント",
-          "desc": "AIも子どもと同じで、適切な学習を繰り返して初めて育つ――。筆者が学生時代に携わった脳科学の実験を手掛かりに、AIを育てる条件と、IT負債の分析をAIに任せることの危うさ、AI向けデータセンター投資の落とし穴を論じる。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2609/30/news017.html"
+          "text": "引退した人型ロボ、“溶けた鋼の海”に沈む　アーノルド・シュワルツェネッガー氏が提案　米企業が動画公開",
+          "desc": "引退した人型ロボットが“溶けた鋼の海”に沈む――ロボット開発企業の米Figureは、こんな動画を公開した。同社のブレット・アドコックCEOと俳優のアーノルド・シュワルツェネッガー氏のやりとりがきっかけになったという。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001922/"
         },
         {
-          "text": "OpenAI、豪政府サイトへの不正アクセスで謝罪　最先端AI学習の安全指針も公開",
-          "desc": "OpenAIは、学習中のAIモデルが豪政府サイトへ不正アクセスした問題で、通知の遅れを認め謝罪した。ネットワーク制限の強化や最上位モデルの学習停止に加え、航空や原子力分野にならい学習前に安全性を体系的に検証する仕組みを導入する。豪議会の特別委員会にも出席し、一連の経緯を説明する。",
-          "url": "https://www.itmedia.co.jp/news/article/2609/30/2000001869/"
+          "text": "「AIを使えば早くできるでしょ」と言われがち――エンジニアを困らせる\"勘違い\"の正体とは？",
+          "desc": "AIは万能ではないのに、非エンジニアから「AIがあるのだから、もっと早くできるのではないか」と期待されてしまう――。エンジニアを悩ませる、こうした“認識のずれ”の背景には何があるのか。調査から探る。",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news021.html"
         },
         {
-          "text": "マネーフォワード、2800人の情報をNotionに集約　「AIに聞けば分かる」環境へ",
-          "desc": "社内の情報が複数の場所に分散していれば、従業員もAIも必要な情報にたどり着きにくい。マネーフォワードは約2800人規模のグループでNotionを活用し、社内情報を集約した。「AIに聞けば分かる」環境づくりをどう進めているのか。",
-          "url": "https://kn.itmedia.co.jp/kn/article/2609/30/2000001856/"
+          "text": "「システムプロンプト陳腐化」をどう防ぐか　AWSの試行錯誤に見る「自社AIエージェント」運用のポイント",
+          "desc": "AWSは、AIコーディングエージェント「Kiro」のシステムプロンプトを継続的に評価する仕組みを公開した。社内の実利用データをLLMに採点させ、システムプロンプト変更の効果を比較しているという。",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/01/news029.html"
         }
       ],
-      "lastFetchedAt": "2026-10-01",
+      "lastFetchedAt": "2026-10-02",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -120,27 +120,12 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZekRRQnhiMjdYQUZyMXRwbFZqMjFTSW0xNGFLS2xKLVlDR3RYSG8yWmU0MldsaF91VzlDTUp2NEt0Si1MTVdlWkFkZlVtU2FFOC10eFdCZENiVDBRbFBYSlJNTENCd3NlX08zRVRBLWtRNXF2NXczcGVyeENZRWs?oc=5"
         },
         {
-          "text": "子育てはまず「あれもこれも」を手放すことから始まる！日米の違いに学ぶ「健康の土台」とは？(東洋経済オンライン)",
-          "desc": "子育てはまず「あれもこれも」を手放すことから始まる！日米の違いに学ぶ「健康の土台」とは？(東洋経済オンライン)&nbsp;&nbsp;Yahoo!ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjNsQ1M1eFc3QkY3SlJuczJONFk2X0oyY2lPLTY5UFBrU3dRNlpMRDV5Tm85dFJ5R3RDMHdWRExQdnF2bk5xQnJCa2RQVGNIRFF4ZDNIdjFvTjBqeGRkTS02cjdiUmxoN1BNUlpaUERQNmxGNlFkR0VBc0ozVmh5enViYXlFQWc?oc=5"
-        },
-        {
-          "text": "なぜ競技用ゲーミングPCは光らない？ HPSC久木留所長とマウス軣社長が語るアスリート支援の未来（ITmedia PC USER）",
-          "desc": "なぜ競技用ゲーミングPCは光らない？ HPSC久木留所長とマウス軣社長が語るアスリート支援の未来（ITmedia PC USER）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNekY1TnU3aHBINm1kcnVEa0hTVUxfaGtqaUdlenAyS29HVktMQnMxRTVneGNqSHRMV2UwMEZZUzdYcVZiTFNsUlc4aU9ZUHBqNHRKdmloX3NpYUVzOVZLV2gtbzV5QzRCb3N6NzNHeTRfUGZoYXpwOWN6VFhxZFYxNTNoNFhORzRo?oc=5"
-        },
-        {
-          "text": "痩せてるのに中性脂肪は高い…その原因と、意外なオススメ食材",
-          "desc": "痩せてるのに中性脂肪は高い…その原因と、意外なオススメ食材&nbsp;&nbsp;スポーツナビ",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVjRSYUtqSTFBaGRGQ1hxZEU3VDVncENXNGJUNzhkQWt2WjBLdVktMkE5a0NmWjcxdGNuUVltcVZ5SWtpYUJuTk55VFVtQWZFY21MbDlFSkpkV29Qd1VDOWQtZGhsZlpualZOUTBEM2k?oc=5"
-        },
-        {
           "text": "認知症の手前「軽度認知障害MCI」増える傾向…進行を予防・遅らせるために！何をする？（読売新聞（ヨミドクター））",
           "desc": "認知症の手前「軽度認知障害MCI」増える傾向…進行を予防・遅らせるために！何をする？（読売新聞（ヨミドクター））&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QQlZ5ekwzRk1FMlRub3BnUzN4a1RqcVV0cEZGVHFPTmlicGo5RkZ2REV1TmJxU1ZqTm1qZmxXc0tNV1l3ZThDZHlXVVF4T2NjZnBuWUpoRFdPZ0RJbkd5M1RiY0NhdEdCNzk2eVByZE4zNENhR1JKdktfaTZocFU?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-01",
+      "lastFetchedAt": "2026-10-02",
       "source": "Google News"
     },
     {
@@ -159,14 +144,19 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rVXJOelF4N1pla0p0Y3pOZVJvSDVEWGJ3aUp2ZWZiS3ZBYWZMT3ZQODk0eUpld2FPRTdtRERDOUI3dVcwcTZQQlR1ZU1FMllyUjRRdVJRSXFHQzBZVGdsRVJKaUxMRzdMdFk4b05CNXpGOFdZdzNOX3pjMTE2eHc?oc=5"
         },
         {
+          "text": "「106万円の壁」廃止、酒税見直し…10月から暮らしどう変わる? (毎日新聞)",
+          "desc": "「106万円の壁」廃止、酒税見直し…10月から暮らしどう変わる? (毎日新聞)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWjRfdHpMdFdmb21SYTFMbnpHTWxGanAtTm1XSHlLeWxKbTJsQ0czWFhQR2E3Y19rYkw3U2xPWWxCRlRfN1ZKcjlCSzRsZzNCQkpyWTBmbEFKOGhfS3ZmVkJKLWk0aXF6SXpSYkhXUTN2SWR5YVNZZGhWUEJFQWgwa0ZqbVdYSGpmVlpnd0V3?oc=5"
+        },
+        {
           "text": "10月から何が変わる? 約3000品目の値上げ、「酒税」見直しでビール“減税”、「106万円の壁」撤廃、「カスハラ」対策義務化…変わる暮らしのあれこれ（FNNプライムオンライン）",
           "desc": "10月から何が変わる? 約3000品目の値上げ、「酒税」見直しでビール“減税”、「106万円の壁」撤廃、「カスハラ」対策義務化…変わる暮らしのあれこれ（FNNプライムオンライン）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MNEZoeUFjdjhJMHRGcmZCUV9MSXNJbVJOTnZxSjVnMzFTbDctOUdHN1ctM216NDVPZ3dWSGR0a2k0WVAxbURsYnlGWEplU3o5emN6S0N6WDVYS3RHMDlYMXRpbVREdWhKNDE1dFZCbFlJZ1JBTkdOMFNmdlF2c1k?oc=5"
         },
         {
-          "text": "お金も時間もムダなく使え、心も軽く。60代ひとり暮らし、やってよかった「家事の工夫」3つ（ESSE-online）",
-          "desc": "お金も時間もムダなく使え、心も軽く。60代ひとり暮らし、やってよかった「家事の工夫」3つ（ESSE-online）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV0VEd2Q2T19GU0J3RlJLMk00OF9aLTBsQUhsYnhXMDJVT0FsSVA4R3h2NGJfSGZibU84WUNPOWR2dGFzLTJXVFFvVzlIRlMxbi1JaEZjdDJ5ZER4RmJodWdKek5hZVczYlFjVXJHZXdXNTBmeTFGelVuWkc1TUE?oc=5"
+          "text": "お金も時間もムダなく使え、心も軽く。60代ひとり暮らし、やってよかった「家事の工夫」3つ (ESSE-online)",
+          "desc": "お金も時間もムダなく使え、心も軽く。60代ひとり暮らし、やってよかった「家事の工夫」3つ (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX0wtNEh6SHhFczZWZjZKWUdFLVB2VFBzczQwRWY2cUVTMWhld3M5eDRJRGhOTERybl9EdlFPa2E4MkZFNmpaMkJRODJMNnlXSk5rSm1vTk0xREwxSm9qTy1PU3VTeVhIV0J0NFNGZGNnOEtHTnBpbENPT1NfSjljUUtoU0VHSzdtVlJPVlVR?oc=5"
         },
         {
           "text": "1000万貯めてる人の9割が実践！手書き習慣で暮らしと家計が整う理由（サンキュ！）",
@@ -177,14 +167,9 @@
           "text": "【ヤフコメで話題】「世帯年収1,000万円でも都内暮らしは厳しい」「再雇用や管理職の賃金差にも不満」 - 年収と生活実感のずれが議論に",
           "desc": "【ヤフコメで話題】「世帯年収1,000万円でも都内暮らしは厳しい」「再雇用や管理職の賃金差にも不満」 - 年収と生活実感のずれが議論に&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDFUeEtkWFZDbE54RmVuTjQ2WTVMWUs5ZzlXN1dZMGtDQVlfenhLVTg5X2NJeHJkTi0wZVMzbDl6cDItVUloV2FSdFZWTE5JN1gxY2JWYllhMGdYd2Q2QVlaRllUNGpuZVZQLUhRTkhjZ1R4MElWQ1VESzN0R3VfcnZjeEo2SVptRC1YN2hB?oc=5"
-        },
-        {
-          "text": "防災庁は日本を変えられるか 巨大災害を前に問われる「国のあり方」 #災害に備える",
-          "desc": "防災庁は日本を変えられるか 巨大災害を前に問われる「国のあり方」 #災害に備える&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVR2J3eURFamV1eURpWjRIdTZwSzZ2RnR0eFFzVlhHb0hPOS1qVng3WThOaEN5REhmbGhBSFBtaG55YjFiWUZzaWZyampxeU9FdWdLTWJZblRsaUVjNjl6WF9fdUF3bUdpcXNFaFJRazVzbHhNWFZPMU5fYml5bFE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-01",
+      "lastFetchedAt": "2026-10-02",
       "source": "Google News"
     },
     {
@@ -193,9 +178,9 @@
       "title": "関係資産 — トレンド・体験",
       "items": [
         {
-          "text": "アーティゾン美術館、2027年の展覧会スケジュールが公開。ヴェネチア・ビエンナーレ帰国展、新収蔵品でたどる「いま」など",
-          "desc": "アーティゾン美術館、2027年の展覧会スケジュールが公開。ヴェネチア・ビエンナーレ帰国展、新収蔵品でたどる「いま」など&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOalQ5RkJmS1ZKWG0yVFNRVEpCYlRITHlPX3B3NEpRMnNTZVNTM1BrRlVsRmUtbE5sWWZfeEloRmtFQjl1YTZjUDYySmNyY1BfZGY1aGt1d1V3bEpzZ1ExU3JWNVNRbGlldUU0ZkozVm5HU3dKNkFnd1Y3NDkzd0FXcVQwYl9kMUs4WXcyTU9n?oc=5"
+          "text": "「画中画」をめぐる日本初の大規模展が国立西洋美術館で27年秋開催。ウィーン美術史美術館が全面協力（美術手帖）",
+          "desc": "「画中画」をめぐる日本初の大規模展が国立西洋美術館で27年秋開催。ウィーン美術史美術館が全面協力（美術手帖）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFYzNYQkg2YjZnSHowbHFoRkphamFZV3NpM1NPWEJ4NC1YYTlUa1cxcU5QMHlDczM2N0xWYWl2Rm9ialFQZDJqbF9lRmgwSW52M2pMWVFLdm9XLUVVRjZzczlrZ0g5VFVpaHEzVzdvclZ2VDRjMzlYSWxldDRKQTg?oc=5"
         },
         {
           "text": "神奈川のおすすめ観光地5選！人気スポットから穴場まで徹底紹介",
@@ -208,27 +193,27 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TG5uaWhaVUIxdmFRR0JpYXNKdF8yRi1FRXB3RkMzbEkwTjRySE8wci1qUENqNWdwbmdGeVRVTk5pc1BHUlhOVjRKQnFGMTBZd2kxZ0JoaW5CMEE4a3ZwbEdnczlDU1JCWlNpSXh6NFhOWGMwU1RScTRxR0NwQVk?oc=5"
         },
         {
-          "text": "新名所誕生でお台場の夜がもっとロマンティックに！世界最大級の噴水「東京アクアシンフォニー」が話題",
-          "desc": "新名所誕生でお台場の夜がもっとロマンティックに！世界最大級の噴水「東京アクアシンフォニー」が話題&nbsp;&nbsp;walkerplus.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrZ08yZEE3c1FJMEdQNlh4R0x0Q1hjTTVsUkdMZU1QeHc3a3lqeDFCdVRTbDduTVFkSnNlejRzcWdneDZjOTMtWkVQOU1PZEFPWXZjZC130gFbQVVfeXFMTjFQTG9jcnk2ZnU4OE56dXF3bUdJUHNDTmszV09wVERqZy1SQ2dpY3VQYWNTLVJyTmE4VG1OSE1aWF9QZVB1eVZWSnExVzEwZkRsSEkxaXNYSlgyQQ?oc=5"
+          "text": "「岐阜城楽市」が岐阜城のある金華山のふもとにオープン！モーニング、ランチ、お土産…目的別・岐阜らしさ満点の必食グルメをリサーチ",
+          "desc": "「岐阜城楽市」が岐阜城のある金華山のふもとにオープン！モーニング、ランチ、お土産…目的別・岐阜らしさ満点の必食グルメをリサーチ&nbsp;&nbsp;walkerplus.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OV0lMNUxNZVg2Z0ZxSmpSajRJQk9vbjYyWF9LN2VITXdCYTBxVlNrT1RqRF94R1B5R2pqMlFQcXFIcGgxMWFwQ3Vxd1hxcEhXcXhWeTJR0gFbQVVfeXFMTURmTWdjSFVZa2JGbkRGSE5jU0cyUXNwb0tRbXVnRlBrdmhDNVBfTVU2LW5nWk5DQ0dkc05RYlVxYWNhcGhqMXVmM0RBWjZ3b01mWnIyX25aNkhMWQ?oc=5"
         },
         {
-          "text": "火災保険の“盲点”を専門家が明かす「水漏れや窓のヒビ」修理は自腹…その思い込みで数十万円の損？",
-          "desc": "火災保険の“盲点”を専門家が明かす「水漏れや窓のヒビ」修理は自腹…その思い込みで数十万円の損？&nbsp;&nbsp;walkerplus.com",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdnd0b0lpZGUyOWFCdldRc1NEb0JyS0daZFhJTTZCYy1CQTdtRml1T2lpUkNlYWpaakpxaFp6dlNhT1BHVnpZNm9VZlhFWC1wbzVYU1VR0gFbQVVfeXFMUDNHTmxHWnRTZWtZSFRoZVlkLWcwYm1mLWJJN1FNSjByMElyTmtqdEY1T1kyYlV1UEJSa3ZWWXhDZXcycFZfSTV6dnZRbXdjN2ZZclBvM2dyOEpXOA?oc=5"
+          "text": "東京、10月に行くべき祭り5選",
+          "desc": "東京、10月に行くべき祭り5選&nbsp;&nbsp;Time Out Tokyo",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYaDQ5NDJHZm5wTUMydzdPNTREenR1ZmdtLXN2ZTFucl83eWExeDdTdm9FUURMRVljaXhlOFhPa194c0Y3blA2NkZLbFg0MWYzRUg3OG9CVGpfdTl6S0l4dGUtWnZLTWR1S2hxbzA0SnJMUVE?oc=5"
         },
         {
-          "text": "水上ホテル「PETALS TOKYO」、マリメッコに囲まれて過ごす宿泊プランを提供",
-          "desc": "水上ホテル「PETALS TOKYO」、マリメッコに囲まれて過ごす宿泊プランを提供&nbsp;&nbsp;Time Out Tokyo",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQnF2VWRlTE1kc3hVWlBkVXhUcHdXOE5jOEYyT2g2NDRBTEFEVzhHNk1WT0xNeEU1N1hoeUZZVElSbno2UWFxYXRFX1NHY0ZuakkyMVhRSzBwWlA5VXc3aDhnSTF1b0p5QXRWM1VmRDktUTZMS0JyRUQ0aDZjZUJpdVZn?oc=5"
+          "text": "こどもが夢中に！ところざわサクラタウンで夏限定イベント「ギャラクシー パーク －銀河のアソビバ－」が開催中",
+          "desc": "こどもが夢中に！ところざわサクラタウンで夏限定イベント「ギャラクシー パーク －銀河のアソビバ－」が開催中&nbsp;&nbsp;walkerplus.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04MEVDdEZLcDk3ck8wS250Y3dPby1tYVJjS19XUEs3cm1odXhNM3FtQVlrYmVhcEhfWlNWYWY4VW1WVGEyLWZuYTBoT2hkcExLVF9meHdR0gFbQVVfeXFMTW9DUlhYbktKT3RBb0h2YzhHVHRZcjJJaXBiQkJTY2NueFBiUmFWSDd1UlljcXl0cnRVOHd1MlZDZzBOOUVEX1VLa25ub3d5R1ptWkVuaExPWGFHWQ?oc=5"
         },
         {
-          "text": "地域情報メディアサービス「Walker47」がアプリをリリース！",
-          "desc": "地域情報メディアサービス「Walker47」がアプリをリリース！&nbsp;&nbsp;walkerplus.com",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ESWpwWVJQR2dES0hLMmVWaGhaQkpfRXk3ZjZTSmxSS1RlNGZ5Y2tVLXd4LV9OMUFpdk1LbXN6M1ctd1Z1dmZYT1gxdUc5Wi0wV0FV0gFYQVVfeXFMUHhqQ1plRTZBYllvRWZGekxHR1ZPUmtmUm5BYWxMQndzeGhCajdyQVlxNUtJNi1nZFBkbUo1UkoteWt0SDNoZ2ZUMm8wZG5mZU1KS3ctMUZ1Vw?oc=5"
+          "text": "東京、秋の夜長にしかできない12のこと",
+          "desc": "東京、秋の夜長にしかできない12のこと&nbsp;&nbsp;Time Out Tokyo",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sVl9vemZKWXZaSTJYcXo2RUx0YUhfazFQeXFCQl9GNjFmUTdTVS1hZEQ1T0g0Z1d2VDItVF9lMFg1NFc5LTE4UHhuYWl5MkdBcWQxbC1aUWhkLUZRU24tbzRGTjJteXBRdnVJN3BvQ28?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-09-30",
+      "lastFetchedAt": "2026-10-02",
       "source": "Google News"
     },
     {
@@ -242,14 +227,19 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vOUVjSFU5blRhTWQ5QTRKY3ZGOTFQYzk4djJsV1poYm1fd1lESEpLcXlzWnAtTEtuaGprcndLNEliRm1fWDRySDJSa3lYcjNCa183aUM1U3Q0TGxwUlZXbTlYQkFMZVU?oc=5"
         },
         {
-          "text": "日清食品流の型破りAI浸透術 最新モデル即日実装、管理職は「無理に使うな」",
-          "desc": "日清食品流の型破りAI浸透術 最新モデル即日実装、管理職は「無理に使うな」&nbsp;&nbsp;日経ビジネス電子版",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tbm9uZGxYdWlpSzBUYXMtcU43bV9aTnlsMDZFNmpPTk5vcHBQM1ViWjdSaUVlR0hlc2t6RklQcG1SdElkUDBoT3Z0VGpRaVpfdlRPSFcwTDhJNDBhS21UWjllY01IRU14VUdqTTBNUjk1VWlXcHVVNnZuRkI?oc=5"
+          "text": "三菱商事、AI活用と「考える力」を両立 誤情報と格闘させる新人向け法務研修",
+          "desc": "三菱商事、AI活用と「考える力」を両立 誤情報と格闘させる新人向け法務研修&nbsp;&nbsp;日経ビジネス電子版",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BWGpYdUVwVUJGWGtBM2lWOElmTEt5UzlHUzluWjlzZzViN21YU3dvZGNCblA4VXRNRnNTQjdMVU5rOEhkS2FyY0dvN2d5TG5lMkc1RVh5OHBQVS11OTlLZU9vRWJ2UGM?oc=5"
         },
         {
           "text": "デジタルネーティブ世代の生成AI活用法",
           "desc": "デジタルネーティブ世代の生成AI活用法&nbsp;&nbsp;日経クロストレンド",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MMldGVXBReUxRU25LWEpnTlc3TmxYeTNvQWhpcWdjb05JZmhILTFWam91Q1pKS1dRSnpFM3VLdHI3Z1lBTkFSLTFKLUs4cjFRSTV6UzR2aTl1cVo1ekZ2SmlsMFRYUQ?oc=5"
+        },
+        {
+          "text": "ＪＡＦＣＯ[8595]：コーポレート・ガバナンスに関する報告書 2026/10/01 2026年10月1日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "ＪＡＦＣＯ[8595]：コーポレート・ガバナンスに関する報告書 2026/10/01 2026年10月1日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeHp1YVp6cXpMTFhoZ0xHSjdDZ1pIdG8xX3k0XzZmVzV2QWRoYzhDM29pblZrQVRMemdXV1VzcmphcWpjNWxGNk5GMXBkNHVHN1RKYVNqdWFXcW9LSzY3aThvdVUxbWgwVzQwY3QwdDRTdkJBSXpBeGJkd3VGZTNhdndWUmpyTnJPZ1NhRVdlNHRNejJzaUFydFBrSEpwcGNTUzdQLUwtNXR1aURvZ29wRFlVNERFYUdsUFpWZkZmVHhBWjBaVlVUSHBvbWc?oc=5"
         },
         {
           "text": "ショーボンド",
@@ -265,14 +255,9 @@
           "text": "北川精機[6327]：コーポレート・ガバナンスに関する報告書 2029/09/29 2026年9月30日(適時開示) ：日経会社情報DIGITAL",
           "desc": "北川精機[6327]：コーポレート・ガバナンスに関する報告書 2029/09/29 2026年9月30日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc21TYVE5MnRoM2lILW1WRW85MUx5dm5GdloyWHBOQnhzS00xM2dGR2JyOVZhUkVZRFNfMzZXb3IybE5RNnNrU05rRnlsd05DYnowLUdOeGdZeVdRdEwzN2pHWVgwQmo0TjJ4eVExNnhuempNLVpzYXZ2Q1pPeGtWMEt4cm1pLWp3amJyaFh4TlRDeUZqeVQ5d1N2U3MyNUZ0ME1wU2xSN1diTHZ6YVBSOEZtSGkzM0VycWlzWFdQWC1jZWd1Y2JVdlBhRnM?oc=5"
-        },
-        {
-          "text": "東宝[9602]：コーポレート・ガバナンスに関する報告書 2026/09/30 2026年9月30日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "東宝[9602]：コーポレート・ガバナンスに関する報告書 2026/09/30 2026年9月30日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xWHVhZFNJU19YdGtiZlFmZnB1ZmRPZWVtWmtaN2FnVWQ2REkyNEZ6WUFzNzA1NjVlRE5PMDhqSFZ0NmRBbVdUSmFWTUU0elFDelh1OGZrQzlXdzczdE5ZWGRNLTlQUWppRFE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-01",
+      "lastFetchedAt": "2026-10-02",
       "source": "Google News"
     },
     {
