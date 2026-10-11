@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11",
+  "updatedAt": "2026-10-12",
   "summaries": [
     {
       "id": "finance",
@@ -7,29 +7,34 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "レアアース争奪だけではない､アメリカがグリーンランド新防衛協定で封じ込めようとする中国の北極進出･核ミサイル戦略 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "アメリカ･デンマーク･グリーンランドの三者が2026年､新たな防衛協定を締結。中国やロシアの影響力拡大とレアアース確保をめぐる攻防､そして北極圏の軍事的価値が注目されます。グリーンランドを舞台に繰り…",
-          "url": "https://toyokeizai.net/articles/-/960422?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢日本版エヌビディア｣は探す必要ナシ…《フィジカルAI》で覚醒する\"五感･筋肉･関節･神経\"を担える日本企業の強み | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "AIの進化は､デジタル領域を超え現実世界へと広がっています。工場や自動運転､ロボットなど｢フィジカルAI｣が産業の主役となる時代､日本企業は独自の強みを発揮しつつ､投資機会も増大中。果たして主導権は…",
+          "url": "https://toyokeizai.net/articles/-/960381?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "敵国条項削除が呼び覚ます戦争の記憶――国連創設史と米中の同盟意識から問う､日本の軍拡と平和国家への国際的信頼 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "アガサ･クリスティの小説に描かれる｢思いがけず蘇る過去｣。これは日本が敵国条項削除を国連に求めた時､米中両国が想起した歴史にも通じます。国際社会は日本を本当に平和国家と見なしているのか。歴史と記憶､…",
-          "url": "https://toyokeizai.net/articles/-/960281?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "生成AIの進化と共に､AIサーバー向けメモリー不足が深刻化しています。半導体メモリー大手マイクロンの決算説明会では､何が語られたのでしょうか。",
+          "url": "https://toyokeizai.net/articles/-/960184?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "大阪大学発の創薬ベンチャー｢ステムリム｣は今期､開発マイルストーン計上の可能性高まる | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "大阪大学発･創薬ベンチャーのステムリム。今2027年7月期は9億円の売り上げが見込めそうです。売り上げが立つとすれば､22年7月期以来4期ぶりとなります。",
-          "url": "https://toyokeizai.net/articles/-/960008?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "目的達成のためならサイバー攻撃も辞さない… 1200ものAIが秘密裏に結託した｢恐るべき相互扶助｣の脅威と実態 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "自律的に行動し､協力し合うAIエージェントが､想定外の手段でサイバー攻撃を仕掛ける事例が発生。AIがコントロールを超えて暴走する未来は､決して遠い話ではありません。私たちはこの課題にどう向き合うべき…",
+          "url": "https://toyokeizai.net/articles/-/960560?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "2026年アメリカ中間選挙は､｢ラストベルト｣｢サンベルト｣に次ぐ第3の主戦場｢センターライン｣に注目せよ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "アメリカ中間選挙が迫る中､これまで安定してきたはずの｢センターライン｣に異変が起きています。伝統的な共和党地盤のカンザスやネブラスカまでもが接戦に。なぜ激戦が生まれたのか？勢力図を一変させる波乱の要…",
-          "url": "https://toyokeizai.net/articles/-/960707?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "日本を襲う不正アクセス｢じゅうたん爆撃｣…AIの普及で高度な技術を持たない犯罪者でも攻撃を仕掛けやすくなった | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "日本と韓国で相次ぐサイバー攻撃が､AI技術の急速な進化により深刻化しています。",
+          "url": "https://toyokeizai.net/articles/-/960867?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "深刻さを増すハッキング…AIの暴走で急浮上するオープンAIやアンソロピックの\"法的責任\" | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "AIの進化が企業や社会にとって深刻なリスクにもなる中､AI企業の法的責任を問う声が高まっています。",
-          "url": "https://toyokeizai.net/articles/-/960635?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "AI投資に選別の波､オーストラリアのデータセンター運営会社の新星が大型IPO断念…48時間の舞台裏 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "華々しい期待の中で迎えたオーストラリア史上最大級のIPO。しかし米ファンドの厳しい評価や投資家の警戒感により､わずか48時間で計画は破綻しました。何が市場の熱狂を冷やしたのでしょうか。",
+          "url": "https://toyokeizai.net/articles/-/960842?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "｢まともな教育を！｣フランスで高校生25万人が抗議デモ､格差と教員不足に怒り爆発､日本も他人事ではない深刻な現実 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "フランス全土で25万人以上の高校生が抗議デモを行い､暴徒化や大学への波及しています。背景には深刻な教員不足や教育設備の劣化､格差拡大といった現代社会が抱える根本的課題が横たわります。教育の平等は守れ…",
+          "url": "https://toyokeizai.net/articles/-/960839?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "ＦＲＢ9月利上げ理由で見解相違、債券市場混乱への備え要請も＝議事要旨",
@@ -50,14 +55,9 @@
           "text": "日米「円の過小評価」を警告…ドル円相場は「政策の壁」を越えられるのか（THE GOLD ONLINE（ゴールドオンライン））",
           "desc": "日米「円の過小評価」を警告…ドル円相場は「政策の壁」を越えられるのか（THE GOLD ONLINE（ゴールドオンライン））&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjVlRFMlBadzY4WUFvbElvcTloTDBnaW5mZDhDb0o1WUFWZjVFQTNudVRFaFVfblRlN2JWM3NLUTVtaUpEUlJ5SVFENkNCTXpCVG1wcUZBaVZoMFYyUnlYeThEdUU5eFpQaVl5azhDbDdEMnBqTG1fYXRjOVMzTFk?oc=5"
-        },
-        {
-          "text": "ＦＲＢは追加利上げ必要、連続して行う必要なし＝ウォラー理事",
-          "desc": "ＦＲＢは追加利上げ必要、連続して行う必要なし＝ウォラー理事&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTZHR3pwQjVkSDhINUZaanVQVldvTGNGQnk1eURFNEdhcDdIYWhXUG1TeUNaekRzN1NkbWd6Mk5tYk1JNjJpS0h2WE5tcnVHYkVXaHppcmlrWGZobzVWT2xqWXMxaGVGM0hLVGNuTm1iZ0Y5NmN2angyTkdoM2V4UThEUXNudw?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-11",
+      "lastFetchedAt": "2026-10-12",
       "source": "東洋経済 / Google News"
     },
     {
@@ -101,7 +101,7 @@
           "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002159/"
         }
       ],
-      "lastFetchedAt": "2026-10-11",
+      "lastFetchedAt": "2026-10-12",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -115,11 +115,6 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVdiR3hTNWFZNENUZUIyYURpM0dLWHZHbzJYMk1xM1lBVXl5SHNIZ01NNE1uVTZMNng5aFJfd21KMkVBSmZyTEJ4bXVBTVF5UmQwalFFckY1NWc4Y3ZvYVFaUXFrakRLSnY0R1hjbDNKV01UZE9NeXdCWG14WjV4aF9fUmlDRUR2eXZ2dURoQQ?oc=5"
         },
         {
-          "text": "週末はホテルで“スリープツーリズム”を体験！「ホテル1899東京」のお茶と睡眠でととのう！（MAQUIA）",
-          "desc": "週末はホテルで“スリープツーリズム”を体験！「ホテル1899東京」のお茶と睡眠でととのう！（MAQUIA）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2lXRi1JSmZrWWhkU1FiTjlEa18tNUUta3g0akFHR3lvazQzQVo1N2VRdGlSNXFEdlRINGVvX2E1X3F3YlRreWgtN3ZPRV8yTFloR2NhTGtnaVBUS3Vwclp3WDJnWTBxRkFaZmpqQUNDN19sSVdUX2pKTzJTb2ljc3Fqei1hcERG?oc=5"
-        },
-        {
           "text": "睡眠障害ナルコレプシーの治療薬「オーゼイフル」保険適用、原因に作用は国内初（読売新聞オンライン）",
           "desc": "睡眠障害ナルコレプシーの治療薬「オーゼイフル」保険適用、原因に作用は国内初（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBodDg4aEI4eWg3MFpzeVkyeTl6RHRHR3FqZmVxeGtnVU5KV3V0Y3M5RnBqVlo3WlpHUlVodktpVU9DSkJZQXFNX3dmNTdMUmVyelFMNHZ2VTNpcURpc2g2N2tLMEthNzk3UW1EZjR6UXhFNXR2MHcyaGg5R0RwdVU?oc=5"
@@ -127,7 +122,7 @@
         {
           "text": "「1日2本」を2週間続けた結果…お腹まわり-8.5cmも！10人が挑戦したお手軽ダイエット、驚きの結果！（OTONA SALONE）",
           "desc": "「1日2本」を2週間続けた結果…お腹まわり-8.5cmも！10人が挑戦したお手軽ダイエット、驚きの結果！（OTONA SALONE）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZHpVb2RBSVBUSGs3NUFHMjJqRFBzUzlqQk5rNlRTbTc0UmktUlRibGlRYU1MdGR1WTNnbndiSDdfVnFMenVkYm9fck45TWpxLXAxZWpMc3RaU2h5NDBTaTJQeFlZSExZOFRGRUhEMVAyYWtHNGd2VFIydElxWWM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWXlsaUYxaGk0bUpFYjJPUGZVdlpOODVGdURFUlM5eDEtczV6MU9PSVBtWWIyTXowelFubFNmT1hDc0RJUnpjOXNfMkQxOENaLXRFOF9FU2ZyRjdzeFpMdHAtaFA3Z1dyeGtBX2tFQ2QxWlNmRDJCSHdMc05CTWhhTUx5TFd0X1JMUVNjLWln?oc=5"
         },
         {
           "text": "認知機能の低下速度を70％抑制、「脳の健康」を高める5つの方法",
@@ -140,12 +135,17 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR3hHMS1XMnN5T1VfaktkQkYyMy1wNkxWOXZWWUc2UmlmeFMtSWNpYnNBWV9CZHdHcGNxeEU4dUV3NFBJdFczekhxSWlNVUFRXzFkTDZWTm5qTV9Pd2toODM0TVcxeU9oZXlXM18yM1l3Mm9LS1JSSWZ3MjdZUEdYSlg0UW1lc01M?oc=5"
         },
         {
+          "text": "夢を見るレム睡眠が多いほど「83の疾患リスク」が低下？！最新研究で探る睡眠の世界（ヨガジャーナルオンライン）",
+          "desc": "夢を見るレム睡眠が多いほど「83の疾患リスク」が低下？！最新研究で探る睡眠の世界（ヨガジャーナルオンライン）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xY1UtUWMtOUs4SDhnSHV5UlYtamFLNjNmSVM5RmZWVDcySEZjVzU3YjlCMk1BM21fc3QxRXh4MlJKamxDZkhQcWZBOTEzUlAtR2N2VEV3QWxvSFBoLXRlb1ZEUVM5eFVUT2xuSVI4RkQ1eTNCeUhBb29aVkZaR00?oc=5"
+        },
+        {
           "text": "水が引いても、電話は鳴りやまない 損保社員という「もう一つの被災者」（西多昌規） - エキスパート",
           "desc": "水が引いても、電話は鳴りやまない 損保社員という「もう一つの被災者」（西多昌規） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMk8tQW5PM3Vkd3BHakFjQW5EZ0puZXZqaTJWMGkxY0lYQklVSFVpYnhFeElTWlpJYkx6RWcyb3J3UGZXVkx3UGVNNHFRZUR3MzlFbFZ2VE1GRG5BTVVCQ2NYeHl0YU1CbFZqOHdBaVdJeFV6elVFZHJSa3JGc05NMHk4MGNrZGlT?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-11",
+      "lastFetchedAt": "2026-10-12",
       "source": "Google News"
     },
     {
@@ -157,6 +157,11 @@
           "text": "60代ひとり暮らし、暮らしが充実する「3000円の使いみち」。日帰り温泉旅、あったか靴下… (ESSE-online)",
           "desc": "60代ひとり暮らし、暮らしが充実する「3000円の使いみち」。日帰り温泉旅、あったか靴下… (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVVyckc3enh0eExGOGtNcmtTYlJpYndzZEMtdU9JUW5tX19vZmo2Q0g5aHBvc1lLMGRWLTdOYUZINjNxRUhub1M3SGppQ1JhR2RBS2k0dTNNeEtQQXRYXzdRY1l0bENtSVh5QjJabG1zSDlFU0NTNVJ4VzduTTZEV3lCZFlJa2NTa2ZKUGZR?oc=5"
+        },
+        {
+          "text": "夏の電気・ガス料金支援が終了…年金暮らしで今から始めたい水道光熱費の節約術6選(あるじゃん（All About マネー）)",
+          "desc": "夏の電気・ガス料金支援が終了…年金暮らしで今から始めたい水道光熱費の節約術6選(あるじゃん（All About マネー）)&nbsp;&nbsp;Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONDhTVzZUNG1VbEVHU2lPQTc2MnUyNUhCdHpOLW1yMUk4MXdua0taeWp0V1RaU3FIVnZBeU4ydW5fczVvdVBCRnRCOTAxMG5pZHVHS2Q3cDRYNG1QOG9wNGFtU1p6aGw2bVVtSEhwcDcyeExrd2owREpGOEhucnVkX2txSmJOV28?oc=5"
         },
         {
           "text": "防災対策の盲点!?「マッチ」が令和の災害対策で再評価されている理由（＠ＤＩＭＥ）",
@@ -174,11 +179,6 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96aHpFbFJvT0gzbmZCTV9jS0MtUHVoV2RWMWdnWVFPVDZGTDZBaFpJNlRNY3UyWFZnMzc4ZExaV2VoOURVTzlQRDJPTkdkOGdVZVlfWnV1WG5xa1RtbUtIUW4yZTdJaEU?oc=5"
         },
         {
-          "text": "胆振東部地震の教訓継承 あびら防災フェスタ開催「忘れてはいけない」体験型ブースで災害への備え確認 北海道安平町",
-          "desc": "胆振東部地震の教訓継承 あびら防災フェスタ開催「忘れてはいけない」体験型ブースで災害への備え確認 北海道安平町&nbsp;&nbsp;TBS NEWS DIG",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqWDJFVnhBc1hRU2p6X2NLQV8wSkNXdU1Ud2d1ZXpuQkUzTWJtaUtaZmZCVzZGMm5sb0ttVXRMRHlWSDYxcmJCdU1fWmVFb3gxNU1GaTVlYw?oc=5"
-        },
-        {
           "text": "横手で防災・災害対策講座 災害時の支え合い考える（みんなの経済新聞ネットワーク）",
           "desc": "横手で防災・災害対策講座 災害時の支え合い考える（みんなの経済新聞ネットワーク）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU29TZUxJdVg4YmI5MGVfelZ5dGlNZl9uRzFoYWxfc1Exczd3RGx2bVRYa3BtNGF2S28xcnZETWdEaUtIVUdaWDRvd01jeUZncUYtOFlya3JxRUVmX0hnajBLM19oVXBnd2hxdktNSXlrYUpFRjRXb2FQTUFvaE0?oc=5"
@@ -189,7 +189,7 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42LVdqRk1TNDVJYkFxbW8wZ2ItcUowdDZVSXJHNUhZRVRTM0E5YnZ3YnZSSkphd2xDTHlWbjRYRWZsMVhVdmk5d1VnZ0pZSy1tSkZJWXJxTGhtd045eGNoeGM2RHZqZUI1Z2NMeTZtQWYwUVRKOWhBN1ljUy1iZTA?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-11",
+      "lastFetchedAt": "2026-10-12",
       "source": "Google News"
     },
     {
@@ -242,11 +242,6 @@
       "title": "仕事資産 — キャリア・副業",
       "items": [
         {
-          "text": "テクノプロの50代後半、技術職・研究開発職の年収は？【1万件の口コミ情報データ】",
-          "desc": "テクノプロの50代後半、技術職・研究開発職の年収は？【1万件の口コミ情報データ】&nbsp;&nbsp;ダイヤモンド・オンライン",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TaFBqUkRkME5uOElDdk9ZZzVEQk9NVmtncmlwM1c4SEtFVEVXUUZ0WFBQdl85MlltLWVPUzVzcmdnS0M0Q3hXV3pXeWrSAU9BVV95cUxQc3liMzQwMmJsWS1qN1FHRG5GVmdLZ0NWeTVWQVBsQkxUaHFGaWRBS3Z2MnN4TTJnSkF4eC1yM1FvU1BQSk9WQnlnUl9xTTRB?oc=5"
-        },
-        {
           "text": "AIで仕事を効率化するのに最適 入門から本格活用まで、部長おすすめの8冊",
           "desc": "AIで仕事を効率化するのに最適 入門から本格活用まで、部長おすすめの8冊&nbsp;&nbsp;日経ビジネス電子版",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIRDFfbXlLTkVjMHpIRDR4cS1pTjRBWjJwV21pYjNjSXhQbkhqdVU3Zk9CZGx6QlgybXRvN2E1bFF0QkJNLTdESlBod3gwdTdtRmJkMC1SYTh4MUdrZ3JNLTVHUVkxNnM?oc=5"
@@ -255,6 +250,11 @@
           "text": "「AIが人間をダメにする説」に新たな裏付け？ “AI依存”で失われる可能性のある「3つの能力」（ITmedia エンタープライズ）",
           "desc": "「AIが人間をダメにする説」に新たな裏付け？ “AI依存”で失われる可能性のある「3つの能力」（ITmedia エンタープライズ）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMnhqRWx6RVZZY1Ewa0hmRklxS3piejNUcjZHS0VSWDJtdk1MblRmbGZFYXZIQkdpZFdkYy1Tdk54RnE2Qk5STkgzaTYzSGg1R21tSURJYjYycGFDRHQtTk5TdHNsc0k1TUl0amRLalJ5a3RiblI5V0lHeFByM00?oc=5"
+        },
+        {
+          "text": "マイナビ「派遣社員における生成AI活用の実態調査（2026年）」を発表",
+          "desc": "マイナビ「派遣社員における生成AI活用の実態調査（2026年）」を発表&nbsp;&nbsp;朝日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Rcjl6N05mb1pfdmo5aTJneDgyTnNZbDk5by1YTTRPMG9IRVhPOHZBakNHYThDQkRNVzVQMS1QTi15aWZVcThKVjJMaHZQNnJfVmNqSFg4OWtyWWc?oc=5"
         },
         {
           "text": "十全十美の「営業スキルマップ」",
@@ -272,7 +272,7 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmE1c3VUelhTOGhUNHg1elN5OFhSZFdjS2QwT1k0ZHVwTGFhQXZtQktjSkVXYnFNVS1SVm56dWFycWUxR3V1b3lTam1VOG1BTjBOaVk0YWdyV1Q5UjdiQUpSSXJIalptam0xQzJhNUZFRWZWYVA3QnBvUER6bGE2SXRBMjJGWHc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-11",
+      "lastFetchedAt": "2026-10-12",
       "source": "Google News"
     },
     {
