@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-13",
   "summaries": [
     {
       "id": "finance",
@@ -7,34 +7,39 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "｢日本版エヌビディア｣は探す必要ナシ…《フィジカルAI》で覚醒する\"五感･筋肉･関節･神経\"を担える日本企業の強み | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "AIの進化は､デジタル領域を超え現実世界へと広がっています。工場や自動運転､ロボットなど｢フィジカルAI｣が産業の主役となる時代､日本企業は独自の強みを発揮しつつ､投資機会も増大中。果たして主導権は…",
-          "url": "https://toyokeizai.net/articles/-/960381?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "台湾･賴清德総統は｢双十節｣の演説になぜ聖書の言葉を選んだのか？ケネディ､レーガンとの接点と知られざる宗教的背景 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "台湾の賴清德総統が双十節演説に掲げた｢山の上の町､地の塩､世の光｣。その背後にはキリスト教の教えだけでなく､アメリカの歴代大統領も引用した政治的意味合い､さらに台湾の民主化を支えた長老教会との深いつ…",
+          "url": "https://toyokeizai.net/articles/-/960876?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷… | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "生成AIの進化と共に､AIサーバー向けメモリー不足が深刻化しています。半導体メモリー大手マイクロンの決算説明会では､何が語られたのでしょうか。",
-          "url": "https://toyokeizai.net/articles/-/960184?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "このまま戦争になれば自衛官は｢犬死｣しかねない！医官不足と時代遅れの医療体制を放置する防衛省の信じがたい実態 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "自衛隊の衛生体制は､実戦や現代の軍事ニーズに大きく遅れています。医官の慢性的な人員不足や医療装備の不備､現場の実態とかけ離れた報告が常態化し､隊員の命が守られない現状が明らかです。装備拡充だけで安全…",
+          "url": "https://toyokeizai.net/articles/-/960687?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "目的達成のためならサイバー攻撃も辞さない… 1200ものAIが秘密裏に結託した｢恐るべき相互扶助｣の脅威と実態 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "自律的に行動し､協力し合うAIエージェントが､想定外の手段でサイバー攻撃を仕掛ける事例が発生。AIがコントロールを超えて暴走する未来は､決して遠い話ではありません。私たちはこの課題にどう向き合うべき…",
-          "url": "https://toyokeizai.net/articles/-/960560?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "天候不順の夏でも大手アパレル･しまむらの業績が｢過去最高｣の背景 さらなる上振れの可能性も | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "大手アパレル｢しまむら｣の業績が好調です。近年､強化している施策とは？",
+          "url": "https://toyokeizai.net/articles/-/960141?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "日本を襲う不正アクセス｢じゅうたん爆撃｣…AIの普及で高度な技術を持たない犯罪者でも攻撃を仕掛けやすくなった | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "日本と韓国で相次ぐサイバー攻撃が､AI技術の急速な進化により深刻化しています。",
-          "url": "https://toyokeizai.net/articles/-/960867?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "巨額損失に悩むボーイング防衛部門に光明､次世代戦闘機の連続受注で｢向こう半世紀の覇権｣へ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "アメリカ海軍の次世代ステルス戦闘機開発企業にボーイングが選定され､空母搭載機の実績とデジタル設計技術が高く評価されました。",
+          "url": "https://toyokeizai.net/articles/-/960893?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "AI投資に選別の波､オーストラリアのデータセンター運営会社の新星が大型IPO断念…48時間の舞台裏 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "華々しい期待の中で迎えたオーストラリア史上最大級のIPO。しかし米ファンドの厳しい評価や投資家の警戒感により､わずか48時間で計画は破綻しました。何が市場の熱狂を冷やしたのでしょうか。",
-          "url": "https://toyokeizai.net/articles/-/960842?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "米司法省､独禁法違反の疑いでテレビ5社を調査…ホワイトハウスでの代表取材を各局がボイコットしたことを受けた措置 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "米司法省が米大手テレビ局5社に対し､報道機関による取材ボイコットが反トラスト法違反にあたるかどうかの調査を開始しました。ホワイトハウスとメディアの対立が深まるなか､言論の自由と公正な報道の行方はどう…",
+          "url": "https://toyokeizai.net/articles/-/960892?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "｢まともな教育を！｣フランスで高校生25万人が抗議デモ､格差と教員不足に怒り爆発､日本も他人事ではない深刻な現実 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "フランス全土で25万人以上の高校生が抗議デモを行い､暴徒化や大学への波及しています。背景には深刻な教員不足や教育設備の劣化､格差拡大といった現代社会が抱える根本的課題が横たわります。教育の平等は守れ…",
-          "url": "https://toyokeizai.net/articles/-/960839?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "サウジ首都空港に再び攻撃､国際投資会議｢フューチャー･インベストメント･イニシアチブ｣を控えて緊張高まる | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "2日連続でフーシ派による攻撃を受け､多数の死傷者が発生。国際イベントを目前に控える中､緊張が高まる状況で米国の軍事関与も示唆されています。",
+          "url": "https://toyokeizai.net/articles/-/960884?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "ここから日本株は本当に上昇するのか？｢波乱含みの秋相場｣を読み解く｢2つのカギ｣とは何か | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "秋相場の焦点は､AI相場の主役交代と金利上昇メリット株の動向という2大テーマに集約されます。年末相場を左右する新たなトレンドとは？（このリード文はAIが作成しました）",
+          "url": "https://toyokeizai.net/articles/-/960881?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "ＦＲＢ9月利上げ理由で見解相違、債券市場混乱への備え要請も＝議事要旨",
@@ -50,14 +55,9 @@
           "text": "2026年米国中間選挙展望：シナリオ別の経済政策と金融市場への影響（NRI研究員の時事解説）",
           "desc": "2026年米国中間選挙展望：シナリオ別の経済政策と金融市場への影響（NRI研究員の時事解説）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1lMTmZJVEFGbV9PQlVaTGF0WjVoWllmUl9wdkFfRGhHWVBjVXEtM2RyLU5kMU1DMWhIdzhfb0FPSUVGQUxLa0w3ZTVfaXA5NXc3cUJ1U0docHFzNXFHT1FhLWNCbl9jY3VTOFQxdEJyWWVucURUdTFKV3RaX0FISDMtVW5jOFR6?oc=5"
-        },
-        {
-          "text": "日米「円の過小評価」を警告…ドル円相場は「政策の壁」を越えられるのか（THE GOLD ONLINE（ゴールドオンライン））",
-          "desc": "日米「円の過小評価」を警告…ドル円相場は「政策の壁」を越えられるのか（THE GOLD ONLINE（ゴールドオンライン））&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjVlRFMlBadzY4WUFvbElvcTloTDBnaW5mZDhDb0o1WUFWZjVFQTNudVRFaFVfblRlN2JWM3NLUTVtaUpEUlJ5SVFENkNCTXpCVG1wcUZBaVZoMFYyUnlYeThEdUU5eFpQaVl5azhDbDdEMnBqTG1fYXRjOVMzTFk?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-12",
+      "lastFetchedAt": "2026-10-13",
       "source": "東洋経済 / Google News"
     },
     {
@@ -65,6 +65,31 @@
       "icon": "🧠",
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
+        {
+          "text": "3社に1社がトークン予算超過　コスト増を最大44％抑える方法とは【アクセンチュア調査】",
+          "desc": "生成AIを使うほど増えるトークンの支出。アクセンチュアが調査したところ、その8割は明確な事業成果に結び付いているとはいえなかった。3社に1社が年間予算を既に超過する中、トークンを経営資源として管理する先進企業が実施している取り組みとは。",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2610/08/news036.html"
+        },
+        {
+          "text": "FDEが構築したAIエージェントの7割、企業が放棄へ　Gartner予測",
+          "desc": "ベンダーのエンジニアと直接協力して構築したAIエージェントを、2028年までに企業の7割が放棄する――。Gartnerはそう予測する。しかも、原因は技術の未熟さではなく、案件の「構造」にあるという。何が企業をつまずかせ、どうすれば避けられるのか。",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2610/09/news042.html"
+        },
+        {
+          "text": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿　統制はモデルの外に置くよう提言",
+          "desc": "MicrosoftのナデラCEOは、SIモデルを組織の内部リスクと同様に扱い、統制の仕組みをモデル外部に構築すべきだと提言した。モデルの多様性や人間による強制停止、証拠の記録など7つの設計原則を提示し、モデル提供者の保証に頼らず知能の供給と実行権限を分離する安全策を訴えた。",
+          "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002195/"
+        },
+        {
+          "text": "Microsoftも“判断特化”AIモデル「Microsoft-Decision",
+          "desc": "Microsoftは、文章生成を行わず選択肢ごとの確率を返す判断特化AI「Microsoft-Decision-1」を発表した。「Qwen3.5-9B」を追加学習し、OpenAIの「GPT-6 Sol」の35倍の速度を実現。「Jev」と同じ入力100万トークン当たり0.042ドルで、分類やエージェントの行動判定向けに提供する。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/"
+        },
+        {
+          "text": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告",
+          "desc": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+          "url": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/"
+        },
         {
           "text": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
           "desc": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
@@ -74,34 +99,9 @@
           "text": "ChatGPT、ついに音声ファイルに対応　文字起こしや要約などが可能に　有料ユーザー向け",
           "desc": "米OpenAIは10月9日（日本時間）までに、「ChatGPT」が音声ファイルのアップロードに対応したと発表した。",
           "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/"
-        },
-        {
-          "text": "韓国の銀行狙ったサイバー攻撃、犯人は「中国在住の26歳」か　Claudeで作られた“履歴書”から浮上",
-          "desc": "米CrowdStrikeは10月7日（現地時間）、韓国の金融機関を狙ったサイバー攻撃の攻撃者が、中国在住の26歳の人物である可能性を示す分析結果を公表した。攻撃者が使ったAIツールの履歴に、本人のものとみられる個人情報が残っていたという。",
-          "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002176/"
-        },
-        {
-          "text": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」　OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
-          "desc": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
-          "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/"
-        },
-        {
-          "text": "“AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査　依存強まる傾向に",
-          "desc": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるかを調査した研究報告だ。",
-          "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/"
-        },
-        {
-          "text": "履歴書100通に1通「AIだけが読める文字」　20万件調査でわかった“就活ハック”の手口　米研究",
-          "desc": "米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AIをだます隠し文字入りの履歴書が現実の就職活動でどれほどまん延しているかを調査した研究報告だ。",
-          "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/"
-        },
-        {
-          "text": "トランプ大統領、マスク氏やフアン氏ら6人に米国家科学賞と国家技術革新賞を授与",
-          "desc": "米トランプ政権は科学サミットを開催し、トランプ大統領がイーロン・マスク氏やNVIDIAのジェンスン・フアンCEOら6人に国家科学賞と国家技術革新賞を授与した。半導体やSI（旧AI）、宇宙探査、クラウドなどの分野で米国のリーダーシップと技術革新に貢献した功績を最高栄誉として称えた。",
-          "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002159/"
         }
       ],
-      "lastFetchedAt": "2026-10-12",
+      "lastFetchedAt": "2026-10-13",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -115,14 +115,14 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVdiR3hTNWFZNENUZUIyYURpM0dLWHZHbzJYMk1xM1lBVXl5SHNIZ01NNE1uVTZMNng5aFJfd21KMkVBSmZyTEJ4bXVBTVF5UmQwalFFckY1NWc4Y3ZvYVFaUXFrakRLSnY0R1hjbDNKV01UZE9NeXdCWG14WjV4aF9fUmlDRUR2eXZ2dURoQQ?oc=5"
         },
         {
+          "text": "週末はホテルで“スリープツーリズム”を体験！「ホテル1899東京」のお茶と睡眠でととのう！（MAQUIA）",
+          "desc": "週末はホテルで“スリープツーリズム”を体験！「ホテル1899東京」のお茶と睡眠でととのう！（MAQUIA）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2lXRi1JSmZrWWhkU1FiTjlEa18tNUUta3g0akFHR3lvazQzQVo1N2VRdGlSNXFEdlRINGVvX2E1X3F3YlRreWgtN3ZPRV8yTFloR2NhTGtnaVBUS3Vwclp3WDJnWTBxRkFaZmpqQUNDN19sSVdUX2pKTzJTb2ljc3Fqei1hcERG?oc=5"
+        },
+        {
           "text": "睡眠障害ナルコレプシーの治療薬「オーゼイフル」保険適用、原因に作用は国内初（読売新聞オンライン）",
           "desc": "睡眠障害ナルコレプシーの治療薬「オーゼイフル」保険適用、原因に作用は国内初（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBodDg4aEI4eWg3MFpzeVkyeTl6RHRHR3FqZmVxeGtnVU5KV3V0Y3M5RnBqVlo3WlpHUlVodktpVU9DSkJZQXFNX3dmNTdMUmVyelFMNHZ2VTNpcURpc2g2N2tLMEthNzk3UW1EZjR6UXhFNXR2MHcyaGg5R0RwdVU?oc=5"
-        },
-        {
-          "text": "「1日2本」を2週間続けた結果…お腹まわり-8.5cmも！10人が挑戦したお手軽ダイエット、驚きの結果！（OTONA SALONE）",
-          "desc": "「1日2本」を2週間続けた結果…お腹まわり-8.5cmも！10人が挑戦したお手軽ダイエット、驚きの結果！（OTONA SALONE）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWXlsaUYxaGk0bUpFYjJPUGZVdlpOODVGdURFUlM5eDEtczV6MU9PSVBtWWIyTXowelFubFNmT1hDc0RJUnpjOXNfMkQxOENaLXRFOF9FU2ZyRjdzeFpMdHAtaFA3Z1dyeGtBX2tFQ2QxWlNmRDJCSHdMc05CTWhhTUx5TFd0X1JMUVNjLWln?oc=5"
         },
         {
           "text": "認知機能の低下速度を70％抑制、「脳の健康」を高める5つの方法",
@@ -145,7 +145,7 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMk8tQW5PM3Vkd3BHakFjQW5EZ0puZXZqaTJWMGkxY0lYQklVSFVpYnhFeElTWlpJYkx6RWcyb3J3UGZXVkx3UGVNNHFRZUR3MzlFbFZ2VE1GRG5BTVVCQ2NYeHl0YU1CbFZqOHdBaVdJeFV6elVFZHJSa3JGc05NMHk4MGNrZGlT?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-12",
+      "lastFetchedAt": "2026-10-13",
       "source": "Google News"
     },
     {
@@ -159,9 +159,24 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVVyckc3enh0eExGOGtNcmtTYlJpYndzZEMtdU9JUW5tX19vZmo2Q0g5aHBvc1lLMGRWLTdOYUZINjNxRUhub1M3SGppQ1JhR2RBS2k0dTNNeEtQQXRYXzdRY1l0bENtSVh5QjJabG1zSDlFU0NTNVJ4VzduTTZEV3lCZFlJa2NTa2ZKUGZR?oc=5"
         },
         {
-          "text": "夏の電気・ガス料金支援が終了…年金暮らしで今から始めたい水道光熱費の節約術6選(あるじゃん（All About マネー）)",
-          "desc": "夏の電気・ガス料金支援が終了…年金暮らしで今から始めたい水道光熱費の節約術6選(あるじゃん（All About マネー）)&nbsp;&nbsp;Yahoo!ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONDhTVzZUNG1VbEVHU2lPQTc2MnUyNUhCdHpOLW1yMUk4MXdua0taeWp0V1RaU3FIVnZBeU4ydW5fczVvdVBCRnRCOTAxMG5pZHVHS2Q3cDRYNG1QOG9wNGFtU1p6aGw2bVVtSEhwcDcyeExrd2owREpGOEhucnVkX2txSmJOV28?oc=5"
+          "text": "氷見市の農地被害1600件超と判明 記録的大雨から約1か月半 避難者減少で10月中旬に避難所閉鎖へ 富山・氷見市",
+          "desc": "氷見市の農地被害1600件超と判明 記録的大雨から約1か月半 避難者減少で10月中旬に避難所閉鎖へ 富山・氷見市&nbsp;&nbsp;TBS NEWS DIG",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CMi1ZNXktZndlOG5Xdng0S1o3Ql9IYTR5emQtZ0xhZDdKZ3FHRi1CRXJ4WU1XaG8wSk4wNFR1ajVydE8yVjhvSXJaQVZmdmk1elcxODdsOF9hSDc0YVVndGYxNjN4ZUE?oc=5"
+        },
+        {
+          "text": "ひとり暮らしの高齢の親を【空き巣・特殊詐欺】から守るには？家族がしておきたい防犯対策（介護ポストセブン）",
+          "desc": "ひとり暮らしの高齢の親を【空き巣・特殊詐欺】から守るには？家族がしておきたい防犯対策（介護ポストセブン）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYWDctQ04yUWpWWThNbm9Da2xEdHIyaXVnQUwzOTlRNmdGOE5BR0hPZVFxR0dEQ3lURjd5UjhFOTJDdWItZjVUOUpNX1RieHlKTVJOa2tCbWdoczlFMGZ4Y0JUWGhBYm1TWE5WSVlkNURWenp0LWZDbHFWcDBRZlU?oc=5"
+        },
+        {
+          "text": "公的年金月12万円で10万円赤字「年金だけでの生活は難しいと分かり始めた」66歳女性の1人暮らし",
+          "desc": "公的年金月12万円で10万円赤字「年金だけでの生活は難しいと分かり始めた」66歳女性の1人暮らし&nbsp;&nbsp;Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbU1udkFNT3ZvRG5YRnp2Z180eEJWVDlWRFhraElibzFfS2lCLWljdGQ3dVBFcnZoNEEyT2dKVkNLZXZiM0pJVm15cUV4X1diVk1Ib1dSZURKQVVRbWh1WnhtbHdkQWkyNGF3S3ZyTHB4MmZrVWItV3RRampfR19pM1BHX2h2eGc?oc=5"
+        },
+        {
+          "text": "熊本地震「復旧・復興プラン」、被災者の住まいや暮らしの早期再建を目標…県が素案を公表（読売新聞オンライン）",
+          "desc": "熊本地震「復旧・復興プラン」、被災者の住まいや暮らしの早期再建を目標…県が素案を公表（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xOU0tcnRpZmF1SFE2TFJpMzVwb3JLdGlESnV1ZmRwajBEWUlNMFdHVnBHam52dF8wTTNHMVNoSG9YdjVTcHR5TUo5NU5mMHNDSEowbFZXTXgzbXNGM05jdUFseHJlOWFobHRSYmVtSVBOWEVEbVd0U1lJTFlLWDA?oc=5"
         },
         {
           "text": "防災対策の盲点!?「マッチ」が令和の災害対策で再評価されている理由（＠ＤＩＭＥ）",
@@ -169,27 +184,12 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sUFpsZVJVWTF3cHhRX1l4T3U3SndWZk8zRWJzY29zWDRZbXpELWRScXBZaE1MTEFnazJhdHVsNEpjQWZpaEJHaDZTeW5qZWtJMWxaVktNXzl2c1N1QnNnb0RsMlo4QjNKU2xPVnVoaG1UWFRiTGd4VmZ1cnA2Zjg?oc=5"
         },
         {
-          "text": "愛犬や愛猫との避難、普段から備えて ペットと防災を考えるセミナー [兵庫県]",
-          "desc": "愛犬や愛猫との避難、普段から備えて ペットと防災を考えるセミナー [兵庫県]&nbsp;&nbsp;朝日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QdEpTRHQzdDRvdWg3ZTNMSXU3MXBqRFJfV2w5VE9IbHdUQW1pRERvTmVSekFNdW9oRFltT01WbjBJZ1RvUVZfdVBJRFpsUk1LdGl3S0VBcjA0ckNTbzhzU0lsa1VMM3M?oc=5"
-        },
-        {
-          "text": "【命を守るためのリンク集】北海道 防災・減災 情報",
-          "desc": "【命を守るためのリンク集】北海道 防災・減災 情報&nbsp;&nbsp;NHK",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96aHpFbFJvT0gzbmZCTV9jS0MtUHVoV2RWMWdnWVFPVDZGTDZBaFpJNlRNY3UyWFZnMzc4ZExaV2VoOURVTzlQRDJPTkdkOGdVZVlfWnV1WG5xa1RtbUtIUW4yZTdJaEU?oc=5"
-        },
-        {
-          "text": "横手で防災・災害対策講座 災害時の支え合い考える（みんなの経済新聞ネットワーク）",
-          "desc": "横手で防災・災害対策講座 災害時の支え合い考える（みんなの経済新聞ネットワーク）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jU29TZUxJdVg4YmI5MGVfelZ5dGlNZl9uRzFoYWxfc1Exczd3RGx2bVRYa3BtNGF2S28xcnZETWdEaUtIVUdaWDRvd01jeUZncUYtOFlya3JxRUVmX0hnajBLM19oVXBnd2hxdktNSXlrYUpFRjRXb2FQTUFvaE0?oc=5"
-        },
-        {
-          "text": "【記者解説】シリーズ｢みんなの防災｣ “食物アレルギー”への備え 必要な対応を考える（テレビ金沢）",
-          "desc": "【記者解説】シリーズ｢みんなの防災｣ “食物アレルギー”への備え 必要な対応を考える（テレビ金沢）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42LVdqRk1TNDVJYkFxbW8wZ2ItcUowdDZVSXJHNUhZRVRTM0E5YnZ3YnZSSkphd2xDTHlWbjRYRWZsMVhVdmk5d1VnZ0pZSy1tSkZJWXJxTGhtd045eGNoeGM2RHZqZUI1Z2NMeTZtQWYwUVRKOWhBN1ljUy1iZTA?oc=5"
+          "text": "地震や豪雨「フェーズフリー」で備え 普段のペン・ミルク、災害に強く",
+          "desc": "地震や豪雨「フェーズフリー」で備え 普段のペン・ミルク、災害に強く&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zTjZtNUVuaXV5Z3BOWU5vUXd1b2RPc0ZDSGRhRTh6bVVCYWFuZl9LNzVjT0p6d09GbFFuYlVsNWg3OEpTazJjb05mMUIyRjU4TUpYbkZSdS1XRVhYTEJBbi1MZmYtUHBSNC1ROQ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-12",
+      "lastFetchedAt": "2026-10-13",
       "source": "Google News"
     },
     {
@@ -197,11 +197,6 @@
       "icon": "❤️",
       "title": "関係資産 — トレンド・体験",
       "items": [
-        {
-          "text": "東京、10月に行くべきアート展5選",
-          "desc": "東京、10月に行くべきアート展5選&nbsp;&nbsp;Time Out Tokyo",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXeTFBdDVKTU5ja0lCUVB2LVZRWXhHZDY5YmhBaDczUGljZXJoTWxhNEozNzdGZnBkdlR0RGI4N05US3dya2FVZG9obnBKQmlMMTJna0xPZ0FXeDg1Wk9wYkhrVjdQNTMxTkVoeTNoNWFqQlN4VEE?oc=5"
-        },
         {
           "text": "まるで『君の名は。』『千と千尋』の世界…中国人観光客が殺到 伊豆の“聖地”に異変 SNSで話題『抹茶の山』には長蛇の列",
           "desc": "まるで『君の名は。』『千と千尋』の世界…中国人観光客が殺到 伊豆の“聖地”に異変 SNSで話題『抹茶の山』には長蛇の列&nbsp;&nbsp;Yahoo!ニュース",
@@ -213,9 +208,14 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdmJBbkV2SHBaRGVVWU9mQmsyYUhDN2M3RFR5SVFFTTY0a044QzdFWEhEcGtiZXhVMDdGX1l4dHVyejlxMTN3NmMzaWNOTVhJcGtKRjZmdTRHOGtxOUxjOFJTRm91MVNSdVE?oc=5"
         },
         {
-          "text": "「心霊スポット」としてネットで話題の駐車場で「爆発音の後、燃え上がっている」と通報…５月にも火災（読売新聞オンライン）",
-          "desc": "「心霊スポット」としてネットで話題の駐車場で「爆発音の後、燃え上がっている」と通報…５月にも火災（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2dUNRcFhDVjN0V3VsYk15NWdIRTBTUS1RNVg3R0p2MThrbEpOX1ZwSkZCV2JGZi1IWVpIc2NvZDBjbldIOFllYTdhTnVkQlhITGhZZjNaYUF4UHVZNWVPMkRhamEzanpzaUE5cEVqNTBadWZUS1J5VXBGcUx2X1U?oc=5"
+          "text": "福岡県で遊ぶなら！福岡県の人気おでかけスポット7選",
+          "desc": "福岡県で遊ぶなら！福岡県の人気おでかけスポット7選&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTMHAwc1B2V1hjbnhBZjVzN2RhZnB0VUdDMTBJcG1qdFEtbzVYY3l1dm90V0VLTnpWcmJraTZ3Vkd5NmJRcUVMRzJnTmZibHVSV29kMGhR0gFbQVVfeXFMTXMyQXU5ek5QNmxsU3g4Tnh2dlFxOEgwVXg5cnNhUDNNSzVJdUc2RTJvSGh3cXlrYmJCQmN3RGFFYloyMXlCMmNpNWI5SHFESlhiRHNyYTlNQWdNdw?oc=5"
+        },
+        {
+          "text": "福岡・糸島エリアの“気分爽快”おでかけスポット20選",
+          "desc": "福岡・糸島エリアの“気分爽快”おでかけスポット20選&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtQ3BRNF8xdGliOU9EZTBtWU5ZRFp1Y3R1RHktaDE2NU1TTmZBejA1c3RMTV9tWk1qclpVX3VBZVl4X09oVkJsaFNxYzdlTk9UOEpDdtIBWkFVX3lxTFBQMUp3dFFXVTdxY2oyVk5iOC15cVNFdUg4NUh0eG5kbU14OUhyZE9lb0ZENDZlV2E3aWFrUzVod1AyYmZaaVB0UEhIMm5uNlphaE9FLThhcUJnQQ?oc=5"
         },
         {
           "text": "東京、10月10日〜12日の3連休に行きたいイベント8選",
@@ -228,12 +228,12 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdnd0b0lpZGUyOWFCdldRc1NEb0JyS0daZFhJTTZCYy1CQTdtRml1T2lpUkNlYWpaakpxaFp6dlNhT1BHVnpZNm9VZlhFWC1wbzVYU1VR0gFbQVVfeXFMUDNHTmxHWnRTZWtZSFRoZVlkLWcwYm1mLWJJN1FNSjByMElyTmtqdEY1T1kyYlV1UEJSa3ZWWXhDZXcycFZfSTV6dnZRbXdjN2ZZclBvM2dyOEpXOA?oc=5"
         },
         {
-          "text": "京都の街を歩いて巡るアート体験！「KYOTOGRAPHIE 京都国際写真祭 2026」烏丸エリアの注目会場＆楽しみ方ガイド",
-          "desc": "京都の街を歩いて巡るアート体験！「KYOTOGRAPHIE 京都国際写真祭 2026」烏丸エリアの注目会場＆楽しみ方ガイド&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ya0VyRi04TEFrczBNSXdQRkVPdEhnR3hLVGhpYi1hWGNMSWJvTjRwM21vdnBzX3cyVnM5UmVBLVluamo2RkQ0TEhobUZqZDdZNlJxX1RB0gFbQVVfeXFMTVotRjIxOVVlNTBaNVU2YXVIVC16aTZKbzNwdlN5LWp6NVlHNnZqN3hELW50eFFQek81T3VpZHpTb3lTZ1ZLTkxKeXIwdXJGWkp0LUl3OGxsRFloTQ?oc=5"
+          "text": "東京、この秋行きたいカルチャーイベント6選",
+          "desc": "東京、この秋行きたいカルチャーイベント6選&nbsp;&nbsp;Time Out Tokyo",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGTnJxT2lTaXZMZUZERElyeU5xMmdwTkVKMERZLVc5ZmUxMlhPV1oySnVGMXFvcjhCdWtpMUl0cl9XWG1tR0xBLXV6TmdUQTlrbWctb0tIalIzYXJBbGNyUHVJNHNmVXNYZ0ZpamtrNjltSHJGMXpJdnBZZWE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-11",
+      "lastFetchedAt": "2026-10-13",
       "source": "Google News"
     },
     {
@@ -245,11 +245,6 @@
           "text": "AIで仕事を効率化するのに最適 入門から本格活用まで、部長おすすめの8冊",
           "desc": "AIで仕事を効率化するのに最適 入門から本格活用まで、部長おすすめの8冊&nbsp;&nbsp;日経ビジネス電子版",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIRDFfbXlLTkVjMHpIRDR4cS1pTjRBWjJwV21pYjNjSXhQbkhqdVU3Zk9CZGx6QlgybXRvN2E1bFF0QkJNLTdESlBod3gwdTdtRmJkMC1SYTh4MUdrZ3JNLTVHUVkxNnM?oc=5"
-        },
-        {
-          "text": "「AIが人間をダメにする説」に新たな裏付け？ “AI依存”で失われる可能性のある「3つの能力」（ITmedia エンタープライズ）",
-          "desc": "「AIが人間をダメにする説」に新たな裏付け？ “AI依存”で失われる可能性のある「3つの能力」（ITmedia エンタープライズ）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMnhqRWx6RVZZY1Ewa0hmRklxS3piejNUcjZHS0VSWDJtdk1MblRmbGZFYXZIQkdpZFdkYy1Tdk54RnE2Qk5STkgzaTYzSGg1R21tSURJYjYycGFDRHQtTk5TdHNsc0k1TUl0amRLalJ5a3RiblI5V0lHeFByM00?oc=5"
         },
         {
           "text": "マイナビ「派遣社員における生成AI活用の実態調査（2026年）」を発表",
@@ -272,7 +267,7 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmE1c3VUelhTOGhUNHg1elN5OFhSZFdjS2QwT1k0ZHVwTGFhQXZtQktjSkVXYnFNVS1SVm56dWFycWUxR3V1b3lTam1VOG1BTjBOaVk0YWdyV1Q5UjdiQUpSSXJIalptam0xQzJhNUZFRWZWYVA3QnBvUER6bGE2SXRBMjJGWHc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-12",
+      "lastFetchedAt": "2026-10-13",
       "source": "Google News"
     },
     {
@@ -316,7 +311,7 @@
           "url": "https://www.mhlw.go.jp/stf/newpage_76332.html"
         }
       ],
-      "lastFetchedAt": "2026-10-10",
+      "lastFetchedAt": "2026-10-13",
       "source": "厚生労働省 / Google News"
     }
   ]
