@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-10-27",
   "summaries": [
     {
       "id": "finance",
@@ -7,44 +7,34 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "頬がこけて顔がたるむ｢オゼンピック顔｣の悩みをどう解決するか？減量薬ブームで美容業界が対策市場に照準 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "急激な体重減少に伴う｢オゼンピック顔｣への懸念が広がり､ガルデルマやロレアルなど美容大手が新たな治療法の開発に乗り出しました。",
-          "url": "https://toyokeizai.net/articles/-/962423?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "まるで｢オリンピック｣､4年置きにデノミ論が浮上するワケ…蔵相なら一度はやってみたい　デノミの幻影② | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "1950〜70年代､日本でたびたび巻き起こった｢デノミ論争｣。通貨単位変更による経済合理化や円の威信回復をめぐり､政財界は揺れ動きました。なぜデノミは現実にならなかったのか――歴史の転機に関わる驚き…",
+          "url": "https://toyokeizai.net/articles/-/962022?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "身売り寸前から変貌を遂げた韓国半導体｢SKハイニックス｣ 生成AIブームでHBM需要に着火 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "AI時代の最重要部品として脚光を浴びるHBM市場で､韓国のSKハイニックスは劇的な復活を遂げました。エヌビディアと連携し､サムスンを凌駕したその躍進の裏側には､果敢な投資と独自技術があります。",
-          "url": "https://toyokeizai.net/articles/-/961503?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢原子力潜水艦10隻で年7850億円｣人手不足の日本が保有するには何が必要か､元潜水艦隊司令官の試算が示す導入への現実 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "日本で原子力潜水艦導入の必要性が再び議論されています。人手不足や多額の費用､技術開発の壁を乗り越えられるのか―。元潜水艦隊司令官らの詳細な試算や具体案をもとに､国家的プロジェクトの実現可能性と残され…",
+          "url": "https://toyokeizai.net/articles/-/962330?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "太平洋を大国の｢チェス盤｣にしてはならない…国際ルール未整備で進む深海採掘に､｢世界初｣を背負う日本に迫られる選択 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "深海のレアアース採掘が国際的な論争を呼んでいます。希少鉱物確保と生態系保護､そして未整備な国際ルールの間で､日本は｢世界初｣の技術開発を進めつつ､その責任や長期的利益を問われています。日本はどのよう…",
-          "url": "https://toyokeizai.net/articles/-/962355?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "ホームセンター大手のコーナン商事が快走､｢プロ業態｣が業績の伸びを牽引 中間決算は大きく上振れ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "関西地盤のホームセンター大手のコーナン商事は10月13日､2027年2月期の中間決算を発表し､会社の想定を超えた好調な結果となりました。その背景とは？",
+          "url": "https://toyokeizai.net/articles/-/961990?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "AI悪用のサイバー攻撃が急増→｢全弾迎撃｣は不可能に… 生活インフラを死守するために社会全体が順応すべき\"新常識\" | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "AI（人工知能）によってサイバー攻撃が容易になったため､インターネットがもともと持っていた脆弱性が顕在化した。これに対する基本的な方針が2つ考えられる。これまで築いてきたインターネット社会は､根本か…",
-          "url": "https://toyokeizai.net/articles/-/962133?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "トランプ氏の支持率が過去最低水準に､それでも白人キリスト教福音派は依然として共和党の堅固な支持基盤を形成 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "トランプ氏の支持率が過去最低となる中､白人キリスト教福音派は依然として共和党の堅固な支持基盤を形成しています。",
+          "url": "https://toyokeizai.net/articles/-/962499?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "商業用の作品は純粋な芸術作品より難しい､大河ドラマ『べらぼう』は｢う｣の筆運びに難儀 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "書家･石川九楊氏が語る｢文字｣と｢身体｣の連動性。商業用の題字制作で直面した葛藤を通じ､現代日本語が失いつつある肉筆の力や思考の本質に鋭く斬り込みます。",
-          "url": "https://toyokeizai.net/articles/-/962023?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "ブラジル大統領選決選投票は現職のルラ氏勝利確実…中南米を席巻していた右派の波に歯止め | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "注目のブラジル大統領選で､左派のルラ現職大統領が劇的な勝利を収め､4期目の座に近づきました。",
+          "url": "https://toyokeizai.net/articles/-/962485?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "コラム：ＩＭＦ総会発言から読み解く、ウォーシュＦＲＢ議長の政策思想＝井上哲也氏",
-          "desc": "コラム：ＩＭＦ総会発言から読み解く、ウォーシュＦＲＢ議長の政策思想＝井上哲也氏&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0JpODg0YlFtWll6N0phQlhZY283d0RWQzRNNS1oR2lzUzRsX1I2OGVzNWl0ejRLNXVnVkNTV043M1Yyc0lDT00tX0hyWjdOUThmQl9wdWlncDdLQ19Pa0lLOHVyeU5Ec1c0V1hNMGk2d19sYjQ2UG82WWpzWTlweUd6aHRyODNUMDdrMlZ3?oc=5"
-        },
-        {
-          "text": "コアウィーブ・ショック後、AI相場と米国株はどうなる？(トウシル)",
-          "desc": "コアウィーブ・ショック後、AI相場と米国株はどうなる？(トウシル)&nbsp;&nbsp;Yahoo!ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2tEaUVwUVBQWmQtR2NsRG5JaWJaeDBxX2kwWjZzNzdhOXYwYVVSQk5ZUXpwQmw5LWpIVkp4YXBEblRldHRkZUJrTGlVM0IwM0YyLTlxc2lucU9uZXhZcEFUdnhLX21tUUZ6dk9vdzZQYU00N08xWVpHb2RZcHFOUGtUaE1ocjQ?oc=5"
-        },
-        {
-          "text": "FX・為替相場の注目指標や予想を解説 - 10月22日(木)■『米国の長期金利の動向(米国債利回りの動向)』と『米ドル、日本円、ユーロの方向性』、そして『来週に控える日本と米国の金融政策への思惑』に注目！",
-          "desc": "FX・為替相場の注目指標や予想を解説 - 10月22日(木)■『米国の長期金利の動向(米国債利回りの動向)』と『米ドル、日本円、ユーロの方向性』、そして『来週に控える日本と米国の金融政策への思惑』に注目！&nbsp;&nbsp;ザイFX！",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11dTVDYWUyZTVPUEZXTlp5YUdxNDVTclkwZkFzV3NZam9CS0RLTFRTS2FJU3FIQjJHcjB5emVsd0d4dG5hUEJEY080X05IdXE5enc?oc=5"
+          "text": "米FRB、金利据え置き見通し＝インフレ加速も動向見極め―27、28日に金融政策会合(時事通信)",
+          "desc": "米FRB、金利据え置き見通し＝インフレ加速も動向見極め―27、28日に金融政策会合(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHFzc3QwOVVSN2lKanlnSmJ4WU9NUjVXcGswcFFRMDI2aS1tTVk2ZUY1WjJZTHU2dzRHU0JHTnNlWEZ2TmozWU1RZldrSXVGcDl1WDgzRmRSdkFRbVVPWXNXX3BqWkE2YXgwLTNJLXBUYUQ1emwyX1pBdFZVQ1kyNTFiNFpSbjA?oc=5"
         },
         {
           "text": "COMMENTARY: コラム：新興国、ＦＲＢ追随の時代に変化 広がる政策対応余地",
@@ -52,12 +42,22 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yNFlJY20yaTd4VlBpZk9lZXVBOTY4c01FXzBSblpkQVd1eGNacTNGRmljU1p6dUc2QWx6aG96cnp3Z3JWQUhmOHBxSkViX1hJRGZzdUFmQncwVWgtTjYtTnI5SWFMSVQzbHRrbV8tMEVNaVRPNk1vTV9GTHEtUQ?oc=5"
         },
         {
-          "text": "FX・為替相場の注目指標や予想を解説 - 10月20日(火)■『米国の長期金利の動向(米国債利回りの動向)』と『米ドル、日本円、ユーロの方向性』、そして『来週に控える日本と米国の金融政策への思惑』に注目！",
-          "desc": "FX・為替相場の注目指標や予想を解説 - 10月20日(火)■『米国の長期金利の動向(米国債利回りの動向)』と『米ドル、日本円、ユーロの方向性』、そして『来週に控える日本と米国の金融政策への思惑』に注目！&nbsp;&nbsp;ザイFX！",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zME1qbEYxQ2hQS0tIajhCc0hRVlVVTk1HR3I1d2x2blc0YS0xNXVaaDVCaFRjTFJmbENGWDNLcWhIRGRfUlJOUDJadmFndjUtZGc?oc=5"
+          "text": "FX・為替相場の注目指標や予想を解説 - 【10月26日～の週】為替相場の注目材料スケジュールと焦点",
+          "desc": "FX・為替相場の注目指標や予想を解説 - 【10月26日～の週】為替相場の注目材料スケジュールと焦点&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQVGtJSU1SY3EtdDRVc3pNLW55R2hXOHc0QnVnbE56eEpERURwUEJoUWdUV3VKYzd6Sm9Ecy0wWnFuMmRGWjVJN200Mi1XbGFEWmc?oc=5"
+        },
+        {
+          "text": "城内経財相、今月の日銀会合も「都合つけば出席」 利上げけん制改めて否定",
+          "desc": "城内経財相、今月の日銀会合も「都合つけば出席」 利上げけん制改めて否定&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRzF2U2VIWFYzd3BVeU5HdXQ3eFBURkx0ZGxHQkF6ZnE1d0FQVWtOVGRETE0wLTN0QWRUaHRGSk9lRTc3T0FvTjJJRjk4bTVJLVh3c2ZsczBoZnp6ZHVwdzBTQ18zejE3a0V0ZHZsdmE2alp3NGNhNEtsdTgzNi1xSEV0U1B3UTU3SGNrVk1YUDU?oc=5"
+        },
+        {
+          "text": "コアウィーブ・ショック後、AI相場と米国株はどうなる？(トウシル)",
+          "desc": "コアウィーブ・ショック後、AI相場と米国株はどうなる？(トウシル)&nbsp;&nbsp;Yahoo!ファイナンス",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2tEaUVwUVBQWmQtR2NsRG5JaWJaeDBxX2kwWjZzNzdhOXYwYVVSQk5ZUXpwQmw5LWpIVkp4YXBEblRldHRkZUJrTGlVM0IwM0YyLTlxc2lucU9uZXhZcEFUdnhLX21tUUZ6dk9vdzZQYU00N08xWVpHb2RZcHFOUGtUaE1ocjQ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-26",
+      "lastFetchedAt": "2026-10-27",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点",
-          "desc": "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。",
-          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html"
+          "text": "AIガバナンス一元化の「理想と限界」とは？　 米Dataikuの新サービスから考察",
+          "desc": "他社のAIエージェント管理基盤まで統治の対象にする――。米Dataikuの新サービスは、マルチベンダー環境でガバナンスを一元管理するという理想に踏み出した。だが、ガードレールやサイバーセキュリティの「強度」まで一元化できるのか。AIガバナンスの在り方を考察する。",
+          "url": "https://www.itmedia.co.jp/enterprise/articles/2610/26/news060.html"
         },
         {
-          "text": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
-          "desc": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
-          "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/"
+          "text": "AI活用で処遇改善、週休3日を導入　建設会社社長から介護事業を“起業”した経営者の「実行力」",
+          "desc": "建設会社社長という立場から、還暦を契機に介護事業を“起業”した。「このまま人生を終えていいのか」と始まった第二の人生を突き進み、今は第三の人生の幕を開けつつある。新しいことへのアンテナは敏感で、実行に移すスピードも変わらない。（聞き手　小川記代子）",
+          "url": "https://www.itmedia.co.jp/business/articles/2610/26/news054.html"
         },
         {
-          "text": "チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出　「AIにはAIを」",
-          "desc": "チームみらいの安野貴博党首らは、AI活用による防御力強化や攻撃の実態把握、情報漏えい被害発生後の措置などをまとめた緊急提言をデジタル庁に提出した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002563/"
+          "text": "「AI失業」対策を　チームみらい安野氏、官房長官に提言　詳細も公開",
+          "desc": "チームみらいの安野貴博党首らは、AIの普及による失業対策を求める提言を木原稔官房長官に手渡した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002581/"
         },
         {
-          "text": "サイバー攻撃AIツール「ARTEX」とは　中国政府と連携する攻撃者も使用、各国で悪用確認",
-          "desc": "中国語話者の開発者が「学習と研究目的」で公開したAI自律型侵入テストツール「ARTEX」。MicrosoftやCrowdStrikeが悪用例を報告し、日本企業約20社への攻撃にも使われた。作者は公開を停止したが、改変版が増殖している。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/"
+          "text": "データセンター級のAIをローカルで、HPが大規模AI向けワークステーション発売",
+          "desc": "日本HPは、大規模AIモデルの開発や推論処理に特化したワークステーション「HP ZGX Fury G1n AI Station」を発表した。NVIDIA GB300 Grace Blackwell Ultra Desktop Superchipと748GBのコヒーレントメモリを搭載し、最大1兆パラメーター規模のAIモデルによる推論処理に対応する。機密データを外部に出すことなく、AIの開発から本番運用までをローカル環境で実行できる。",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2610/26/news027.html"
         },
         {
-          "text": "「エージェント向け1Password」発表　AIにパスワード渡さずアクセス権限付与可能に",
-          "desc": "1PasswordはAIエージェントにパスワードを渡さずにアクセス権限を付与できるサービス「1Password for Agents」を発表した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002545/"
+          "text": "ジャック・ドーシー氏率いるBlock、音声だけで学習した全二重音声モデル「Dessa」発表　「人と話しているよう」",
+          "desc": "Block（旧Square）は、テキストや事前学習モデルを使わず、人間の会話音声のみで学習させた全二重音声モデル「Dessa」の研究プレビューを発表した。相づちや感情の抑揚を直接聞き取り表現できるのが特徴で、NVIDIAのラック1台で学習されており、MacBook Proでローカル実行できる。一般提供時期は未定。",
+          "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002574/"
         },
         {
-          "text": "チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」　デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け",
-          "desc": "チームみらいの党首、安野貴博氏はAIを使ったサイバー攻撃に「一刻も早く対策を講じるべき」と警鐘を鳴らした。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002518/"
+          "text": "「Kimi K3.1 Pro」発表、オープンモデルでは「最高性能」見込む　悪用防止のためサイバー関連データ除去",
+          "desc": "中国Moonshot AIがオープンウェイトモデル「Kimi K3.1 Pro」を発表。開発性能などの一部評価で「GPT-6 Astra」を上回り、2～3倍高速な版も同時公開した。重みは11月4日までに公開予定。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/26/2000002572/"
         },
         {
-          "text": "プロンプトガチャはもう古い――「ハーネスの父」が明かす、AI駆動開発の極意",
-          "desc": "Googleは、AIエージェントによる開発をテーマにした解説動画「The Agent Factory」を要約した記事を公開した。Googleのエンジニアがエージェントハーネスの重要性を語っている。",
-          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news030.html"
+          "text": "OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針　学習中のAIが隔離環境を抜け出した件も公表",
+          "desc": "OpenAIは、安全対策が十分に進歩するまでフロンティアモデルの学習時にネット接続を遮断する方針を発表した。キャッシュによるオフライン環境を用意していたが、9月にモデルがネットに一時接続する事案が発生。調査の過程で多くのソフトに影響する圧縮ライブラリ「Brotli」の深刻な脆弱性も判明した。",
+          "url": "https://www.itmedia.co.jp/news/article/2610/26/2000002573/"
         }
       ],
-      "lastFetchedAt": "2026-10-26",
+      "lastFetchedAt": "2026-10-27",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -135,17 +135,17 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10cHVQV25TRWRMUURDYWNjSHNNSUY4YzRSZmxMNngtX3cyLURPeGZBWlFXcGxHM1ZoWTY2bUMzb1FlVVJGS2hCZ1A3Zmc2b1o4akFiS2ZITEFWQQ?oc=5"
         },
         {
-          "text": "｢寝ても疲れが取れない｣は体からのサイン…50歳未満では糖尿病リスク3.3倍､医師が警告する\"男性に多い病\"",
-          "desc": "｢寝ても疲れが取れない｣は体からのサイン…50歳未満では糖尿病リスク3.3倍､医師が警告する\"男性に多い病\"&nbsp;&nbsp;Yahoo!ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1pZNGF1YUF4NkFVVE1XSkFNODlNeklxcDJKOWw0eVg5eFZ0MXktdFFMSWlpd2U1eHZlVDBTdGUxWEJYTkhFaGdWSWRWcDEyWVdxOWQ3aHZfZXFsd0dJa1V2NnphUi1LeWlDMm1nTElMd0lBTDRkNnAyalZWU1RPUUhBWEhqblU?oc=5"
-        },
-        {
           "text": "ヘモグロビンA1cに関心を 都内で糖尿病の啓発催事（オーヴォ）",
           "desc": "ヘモグロビンA1cに関心を 都内で糖尿病の啓発催事（オーヴォ）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhZEtxRGtYQmRtOUhZdGl1RGVOTGNZMWZ5MTNBdUJhUDJJMGtfRU90NVpiWkl0NkJzNnU0SmNPYU9VZnVmVGJhVEdwZzdlVEluWG42Q0RIcC1MMFFoNmFocVFCNGN2dk9RaHVlclNfNk14SFVCeDJBd29nY0ZXM28?oc=5"
+        },
+        {
+          "text": "糖尿病予防の落とし穴 〜血糖値だけ気にするのは危険〜（時事通信）",
+          "desc": "糖尿病予防の落とし穴 〜血糖値だけ気にするのは危険〜（時事通信）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vRWk0MGNUYU1xV05KX0JfRGw1V0RMYnpzQUQ1VlNuVF8wc1NwUDB0WGFHZURiOElzNUdNT2liMmxodkF3WFlBMmMxZGltRHBnbFRTRWZhSFVIakFiUUJTM0hfUE9teUVyZmNZdE16OG1wZWp3ZnFvOHlNd1JRaG8?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-26",
+      "lastFetchedAt": "2026-10-27",
       "source": "Google News"
     },
     {
@@ -159,11 +159,6 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDM0M2dCX0wtbFhuNlFvX3F3Q1N3clpOaXZjNFV4OWNTUFp5VFE3RW5yWU9xdUpwWC1ZWGNMS1NBdTZpX1U4aHFZOE4ycURlZGlqTnFBUWNxMl9WR3EwNmU3N19hNmVaTmppUWR5Vlo1bjIyOXF5Qm1rV3VMNDIydjZLTEFjNFdwVFJLajVB?oc=5"
         },
         {
-          "text": "ネット混乱、暮らし直撃 銀行・外食・物流…気象庁サイトも ＰＨＰ",
-          "desc": "ネット混乱、暮らし直撃 銀行・外食・物流…気象庁サイトも ＰＨＰ&nbsp;&nbsp;朝日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5ckF4WGNhcTF4QkdocVFkQ1dlN003YWVHaWVsMjA0V1J6T0YwbTFVRmpTOEJTWk4wSFhsTk1wMTRyalpUa2wyNlhKRVhxaFZscnFhamJxNlFjMnAw?oc=5"
-        },
-        {
           "text": "60代ひとり暮らし「手放してよかった」キッチン道具4つ。掃除もラクになり毎日快適 (ESSE-online)",
           "desc": "60代ひとり暮らし「手放してよかった」キッチン道具4つ。掃除もラクになり毎日快適 (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEFlcU94enlvcnJkcHR1a1FhdEsyVTBtZkpKVHV5SjZYN21XNXZkcUJWUmlpeEM0eWR4emJGT1MwN19KcXo4bTkyMmpYRTNzTUxTckR5cUJxZmdMNWlRc3hZbGpKcDFweEpZY29wMDVjZVdJRmhZV0Z2ZEFlTnd6aHJMYktaSHhpb0dDdkJ3?oc=5"
@@ -174,22 +169,27 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHVySnJkTzVBRGpjbFhtNVZsSmVOQWlZS3JTLWowLXI2YWppby1tdnZDM3d2UGpQWXpiY3FiclVCRVRWODd2RTcxNHZlbEhRa2JiWjFHX2pHNUVoQ0tfaUtjeFZRcmk5S0YwaHVia0pHMTJMY2M0MDZoenBlNV9FQ3FUaXViMGJfYUs2QXNB?oc=5"
         },
         {
-          "text": "｢犯人よりも親の方が悪い｣｢ざまあみろ｣殺害された3歳の娘のニュースに書き込み メール･SNSでも｢傷つけるんじゃないか｣一度見直して【娘を奪われた母の言葉④】",
-          "desc": "｢犯人よりも親の方が悪い｣｢ざまあみろ｣殺害された3歳の娘のニュースに書き込み メール･SNSでも｢傷つけるんじゃないか｣一度見直して【娘を奪われた母の言葉④】&nbsp;&nbsp;TBS NEWS DIG",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aUGpTako0Z1EwUXJ6bV9sNGQtSTk0RUF5cDNjdjdKMGlfQXZpQ0Y0dGgzSkx4dW4zTFdKcFowTm5GbmJ5NUhuck1obFdzVkpWYjFtR1lxRDVWQQ?oc=5"
-        },
-        {
           "text": "防災庁初日に「緊急要請」へ 細野氏、省庁・自治体・国民に備え促す",
           "desc": "防災庁初日に「緊急要請」へ 細野氏、省庁・自治体・国民に備え促す&nbsp;&nbsp;朝日新聞",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFazhMWTItdC1hbXVkM2pDSFdwSF8zTlZoNzQ1a00ydV9fS3JSSFFuRWdrRjMtT3NpeFRPQVhacThPS3JMaW9fRG0tYzlIZkQ4cFY0TktUV1BIekMxdGV4NFgzdWRNS0E?oc=5"
         },
         {
+          "text": "最新の防災情報や冬の災害対策を掲載 「あおもりおまもり手帳」がリニューアル 県全戸に紙折込も（青森放送）",
+          "desc": "最新の防災情報や冬の災害対策を掲載 「あおもりおまもり手帳」がリニューアル 県全戸に紙折込も（青森放送）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uYjlVOGt6ZnNLZDlQT2pHNGtnS1RLdEhta3UyeG5ZcFZVSGs1WnlrR3QxcG5IODVjUmNhYlUzQTRWNjVHcmF3b3lWZ2x5R1R1YlFBbk9rQVRHTjQ5cmNhNEs3cHlVMVI0Zl85X2tCRlJsRzBMZTFhQUZmd1g5TVU?oc=5"
+        },
+        {
           "text": "あたたかい食事が心の支えに 災害に備え豪雪地と防災グッズの会社が協定結ぶ 物品輸送と寒さ対策に（山形・西川町）",
           "desc": "あたたかい食事が心の支えに 災害に備え豪雪地と防災グッズの会社が協定結ぶ 物品輸送と寒さ対策に（山形・西川町）&nbsp;&nbsp;TBS NEWS DIG",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUWGhoZy1ENDJPR2RwdDBYanFpamNOLXFvemY2Zy1uNjRlNkdkY3hVM0dJQ1YtVTNsb1V0cnVDVU8zTHVkSkpsa3FzbExGWElhcjl3TGpabEVnQ1NPMm9oSw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoei00Zm8tNHBpejRNc1BvMGszU0pFVWxxMUVEd3RtQ01xalg2Zm1iVW4zNXRZX1dYbUJnUWtpWE43MUp6QlpfZ0hvN1RIMU5iaUlXTjNMcXY5eWI0RkNmbFhpUQ?oc=5"
+        },
+        {
+          "text": "災害時の『車中泊避難』を考える 南海トラフへの備えは【高知】（2026年10月21日掲載）｜RKC NEWS NNN",
+          "desc": "災害時の『車中泊避難』を考える 南海トラフへの備えは【高知】（2026年10月21日掲載）｜RKC NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUndEZEFiMnoyNDZzdVJxRWY5OU1ORllPNTdGWFpseUxoeG03SXBibzdieTFzbTV4bTl2cFFLU2oyM0wxVTNyX0ZmWHR5emNvUWtFck1GdkFsbFNQOGwtWG45R25ZNXVoVFVVRzVYRmNvY1JzNzJLUVhDZlFzVkZyU0JweFhfRWM?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-26",
+      "lastFetchedAt": "2026-10-27",
       "source": "Google News"
     },
     {
@@ -197,6 +197,16 @@
       "icon": "❤️",
       "title": "関係資産 — トレンド・体験",
       "items": [
+        {
+          "text": "【大阪のお祭り・イベント】今週末(10月17日・18日)に行きたい！「第22回ゑぇじゃないか祭り」「第53回堺まつり」など大阪府のお祭り＆フェス",
+          "desc": "【大阪のお祭り・イベント】今週末(10月17日・18日)に行きたい！「第22回ゑぇじゃないか祭り」「第53回堺まつり」など大阪府のお祭り＆フェス&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3MG5ESm8wcFN2ejhQazdsLWpjRGlhZnZRY2NZT1RtSkx3SHJkU3pZdmpEUlpDZjg0M1g5U05zb3JhZC1zcE9fVGlDQzItSEYyR1ZEWHNR0gFbQVVfeXFMT0hzS2lVM1doSXBqWGpxZmdtLWhYNzdUcUxTdFBrZzRFcnlVNVB6MGlyOXFTLXlnYkRDbXZ3clhTSDQwSUhoaG51U2piaTVOYndiXy1GRHlYenNDSQ?oc=5"
+        },
+        {
+          "text": "【東京のイベント】今週末(10月17日・18日)に行きたい！「三鷹の森フェスティバル2026」「HIGASHIYAMATO ALL FEST2026」など東京都内のお祭り＆フェスを紹介",
+          "desc": "【東京のイベント】今週末(10月17日・18日)に行きたい！「三鷹の森フェスティバル2026」「HIGASHIYAMATO ALL FEST2026」など東京都内のお祭り＆フェスを紹介&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oa0JhLVhuaVRHTXJYNE4zbWVVT3h0aHdvWGtuNmZSZnJyM0pvbDBVRmRYVzdlX3l0bHl2Mkoyd1djSi0zYzM1X09MT096dW9ZYWZGNTJn0gFbQVVfeXFMTk1ibjdHMXBnUkpRM3lVRWJyNVNqcU9ZWURzSW5mM3Bra0NyWEdoQURrYkljYVFlaEluc2luZXd2MFBLLU1iTTJCTkUtRlUzZ0JXZHNmSHZOYnhnMA?oc=5"
+        },
         {
           "text": "パナソニック汐留美術館、2027年度の展覧会スケジュールが公開。スウェーデンのうつわや、バウハウス、女性建築家の展覧会など（Tokyo Art Beat）",
           "desc": "パナソニック汐留美術館、2027年度の展覧会スケジュールが公開。スウェーデンのうつわや、バウハウス、女性建築家の展覧会など（Tokyo Art Beat）&nbsp;&nbsp;Yahoo!ニュース",
@@ -221,19 +231,9 @@
           "text": "『VIVANT』の聖地・岐阜県庁へ！“あの納豆シーン”を再現できるフォトスポットと展望ロビーが今、熱い!!【無料展望室シリーズvol.20】",
           "desc": "『VIVANT』の聖地・岐阜県庁へ！“あの納豆シーン”を再現できるフォトスポットと展望ロビーが今、熱い!!【無料展望室シリーズvol.20】&nbsp;&nbsp;ウォーカープラス",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qLW9TY1JOMzF0OHNHd2Q1UWtlWGY1TGY1OUF2MUlJMEVTb2VMSHNmb3NoN0F2Z1RVZkFHZkFLT3h2Qkp1OWo3TGhMRHJRVmlkeEprRlJB0gFbQVVfeXFMTnhOS09MM08tVGhnU3hUTUpkbTBwMDh0MFB1VkFHeWhvbmtYZU9CRHB5TTRPMnVsZTJYcktrN2hkM2NGQWFlYmhWc2E5WGJBV0tib21lWUdCaTF2WQ?oc=5"
-        },
-        {
-          "text": "五感で楽しむ自然体験や限定マルシェ、大手町の森で「森の市2026」開催へ",
-          "desc": "五感で楽しむ自然体験や限定マルシェ、大手町の森で「森の市2026」開催へ&nbsp;&nbsp;Time Out Tokyo",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oNUpETEhRRlJ0Z1RER3FzWXFNaWMwSjhtM3Q0ckhzOUtIQXFJWGNCNGFoR0hJeFBTWkkyRVdZMmpYQU5VVkY4cHVqdXZOLTZGcjlmNVJGZW1rMHhkcFZ0Qy1rTUFlekIxZWpSNTZBa1I4WHo2VG1z?oc=5"
-        },
-        {
-          "text": "WAっしょい祭りin南千住仲通り(東京都)の情報",
-          "desc": "WAっしょい祭りin南千住仲通り(東京都)の情報&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EdkVUTjQ4MVE2akxmWHc3RnRlM0FIRVZPaHllMGwxVmlHa2s4c0xMSHV0cW9VUUdlMjRlX2RRTkVWLUVMY3J5WndwSWRhMXpEOTdkSXN1cnVTakE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-25",
+      "lastFetchedAt": "2026-10-27",
       "source": "Google News"
     },
     {
@@ -242,22 +242,12 @@
       "title": "仕事資産 — キャリア・副業",
       "items": [
         {
-          "text": "ＨＥＮＮＧＥ[4475]：コーポレート・ガバナンスに関する報告書 2026/10/21 2026年10月21日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "ＨＥＮＮＧＥ[4475]：コーポレート・ガバナンスに関する報告書 2026/10/21 2026年10月21日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82MXpUN0hFeTRUYkxrenVtaUlFN2FXTXZWV1pfU0loQjdJcEFfRFVtMGlucF9Yb3ltZWtFVkh2ZDkxeGR3UmZ2YUt6V1E3ZjQzSDRMZkluXzNPZkRGVmkwLXBVZXlUQ1Jwd1E?oc=5"
-        },
-        {
           "text": "「キャリア相談はAIで十分」若手の1on1離れ レバレジーズは指名制を導入",
           "desc": "「キャリア相談はAIで十分」若手の1on1離れ レバレジーズは指名制を導入&nbsp;&nbsp;日経ビジネス電子版",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oQklIdjlISkRPN3FrV21XUHh2LW1URDdsY2RUSnpNcUtFVC1ldEpxRk1xVUlzaU9MRUF0dnRZcEtHMVQ1LXpzcEg5eEhtM3VpU1U2Rm1pNGVyXzZ3bFpCLVlraENreFU?oc=5"
-        },
-        {
-          "text": "NTT、10万人対象にグループ間の異動制度 分離分割以来の縦割り打破",
-          "desc": "NTT、10万人対象にグループ間の異動制度 分離分割以来の縦割り打破&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PM0VzbmdLRFRBMzA5cndYdHJSWkwzbVRzRWpMV3g2WXZMbmtxY0hsVmJFbWZUVGxUTFR0M1ZKUndCS3JTMU5jS3V0NUlZMmcxRF9vRmoybW5XSmFNbFBTZ2h4VENjSEM4THhSMw?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-26",
+      "lastFetchedAt": "2026-10-27",
       "source": "Google News"
     },
     {
