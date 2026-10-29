@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "summaries": [
     {
       "id": "finance",
@@ -7,19 +7,39 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "高市政権｢リフレ派の政策はもう終わった｣は実現できるのか…表面的な取り繕いなら､アメリカも市場も納得しない | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "高市早苗政権の経済政策が大きな転換点を迎えています。世界的な金利上昇やアメリカからのリフレ政策中止圧力､膨大な政府債務に直面する日本財政。財源が不透明な減税､防衛費増額という課題も山積する中､責任あ…",
-          "url": "https://toyokeizai.net/articles/-/962011?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "なぜ｢長期金利上昇｣はいったん一服したのか…AI半導体株との連動､米中間選挙後は〈油断禁物〉 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "今回は日米とも利上げ見送りへ。その背景の1つが奇妙な長期金利上昇の一服。裏にはAI半導体株の連動があり､米中間選挙後にトランプ大統領が取る行動の不確実性にも注目しています。",
+          "url": "https://toyokeizai.net/articles/-/962868?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "いまや日本経済も〈AI一本足経済〉､輸出に設備投資､株価ひいては消費にもAIの恩恵…エネルギー高を和らげている | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "世界経済の成長を牽引するAIブーム。日本も設備投資や半導体輸出､株式市場を通じてその恩恵を享受していますが､エネルギー高や地政学リスクが影を落とします。AI一本足経済のリスクと､その先に待つ可能性と…",
-          "url": "https://toyokeizai.net/articles/-/962395?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "臨時国会の焦点｢衆院定数削減｣スピード合意の舞台裏､水面下の与野党協議で高市政権の危機を救った\"密使\"の存在 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "衆院議員の定数削減をめぐって､自民･維新･国民民主の3党合意が成立。12月までに成立する公算が強まりました。水面下でどのような交渉が行われたのでしょうか。各党の思惑に迫ります。",
+          "url": "https://toyokeizai.net/articles/-/962898?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "中国がインドを標的に新たな規制を実施 ｢係争関係にある機微な国｣に対して経済的威圧を武器化する中国の思惑 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "中国とインドの間で激しさを増す経済･安全保障上の摩擦。最新の輸出規制は､単なる技術移転の制限にとどまらず､インドの｢脱中国依存｣を阻む中国の政治的レバレッジとして機能します。両国の対立の行方と､その…",
-          "url": "https://toyokeizai.net/articles/-/962471?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "これじゃ｢世界の真ん中で咲き誇る｣のは無理筋？ 高市首相G7オンライン会議欠席｢日本には関係ない｣の致命的な勘違い | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "高市首相がG7首脳オンライン会議を欠席したことが波紋を広げています。異例の事態が相次いだ今回の一件､その背後にはどんな事情が潜んでいるのでしょうか。",
+          "url": "https://toyokeizai.net/articles/-/962809?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "金正恩氏の突然の丹東訪問に沸く中朝国境､12年ぶり開通の新鴨緑江大橋が映し出す経済再開への期待と外交の現実 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "冷え込んでいた中朝国境に､金正恩氏の突如の丹東訪問が新たな熱波をもたらしました。12年ぶりに開通した新鴨緑江大橋を自ら渡る姿は､経済や観光再開への大きな期待と､複雑な外交の現実を浮かび上がらせます。…",
+          "url": "https://toyokeizai.net/articles/-/962738?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "自動車部品大手のNOKとイーグルが経営統合で｢1兆円企業｣へ…それでも株価が冴えない理由､シナジーの行方 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "自動車部品大手のNOKとイーグル工業が経営統合し､10月1日にNOK Groupが上場。売上高は単純合算で9000億円を超えますが､株価は冴えません。",
+          "url": "https://toyokeizai.net/articles/-/962679?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "米ＦＲＢ、10対2で金利据え置き 議長「物価安定は未達成」 | ロイター",
+          "desc": "米ＦＲＢ、10対2で金利据え置き 議長「物価安定は未達成」 | ロイター&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGJ3MUl1T2tzZDRoLTJBNFV0WmpTV28yRHE0S0U2LXVkUThRckM1ZERjV1JGUHJ3Q3djTjl6akkweGpvaE5Oem9NV0ZQeFJlU0tZaTd0ZlREcDBZU29UQm9TZzVmd3ZMM014OWZzSWpsallYQnZnV3N5blB0VGNlem1pUjUtQQ?oc=5"
+        },
+        {
+          "text": "FRBが金利据え置き 議長「インフレ率高すぎる」、年内利上げに含み",
+          "desc": "FRBが金利据え置き 議長「インフレ率高すぎる」、年内利上げに含み&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YczhScm1VTzFEVTAtcm1XZFBhZl9NcUJxcHNiV2l0ZWppZFhocmFKQnVHNHNPYVNYUWNXM2FJWk1GTG5OTEotU2FsdkFlY0ZLRFhqbVJRYW9rYW1mS2Z0N3JQbXIwUWU1b0hENA?oc=5"
         },
         {
           "text": "米FRB、金利据え置き見通し＝インフレ加速も動向見極め―27、28日に金融政策会合(時事通信)",
@@ -27,37 +47,17 @@
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHFzc3QwOVVSN2lKanlnSmJ4WU9NUjVXcGswcFFRMDI2aS1tTVk2ZUY1WjJZTHU2dzRHU0JHTnNlWEZ2TmozWU1RZldrSXVGcDl1WDgzRmRSdkFRbVVPWXNXX3BqWkE2YXgwLTNJLXBUYUQ1emwyX1pBdFZVQ1kyNTFiNFpSbjA?oc=5"
         },
         {
-          "text": "COMMENTARY: コラム：新興国、ＦＲＢ追随の時代に変化 広がる政策対応余地",
-          "desc": "COMMENTARY: コラム：新興国、ＦＲＢ追随の時代に変化 広がる政策対応余地&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yNFlJY20yaTd4VlBpZk9lZXVBOTY4c01FXzBSblpkQVd1eGNacTNGRmljU1p6dUc2QWx6aG96cnp3Z3JWQUhmOHBxSkViX1hJRGZzdUFmQncwVWgtTjYtTnI5SWFMSVQzbHRrbV8tMEVNaVRPNk1vTV9GTHEtUQ?oc=5"
-        },
-        {
-          "text": "日銀・FRBの議事に「AI」登場回数が激増！中銀はAIの何を議論し、金融政策はどう変わるのか？",
-          "desc": "日銀・FRBの議事に「AI」登場回数が激増！中銀はAIの何を議論し、金融政策はどう変わるのか？&nbsp;&nbsp;ダイヤモンド・オンライン",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPN01BYzVNZGNjdUlOUmRlSDFxckZtN2xUbjU1QkJaYmU0aWhQdi0yYW5zWXZvRHN2OWN3bXVTVzlZdS1aM3ZMeTdYREbSAU9BVV95cUxNWWZQQnl1ME9lSC1QektoZUVGY3ktS0ltWGRCdG5wWEtKX285UU5XVU5JdVdnMlJhN21wcmZFWWk5dmd2Mk1hREJaRDIzOEow?oc=5"
-        },
-        {
           "text": "FX・為替相場の注目指標や予想を解説 - 10月28日(水)■『米国の金融政策の発表及びウォーシュFRB議長の記者会見』と『今後の米国の金融政策への思惑』、そして『米国の国債利回りの動向(米国の長期金利)』に注目！",
           "desc": "FX・為替相場の注目指標や予想を解説 - 10月28日(水)■『米国の金融政策の発表及びウォーシュFRB議長の記者会見』と『今後の米国の金融政策への思惑』、そして『米国の国債利回りの動向(米国の長期金利)』に注目！&nbsp;&nbsp;ザイFX！",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SMmNiSGxsVXVtWjdIaVFpV05YOTh0bU5IVG5tZEx3dFV4SVZSamZEZnBFNUw2VWhlRVhuRVp1N0JfQ0tGdnhqa0hkNDZjM2J2SUE?oc=5"
         },
         {
-          "text": "米ＦＯＭＣ金利据え置きへ、中間選挙目前 直後の指標が利上げ後押しか",
-          "desc": "米ＦＯＭＣ金利据え置きへ、中間選挙目前 直後の指標が利上げ後押しか&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObDB2VlVaX0hiNDJhdmV4Z1pBdURRZ181LUFtd2Y3Um5DcVFZbkNDb3h4ckw5MlQwNWd6MXFGWmhoaUZJVkpXNjRBUXZtc09PTndFQVdZVmlIUkFtSjZHWHN2YzdCQ3o5LVNPbzA5N0hLTVV2RkhSallnYnFCemNMQlBuRWxOUQ?oc=5"
-        },
-        {
-          "text": "FX・為替相場の注目指標や予想を解説 - 10月26日(月)■『先週に強まったリスクオフの流れの行方(AI投資やフランス国債への不安が高まる)』と『今週に日本と米国の金融政策の発表が控える点』、そして『米ドル、日本円、ユーロの方向性』に注目！",
-          "desc": "FX・為替相場の注目指標や予想を解説 - 10月26日(月)■『先週に強まったリスクオフの流れの行方(AI投資やフランス国債への不安が高まる)』と『今週に日本と米国の金融政策の発表が控える点』、そして『米ドル、日本円、ユーロの方向性』に注目！&nbsp;&nbsp;ザイFX！",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HUDdOZFV0S28wb2haZVM1S0VNTmlPczFNZXBWY0w3eHo4RFRBdm9UMk9ZYlZFNFV3bldhOUZpSnM4VmlkU2xnaVRSckdfMlN5Vnc?oc=5"
-        },
-        {
-          "text": "FX・為替相場の注目指標や予想を解説 - 10月27日(火)■『明日に米国の金融政策の発表を控える点』と『先週に強まったリスクオフの流れの行方(AI投資やフランス国債への不安が高まる)』、そして『米ドル、日本円、ユーロの方向性』に注目！",
-          "desc": "FX・為替相場の注目指標や予想を解説 - 10月27日(火)■『明日に米国の金融政策の発表を控える点』と『先週に強まったリスクオフの流れの行方(AI投資やフランス国債への不安が高まる)』、そして『米ドル、日本円、ユーロの方向性』に注目！&nbsp;&nbsp;ザイFX！",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nd3V4Vk5ScExGbU9vM1FXaHZWeDB2QlA0ZlhkaFJ4bHAzM0NWU2NOV0Z1RWZzb3FVNEtmU2lEZHd3NXJsNEZkNkFCemxucmNQdmc?oc=5"
+          "text": "アングル：ＦＲＢが景気判断を「力強い」に上げ、米国債の見通し不透明に",
+          "desc": "アングル：ＦＲＢが景気判断を「力強い」に上げ、米国債の見通し不透明に&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWFIyUWRtRzV4NnpMSkhlSjVrOXNUT3JSVlZtR3EtcDVLUjd4ZlBUenJZWGpPcEJuZ2lPc21fT0VRM1Rfck13X2Nja0d5ajNfSXBmcHpvYUM4T3ZfX25TdlJ5M1dieVU1SG5ORTFhb1RPNnFZNS0zOTZDQVNpSm96UmRXMzRTZw?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-29",
+      "lastFetchedAt": "2026-10-30",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
+          "text": "ChatGPTのPro・Businessプランで「API利用」可能に　月最大500ドル分",
+          "desc": "米OpenAIは「ChatGPT」のProおよびBusinessプランに、同社のAPIを利用できる特典を追加すると発表した。月最大500ドル分（約7万9000円、1ドル158円換算）の利用枠を付与する。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/"
+        },
+        {
+          "text": "今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長",
+          "desc": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/"
+        },
+        {
+          "text": "AIチャットが勧める広告商品、選択率が約3倍に　こっそり他商品けなし誘導　米研究者らが検証",
+          "desc": "米プリンストン大学に所属する研究者らが4月に発表した論文「Commercial Persuasion in AI-Mediated Conversations」は、オンラインショッピングなどにおける対話型AIによる説得が消費者の選択をどれほど操作できるかを検証した研究報告だ。",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002680/"
+        },
+        {
+          "text": "AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態",
+          "desc": "独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は、2026年2月に開設した、AIエージェントが人間を雇うことを目的に設計された人材雇用マーケットプレース「RentAHuman」の求人情報を分析し、悪用されていないかを調査した研究報告だ。",
+          "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/"
+        },
+        {
+          "text": "「高度なAIスキル」だけではもう食えない？　IT人材が答えた「これからの必須スキル」",
+          "desc": "2027年度以降、IT国家試験の大幅な刷新が予定されている。企業のIT現場はこの変化をどう見ているのか。読者調査から、制度刷新への期待と懸念、資格取得意向の変化、AI・セキュリティなど今後重視されるスキルを探る。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/"
+        },
+        {
           "text": "Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
           "desc": "",
           "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/"
         },
         {
-          "text": "「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起　エージェントが攻撃者の指示に従いマルウェアインストールの恐れ",
-          "desc": "イスラエルのセキュリティ企業によれば、悪意のある「AGENTS.md」が仕込まれたダウンロードフォルダでコーディングエージェントを起動すると、エージェントがマルウェアをインストールしたり、アカウント乗っ取りを支援したりする恐れがある。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/"
-        },
-        {
-          "text": "「禁止」するだけでは防げない？　パナソニックグループで約33万人分の個人情報が外部生成AIに",
-          "desc": "パナソニックグループで、従業員や元従業員とその家族約33万人分の個人情報が、社内で利用を禁止している外部の生成AIサービスにアップロードされた。同グループは、データについて「今後二次利用されない」と説明する。その根拠は何か。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html"
-        },
-        {
-          "text": "Notion AIの「クレジット制」導入は改悪か？　コスト最適化のヒケツを開発責任者に聞いた",
-          "desc": "Notion AIが、毎月付与されるクレジットを消費して使う仕組みに移行する。利用コストを抑えるには何が必要か。開発を率いるシール・イェホシュア氏は「クリーンなコンテキストほど安くなる」と語る。その実践法を聞いた。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2610/28/2000002666/"
-        },
-        {
-          "text": "ロボット実機で実践的に学べる、リョーサン菱洋「フィジカルAI入門パッケージ」",
-          "desc": "リョーサン菱洋は、ロボット実機を用いて実践的にフィジカルAIを学べる「フィジカルAI入門パッケージ」の提供を開始した。",
-          "url": "https://monoist.itmedia.co.jp/mn/articles/2610/28/news040.html"
-        },
-        {
-          "text": "Anthropic、独自の“創薬活動”に着手　社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
-          "desc": "米Anthropicは10月27日（現地時間）、小児の希少な筋ジストロフィーなどを対象に、自社で創薬活動を進めていると発表した。社員1人でAI「Claude」を使い外部11の研究機関と実験を進めてきた企業を買収し、研究を引き継いだ。",
-          "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/"
-        },
-        {
-          "text": "AI音声の詐欺電話、6人に1人が応じる可能性　だまされやすい手口とは　米ハーバード大やMetaが4100人で検証",
-          "desc": "米ハーバード大学や米Metaなどに所属する研究者らが発表した論文「Evaluating AI Models’ Capability to Automate Voice Phishing Attacks」は、AIによる詐欺電話によってどれくらい騙されるかを調査した研究報告だ。",
-          "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002612/"
+          "text": "AI半導体市場「メガサイクル局面だ」　アドバンテスト好決算、CEOが語る「CPU」「光電融合」への期待とワクワク",
+          "desc": "半導体試験装置メーカー大手のアドバンテストは、AIブームによる半導体需要を追い風に、2026年度の通期業績予想を売上高1兆8630円に上方修正した。「メガサイクル」に突入した半導体市場を支えるものは何か。",
+          "url": "https://www.itmedia.co.jp/business/articles/2610/29/news050.html"
         }
       ],
-      "lastFetchedAt": "2026-10-29",
+      "lastFetchedAt": "2026-10-30",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -115,37 +115,22 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcHU0WlpQTWZsSzNseWRlLUoyek04d2cyLTcyNTY3c0NjRmlMY05KRlpRQVpFUmpyaENlanU0M2VwQmwzdFFhXzZvOVZYUEM5NXpGeDVUX1k3TkhCbllodkhYRFFBekhXM3hDS3I1M0wyZDlWcUVudk5nTVUtNl90aEw2blEwZlpq?oc=5"
         },
         {
-          "text": "英研究【よく歩く10代はメンタルヘルスの問題が少ない？】脳にも見られた違いとは (ヨガジャーナルオンライン)",
-          "desc": "英研究【よく歩く10代はメンタルヘルスの問題が少ない？】脳にも見られた違いとは (ヨガジャーナルオンライン)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUjNESUVkWVFTUDdpUHlMMUpLRlZ2Znh3V1duWTRoQWt0b25UX1BhNWY3cXVKc0RCbDk1S1o1NTQxSi1leWRpTkJHM0xMV3JadGc2S0tTRFI2cHFiYjVuQ0h4QVR3Nmhycng1ZVlzQ2lmRHVwQVR4aV9HMFU0Q29UOF9EcVJkbHRoZTMtZldn?oc=5"
-        },
-        {
           "text": "寝ても疲れが取れない人は要注意…50歳未満では糖尿病リスク3.3倍、「睡眠時無呼吸症候群」の怖さ",
           "desc": "寝ても疲れが取れない人は要注意…50歳未満では糖尿病リスク3.3倍、「睡眠時無呼吸症候群」の怖さ&nbsp;&nbsp;AERA DIGITAL",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hdmtoTlJFb0JSYzYxeHBfSHpPVDlhS0RoczJNRFVQb2NLMFl6TW5jamx4Y2VKV1dIYURQUVVSRUE5MTZUc2JvdzZWa3dFc1FsbVd4T084bWgtUQ?oc=5"
         },
         {
-          "text": "ヘモグロビンA1cに関心を 都内で糖尿病の啓発催事（オーヴォ）",
-          "desc": "ヘモグロビンA1cに関心を 都内で糖尿病の啓発催事（オーヴォ）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhZEtxRGtYQmRtOUhZdGl1RGVOTGNZMWZ5MTNBdUJhUDJJMGtfRU90NVpiWkl0NkJzNnU0SmNPYU9VZnVmVGJhVEdwZzdlVEluWG42Q0RIcC1MMFFoNmFocVFCNGN2dk9RaHVlclNfNk14SFVCeDJBd29nY0ZXM28?oc=5"
+          "text": "専門家が教える「血管年齢」若返り習慣》重要なのは「食事」「運動」「睡眠」、おすすめは雑穀や野菜が中心の“地中海食” 食べる順番に工夫して「血糖値スパイク」の予防を（女性セブンプラス",
+          "desc": "専門家が教える「血管年齢」若返り習慣》重要なのは「食事」「運動」「睡眠」、おすすめは雑穀や野菜が中心の“地中海食” 食べる順番に工夫して「血糖値スパイク」の予防を（女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sRUVWZnBIcVpsZzBybDZWSk1iSW8xb29pTWRqVzRYVlNJWkRQV1RiaVVHOU9DMnhvemlINEtBOC1uNTBLYndTdVY5cVUzM3VZOEFSa0JaMFdQRjEtVWRWb2xQYmZUVVB1cEdTZW4zTG1mVDZiZGRCelU2eTRpcWc?oc=5"
         },
         {
           "text": "世界をザワつかせる健康成分「5-ALA」ってナンダ？加齢による疲労を打破するサプリの最前線 (OCEANS)",
           "desc": "世界をザワつかせる健康成分「5-ALA」ってナンダ？加齢による疲労を打破するサプリの最前線 (OCEANS)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTFIeEFBNXpCdTZKQ1hSYm10ZGR5RGdERDIwMW1BemhOUUFBUUZrdkV2cjNHdUtLVTVPeG9IUWNDOE5Vb2ZNMFFuWjhOSGtyY2xsZTdVOHJwY0JKRGphWTIwajFWS2NHTmZBOXhkOTRJZDlUenFUNUQ3ZmhBQVJCeVFScS1BRlRQMG5kd2RR?oc=5"
-        },
-        {
-          "text": "岡山市で無料健康相談会 血管年齢などの測定値をもとに専門家が生活習慣改善についてアドバイス【岡山】（OHK岡山放送）",
-          "desc": "岡山市で無料健康相談会 血管年齢などの測定値をもとに専門家が生活習慣改善についてアドバイス【岡山】（OHK岡山放送）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85bnJvM0d0dnQ1UTdTSjdvNjAxMURybThOMEdwZldTNUd3UHk0eWEzbVpTbUFPUFNGRUZnWjVwb3pTZDhPdnhzUFJFWGJ0YnlJR3FXcnEzb3lnU25tbWUxeTlCUkxrczlqcmE3Ym9rcnNNSW9TR0wxWFBRN1U5M2s?oc=5"
-        },
-        {
-          "text": "「肥満」が日本経済に与える影響は年間11.1兆円になる予測 「肥満症」は慢性疾患 対策に企業連携が必要（AERA DIGITAL）",
-          "desc": "「肥満」が日本経済に与える影響は年間11.1兆円になる予測 「肥満症」は慢性疾患 対策に企業連携が必要（AERA DIGITAL）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pSG5hZWZFN0FxU0g2V3dva2NvZDN2dzNZWE1KYzY3cjB2S2o2TU15cDhhMXhEUExrUzZad3BDMVR6WS1SX1BwRkZGNm12WTJYcS0yOE5DLVJ2ZkFjLUN3VHBiUFhGZXF2RjNxd1hzVWUzYnVxRDl2V3BfaWZjcVE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-29",
+      "lastFetchedAt": "2026-10-30",
       "source": "Google News"
     },
     {
@@ -154,9 +139,14 @@
       "title": "生活資産 — 生活・社会",
       "items": [
         {
-          "text": "60代ひとり暮らし「手放してよかった」キッチン道具4つ。掃除もラクになり毎日快適 (ESSE-online)",
-          "desc": "60代ひとり暮らし「手放してよかった」キッチン道具4つ。掃除もラクになり毎日快適 (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeEFlcU94enlvcnJkcHR1a1FhdEsyVTBtZkpKVHV5SjZYN21XNXZkcUJWUmlpeEM0eWR4emJGT1MwN19KcXo4bTkyMmpYRTNzTUxTckR5cUJxZmdMNWlRc3hZbGpKcDFweEpZY29wMDVjZVdJRmhZV0Z2ZEFlTnd6aHJMYktaSHhpb0dDdkJ3?oc=5"
+          "text": "「やらない家事」を決めたら暮らしがラクになった。家がキレイな人が「変えてよかったこと」4つ (ESSE-online)",
+          "desc": "「やらない家事」を決めたら暮らしがラクになった。家がキレイな人が「変えてよかったこと」4つ (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHVySnJkTzVBRGpjbFhtNVZsSmVOQWlZS3JTLWowLXI2YWppby1tdnZDM3d2UGpQWXpiY3FiclVCRVRWODd2RTcxNHZlbEhRa2JiWjFHX2pHNUVoQ0tfaUtjeFZRcmk5S0YwaHVia0pHMTJMY2M0MDZoenBlNV9FQ3FUaXViMGJfYUs2QXNB?oc=5"
+        },
+        {
+          "text": "1人暮らしの男性が外出中に火事 木造2階建て住宅がほぼ全焼 隣の住宅にも燃え移り…避難時に74歳男性が軽いけが 岐阜･御嵩町",
+          "desc": "1人暮らしの男性が外出中に火事 木造2階建て住宅がほぼ全焼 隣の住宅にも燃え移り…避難時に74歳男性が軽いけが 岐阜･御嵩町&nbsp;&nbsp;TBS NEWS DIG",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mSTlRT1dfRFVoTHY1V2VhYTBCc3dwNHFuV0FBZDlVZFNsVmhackZBbll3MlhTMFJlcGhSVjNWM1VTZDNjU3k0V0NMaTRMdVhmbXNoMGItYU9YN3pBeHIw?oc=5"
         },
         {
           "text": "関東甲信越 クマ対策最前線 命と暮らしをどう守る",
@@ -164,9 +154,14 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85OUhBMHBYRFZDTDVtSXFJbFU2OUVpa3JzNVJLdDdtY0xvOTZvbjJVUWlYSEIzNEVQeFlEQXVSbThYNlpWNjFJOEdHNWMtNFVUVVJEOVp5Y3dNSEswZmZaZ2Nzck9nOEU?oc=5"
         },
         {
-          "text": "「やらない家事」を決めたら暮らしがラクになった。家がキレイな人が「変えてよかったこと」4つ (ESSE-online)",
-          "desc": "「やらない家事」を決めたら暮らしがラクになった。家がキレイな人が「変えてよかったこと」4つ (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHVySnJkTzVBRGpjbFhtNVZsSmVOQWlZS3JTLWowLXI2YWppby1tdnZDM3d2UGpQWXpiY3FiclVCRVRWODd2RTcxNHZlbEhRa2JiWjFHX2pHNUVoQ0tfaUtjeFZRcmk5S0YwaHVia0pHMTJMY2M0MDZoenBlNV9FQ3FUaXViMGJfYUs2QXNB?oc=5"
+          "text": "「とても暮らしていけない」物価高直撃の年金受給者が訴え “怒りの年金一揆”（ｔｙｓテレビ山口）",
+          "desc": "「とても暮らしていけない」物価高直撃の年金受給者が訴え “怒りの年金一揆”（ｔｙｓテレビ山口）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rakZnV0d6akYtOUxYQXhwR1hSMXBfRXZxdy12YUxKMlAxVWJJMGxRTEtFd0c0RkI4SklSOHdaTEp0Y19HODUxM2x4bWhNQ2tFU3VvSnhHVXpHN1VyMkVuOFpSRmVRQVpySWd1eUpEY2wwTC13ZGlsd3pyMGpVcjA?oc=5"
+        },
+        {
+          "text": "連続トップ10の秘訣は #丁寧な暮らし 伊藤花は愛用ボールで初V狙う【マイナビ ネクヒロ第15戦】（ゴルフ総合サイト ALBA Net）",
+          "desc": "連続トップ10の秘訣は #丁寧な暮らし 伊藤花は愛用ボールで初V狙う【マイナビ ネクヒロ第15戦】（ゴルフ総合サイト ALBA Net）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUDNSekx1ZW4xblZhUkJjcV9vbnNUdndyTHJiUklINjFKZzdVZDNYY24wY2VpbGJJT2t2VVZpenZHcms0Y05LYi1MOGtsQ3B2V2lLTUdaNUxzbVBrX2Vzc1Eyc3c1RWtUTzFwRjNCMlpjSUlUYWUwNzBockU1LUU?oc=5"
         },
         {
           "text": "【詳報】細野大臣が全国民に「緊急要請」へ 「1週間分の食べ物・トイレ・水の用意を」 11月2日防災庁発足「国難級の災害に対応」",
@@ -177,19 +172,9 @@
           "text": "災害への備え「緊急要請」、防災庁発足の11月2日に 首相と防災相",
           "desc": "災害への備え「緊急要請」、防災庁発足の11月2日に 首相と防災相&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90QnNtR1ljWXpnbGhfWncyUUlhVmJueFptX2J0Y08ta3lnZmVPVWZhTzIyaS02WFA4OHBVSjEzb3hvYlBJWjEwUVV6Z2Z5eVFKTlhjZFVXSmotQWpydEF2eGNSLUY4d0phVHFtYw?oc=5"
-        },
-        {
-          "text": "英政府、3日分の食料・水備蓄呼びかけ 災害やサイバー攻撃に備え",
-          "desc": "英政府、3日分の食料・水備蓄呼びかけ 災害やサイバー攻撃に備え&nbsp;&nbsp;朝日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kNGg0VVFBX0FObUVrcTBIejFkSVhZa04ydkVibGFTVUJXeUFWUDN0ZjdnMlJxazNFcndzdDE1a2ozYkRSMlNiR1U0XzZubldEci1wR0k2YWEwOXNjNjF2V1BLNDZnWE0?oc=5"
-        },
-        {
-          "text": "災害への備えを進める県の防災会議 9年ぶりに対面での開催 自治体や民間企業・自衛隊などが参加 秋田",
-          "desc": "災害への備えを進める県の防災会議 9年ぶりに対面での開催 自治体や民間企業・自衛隊などが参加 秋田&nbsp;&nbsp;日テレNEWS NNN",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRGt2MTNPUjM4WXVOOTBLdVpIbmotTXFqWkJzaEZkNXRzYVJrTmI5bmhXUXhfZFdjY3NrUExBZHFJQXF5ZlB3cGlfMnBXV01HbGNzckIwaWFZbEk3RUlrWVhpSXJmWnBwS0haRTBwbnFxU0tlWWJPdWdRMW1PTnBGRWZFd01uZjQ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-29",
+      "lastFetchedAt": "2026-10-30",
       "source": "Google News"
     },
     {
@@ -242,22 +227,17 @@
       "title": "仕事資産 — キャリア・副業",
       "items": [
         {
-          "text": "岩谷産業[8088]：コーポレート・ガバナンスに関する報告書 2026/10/28 2026年10月28日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "岩谷産業[8088]：コーポレート・ガバナンスに関する報告書 2026/10/28 2026年10月28日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcmVhc3JvTm9UZlZRSlFraFhGeEdIbFFiNF9MTFotaVlySFZMclNLc1daV0dKZzh0NXBWWUdSTjE2NF9FdFhKWVRhN28xWi1paEhPWkVZbHg4TE5wNk4tUXlFUVdVem9SeG16SUlOZy1PSnBqQVVIMVJtek8zMTV4SWwyNXVnSTljZ0ZMZ2pzTkhxUUdmMnc0b1owOUE1Ykc0dkFlRXppNG42VWl4dDhyai1lZ0J4ZzgwdWJwYVV6ZnN4WUZrVHM3M0RqNmM?oc=5"
+          "text": "AIリスキリングは恩恵もたらすという意識の浸透を、現場とどう向き合うか（2ページ目）",
+          "desc": "AIリスキリングは恩恵もたらすという意識の浸透を、現場とどう向き合うか（2ページ目）&nbsp;&nbsp;日経クロステック",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGluM1FsOXU2YU1HeUJ4aVRLSTRZNEZlMEJ5dm1lTTlabDlESU5QZG9NRWZsMHU0ZnRkSEJObWd6dm9UX21lZ1lYbWJZbVk0QUJJcGd3Zy13LU94dWVpNFJYdVdfTG1tQUtQRENvMS1RcUJUR2FPejllNjhJekpUeEtTcEktdExXZEJhN3diZFVwYlM2cU94dHJR?oc=5"
         },
         {
           "text": "総合商研[7850]：コーポレート・ガバナンスに関する報告書 2026/10/28 2026年10月28日(適時開示) ：日経会社情報DIGITAL",
           "desc": "総合商研[7850]：コーポレート・ガバナンスに関する報告書 2026/10/28 2026年10月28日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTJFNHUwMnE1OWxyVXZJMWR5UFgtWEJYcklhelZlejlSZ2VBaDJZZ1ZQWjlsNHVualVMYjU5djBGVjhDZGtVZXAtazFDVFFweDdPOEttQ0t4bldEUzFTaWVHLUJGLXR6UExCU2Ryc0VMczNqQ3BxWXJwVkZNTGp0RURCbGhjUjZ5ZDNNV3EtcXhTNGhxQjZVSng2X01IZFptNnZKQ1NqU3FPUnRQX0FSQ3FocFdKTnhHRzFNSl92TXpNaV9MSG5IMGlxcUY?oc=5"
-        },
-        {
-          "text": "「キャリア相談はAIで十分」若手の1on1離れ レバレジーズは指名制を導入",
-          "desc": "「キャリア相談はAIで十分」若手の1on1離れ レバレジーズは指名制を導入&nbsp;&nbsp;日経ビジネス電子版",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oQklIdjlISkRPN3FrV21XUHh2LW1URDdsY2RUSnpNcUtFVC1ldEpxRk1xVUlzaU9MRUF0dnRZcEtHMVQ1LXpzcEg5eEhtM3VpU1U2Rm1pNGVyXzZ3bFpCLVlraENreFU?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-10-29",
+      "lastFetchedAt": "2026-10-30",
       "source": "Google News"
     },
     {
