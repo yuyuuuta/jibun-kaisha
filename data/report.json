@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "summaries": [
     {
       "id": "finance",
@@ -7,39 +7,14 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "民主党圧勝でトランプ政権とシリコンバレーの蜜月に転機､ アメリカ｢テクノロジー覇権｣が直面する甚大リスク | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "民主党の議会掌握により､AIをめぐる競争は技術だけでなく政治の領域に入った。問われるのは､誰がその進路を決め､誰が利益を得て､誰が費用を負担するのか､である。",
-          "url": "https://toyokeizai.net/articles/-/963631?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "ポストトランプ〈次期大統領〉は誰が有力か…共和党大敗でヴァンス氏に暗雲､大勝でも喜べない分裂･民主党の本命不在 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "中間選挙の大勝が｢トランプ時代の終焉｣を示唆する一方､アメリカ政治の根深い分断は依然続いています。勝利に沸く民主党も､内部分裂や有権者の信頼を課題に抱え､共和党もトランプ路線を継続するか転換かで揺れ…",
+          "url": "https://toyokeizai.net/articles/-/963841?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "アメリカ国民はトランプ外交に｢ノー｣を突きつけた…民主党大勝のねじれ議会が追及を始める親ロシア政策の裏側 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "アメリカ中間選挙で民主党が歴史的勝利を収めた裏には､トランプ外交への痛烈な批判が横たわっています。物価高騰や親ロシア政策など､外交の失策が国内経済と世論を大きく動かしました。ねじれ議会の誕生で､アメ…",
-          "url": "https://toyokeizai.net/articles/-/963647?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "李在明大統領｢多文化家庭への一律優遇は公平性の検証が必要｣――｢不当な優遇は極右による攻撃の口実にも｣ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "韓国･李在明大統領が｢多文化家庭｣（国際結婚による家庭やその子どもがいる家庭）への優遇措置見直しを示唆し､社会に公平性の波紋が広がっています。少数者への支援が社会全体の支持を得られるのか。大統領の発…",
-          "url": "https://toyokeizai.net/articles/-/963254?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "〈インサイダー取引〉勤め先の事業廃止を知り株売却､あるメーカー元社員の誤算 非定型の事案にも監視委の目 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "勤め先の上場会社が一部事業を廃止するとの情報をつかみ、自身が持っている株の損失を回避するため、正式公表前に売り抜けた――。証券取引等監視委員会は10月23日、金融商品取引法に抵触するこうした事実が認…",
-          "url": "https://toyokeizai.net/articles/-/962932?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "乗用車がダメなら商用車から—",
-          "desc": "10月13～16日に開催された｢Japan Mobility Show Bizweek｣における自工会ブースにて｢水素大動脈構想｣が説明されていた。聞いてみれば､日本の物流を大きく変える可能性のある…",
-          "url": "https://toyokeizai.net/articles/-/963197?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "民主党圧勝で高まる〈AI規制への警戒〉は過剰反応なのか？日経平均3000円超一時急落…巨額投資を支える｢循環資金｣の穴 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "2026年米中間選挙で民主党が歴史的圧勝を遂げる中､AI投資規制への懸念から日経平均が急落しました。株価はトランプ氏の敗北宣言で一時持ち直しましたが､AIを取り巻く不安定な金融環境や規制の行方は予断…",
-          "url": "https://toyokeizai.net/articles/-/963576?utm_source=rss&utm_medium=http&utm_campaign=link_back"
-        },
-        {
-          "text": "ＦＲＢのデータ重視は適切、物価安定への注力支持＝ＩＭＦ",
-          "desc": "ＦＲＢのデータ重視は適切、物価安定への注力支持＝ＩＭＦ&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTWxjTFFzRHFxU0lsbFRFMmRiWnk5amd2dTBRUGs3dEhOOW5WRktIWUJwcUtyR2FyUmpyVV9WS0lCMkExV2FHMmN5eDBEQ3IzSUZBRExBVmk3SWREUVkwSEc1NU5mdUNLS2kwQVJTRlJMUWRHMm5hSFQ2c1gycWVLNG1vZUpHZw?oc=5"
+          "text": "島根銀行が大幅赤字予想に転落､\"100億円の増資\"を迫られた事情 大口融資先の｢全東信｣も破産 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "島根銀行は10月16日､SBI新生銀行を引受先とする第三者割当増資により100億円を調達すると発表しました。",
+          "url": "https://toyokeizai.net/articles/-/962915?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "利上げ局面に転換した米国 「語り過ぎないFRB」にも留意",
@@ -55,9 +30,34 @@
           "text": "国内外の注目経済指標：米雇用統計が最大の焦点、FRBの金融政策見通しとドル相場を左右(フィスコ)",
           "desc": "国内外の注目経済指標：米雇用統計が最大の焦点、FRBの金融政策見通しとドル相場を左右(フィスコ)&nbsp;&nbsp;Yahoo!ファイナンス",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVdPN2QzbmRVY1pkaU5ZWTl0UjBzZTdDRDZ3dlJyTGpEd24tRThwYnZoU2xCb1FFajA4am1fMFFhN0lfRjdzNWM5VUdrSnluS0ZxUFVCOHdOb3hxOHZ3b1BvblBBRnZmQlJuV0pyZmxjaHJ1WXZVTTJQaXlTUlJCRzZ4VnJBcUU?oc=5"
+        },
+        {
+          "text": "公的債務とノンバンク拡大、金融政策制約も＝シュナーベルＥＣＢ理事",
+          "desc": "公的債務とノンバンク拡大、金融政策制約も＝シュナーベルＥＣＢ理事&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEpUUG91YXBmOTRTaVcyYXRSTUpyUlJ4U2UtR0Z4YmJRQXdtNktqWXgzdEJXT3hlekYyT2doUWJick1Fcl9yM21mOTBRckpJc3RVVENyQWs1TDB5YXNDMkNTVlBLUXAxZXZvQXc1LWcySzR2MnNQNnEzQ1VMTEtIZGFMTFBqdw?oc=5"
+        },
+        {
+          "text": "FRBは「インフレ抑制重視」で2027年末まで高金利維持!?中間選挙敗北のトランプ“レガシー作り”がリスクに",
+          "desc": "FRBは「インフレ抑制重視」で2027年末まで高金利維持!?中間選挙敗北のトランプ“レガシー作り”がリスクに&nbsp;&nbsp;ダイヤモンド・オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IUEJYbDQ2UDZ0WUFqOEdoOW5sMXAtRTVuaVAxM2lhRzV4UnMtMEZnMlBqWVVEUVR2dV92LWRNRDJ1dUs2YUN0SzJRYnA?oc=5"
+        },
+        {
+          "text": "アングル：日銀、基調物価2％定着へ利上げ継続 「次の次」は転換点か",
+          "desc": "アングル：日銀、基調物価2％定着へ利上げ継続 「次の次」は転換点か&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtY3pOc0xmSzU0U3c1ZWlrVF9WYUwxenp5SnJGVUl6ZXBNVWRRLS1PSE1LWGc2d283Ylg4RmozaUtHSUw4bjVsUTBZYVRzci1ZVUdLT2xJMnh6cUVjYWp5TXB5c3Y4ZzlLUGszdU9Xa1IzRHdQbU1LejZGX2pPdw?oc=5"
+        },
+        {
+          "text": "ポートフォリオは変えない？ 米国株中心の“億り人”投資家が見る「米中間選挙後」の判断軸（みんかぶマガジン）",
+          "desc": "ポートフォリオは変えない？ 米国株中心の“億り人”投資家が見る「米中間選挙後」の判断軸（みんかぶマガジン）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMFpsbElYMHhCYW1MNEk1cm5HcG5LbjB2MTBmYU13eWI1OXFtai1xZ3FTQll2cGwzR2p2d0xwQjgxOUlabGtfNG0yYng2cGdpb3BwcnVTdVRLT2pNSzhhbXhMTGZIS2pCejdIcWNWMDZwNjUwN3gyU0p5R2N0bG8?oc=5"
+        },
+        {
+          "text": "ＦＲＢ、政策判断にあたりインフレ注視の見通し＝ハセットＮＥＣ委員長",
+          "desc": "ＦＲＢ、政策判断にあたりインフレ注視の見通し＝ハセットＮＥＣ委員長&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZ0xVMmg4XzdWd0RHR0RDR2NTdkFoTW1RMExRN3puLWdTTFB4SE8tVEVxNFBiZDh5bU53MmZqNXVlWDlSUi1oSVVvektjVHhnSTRZMXFDbHRSQ292RmtLUFJhcWlYVHRvTVR4OXRMRFpNX2RVb3RSdHNyLWlTa1k?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-06",
+      "lastFetchedAt": "2026-11-07",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "「世界最高水準」の性能うたう翻訳LLMをオープン化、PFN　0.8?31Bの4サイズ　オンデバイスにも対応",
-          "desc": "Preferred Networksは、翻訳特化型LLM「PLaMo 3 Translate」をオープンウェイトで公開した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002900/"
+          "text": "2D図面をAIで3Dモデル化、編集可能なフィーチャー履歴も再構築",
+          "desc": "WOGOは、機械設計における図面や3D CAD作業を自律実行する「Hacadly AIエージェント」の提供を開始した。大規模言語モデルと独自の図面／3D形状処理技術を組み合わせ、2D図面からの3Dモデル生成や、履歴のないCADデータからのフィーチャー再構築などを支援する。",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news072.html"
         },
         {
-          "text": "フジテレビ、全ドラマでAI活用できる体制へ　2027年10月めど　「救命病棟２４時」で先行導入",
-          "desc": "フジテレビジョンは、2027年10月をめどに、同社が制作する全ドラマでAIを活用できる体制を整えると発表した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002903/"
+          "text": "国内GPUサーバでオープンモデルを利用可能に　フィックスターズが新サービス　まずは「DeepSeek-V4.1-Flash",
+          "desc": "ソフトウェア開発企業のフィックスターズは、国内のGPUサーバでオープンウェイトモデルを利用できるサービスを始めたと発表した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/"
         },
         {
-          "text": "OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に",
-          "desc": "OpenAIは、画像生成AIの新版「ChatGPT Images 2.6」を発表した。画像生成速度の向上や編集精度の改善に加え、新たにGIFアニメーション作成機能や、保存した写真を別チャットで再利用できる機能を追加した。開発者向けには2種類のAPIモデルを提供し、電子透かし技術の導入など安全対策も強化している。",
-          "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/"
+          "text": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
+          "desc": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ。",
+          "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/"
         },
         {
-          "text": "AI生成画像の「99％を検出」するChrome拡張機能が登場　米スタートアップ",
-          "desc": "",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/"
+          "text": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
+          "desc": "宅配ピザチェーン「ピザーラ」を運営するフォーシーズが、TVアニメ「Dr.STONE」のコラボCMについて謝罪した。「TikTok」上でAIを活用した広告の自動生成機能が有効になっていた結果、同アニメ製作委員会の事前監修・許諾を得ていない動画を配信していたという。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/"
         },
         {
-          "text": "設計図面や熟練技術者のノウハウをAIで活用、リコーと川崎重工が連携",
-          "desc": "リコーと川崎重工業は、AIを活用した設計業務の知識資産活用に向け、戦略的パートナーシップを構築した。設計文書や図面に蓄積された知識に加え、熟練技術者の経験やノウハウなどの暗黙知をAIで整理／可視化し、技術継承と設計業務の生産性向上を目指す。",
-          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/05/news011.html"
+          "text": "MetaのAIエージェント「Muse」に音声対話機能　表情豊かなアバターと会話、まず米国で提供",
+          "desc": "Metaは、AIエージェント「Muse」にリアルタイム音声対話とアバター機能を追加すると発表した。米国で先行提供する。音声で作業を依頼できるほか、新技術により会話に合わせて表情や身ぶりが変わるアバターとの対面対話を可能にした。声は数百種類から選べ、今後はAIグラスなどへの展開も予定している。",
+          "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/"
         },
         {
-          "text": "「トイレ」に凝ったらAI需要で大躍進――TOTO、利益の7割かせぐ「半導体」ビジネスの正体",
-          "desc": "“トイレの会社”として知られるTOTOが、半導体ビジネスで化けている。半導体製造装置に使う材料が、営業利益の7割をかせぐまでに成長している。急成長の裏側を社長が語った。",
-          "url": "https://www.itmedia.co.jp/business/articles/2611/05/news018.html"
+          "text": "根拠の大半は「黒塗り」　AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査",
+          "desc": "米国の非営利研究機関METRは、Anthropicの協力を得て「AIがAI開発を加速させているかどうか」を評価したレポートを公開した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/"
         },
         {
-          "text": "予算止める側だったのに「増額」進言　現場の「伸びそう」応援する“CFOの右腕”設置、MIXIに何が起きた？",
-          "desc": "MIXIが財務経理の改革に注力している。経営企画から「CFOの右腕」を切り出し、予算配分について進言。芽がある事業への予算増額を実現した。改革の裏側をCFOが語る。",
-          "url": "https://www.itmedia.co.jp/business/articles/2611/05/news025.html"
+          "text": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
+          "desc": "空研工業とRecursiveは、OpenAI APIを活用した「AIナレッジ基盤システム」を共同開発した。過去の図面や技術資料から必要な情報を検索する「図面検索」と、複数の資料の整合性を確認する「図面チェック」の2機能を備える。試用段階では、従来数十分から半日を要していた図面探しが平均4.5分で完了したという。",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html"
         }
       ],
-      "lastFetchedAt": "2026-11-06",
+      "lastFetchedAt": "2026-11-07",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -110,14 +110,19 @@
       "title": "健康資産 — 健康トピック",
       "items": [
         {
+          "text": "集中力が続かないことに悩んでいた私が、在宅ワークで試して良かったガジェットといくつかの習慣（ライフハッカー・ジャパン）",
+          "desc": "集中力が続かないことに悩んでいた私が、在宅ワークで試して良かったガジェットといくつかの習慣（ライフハッカー・ジャパン）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KRmxpbnNIQU5oLXVXclMyajR3dDZZM2k4eFJWS2RyNmg3c3lxQWRXS3E4UjZ5Ui1heTFSOERVSHZIaU56Z081ZnVXOVRQR1VyMkp2MTlva2o5c2plMldFd09UNzc1cWFJNXVFc0lpUXZncmZFV1daOTFjMTc4eE0?oc=5"
+        },
+        {
+          "text": "【京都エリア】地域の中学生の学びを応援！京進のTOPΣ、中1・中2対象に無料学習サポート 「ハイグレード満点アウトプット」10月25日開催",
+          "desc": "【京都エリア】地域の中学生の学びを応援！京進のTOPΣ、中1・中2対象に無料学習サポート 「ハイグレード満点アウトプット」10月25日開催&nbsp;&nbsp;朝日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jeExjUUV0UHUzeENkcjJ6Tjh2NFV4eWFldHQ3UHlhTWt2OGVINDJPanhGeE9zQTRDLW5XOUlJdURpbTRjOEVhZ0V3RzdYU3otZVNldW5Wa0REYjA?oc=5"
+        },
+        {
           "text": "レモン果汁、飲み続けると「血圧や睡眠にいい」ってホント？",
           "desc": "レモン果汁、飲み続けると「血圧や睡眠にいい」ってホント？&nbsp;&nbsp;スポーツナビ",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ScUVUeWxRdVZUMjFqSkRwelJ0Q1VBTksxOE9NUHEtX3NsNlVuQV96WEdXeU9KdlVHVTJlVTlaejBNaHlXblI5Y1BPV0FNdGVoNGlfbHlKOF9ZeVNqZWx0eWE4bmNEdU5PQjYwRTRtdDk?oc=5"
-        },
-        {
-          "text": "ドラクエ感覚で更年期症状を攻略 睡眠の質管理のためにスマートウォッチとアプリ、AIを駆使",
-          "desc": "ドラクエ感覚で更年期症状を攻略 睡眠の質管理のためにスマートウォッチとアプリ、AIを駆使&nbsp;&nbsp;AERA DIGITAL",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5UWtUVExEcEJfTGhwajRjbkV0Tklmc3V3MnY2a290cGFfOElJNVdCMFg4NklBbHFvNDJ4dDNmemlubmhCUWlSY1NhYmIxcmNoenJUM0liaTlXUQ?oc=5"
         },
         {
           "text": "心地よい眠りによって、輝く美肌を叶える。睡眠の質を高める、美容賢者おすすめアイテム5選 (VOCE)",
@@ -138,14 +143,9 @@
           "text": "道路の騒音でうつ病リスク上昇 静かな外壁面との騒音差が大きいとリスク低下",
           "desc": "道路の騒音でうつ病リスク上昇 静かな外壁面との騒音差が大きいとリスク低下&nbsp;&nbsp;読売新聞",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzZkRhaUx1SUNETnA1anU5ZW9hNkVQT01DQU9Ed1c2QUtvMmIwejdFU25uSEpwV21ReWVPdVloZEFVTU5CdzhVcFVzaENFZEJmbm44YzZTdkl5SVMzQXBFSVJrV3FDdkhnQ0NIRlBR?oc=5"
-        },
-        {
-          "text": "がん研究センター、「全ゲノム解析」を実施（健康産業速報）",
-          "desc": "がん研究センター、「全ゲノム解析」を実施（健康産業速報）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50RE9zaVVzUXAtSV9Pd1NKYmx0ZGV5dE9sb0JJeTl2WExlVzJfN1paeF8tdk9yZ212UGo1ZDZfWjN4U3dueUhpT3N2R3QzS0lrMEd5OGctV0EwNDhxX2RvelRJc2dwa1RiTXFvcTVWQ2dDVUwyWlo5eVp0akhSRnc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-06",
+      "lastFetchedAt": "2026-11-07",
       "source": "Google News"
     },
     {
@@ -154,24 +154,14 @@
       "title": "生活資産 — 生活・社会",
       "items": [
         {
-          "text": "マヨネーズも値上がり「これだけ上がると手に負えない」暮らしに響く物価高 基調物価が目標2％到達も日銀・植田総裁「勝利宣言を出すということにはいたらない」",
-          "desc": "マヨネーズも値上がり「これだけ上がると手に負えない」暮らしに響く物価高 基調物価が目標2％到達も日銀・植田総裁「勝利宣言を出すということにはいたらない」&nbsp;&nbsp;TBS NEWS DIG",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RUnJiRExvWWFDTWdXSzA0ZkZzV3ljVy1uUEdjVEt4eDdTZlJoWGpCYWdyTDZVUlV0NkxQWlJaR0tHc0VoTXFYMTAwYWNKell4N2xBcS1XRQ?oc=5"
-        },
-        {
-          "text": "「一生かかっても使い切れないと思っていました」〈65歳・貯蓄8,000万円〉元会社員が定年後に始めた“豪華な暮らし”…72歳で直面した現実（THE GOLD ONLINE（ゴールドオンライン））",
-          "desc": "「一生かかっても使い切れないと思っていました」〈65歳・貯蓄8,000万円〉元会社員が定年後に始めた“豪華な暮らし”…72歳で直面した現実（THE GOLD ONLINE（ゴールドオンライン））&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4weHVaZ2ZjZ2lXVnd5UEhxZTdDcmJFSHBLQTF3M2RjdG9XM0NvSHFqWGFNRkZwNzdsTWJ4OXl0MGVQSG5jRVVUcjBOZ0JITE1WcUVlTVluTnJrT09UX3ZpZ0I0aHRvM1RvN21lcURaNFpPUXZfeV9RYWJxNTdVbmM?oc=5"
-        },
-        {
           "text": "【速報】新潟市東区の住宅で火災 1人暮らしの男性を救急搬送 「建物が燃えている」と目撃者から通報",
           "desc": "【速報】新潟市東区の住宅で火災 1人暮らしの男性を救急搬送 「建物が燃えている」と目撃者から通報&nbsp;&nbsp;TBS NEWS DIG",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUVmem1TdFFEM1ZvZDZOQUtXS1ZkdUFlcF9CbzdfdGxLZzkwWXREajBuN0NCWXNlWHB2aHhSSUFaeC04WldyVldIZFB4aUw5SUlmSVBYTkhzQQ?oc=5"
         },
         {
-          "text": "焼け跡から男性の遺体 千葉・旭市で住宅火災 1人暮らしの高齢男性と連絡取れず…警察が出火原因を捜査",
-          "desc": "焼け跡から男性の遺体 千葉・旭市で住宅火災 1人暮らしの高齢男性と連絡取れず…警察が出火原因を捜査&nbsp;&nbsp;TBS NEWS DIG",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GVXRFWlZ0Y3EtSjc2VnplZktmc0xWUm44elMwcFpORjFpMWVyN2d3Wl9LWVZYU1ZCTmJJSDFQd2RNcnZKdUtQRWxFMHdPMFJmdGZGenBSVQ?oc=5"
+          "text": "「家賃4万円台、車なし」で40年…〈年金月17万円・金融資産6,000万円〉70歳男性が“団地暮らし”を続ける理由",
+          "desc": "「家賃4万円台、車なし」で40年…〈年金月17万円・金融資産6,000万円〉70歳男性が“団地暮らし”を続ける理由&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5na0dqRUJVa0tHdEZpUThJZGFBWXZZM0hCZFZ0ODF1TGYzWkZLR3BOLW8wT1g3OExid1lXUF9FMFVmZC1FdThack05VXFqWXdSeWVTV1AwODBaWlpuLWlaOUhBOUxoVF9JaFBMLVdmWThNN24xRG9nYjBBYzFBdUU?oc=5"
         },
         {
           "text": "防災庁が発足 国民の災害備蓄なお4割台、緊急要請で備え促す",
@@ -187,9 +177,19 @@
           "text": "防災庁拠点の誘致合戦 迫る3.11超えの大災害、備え変わるか？（朝日新聞）",
           "desc": "防災庁拠点の誘致合戦 迫る3.11超えの大災害、備え変わるか？（朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ta0JaRzl0NFJYYU1vNW51Unl4SHRfQWY0YXQ2MUJqTDBrVEFpZGs4Wkl5T2E0SmNMaVRYeTRmNDJrSDZVcjdLZ1hUUGtZTllTV0ZIa1NhWlJBV0d4MHVTTGIwUGd1X1I3bDdJVkJiMXZfR0xETnRYRENod3BVSzQ?oc=5"
+        },
+        {
+          "text": "防災庁発足で全国民に「緊急要請」最低3日間、1週間分の水・食料を “国難級”災害に備える防災グッズが続々 100円ショップでも（FNNプライムオンライン（フジテレビ系））",
+          "desc": "防災庁発足で全国民に「緊急要請」最低3日間、1週間分の水・食料を “国難級”災害に備える防災グッズが続々 100円ショップでも（FNNプライムオンライン（フジテレビ系））&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YTU9YekhLSk5oWkFmSHVPVlVjSC1iRlFiaGVkbm5VNzY4UHRGTmVJOG83VHRxNDNnTk9KZTJxVGlZbm5NUVpCc2pqSDlQX0plM2ZMR3dMa202c29lOGtIbnpJWGpNejJkMlpGdU9pbmVMcjZUbnN3S2VSMkxoV2s?oc=5"
+        },
+        {
+          "text": "冬の光熱費どう抑える? 灯油18Lが前年同時期より約400円高に 着る毛布や窓の断熱パネル… 暖かく過ごす「あったかグッズ」 新潟（ＢＳＮ新潟放送）",
+          "desc": "冬の光熱費どう抑える? 灯油18Lが前年同時期より約400円高に 着る毛布や窓の断熱パネル… 暖かく過ごす「あったかグッズ」 新潟（ＢＳＮ新潟放送）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KdG1CdU1nTGRVN05ZM0FfdXQ2M3k1TWtvOU16VWp4Y0tsYTJsdDQ5N0JVMlRjdVBQZHBNNXZUUG5sUy1pT1E4X2N2dENKMm9aOXRFRXNIdmZIZlF0SU1felVwenhqMEtIVE1qLTlVZGxQak1TeDFoaXhKVjZ4UWc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-06",
+      "lastFetchedAt": "2026-11-07",
       "source": "Google News"
     },
     {
@@ -242,12 +242,17 @@
       "title": "仕事資産 — キャリア・副業",
       "items": [
         {
-          "text": "内田洋行[8057]：コーポレート・ガバナンスに関する報告書 2026/11/05 2026年11月5日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "内田洋行[8057]：コーポレート・ガバナンスに関する報告書 2026/11/05 2026年11月5日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUG1mLWRyaWx6aU5BVUc4QWhOMVhfaU9idUplSkh6T1RIcEtZSVNsWkhNcHdNWi1BOElrdnMwZHZXWWZfVVhlN2E0c2p3aEIxR2FaQWpCV1I2WkpHcXdxblVqOFB1VUc2emwtXzIxZHNTY2Jra3lUUWdBVUs0S3RJVm1SMGJJS2lPQlpfeGQzbGFKVFpDclFOc0Y4eTZ5SUptMnFjazgxTVVYVkdiMXJhNkp3eUlodllGUlJyOHR4a2J5Qk1kNm9PdFlhRTE?oc=5"
+          "text": "丸八証券[8700]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "丸八証券[8700]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZNXJlNFlqdmxSbUpkS3hXejZuVExCQVlEWFp5MHE5TTdIbVA1VzY4M2trQWNoWnUyM3o0SUxfcFBnUGVKQXQ5LXFFYkMwdUVIUTFDTFctWmROUEVmOFNrcWtsTU5UTndjWmc?oc=5"
+        },
+        {
+          "text": "みずほリース[8425]：コーポレート・ガバナンスに関する報告書 2026/11/06 2026年11月6日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "みずほリース[8425]：コーポレート・ガバナンスに関する報告書 2026/11/06 2026年11月6日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RY2RsU1hGWmVLOFd6TkJQclFjVkdianlJZXdIUndOb3lCQjY5WHVTNmkySHdWb1VFeHFJNGpUaWxZR3l2cmVoU0FDUGdXcmRLbmFKcUROcDBiREk1aFhnX3JUU05ZTVBNSFE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-06",
+      "lastFetchedAt": "2026-11-07",
       "source": "Google News"
     },
     {
@@ -256,42 +261,42 @@
       "title": "制度資産 — 制度・法律",
       "items": [
         {
-          "text": "防毒マスクの締め付けリングの使用に関する注意喚起について",
+          "text": "不正アクセスによる情報漏えい等の事案を踏まえたセキュリティ対策の徹底について（注意喚起）",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/newpage_77145.html"
+          "url": "https://www.mhlw.go.jp/stf/kinkyu/20261030.html"
         },
         {
-          "text": "令和８年度理容師・美容師養成功労者に対する厚生労働大臣表彰について",
+          "text": "令和９年度全国安全週間（第100回）のスローガンを募集します",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/newpage_77016.html"
+          "url": "https://www.mhlw.go.jp/stf/newpage_77180.html"
         },
         {
-          "text": "WEBマガジン「厚生労働」（連載[地域共生社会の実現へ向けて]ほか更新）",
+          "text": "病院報告（令和８(2026)年8月分概数）",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/web_magazine/"
+          "url": "https://www.mhlw.go.jp/toukei/saikin/hw/byouin/m26/08.html"
         },
         {
-          "text": "採用情報（任期付職員（業務改革推進専門官又は主査）募集情報）",
+          "text": "令和８年版死因究明等推進白書",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/ninkituki/ninki-gyoumukaikakusuishinsenmonkan.html"
+          "url": "https://www.mhlw.go.jp/stf/wp/hakusyo/shiinkyuumei/26/index.html"
         },
         {
-          "text": "令和8年度「人生会議」普及啓発イベント第一弾（和歌山）のアーカイブ動画を公開しました",
+          "text": "「第15回健康寿命をのばそう！アワード」（生活習慣病予防分野）の最終審査・表彰式を行います。",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/acp-jinseikaigi/"
+          "url": "https://www.mhlw.go.jp/stf/newpage_77095.html"
         },
         {
-          "text": "採用情報（任期付職員（職員の育児休業期間の代替職員）政策統括官（情報政策担当））募集情報）",
+          "text": "令和８年度　卓越した技能者を決定しました",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-ninki-seisakutoukatukan_ikuzi_00001.html"
+          "url": "https://www.mhlw.go.jp/stf/newpage_77068.html"
         },
         {
-          "text": "採用情報（期間業務職員（化学物質審査専門員）募集情報）",
+          "text": "ロシア連邦政府等から提供された抑留者に関する資料を日本側の資料と照合し、抑留中に死亡した者の個人を特定しました",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-iyakukyoku02-kagakubussitusinsasenmonin.html"
+          "url": "https://www.mhlw.go.jp/stf/newpage_76984.html"
         }
       ],
-      "lastFetchedAt": "2026-11-04",
+      "lastFetchedAt": "2026-11-07",
       "source": "厚生労働省 / Google News"
     }
   ]
