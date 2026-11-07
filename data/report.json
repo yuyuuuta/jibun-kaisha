@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-08",
   "summaries": [
     {
       "id": "finance",
@@ -7,14 +7,19 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "ポストトランプ〈次期大統領〉は誰が有力か…共和党大敗でヴァンス氏に暗雲､大勝でも喜べない分裂･民主党の本命不在 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "中間選挙の大勝が｢トランプ時代の終焉｣を示唆する一方､アメリカ政治の根深い分断は依然続いています。勝利に沸く民主党も､内部分裂や有権者の信頼を課題に抱え､共和党もトランプ路線を継続するか転換かで揺れ…",
-          "url": "https://toyokeizai.net/articles/-/963841?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "電気絶縁用セパレーター専業のニッポン高度紙工業が｢AIサーバー向けの需要爆増｣で上方修正  | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "電気絶縁用セパレーター専業大手で世界シェア約6割を占めるニッポン高度紙工業が業績の上方修正を発表しました。",
+          "url": "https://toyokeizai.net/articles/-/963901?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "島根銀行が大幅赤字予想に転落､\"100億円の増資\"を迫られた事情 大口融資先の｢全東信｣も破産 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "島根銀行は10月16日､SBI新生銀行を引受先とする第三者割当増資により100億円を調達すると発表しました。",
-          "url": "https://toyokeizai.net/articles/-/962915?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "明光ネットワークジャパン､｢明光義塾｣の生徒数が急回復し10万人超え　今期業績も反発へ  | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "小中学生、高校生向けの個別指導塾「明光義塾」を全国展開する明光ネットワークジャパンの今2027年8月期は売上高270億円（前期比3.7％増）、営業利益17億円（同12.5％増）の増収増益の見込みだ。…",
+          "url": "https://toyokeizai.net/articles/-/962918?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "上下院だけじゃない！民主党の｢ブルーツナミ｣襲来､｢史上最高のアメリカ中間選挙｣後を考える｢10の視点｣ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "アメリカ政治史に残る波乱と転換の2026年中間選挙。1988年以来のテキサス州での民主党上院議員誕生や若手スター台頭､南部の共和党牙城崩壊など､各地で予想外の展開が巻き起こりました。なぜ歴史的な激変…",
+          "url": "https://toyokeizai.net/articles/-/963796?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "利上げ局面に転換した米国 「語り過ぎないFRB」にも留意",
@@ -27,37 +32,32 @@
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91MktKbHlPaDMwbGcxdEd6dU5ua1VUNFVqc0NlZEF6MGtBSmNXZ0Y1eEREZXoyM2pFX1FRekdST29TWG94MVdJdU1LR0E?oc=5"
         },
         {
-          "text": "国内外の注目経済指標：米雇用統計が最大の焦点、FRBの金融政策見通しとドル相場を左右(フィスコ)",
-          "desc": "国内外の注目経済指標：米雇用統計が最大の焦点、FRBの金融政策見通しとドル相場を左右(フィスコ)&nbsp;&nbsp;Yahoo!ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVdPN2QzbmRVY1pkaU5ZWTl0UjBzZTdDRDZ3dlJyTGpEd24tRThwYnZoU2xCb1FFajA4am1fMFFhN0lfRjdzNWM5VUdrSnluS0ZxUFVCOHdOb3hxOHZ3b1BvblBBRnZmQlJuV0pyZmxjaHJ1WXZVTTJQaXlTUlJCRzZ4VnJBcUU?oc=5"
+          "text": "トランプ大敗で何が起きる？AI投資減速だけじゃない、日本を襲う「もう一つのリスク」",
+          "desc": "トランプ大敗で何が起きる？AI投資減速だけじゃない、日本を襲う「もう一つのリスク」&nbsp;&nbsp;ダイヤモンド・オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWcVB3d201YWF2VmxjdHdaOGM4WUUxVlloc1RrZ2k4WDg1ZGFrWlNkN0NhTm9nR2swbll6R2ZaQ2dYaXpscXA0WUw1Sm9qX3Z5eWdxbWlR?oc=5"
         },
         {
-          "text": "公的債務とノンバンク拡大、金融政策制約も＝シュナーベルＥＣＢ理事",
-          "desc": "公的債務とノンバンク拡大、金融政策制約も＝シュナーベルＥＣＢ理事&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOEpUUG91YXBmOTRTaVcyYXRSTUpyUlJ4U2UtR0Z4YmJRQXdtNktqWXgzdEJXT3hlekYyT2doUWJick1Fcl9yM21mOTBRckpJc3RVVENyQWs1TDB5YXNDMkNTVlBLUXAxZXZvQXc1LWcySzR2MnNQNnEzQ1VMTEtIZGFMTFBqdw?oc=5"
+          "text": "コラム：2027年は円高に転じるか、日銀の利上げ継続と円相場の行方＝内田稔氏",
+          "desc": "コラム：2027年は円高に転じるか、日銀の利上げ継続と円相場の行方＝内田稔氏&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmJvUEFNRHZMOHNKX2N2MGR0SWRRM3ZoeVFBR3Nkc2M3bXh5NUhRYjlHRzhZVGtBRzh2dkJ0TXFkeU1PcWdpeWxWZDNxWVhTOUYwZi1xLW1FVnZpaUZjZ3kxVFhGWDJVM1cweEJGMXc2X3VxcHVCTEpOMlFpYjB0WHBMVTVUQzlIa2dteGN3?oc=5"
         },
         {
-          "text": "FRBは「インフレ抑制重視」で2027年末まで高金利維持!?中間選挙敗北のトランプ“レガシー作り”がリスクに",
-          "desc": "FRBは「インフレ抑制重視」で2027年末まで高金利維持!?中間選挙敗北のトランプ“レガシー作り”がリスクに&nbsp;&nbsp;ダイヤモンド・オンライン",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IUEJYbDQ2UDZ0WUFqOEdoOW5sMXAtRTVuaVAxM2lhRzV4UnMtMEZnMlBqWVVEUVR2dV92LWRNRDJ1dUs2YUN0SzJRYnA?oc=5"
+          "text": "日銀会合は緩和モード修正だったが円相場の反応薄、 米中間選挙というビッグイベントと中東情勢にらみに",
+          "desc": "日銀会合は緩和モード修正だったが円相場の反応薄、 米中間選挙というビッグイベントと中東情勢にらみに&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40bVRlWDBMODhJZXBFeGY3cUxzc1hoY0VsODZiem5jLXJXVnVxZDVrWHJoU3UyekdVcmxRYmFsTWpGalRZc2ptbTJTZThaUWRrSGc?oc=5"
         },
         {
-          "text": "アングル：日銀、基調物価2％定着へ利上げ継続 「次の次」は転換点か",
-          "desc": "アングル：日銀、基調物価2％定着へ利上げ継続 「次の次」は転換点か&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtY3pOc0xmSzU0U3c1ZWlrVF9WYUwxenp5SnJGVUl6ZXBNVWRRLS1PSE1LWGc2d283Ylg4RmozaUtHSUw4bjVsUTBZYVRzci1ZVUdLT2xJMnh6cUVjYWp5TXB5c3Y4ZzlLUGszdU9Xa1IzRHdQbU1LejZGX2pPdw?oc=5"
+          "text": "日銀為替市況 午後５時時点、１５７円９４～９６銭のドル安・円高",
+          "desc": "日銀為替市況 午後５時時点、１５７円９４～９６銭のドル安・円高&nbsp;&nbsp;株探",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IRmp6ZlJpRVlvQy1yZGtWX0ZwZWFPWVRNS2RORHdIT1FyeFVaS0ZxaEhSUzhMaGNRTVRQS1E0SUptU0RSeThydFFTQnZHRTZhcEQxaDlOMGZRZUZOeDlpVw?oc=5"
         },
         {
-          "text": "ポートフォリオは変えない？ 米国株中心の“億り人”投資家が見る「米中間選挙後」の判断軸（みんかぶマガジン）",
-          "desc": "ポートフォリオは変えない？ 米国株中心の“億り人”投資家が見る「米中間選挙後」の判断軸（みんかぶマガジン）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RMFpsbElYMHhCYW1MNEk1cm5HcG5LbjB2MTBmYU13eWI1OXFtai1xZ3FTQll2cGwzR2p2d0xwQjgxOUlabGtfNG0yYng2cGdpb3BwcnVTdVRLT2pNSzhhbXhMTGZIS2pCejdIcWNWMDZwNjUwN3gyU0p5R2N0bG8?oc=5"
-        },
-        {
-          "text": "ＦＲＢ、政策判断にあたりインフレ注視の見通し＝ハセットＮＥＣ委員長",
-          "desc": "ＦＲＢ、政策判断にあたりインフレ注視の見通し＝ハセットＮＥＣ委員長&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZ0xVMmg4XzdWd0RHR0RDR2NTdkFoTW1RMExRN3puLWdTTFB4SE8tVEVxNFBiZDh5bU53MmZqNXVlWDlSUi1oSVVvektjVHhnSTRZMXFDbHRSQ292RmtLUFJhcWlYVHRvTVR4OXRMRFpNX2RVb3RSdHNyLWlTa1k?oc=5"
+          "text": "円に2方向から追い風、米選挙の民主優勢で対ドル急伸－日銀正常化も",
+          "desc": "円に2方向から追い風、米選挙の民主優勢で対ドル急伸－日銀正常化も&nbsp;&nbsp;Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zc2F0MHM1RVRjVnYxcGdCYnhjVjBVRzA4bTE0MEkzR0NpSmJyUDlzS3Q0ZlJEcU1UaDl6Q0JZOHU5cjYyeHM2bS1yemZvTmJhbXRmaXhqMUVUSkNiWVk5YVVBalNhVmQxWk9nYy1TaTRZd0FiOXE4?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-07",
+      "lastFetchedAt": "2026-11-08",
       "source": "東洋経済 / Google News"
     },
     {
@@ -65,6 +65,21 @@
       "icon": "🧠",
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
+        {
+          "text": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
+          "desc": "AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/"
+        },
+        {
+          "text": "「ChatGPTの回答にリンクがない＝見られていない」　実は違うAIの情報収集",
+          "desc": "ChatGPTやClaudeなどの生成AIに自社サイトが引用されていない場合、AIに情報を参照されていないと考えがちだ。だが、回答に表示されるリンクだけでは、AIがどのWebサイトを参考にしたのか分からない。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002948/"
+        },
+        {
+          "text": "AIで営業は効率化した、でもなぜ売れない？　成果を出す人が大切にしていること",
+          "desc": "AIで提案書の作成や情報収集は効率化できても、それだけで営業成績は上がるのか。AIを導入した営業現場で今、問われているのは、ツールを使いこなす力だけではない。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/"
+        },
         {
           "text": "2D図面をAIで3Dモデル化、編集可能なフィーチャー履歴も再構築",
           "desc": "WOGOは、機械設計における図面や3D CAD作業を自律実行する「Hacadly AIエージェント」の提供を開始した。大規模言語モデルと独自の図面／3D形状処理技術を組み合わせ、2D図面からの3Dモデル生成や、履歴のないCADデータからのフィーチャー再構築などを支援する。",
@@ -84,24 +99,9 @@
           "text": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
           "desc": "宅配ピザチェーン「ピザーラ」を運営するフォーシーズが、TVアニメ「Dr.STONE」のコラボCMについて謝罪した。「TikTok」上でAIを活用した広告の自動生成機能が有効になっていた結果、同アニメ製作委員会の事前監修・許諾を得ていない動画を配信していたという。",
           "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/"
-        },
-        {
-          "text": "MetaのAIエージェント「Muse」に音声対話機能　表情豊かなアバターと会話、まず米国で提供",
-          "desc": "Metaは、AIエージェント「Muse」にリアルタイム音声対話とアバター機能を追加すると発表した。米国で先行提供する。音声で作業を依頼できるほか、新技術により会話に合わせて表情や身ぶりが変わるアバターとの対面対話を可能にした。声は数百種類から選べ、今後はAIグラスなどへの展開も予定している。",
-          "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002939/"
-        },
-        {
-          "text": "根拠の大半は「黒塗り」　AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査",
-          "desc": "米国の非営利研究機関METRは、Anthropicの協力を得て「AIがAI開発を加速させているかどうか」を評価したレポートを公開した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/"
-        },
-        {
-          "text": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
-          "desc": "空研工業とRecursiveは、OpenAI APIを活用した「AIナレッジ基盤システム」を共同開発した。過去の図面や技術資料から必要な情報を検索する「図面検索」と、複数の資料の整合性を確認する「図面チェック」の2機能を備える。試用段階では、従来数十分から半日を要していた図面探しが平均4.5分で完了したという。",
-          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html"
         }
       ],
-      "lastFetchedAt": "2026-11-07",
+      "lastFetchedAt": "2026-11-08",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -120,14 +120,19 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jeExjUUV0UHUzeENkcjJ6Tjh2NFV4eWFldHQ3UHlhTWt2OGVINDJPanhGeE9zQTRDLW5XOUlJdURpbTRjOEVhZ0V3RzdYU3otZVNldW5Wa0REYjA?oc=5"
         },
         {
+          "text": "初回入荷分完売！使って楽しい、触ってハマる！「エアーマウス」×「フィジェット」の新感覚ガジェット「CheerPlay」待望のブラックカラーを販売開始",
+          "desc": "初回入荷分完売！使って楽しい、触ってハマる！「エアーマウス」×「フィジェット」の新感覚ガジェット「CheerPlay」待望のブラックカラーを販売開始&nbsp;&nbsp;朝日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tUFJSQUpwMjZEaHlONzkyMW8yUENDZVRWTElHdzRoRGVLS0RPUmtHRWl4ckdXVzVGQUpaVzVkelg4c3hweTA3WU10c3lDTFBvbUZ3TDh6YV8zUDA?oc=5"
+        },
+        {
+          "text": "スマホのブルーライトをカットすれば、睡眠の質は改善するの？",
+          "desc": "スマホのブルーライトをカットすれば、睡眠の質は改善するの？&nbsp;&nbsp;読売新聞",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVdiR3hTNWFZNENUZUIyYURpM0dLWHZHbzJYMk1xM1lBVXl5SHNIZ01NNE1uVTZMNng5aFJfd21KMkVBSmZyTEJ4bXVBTVF5UmQwalFFckY1NWc4Y3ZvYVFaUXFrakRLSnY0R1hjbDNKV01UZE9NeXdCWG14WjV4aF9fUmlDRUR2eXZ2dURoQQ?oc=5"
+        },
+        {
           "text": "レモン果汁、飲み続けると「血圧や睡眠にいい」ってホント？",
           "desc": "レモン果汁、飲み続けると「血圧や睡眠にいい」ってホント？&nbsp;&nbsp;スポーツナビ",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ScUVUeWxRdVZUMjFqSkRwelJ0Q1VBTksxOE9NUHEtX3NsNlVuQV96WEdXeU9KdlVHVTJlVTlaejBNaHlXblI5Y1BPV0FNdGVoNGlfbHlKOF9ZeVNqZWx0eWE4bmNEdU5PQjYwRTRtdDk?oc=5"
-        },
-        {
-          "text": "心地よい眠りによって、輝く美肌を叶える。睡眠の質を高める、美容賢者おすすめアイテム5選 (VOCE)",
-          "desc": "心地よい眠りによって、輝く美肌を叶える。睡眠の質を高める、美容賢者おすすめアイテム5選 (VOCE)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYjhFTFNRZ0dPZFFsajRhaWx2X19fZ1FOcXFKTldXMGNULW90YVZoaldwNDR4WnpSVWNtWTlGSGpHeW1wMlhPbmNOcDV3UC1kdGYydTFGanFXR2YyN0ZLeHQ5Qmg3NGdCbTI5QnlsdWgzTXR6UnZCMmJkSjhXcUtGUVJUZGM5c0I1S1BaSjhn?oc=5"
         },
         {
           "text": "家事や育児も「労働時間」長いと女性で心の健康リスク↑ 睡眠障害も",
@@ -138,14 +143,9 @@
           "text": "子どものカフェイン摂取、脳の表面積や睡眠との関連が研究で明らかに…週何回までならいい？最新研究",
           "desc": "子どものカフェイン摂取、脳の表面積や睡眠との関連が研究で明らかに…週何回までならいい？最新研究&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MkMyRlhURnNuZGMyXzNJX0tiQjhvY3VBRVkwN0x5N0piRUpBcDRLaGNYSUVqYzBJcHdWNkFIUFgtb0FEVUdtdjJ4RjhSWnFkMUJNZElfOV9DajlsTWZkYnRmN0NoNk5ocENRUzFlam1Ud28yZ1VpdjdOb1lfRXM?oc=5"
-        },
-        {
-          "text": "道路の騒音でうつ病リスク上昇 静かな外壁面との騒音差が大きいとリスク低下",
-          "desc": "道路の騒音でうつ病リスク上昇 静かな外壁面との騒音差が大きいとリスク低下&nbsp;&nbsp;読売新聞",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzZkRhaUx1SUNETnA1anU5ZW9hNkVQT01DQU9Ed1c2QUtvMmIwejdFU25uSEpwV21ReWVPdVloZEFVTU5CdzhVcFVzaENFZEJmbm44YzZTdkl5SVMzQXBFSVJrV3FDdkhnQ0NIRlBR?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-07",
+      "lastFetchedAt": "2026-11-08",
       "source": "Google News"
     },
     {
@@ -154,9 +154,19 @@
       "title": "生活資産 — 生活・社会",
       "items": [
         {
-          "text": "【速報】新潟市東区の住宅で火災 1人暮らしの男性を救急搬送 「建物が燃えている」と目撃者から通報",
-          "desc": "【速報】新潟市東区の住宅で火災 1人暮らしの男性を救急搬送 「建物が燃えている」と目撃者から通報&nbsp;&nbsp;TBS NEWS DIG",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zSUVmem1TdFFEM1ZvZDZOQUtXS1ZkdUFlcF9CbzdfdGxLZzkwWXREajBuN0NCWXNlWHB2aHhSSUFaeC04WldyVldIZFB4aUw5SUlmSVBYTkhzQQ?oc=5"
+          "text": "柴咲コウ、ネトフリ映画で演じた節約暮らしの主人公に「共感の嵐」",
+          "desc": "柴咲コウ、ネトフリ映画で演じた節約暮らしの主人公に「共感の嵐」&nbsp;&nbsp;朝日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hZVV4UUU0aVk5N05XNlYxN3hyRzREMndPcndFRVl0OTBOdzJmTHNrTE84dUFZZlVKRjdTMkh3WlNfNklkd3ZjVnd1dVpWSmIwblZORnVwWlVhRmgwZEVLSTVadUtGYnc?oc=5"
+        },
+        {
+          "text": "新潟市東区の住宅で火災 1人暮らしの男性が死亡「建物が燃えている」と目撃者から通報",
+          "desc": "新潟市東区の住宅で火災 1人暮らしの男性が死亡「建物が燃えている」と目撃者から通報&nbsp;&nbsp;TBS NEWS DIG",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41bVRoZDh4X3JVWXBYd0VRcTJ4cjJsQ3BoZUFjLTlnbmZVQzgxSVliXzgxMnJRWWVtNTF5c0E5YmQ2RkN1MnBDY2lVelgtdl9XMHU5QzNJRlNsQ1dpd1NzRW53T3RXMVE?oc=5"
+        },
+        {
+          "text": "「40年も働いた結果がこれか」電気代をケチって寒さに耐える71歳と、週1で寿司を楽しむ71歳…年金「月15万円」生活、明暗を分けた決定的な差（THE GOLD ONLINE（ゴールドオンライン））",
+          "desc": "「40年も働いた結果がこれか」電気代をケチって寒さに耐える71歳と、週1で寿司を楽しむ71歳…年金「月15万円」生活、明暗を分けた決定的な差（THE GOLD ONLINE（ゴールドオンライン））&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2QzLXNhM3MwX0J4VjMzS0N1T0JsY21GNzIxZmZsNVNkVVBEd1lvUkNuS0JEWFBkSFNVdmhBVFpkSUR4eFZwVUZETXd3bzZabWh5SWhHRlM1RmhMVDVsX1RmcHBVLVRDZ2xRSDBuam1qcjdMOTUtZF94elNDY0xmN3RhNG52NWdz?oc=5"
         },
         {
           "text": "「家賃4万円台、車なし」で40年…〈年金月17万円・金融資産6,000万円〉70歳男性が“団地暮らし”を続ける理由",
@@ -177,19 +187,9 @@
           "text": "防災庁拠点の誘致合戦 迫る3.11超えの大災害、備え変わるか？（朝日新聞）",
           "desc": "防災庁拠点の誘致合戦 迫る3.11超えの大災害、備え変わるか？（朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ta0JaRzl0NFJYYU1vNW51Unl4SHRfQWY0YXQ2MUJqTDBrVEFpZGs4Wkl5T2E0SmNMaVRYeTRmNDJrSDZVcjdLZ1hUUGtZTllTV0ZIa1NhWlJBV0d4MHVTTGIwUGd1X1I3bDdJVkJiMXZfR0xETnRYRENod3BVSzQ?oc=5"
-        },
-        {
-          "text": "防災庁発足で全国民に「緊急要請」最低3日間、1週間分の水・食料を “国難級”災害に備える防災グッズが続々 100円ショップでも（FNNプライムオンライン（フジテレビ系））",
-          "desc": "防災庁発足で全国民に「緊急要請」最低3日間、1週間分の水・食料を “国難級”災害に備える防災グッズが続々 100円ショップでも（FNNプライムオンライン（フジテレビ系））&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YTU9YekhLSk5oWkFmSHVPVlVjSC1iRlFiaGVkbm5VNzY4UHRGTmVJOG83VHRxNDNnTk9KZTJxVGlZbm5NUVpCc2pqSDlQX0plM2ZMR3dMa202c29lOGtIbnpJWGpNejJkMlpGdU9pbmVMcjZUbnN3S2VSMkxoV2s?oc=5"
-        },
-        {
-          "text": "冬の光熱費どう抑える? 灯油18Lが前年同時期より約400円高に 着る毛布や窓の断熱パネル… 暖かく過ごす「あったかグッズ」 新潟（ＢＳＮ新潟放送）",
-          "desc": "冬の光熱費どう抑える? 灯油18Lが前年同時期より約400円高に 着る毛布や窓の断熱パネル… 暖かく過ごす「あったかグッズ」 新潟（ＢＳＮ新潟放送）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KdG1CdU1nTGRVN05ZM0FfdXQ2M3k1TWtvOU16VWp4Y0tsYTJsdDQ5N0JVMlRjdVBQZHBNNXZUUG5sUy1pT1E4X2N2dENKMm9aOXRFRXNIdmZIZlF0SU1felVwenhqMEtIVE1qLTlVZGxQak1TeDFoaXhKVjZ4UWc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-07",
+      "lastFetchedAt": "2026-11-08",
       "source": "Google News"
     },
     {
@@ -197,11 +197,6 @@
       "icon": "❤️",
       "title": "関係資産 — トレンド・体験",
       "items": [
-        {
-          "text": "【東京のイベント】今週末(10月17日・18日)に行きたい！「三鷹の森フェスティバル2026」「HIGASHIYAMATO ALL FEST2026」など東京都内のお祭り＆フェスを紹介",
-          "desc": "【東京のイベント】今週末(10月17日・18日)に行きたい！「三鷹の森フェスティバル2026」「HIGASHIYAMATO ALL FEST2026」など東京都内のお祭り＆フェスを紹介&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oa0JhLVhuaVRHTXJYNE4zbWVVT3h0aHdvWGtuNmZSZnJyM0pvbDBVRmRYVzdlX3l0bHl2Mkoyd1djSi0zYzM1X09MT096dW9ZYWZGNTJn0gFbQVVfeXFMTk1ibjdHMXBnUkpRM3lVRWJyNVNqcU9ZWURzSW5mM3Bra0NyWEdoQURrYkljYVFlaEluc2luZXd2MFBLLU1iTTJCTkUtRlUzZ0JXZHNmSHZOYnhnMA?oc=5"
-        },
         {
           "text": "東京、11月に行くべきアート展5選",
           "desc": "東京、11月に行くべきアート展5選&nbsp;&nbsp;Time Out Tokyo",
@@ -213,27 +208,32 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13b1VJS3pjTHBORWl3SVhvNmVwWEJFQlZpQ1VjZTZFZkhLTEVUZXZhZlB6OVNUbG0tTEtVUkhnMnpKbXFYYzdmSjluOWhick9iWXR6cFJWVVo3WE5lMnN4MTZET283UWFOcFBLaTR0LUZsT3NacG1ma1Yxd2FGb2s?oc=5"
         },
         {
-          "text": "富山県で遊ぶなら！富山県の人気おでかけスポット5選",
-          "desc": "富山県で遊ぶなら！富山県の人気おでかけスポット5選&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fX0wxYlloSUV2N3p4Q1NHY0phR0RBNjZNZXZEWEc1TW4xZlRLRE1oY21YeHh0MFQ1UFNtbGVEYkVTUXRydnZXMWZPTkVNWTItdXBreXpR0gFbQVVfeXFMTTBJVi1GY1FvR0hHb09uVFlBSGh3dEtITXZ5SHl5MFc2Yjc1VDBIZU56OUVVdzhNZjRRZnJtZnZGeDZUSmtOYmx3dVJSa1hoYWNEYmdqRk9kUzZBOA?oc=5"
-        },
-        {
           "text": "秋の高原を疾走、６頭のヒツジの行方に目が離せない気まぐれレース、九重“夢”大吊橋が20周年の九重町に（TOSテレビ大分）",
           "desc": "秋の高原を疾走、６頭のヒツジの行方に目が離せない気まぐれレース、九重“夢”大吊橋が20周年の九重町に（TOSテレビ大分）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRT2pLWTA0N21Rd3VEVmtWVWFzWGNBNWlYT09zaXEzUlJsV1FwMFQxVzZqLWJ5SFp4SVp5SDlPTjlIeVlBSWVIVGZPT1RPbjlkcEF2XzBwdlNGZ29qV3psOVJ1aUhycTVBZkpJQmFSVndjZXdfRGtvWlZMNkhhWXM?oc=5"
         },
         {
-          "text": "栃木県で遊ぶなら！栃木県の人気おでかけスポット5選",
-          "desc": "栃木県で遊ぶなら！栃木県の人気おでかけスポット5選&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SclV6TnpDNjNKWVN1NXBORTdTRWVrVDN1NUotZnJLYXQzTVgwZDZtYTZwdTlMTkhHZFEzbDRxYnZhYVFkT3VoYXY2dlE0aDBFRXVWYVR30gFbQVVfeXFMT3V6SEl4MGVRb0ZzRU9lTHJUakhRNG1hX1lrRi1kTFF0WjgyWVNDUVBPTHhNMk5IWGVrS0hDMXhOMG1sMHd6bW9hVGZUZ2Jsd1NoY0J5QVROc3NTQQ?oc=5"
+          "text": "福島県で遊ぶなら！福島県の人気おでかけスポット5選",
+          "desc": "福島県で遊ぶなら！福島県の人気おでかけスポット5選&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsOUxmdjI4MHJvUy1Ucm1RSmVoU3d2Mm5SUVIwVWtyeVlxcHZUeVFCUzdIVU9XTDFvT0lNMU0yUThtOE5vZDNyNGpoYlNLUEtLZFNVV9IBWkFVX3lxTE1iMDJZZ0ZXbWlmU0pfMGJaelBkakpwOEZ0U01pR1NJd19FdzhRQlVqZWtUdHVDek5leGoyVEtnQjJSUWZBdjIzdmE2c1NYQ19lWEJEd2J2Rm51UQ?oc=5"
         },
         {
-          "text": "新大阪駅から一駅！JR大阪駅直結の最新スポット「グラングリーン大阪」ならグルメ、ショッピング、宿泊に温泉までそろう！うめきた公園でのんびりおさんぽも",
-          "desc": "新大阪駅から一駅！JR大阪駅直結の最新スポット「グラングリーン大阪」ならグルメ、ショッピング、宿泊に温泉までそろう！うめきた公園でのんびりおさんぽも&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TV21iSVhLVGE2VUNfRVFZOXRLa3FKUDF3c2NGZVJObHpZVUtGTVN5ekU1V0x5Qy1DNmlwMXZJYTBybDdkRzd6eU9uOS1TeTVFamloMzN30gFbQVVfeXFMTmFYQWNBODVvcTluelpFcTZjeXZvdERTT0owWEpPak15SzQ3X0hkWkhIQ3o3S2ZWWTdIWi1McUVtQWl2VHZfV2N3NTlDSjZfRUhUbTNEQUpDU0thRQ?oc=5"
+          "text": "京都で遊ぶなら！京都府の人気おでかけスポット7選",
+          "desc": "京都で遊ぶなら！京都府の人気おでかけスポット7選&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zSTZfOVdjc3NpbE9pNHlqTWZKYUlhUEpjaFRGNmlBdFdaUEpQcjBzWlg3bWFtZXNmeEFzamxTdTlKNjlMLVNnOXZFeFA4ZXRmQ3Vtc0RB0gFbQVVfeXFMTzRUTGdscFNtOVpHN29RSzdTdWF2a3M2Qk8wbTJsc3pSdE9DMGZ3STNwTjdiaS1oaGswRnpBV2Uxb2JhYTVGeFd3M3EtUGFUXzE0dkMtTURsWXlCNA?oc=5"
+        },
+        {
+          "text": "宮城県で遊ぶなら！宮城県の人気おでかけスポット5選",
+          "desc": "宮城県で遊ぶなら！宮城県の人気おでかけスポット5選&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fcVAxd0gzU28wVUVKS3lGak12S2UxNWpCN0t1SDR3cGFHaXVmVURaM01TTXh0bXI3M05rZjZvV1F1VVZOMUVoVk9CQUN2U081RERnZU930gFbQVVfeXFMUGNsNXVVN3R5SEc2SHhGSEM2R05zU0I1cFQ3YW0wTFI2cGoteXkwelptdTFzd2diamx2bThXYnhXczItU1VDMVJyTWdBaVRRUzdwb0lmd0hxT2w2Zw?oc=5"
+        },
+        {
+          "text": "＜画像8 / 8＞サブカルの宝庫・池袋の話題のエンタメスポットBEST3",
+          "desc": "＜画像8 / 8＞サブカルの宝庫・池袋の話題のエンタメスポットBEST3&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEN1JTMXZ4d2U4ZkhEYU5TV3BOUTFaMUs1VEs4dm9NVnA2cHB0V252WEdwS3ZsYUFkVmZGNmJkRWVNTDVEalhLSENFSmRUVVNIYVpTVEh1bnI2TUd4dlJubTh0YjJYWW9aaWk0Z2lmdm5keUtsOHZZT2VtTQ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-06",
+      "lastFetchedAt": "2026-11-08",
       "source": "Google News"
     },
     {
@@ -242,17 +242,27 @@
       "title": "仕事資産 — キャリア・副業",
       "items": [
         {
+          "text": "AIに仕事を奪われないデータサイエンティスト、変わるスキルセット",
+          "desc": "AIに仕事を奪われないデータサイエンティスト、変わるスキルセット&nbsp;&nbsp;日経クロステック",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOempEM2w4by05bkthNjJCNVZ3Vkk4cmliVlRpb0tSaUU2WExGRDhvajlkT1JfMWZta0tab3VfX1RqSzFQbHBWbzU3SW9mYVdnTV9aQ0dzVEJhbFFobE1uWXljYkVzbVhNWGREZGw3b19HU2dEdWp1Z2R2TTV1Mmh2M2h5S1lMVVYtbUMybkpxOVlNQTRWdHpVWjFkeDNZVE1DbUZYWXczME5IdFJkZEo5clRB?oc=5"
+        },
+        {
+          "text": "「組織のスキル」と「個人のスキル」〜AI時代の実務実践を支える2冊：ITソリューション塾",
+          "desc": "「組織のスキル」と「個人のスキル」〜AI時代の実務実践を支える2冊：ITソリューション塾&nbsp;&nbsp;オルタナティブ・ブログ",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UMVM5NV9hU2g3blRFU1lxM2JTUU9MOHVkWmpoeGFTTVdKUW1uU0Z3QTlJSlZhb2hZSE9USGhKMmo4TzZqZFcyYWNRaTktQU1vcDEtVTdPRDQtVy1rSHdKVWdIQ2U4VGNoSmNSbW9n?oc=5"
+        },
+        {
           "text": "丸八証券[8700]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
           "desc": "丸八証券[8700]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZNXJlNFlqdmxSbUpkS3hXejZuVExCQVlEWFp5MHE5TTdIbVA1VzY4M2trQWNoWnUyM3o0SUxfcFBnUGVKQXQ5LXFFYkMwdUVIUTFDTFctWmROUEVmOFNrcWtsTU5UTndjWmc?oc=5"
         },
         {
-          "text": "みずほリース[8425]：コーポレート・ガバナンスに関する報告書 2026/11/06 2026年11月6日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "みずほリース[8425]：コーポレート・ガバナンスに関する報告書 2026/11/06 2026年11月6日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RY2RsU1hGWmVLOFd6TkJQclFjVkdianlJZXdIUndOb3lCQjY5WHVTNmkySHdWb1VFeHFJNGpUaWxZR3l2cmVoU0FDUGdXcmRLbmFKcUROcDBiREk1aFhnX3JUU05ZTVBNSFE?oc=5"
+          "text": "内田洋行[8057]：コーポレート・ガバナンスに関する報告書 2026/11/05 2026年11月5日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "内田洋行[8057]：コーポレート・ガバナンスに関する報告書 2026/11/05 2026年11月5日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUG1mLWRyaWx6aU5BVUc4QWhOMVhfaU9idUplSkh6T1RIcEtZSVNsWkhNcHdNWi1BOElrdnMwZHZXWWZfVVhlN2E0c2p3aEIxR2FaQWpCV1I2WkpHcXdxblVqOFB1VUc2emwtXzIxZHNTY2Jra3lUUWdBVUs0S3RJVm1SMGJJS2lPQlpfeGQzbGFKVFpDclFOc0Y4eTZ5SUptMnFjazgxTVVYVkdiMXJhNkp3eUlodllGUlJyOHR4a2J5Qk1kNm9PdFlhRTE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-07",
+      "lastFetchedAt": "2026-11-08",
       "source": "Google News"
     },
     {
