@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "summaries": [
     {
       "id": "finance",
@@ -7,24 +7,39 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "電気絶縁用セパレーター専業のニッポン高度紙工業が｢AIサーバー向けの需要爆増｣で上方修正  | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "電気絶縁用セパレーター専業大手で世界シェア約6割を占めるニッポン高度紙工業が業績の上方修正を発表しました。",
-          "url": "https://toyokeizai.net/articles/-/963901?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "〈下院3勝33敗､上院は全敗か〉世界一の富豪イーロン･マスク氏の共和党への大盤振る舞いは完全な空振りに　 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "スペースXやテスラなど複数事業を率いる世界的富豪は､政治の荒波とどのように向き合うのでしょうか。",
+          "url": "https://toyokeizai.net/articles/-/964035?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "明光ネットワークジャパン､｢明光義塾｣の生徒数が急回復し10万人超え　今期業績も反発へ  | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "小中学生、高校生向けの個別指導塾「明光義塾」を全国展開する明光ネットワークジャパンの今2027年8月期は売上高270億円（前期比3.7％増）、営業利益17億円（同12.5％増）の増収増益の見込みだ。…",
-          "url": "https://toyokeizai.net/articles/-/962918?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢銃殺刑ライブ配信｣をトランプ大統領が中止…ヘグセス米国防長官が進めようとした異例の計画と､その危うさ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "銃殺刑のライブ配信計画を発表し､物議を醸したヘグセス国防長官。その背後にある宗教観や強硬な軍人観､米軍組織を揺るがす数々の言動から見える危険な思想。今､民主主義国家アメリカで何が起きているのかを探り…",
+          "url": "https://toyokeizai.net/articles/-/963611?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "上下院だけじゃない！民主党の｢ブルーツナミ｣襲来､｢史上最高のアメリカ中間選挙｣後を考える｢10の視点｣ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "アメリカ政治史に残る波乱と転換の2026年中間選挙。1988年以来のテキサス州での民主党上院議員誕生や若手スター台頭､南部の共和党牙城崩壊など､各地で予想外の展開が巻き起こりました。なぜ歴史的な激変…",
-          "url": "https://toyokeizai.net/articles/-/963796?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢マンジャロ｣のイーライリリー､大幅上方修正の裏側 \"肥満薬は富裕層だけ\"ではなかった | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "肥満薬はもはや一部の富裕層だけのものではありません。イーライリリーの業績急伸の背景には､中間層や高齢者層にも広がる需要がありました。",
+          "url": "https://toyokeizai.net/articles/-/963240?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "利上げ局面に転換した米国 「語り過ぎないFRB」にも留意",
-          "desc": "利上げ局面に転換した米国 「語り過ぎないFRB」にも留意&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pRmx3UVNEUVVvLURYRHlGSU1WRkh0V1JRdzRsLUFlekx1a1lIRTlteXkxb3JpanUtXzVlOGk5eHZhRDNST1Q5WWlKN0pDMUtSaUY2emw3X0FFeDJPY3VPaHBHRkIwQzBtelY5LQ?oc=5"
+          "text": "｢100人乗っても大丈夫｣ 物置の稲葉製作所が連続減益の公算大､オフィス家具の売れ行きは堅調だが… | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "｢100人乗っても大丈夫｣というCMで有名な稲葉製作所ですが､鋼製物置で不振が続いています。",
+          "url": "https://toyokeizai.net/articles/-/962944?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "｢文字の危機｣を乗り越えるためには｢手書き｣の復権が必要､手書きの身体性が思考を深める | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "｢手書き｣の価値が見失われつつある現代､書家･石川九楊氏は\"筆蝕の芸術\"としての書の本質を問い直します。手で書く行為が持つ身体性や歴史との結び付き､そして縦書き文化の意義とは――。",
+          "url": "https://toyokeizai.net/articles/-/963460?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "あぁついに〈AI半導体株バブル〉が完全に崩壊し始めた…その証拠はキオクシアよりも､あの優良株の暴落だ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "世界同時株安の波が､歴史的な選挙敗北をきっかけに本格化しています。株価は単なる調整ではなく､\"バブルの崩壊\"が現実となったのでしょうか。優良株までも投げ売られ､市場全体に波及し始めた今､その動きをど…",
+          "url": "https://toyokeizai.net/articles/-/964009?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "防衛費｢10兆円増額｣が待ち構える恐ろしい落とし穴､一度増やすと減らせない｢3つの罠｣が日本経済の将来をむしばむ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "防衛費が急激に拡大し､将来的には10兆円規模に達する見通しの日本。この軍事支出の増大は､経済を圧迫し､社会資本や教育への投資を阻害すると指摘されています。一度増えた防衛費が簡単に削減できない構造的な…",
+          "url": "https://toyokeizai.net/articles/-/963590?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "黒田東彦が解説する「2026年ノーベル経済学賞」、フォワードガイダンスの意義とウォーシュFRBの挑戦",
@@ -37,27 +52,12 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWcVB3d201YWF2VmxjdHdaOGM4WUUxVlloc1RrZ2k4WDg1ZGFrWlNkN0NhTm9nR2swbll6R2ZaQ2dYaXpscXA0WUw1Sm9qX3Z5eWdxbWlR?oc=5"
         },
         {
-          "text": "コラム：2027年は円高に転じるか、日銀の利上げ継続と円相場の行方＝内田稔氏",
-          "desc": "コラム：2027年は円高に転じるか、日銀の利上げ継続と円相場の行方＝内田稔氏&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmJvUEFNRHZMOHNKX2N2MGR0SWRRM3ZoeVFBR3Nkc2M3bXh5NUhRYjlHRzhZVGtBRzh2dkJ0TXFkeU1PcWdpeWxWZDNxWVhTOUYwZi1xLW1FVnZpaUZjZ3kxVFhGWDJVM1cweEJGMXc2X3VxcHVCTEpOMlFpYjB0WHBMVTVUQzlIa2dteGN3?oc=5"
-        },
-        {
-          "text": "日銀会合は緩和モード修正だったが円相場の反応薄、 米中間選挙というビッグイベントと中東情勢にらみに",
-          "desc": "日銀会合は緩和モード修正だったが円相場の反応薄、 米中間選挙というビッグイベントと中東情勢にらみに&nbsp;&nbsp;ザイFX！",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40bVRlWDBMODhJZXBFeGY3cUxzc1hoY0VsODZiem5jLXJXVnVxZDVrWHJoU3UyekdVcmxRYmFsTWpGalRZc2ptbTJTZThaUWRrSGc?oc=5"
-        },
-        {
-          "text": "日銀為替市況 午後５時時点、１５７円９４～９６銭のドル安・円高",
-          "desc": "日銀為替市況 午後５時時点、１５７円９４～９６銭のドル安・円高&nbsp;&nbsp;株探",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IRmp6ZlJpRVlvQy1yZGtWX0ZwZWFPWVRNS2RORHdIT1FyeFVaS0ZxaEhSUzhMaGNRTVRQS1E0SUptU0RSeThydFFTQnZHRTZhcEQxaDlOMGZRZUZOeDlpVw?oc=5"
-        },
-        {
-          "text": "円に2方向から追い風、米選挙の民主優勢で対ドル急伸－日銀正常化も",
-          "desc": "円に2方向から追い風、米選挙の民主優勢で対ドル急伸－日銀正常化も&nbsp;&nbsp;Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zc2F0MHM1RVRjVnYxcGdCYnhjVjBVRzA4bTE0MEkzR0NpSmJyUDlzS3Q0ZlJEcU1UaDl6Q0JZOHU5cjYyeHM2bS1yemZvTmJhbXRmaXhqMUVUSkNiWVk5YVVBalNhVmQxWk9nYy1TaTRZd0FiOXE4?oc=5"
+          "text": "FX・為替相場の注目指標や予想を解説 - 【11月9日～の週】為替相場の注目材料スケジュールと焦点",
+          "desc": "FX・為替相場の注目指標や予想を解説 - 【11月9日～の週】為替相場の注目材料スケジュールと焦点&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Q2VlMEhwN0FhTG9TNmRQM2ZqQVRZRG9zSEU3RTdwaGdjSGdYSDZSUzdnZXZwTzJuYkdXaGZpelhyUTFTYXpqNW52MzlYczFHd0E?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-08",
+      "lastFetchedAt": "2026-11-09",
       "source": "東洋経済 / Google News"
     },
     {
@@ -65,6 +65,11 @@
       "icon": "🧠",
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
+        {
+          "text": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+          "desc": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
+          "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html"
+        },
         {
           "text": "AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ",
           "desc": "AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ。",
@@ -94,14 +99,9 @@
           "text": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
           "desc": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ。",
           "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/"
-        },
-        {
-          "text": "ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信",
-          "desc": "宅配ピザチェーン「ピザーラ」を運営するフォーシーズが、TVアニメ「Dr.STONE」のコラボCMについて謝罪した。「TikTok」上でAIを活用した広告の自動生成機能が有効になっていた結果、同アニメ製作委員会の事前監修・許諾を得ていない動画を配信していたという。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/"
         }
       ],
-      "lastFetchedAt": "2026-11-08",
+      "lastFetchedAt": "2026-11-09",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -135,17 +135,17 @@
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ScUVUeWxRdVZUMjFqSkRwelJ0Q1VBTksxOE9NUHEtX3NsNlVuQV96WEdXeU9KdlVHVTJlVTlaejBNaHlXblI5Y1BPV0FNdGVoNGlfbHlKOF9ZeVNqZWx0eWE4bmNEdU5PQjYwRTRtdDk?oc=5"
         },
         {
+          "text": "ぐっすり眠れば食欲をコントロールできる！？ダイエットの敵「睡眠不足」を解消しよう",
+          "desc": "ぐっすり眠れば食欲をコントロールできる！？ダイエットの敵「睡眠不足」を解消しよう&nbsp;&nbsp;スポーツナビ",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01NFhSMEhhbnczaG1fcjRiUXRCcHgyZnh2djRGTFNmR1BrUzhsYTlnS0RNUlMtVnhKbTVUVGtMdkNRTnZUNXRwVDBObURjWk55VlJrdHF2SldXeGpYd3pQdXhERUFESVhIaEhKVTVvQ1k?oc=5"
+        },
+        {
           "text": "家事や育児も「労働時間」長いと女性で心の健康リスク↑ 睡眠障害も",
           "desc": "家事や育児も「労働時間」長いと女性で心の健康リスク↑ 睡眠障害も&nbsp;&nbsp;朝日新聞",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnM1B4aGcwU2VKUDJDUVdzczVSaENPT1JFek9qNl82c3R2V2RPTFZBVTZvSzhsMmVWYmZnR1RpWjVmTGFZdlRURC1jSFl0cjdZWGNHc0lsR1FXVGFiTUoxS0Z6VUREOVk?oc=5"
-        },
-        {
-          "text": "子どものカフェイン摂取、脳の表面積や睡眠との関連が研究で明らかに…週何回までならいい？最新研究",
-          "desc": "子どものカフェイン摂取、脳の表面積や睡眠との関連が研究で明らかに…週何回までならいい？最新研究&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2MkMyRlhURnNuZGMyXzNJX0tiQjhvY3VBRVkwN0x5N0piRUpBcDRLaGNYSUVqYzBJcHdWNkFIUFgtb0FEVUdtdjJ4RjhSWnFkMUJNZElfOV9DajlsTWZkYnRmN0NoNk5ocENRUzFlam1Ud28yZ1VpdjdOb1lfRXM?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-08",
+      "lastFetchedAt": "2026-11-09",
       "source": "Google News"
     },
     {
@@ -189,7 +189,7 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ta0JaRzl0NFJYYU1vNW51Unl4SHRfQWY0YXQ2MUJqTDBrVEFpZGs4Wkl5T2E0SmNMaVRYeTRmNDJrSDZVcjdLZ1hUUGtZTllTV0ZIa1NhWlJBV0d4MHVTTGIwUGd1X1I3bDdJVkJiMXZfR0xETnRYRENod3BVSzQ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-08",
+      "lastFetchedAt": "2026-11-09",
       "source": "Google News"
     },
     {
@@ -250,19 +250,9 @@
           "text": "「組織のスキル」と「個人のスキル」〜AI時代の実務実践を支える2冊：ITソリューション塾",
           "desc": "「組織のスキル」と「個人のスキル」〜AI時代の実務実践を支える2冊：ITソリューション塾&nbsp;&nbsp;オルタナティブ・ブログ",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UMVM5NV9hU2g3blRFU1lxM2JTUU9MOHVkWmpoeGFTTVdKUW1uU0Z3QTlJSlZhb2hZSE9USGhKMmo4TzZqZFcyYWNRaTktQU1vcDEtVTdPRDQtVy1rSHdKVWdIQ2U4VGNoSmNSbW9n?oc=5"
-        },
-        {
-          "text": "丸八証券[8700]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "丸八証券[8700]：コーポレート・ガバナンスに関する報告書 2026/11/02 2026年11月2日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZNXJlNFlqdmxSbUpkS3hXejZuVExCQVlEWFp5MHE5TTdIbVA1VzY4M2trQWNoWnUyM3o0SUxfcFBnUGVKQXQ5LXFFYkMwdUVIUTFDTFctWmROUEVmOFNrcWtsTU5UTndjWmc?oc=5"
-        },
-        {
-          "text": "内田洋行[8057]：コーポレート・ガバナンスに関する報告書 2026/11/05 2026年11月5日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "内田洋行[8057]：コーポレート・ガバナンスに関する報告書 2026/11/05 2026年11月5日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUG1mLWRyaWx6aU5BVUc4QWhOMVhfaU9idUplSkh6T1RIcEtZSVNsWkhNcHdNWi1BOElrdnMwZHZXWWZfVVhlN2E0c2p3aEIxR2FaQWpCV1I2WkpHcXdxblVqOFB1VUc2emwtXzIxZHNTY2Jra3lUUWdBVUs0S3RJVm1SMGJJS2lPQlpfeGQzbGFKVFpDclFOc0Y4eTZ5SUptMnFjazgxTVVYVkdiMXJhNkp3eUlodllGUlJyOHR4a2J5Qk1kNm9PdFlhRTE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-08",
+      "lastFetchedAt": "2026-11-09",
       "source": "Google News"
     },
     {
