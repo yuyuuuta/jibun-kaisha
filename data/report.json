@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "summaries": [
     {
       "id": "finance",
@@ -7,9 +7,9 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "｢アンソロピックの悪質IPO｣＋｢エヌビディアCEOスキャンダル｣……ついにAI･半導体バブル崩壊は決定的瞬間を迎えそうだ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "AIバブル崩壊が進行しているのでしょうか。",
-          "url": "https://toyokeizai.net/articles/-/964642?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "初めての買い物件は秋葉原の小さなビル､今も持ち続けているのは昔の苦しさを忘れないため | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "銀行マンから不動産会社のトップへ転じ､｢駅近､中規模､都心一等地｣の戦略で会社再生を果たしたヒューリック会長･西浦三郎氏。ぬるま湯的体質を打破し逆境を乗り越えた改革の軌跡と､その裏側に迫ります。",
+          "url": "https://toyokeizai.net/articles/-/964392?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "ＦＲＢ、27年の会合日程発表 金利決定の回数8回から7回に",
@@ -17,14 +17,9 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYklEWkZMelFLU0ZLWjR0Y3pidjBSd25BVG54VzdxUDdpTjBYNUJHT1lURFJlUXlqTllPTFRXR2lPUlVXWUpUNFVDb3RjeG92cWJzQy1KbXhwcGtZZTFMTW9vMWNERl9xaUYwaDA4RXNpWTJGUjkzRjBKLV9BTFcyMzl4SkMtbkg1cW83TlZwaHIxMWN0a2RXUXNVYw?oc=5"
         },
         {
-          "text": "米雇用統計（26年10月）－非農業部門雇用者数（前月比）は+16.5万人と前月（+6.0万人）、市場予想（+7.0万人）を大幅に上回る",
-          "desc": "米雇用統計（26年10月）－非農業部門雇用者数（前月比）は+16.5万人と前月（+6.0万人）、市場予想（+7.0万人）を大幅に上回る&nbsp;&nbsp;ニッセイ基礎研究所",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aa2RWWU5qWE53RVVCMWtMTW5aQ2FSUWlLbUp5aDZ4MWJkSUZBRmN2UDZhUWdfdUNUUXVoV2ZkTE5tNkI4OVhGVkhWd3BnaFZzVGtZOU1tUXlSRXh6OHZTaTIwcUVreG5qTU1VajRtVdIBf0FVX3lxTE8xb091N1RQTVNWdF9nd1dxNm9XRHZIZTVPM09VUWxVa1gzYjR1QVhIMGw3dWh0MmtDN3BIUHUtVmpCRHlvTUVmRi1iUTlyMW1QNWV2QVhvMXJVOXlqTDJORjZOR2dmZ3d3SFVaRjRhOGhRSlMtZlZXcGI1ZEtfT3c?oc=5"
-        },
-        {
-          "text": "米国の雇用と賃金が再加速、物価高でFRBの12月利上げ観測を後押し",
-          "desc": "米国の雇用と賃金が再加速、物価高でFRBの12月利上げ観測を後押し&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHZtdHFWdkJzTFVpNklZUGJIbWtwUXVzUGpIN1dFRmdwRHJDM0xmdVR3RWRydkJxazRDeUJ5SDJyemQ4eEFZNlp0QmZwbTlhZDRIbmZCWXZsNEQ5bVBkdHFUaTdzMTdFTFU4UjNKQlBnRWpoUVp5LUpkekxrRjM3WFVuaGVST3hh?oc=5"
+          "text": "FX・為替相場の注目指標や予想を解説 - 【11月16日～の週】為替相場の注目材料スケジュールと焦点",
+          "desc": "FX・為替相場の注目指標や予想を解説 - 【11月16日～の週】為替相場の注目材料スケジュールと焦点&nbsp;&nbsp;ザイFX！",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EY05hYUZPV0xnUVlzb04teThTZTlRbzZlQ1BISUNEODBPZzJBVGdzLVdmTWZuVE1XaW5VUWpyOHJLUjdfdkJIdzc5QlZCem13VEE?oc=5"
         },
         {
           "text": "物価情勢悪化なら0.5％利上げ検討、改善でも引き締め支持＝ウォラーＦＲＢ理事",
@@ -52,12 +47,17 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XWnlvRW1SalNrVE8tMUtJN1c4YlA2MFlpbVd2MjkwS0Fvd2RvWmUwT01sMzU3anBJUVJmSkhZbExTRXM4cjJMci1OZTd6UktrQTl6M3pubXJMbkYycjdJQ19DdWV1VnBicEIwTmRTb1JmTFBzQy1qM1hvaFFQRXc?oc=5"
         },
         {
-          "text": "米国株式市場・序盤＝主要指数が大幅上昇、エヌビディアは下落",
-          "desc": "米国株式市場・序盤＝主要指数が大幅上昇、エヌビディアは下落&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXIwVm9wa3pTaG5sYnhPdW1tOUtRUGdkYkZDR0NKNWhSR09JcGoyMm96cVI4ZlU2aTBGcmExcW5MbGRNaHFVeWk2WTBKczYyZWFjc3U4OVdndHNLM0dGZ0pqaVBJRW04dVJmNmQ3U3BETXgtXzBaNzQ2cUp5R2xwVi1raVNNZw?oc=5"
+          "text": "米国株高を映して買いが先行し、200日線水準を目指す動きへ／日経225・本日の想定レンジ",
+          "desc": "米国株高を映して買いが先行し、200日線水準を目指す動きへ／日経225・本日の想定レンジ&nbsp;&nbsp;株探",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNYUx2VE5OQlE1dFJfd1h0dWhkYXVWcWdoVV9NTDdvWk5GeVVQWDRKQTZzdTJUS2lMeHMwYktNT0x5UURtZW50Rkctd05Gb1ptbENueGY2OTBUSnk3SnlnMA?oc=5"
+        },
+        {
+          "text": "米国株式市場・序盤＝主要指数が大幅上昇、エヌビディアは下落（ロイター）",
+          "desc": "米国株式市場・序盤＝主要指数が大幅上昇、エヌビディアは下落（ロイター）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnRDh5ZHJrcW9mRlNheXI2ZkpTVWJENnY0dVB3eFZlbjVrQUtueVVKdVUzaEFFZGxTTklyZzU2Tmo0d0tBYUo3LWZqdlU2VWtQQ2Raa210QjJlUzJSZy1xVHdTVC05LWJzS3FieTEtMVJvdWZPUmk1SHlBUkpyVUE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-15",
+      "lastFetchedAt": "2026-11-16",
       "source": "東洋経済 / Google News"
     },
     {
@@ -101,7 +101,7 @@
           "url": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html"
         }
       ],
-      "lastFetchedAt": "2026-11-15",
+      "lastFetchedAt": "2026-11-16",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -110,12 +110,12 @@
       "title": "健康資産 — 健康トピック",
       "items": [
         {
-          "text": "ぐっすり眠れば食欲をコントロールできる！？ダイエットの敵「睡眠不足」を解消しよう",
-          "desc": "ぐっすり眠れば食欲をコントロールできる！？ダイエットの敵「睡眠不足」を解消しよう&nbsp;&nbsp;スポーツナビ",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01NFhSMEhhbnczaG1fcjRiUXRCcHgyZnh2djRGTFNmR1BrUzhsYTlnS0RNUlMtVnhKbTVUVGtMdkNRTnZUNXRwVDBObURjWk55VlJrdHF2SldXeGpYd3pQdXhERUFESVhIaEhKVTVvQ1k?oc=5"
+          "text": "働き盛りも要注意。健康のカギは「血流力」、血管の老化を招く8つの要因【Tarzan】（Tarzan Web）",
+          "desc": "働き盛りも要注意。健康のカギは「血流力」、血管の老化を招く8つの要因【Tarzan】（Tarzan Web）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zT3lzdzI2ZnBlSUNReE9MVm12WlZJSl91emdmR3ZnQktBLXZyX2xfUU5OMkpPT1cwSkdSZURSSDIzUWxvZjgxRVFHT0tWR1BSUi0tQjEyUjJ5MTJpWXM3ZjVidm1ZWjkyQXpvZ19pQkFYdU85elM4bFltRFdsN1U?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-15",
+      "lastFetchedAt": "2026-11-16",
       "source": "Google News"
     },
     {
@@ -129,11 +129,6 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV29zNl9acWtSSjlnOG9laDJxZDljZThqOFg0UGEzZDhkaDdtcjFzNXJEQ1g3YS1Tb1hUZFFWYmZzQllpU0hIMG93LVhYZTNVVUZkSmtCTVdScHlja0IyLWg5OGJRazJZcTJfc0V1Z0NrczgzUTRORW1jUmVCRnR6QmJYbkJReHBYcHZnVlJR?oc=5"
         },
         {
-          "text": "さいたまの番組 放送予定（11月12日更新）",
-          "desc": "さいたまの番組 放送予定（11月12日更新）&nbsp;&nbsp;NHK",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkeTdvT1lQLW94d2xCV2dZQjBYLVVraE5WQWZFak1DTmFXT1BwUms1Y0Eyb2Y1Z2d5NTJGSnZqZ0wyV1dYaHFmWVZvQzVMM2FfZ3FEcUF2U182Y2JHVmRFV3ZNaGFVUQ?oc=5"
-        },
-        {
           "text": "【熊本市長選挙】被災者の住まいと暮らし再建 液状化や仮設生活の現場から課題を問う",
           "desc": "【熊本市長選挙】被災者の住まいと暮らし再建 液状化や仮設生活の現場から課題を問う&nbsp;&nbsp;TBS NEWS DIG",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GM1hIbkdIazJpUS10bnZCZ0dfdElOanM2UUlRWWdJRFRza0M0WFJ4WUpPYXR5MGQ4U3M3LUNkY0FlemhnTlpzeDl3bFpyVG5kaE9sOFBWRnNwN0dfUUt4MG4wdw?oc=5"
@@ -144,9 +139,9 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQkVMaHd6LURxVUV1ME1aMEZlX0Y0VWtVU3lJNFlvQzI3UXZ3M2VfdGd5OGtPWVdQOVZZSDVZQ09CMEFPVGlWeFJRNVhaVVpDUGx3ZnlaeWVnS0dWTGtVSnNQdjdxR0J0M0Nsekw3aEhpWWpIQ29xamF3c2w3dmc?oc=5"
         },
         {
-          "text": "新居に採用してよかった「家事ラク設備」3つ。暮らしが快適になり、さらなるメリットも（ESSE-online）",
-          "desc": "新居に採用してよかった「家事ラク設備」3つ。暮らしが快適になり、さらなるメリットも（ESSE-online）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5URkFzY3gxVERsRWVJVFRvdUZEcHUybWVjcnZDcmtWYlVndE11Zkt6bF9uRU5uUkJlakpFUEd0ZU1NUXVkai1RaVpialdxcmhYRWFQUktLV29vbTkyakRlbFdpUDR5Mnh3VkpsemJkemtYdnI5TS1oZjVWMGZINUk?oc=5"
+          "text": "新居に採用してよかった「家事ラク設備」3つ。暮らしが快適になり、さらなるメリットも (ESSE-online)",
+          "desc": "新居に採用してよかった「家事ラク設備」3つ。暮らしが快適になり、さらなるメリットも (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0FsQnFLcjB0eU9EcjJTZUhkRE9BLTU0VU5Kd1prNFY3NlhVNHNqVmJPT0I1VV9zRm1lZWcycEdrNWNpZmhSeVpsc2RUcnc4VVFLNzAyRFF3bUpGOHdMWWE3MWU0UEl3bFZQMnd5VjVhMW5LMk13d0tNelIyMUo5SzUzQmM2OE0wMzVDZFl3?oc=5"
         },
         {
           "text": "62歳団地暮らし女性→クローゼットを開いてみると…… 無駄のない光景に「勉強になります」「自分もスッキリ」（ねとらぼ）",
@@ -154,12 +149,17 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sM2hqRWozOE05ZWVMOUoyMFR2bEY0NWxhdmFHSkM3QXc1VHJqaDc1VGJIUGxpREkyeEZOaEoxNXB5dUJBSFNuaFZpZ2dCbHR6VTlUVjlWWVJTUnNqX1hodjZXVTJqOUdVbktOV0RNcjJZd3FSQVpyYUF3ak0zX3M?oc=5"
         },
         {
-          "text": "「おいしいって笑顔になってほしい」山辺高校の生徒 1人暮らしのお年寄りに手作り弁当",
-          "desc": "「おいしいって笑顔になってほしい」山辺高校の生徒 1人暮らしのお年寄りに手作り弁当&nbsp;&nbsp;日テレNEWS NNN",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVTI3LVdlWTd5angtTF83TVk0cG52cUhPWExxU1o0N0w3eDBxSl9fZHRjSmIzQUozYUIzUnpoa3ExRlNRT2ZDd1FoNFVxZDB1WkNLbFlOb29mZkN3Sy1BX0V5UzhqOFZRZzcxUFRmZml2Mi1IMXpiXzVZMEhzNlZZNDJXNkxoZHM?oc=5"
+          "text": "【地域防災力アップへ】最新防災用品を見て･触れて･体験して備える｢防災フェア｣開催（静岡市）（Daiichi-TV（静岡第一テレビ））",
+          "desc": "【地域防災力アップへ】最新防災用品を見て･触れて･体験して備える｢防災フェア｣開催（静岡市）（Daiichi-TV（静岡第一テレビ））&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVZHp6S2h5dW02VkR5Y1ZueTI3c1NJNjJpNkRHUVZRUTdYV093YUFWVlNBMWp1TzZaVE1ySGlUY3VNUHNiTm9uTXhMZ2ZwWjNQdXlBNnF5N1dSVDFzTUdxcTBZdVQ4a1JOYl9lWXI4QjgyMENMTTZxSHFNQk9KdHM?oc=5"
+        },
+        {
+          "text": "【高齢者の防災】今すぐ備えたい「冬の防寒グッズ」5選を防災士が解説（川崎みさ） - エキスパート",
+          "desc": "【高齢者の防災】今すぐ備えたい「冬の防寒グッズ」5選を防災士が解説（川崎みさ） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMnZYREg2aFNDcGQ5ZDJjN3QzY3plQ1VueGdNS1k4VWVPdWxnQWl0MVNMemNUUjExdUpNelQ2cTVZcFlURTVVdlZnd21PLW51M1MyV1pNYmZuUTlScTdpNGtNdEg3TFRTaHBOZmlxYlREOXB6TE5GMzVVQVhSam9YRkZ0WEdPcFc5?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-15",
+      "lastFetchedAt": "2026-11-16",
       "source": "Google News"
     },
     {
@@ -188,22 +188,22 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SRUF4czVIV0M3WDhOVVAzb2ZmNWRKdmM4QWxra3dBZzZBOGF3bDRrdTlvM3U4OVNXY0RMaXNmRFN2X0IxNkNEQXNISy1lMkczd1ljRFlCZGRiRV91OUVWcGNwU3hLMjlBN1l2dWN1d3Y1Z3V1UC02UGcyUkJLUlU?oc=5"
         },
         {
+          "text": "富山県で遊ぶなら！富山県の人気おでかけスポット5選",
+          "desc": "富山県で遊ぶなら！富山県の人気おでかけスポット5選&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fX0wxYlloSUV2N3p4Q1NHY0phR0RBNjZNZXZEWEc1TW4xZlRLRE1oY21YeHh0MFQ1UFNtbGVEYkVTUXRydnZXMWZPTkVNWTItdXBreXpR0gFbQVVfeXFMTTBJVi1GY1FvR0hHb09uVFlBSGh3dEtITXZ5SHl5MFc2Yjc1VDBIZU56OUVVdzhNZjRRZnJtZnZGeDZUSmtOYmx3dVJSa1hoYWNEYmdqRk9kUzZBOA?oc=5"
+        },
+        {
+          "text": "大阪・箕面の人気温浴施設がリニューアル！絶景露天風呂に豪華バイキング、話題の「ミライ人間洗濯機」も登場",
+          "desc": "大阪・箕面の人気温浴施設がリニューアル！絶景露天風呂に豪華バイキング、話題の「ミライ人間洗濯機」も登場&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNbEZMaEllRE9XN05fX3FSZ1lsazRFUVJLeFVoMThnbUZlMnFvbkNYekxIOVI4aEpGMmZXdm5nOERjYU9UdTFvZ0o4dTI4MVpjNUdVZ053M2lZNDI3TFAyYmprS2lhemlqTUR3ZkRISmhGa014bDd4ZDQyVFZBS3c?oc=5"
+        },
+        {
           "text": "東京で遊ぶなら！東京都の人気おでかけスポット7選",
           "desc": "東京で遊ぶなら！東京都の人気おでかけスポット7選&nbsp;&nbsp;ウォーカープラス",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDSGEtTEtyVzREUlZWRmdUTGwySUtlaThVdUxweU1WRUFkeHQzcU1tNmhZUGE0M1NFM1A3WmxrMDQ1LURtdXB4MjdQVDM5YmU1MmFrR2F30gFbQVVfeXFMUGtNZmg4Y0JZZnZuSDQ1UnpSSGZOOExweVBPR0c0VFRkeGl2Sm0tdzNYdHR4blg4NkFiOXE1TWdqNjF2Tk1vblZBVzVVb2lESDBmVnR0LWc5OXdDRQ?oc=5"
-        },
-        {
-          "text": "福岡県で遊ぶなら！福岡県の人気おでかけスポット7選",
-          "desc": "福岡県で遊ぶなら！福岡県の人気おでかけスポット7選&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTMHAwc1B2V1hjbnhBZjVzN2RhZnB0VUdDMTBJcG1qdFEtbzVYY3l1dm90V0VLTnpWcmJraTZ3Vkd5NmJRcUVMRzJnTmZibHVSV29kMGhR0gFbQVVfeXFMTXMyQXU5ek5QNmxsU3g4Tnh2dlFxOEgwVXg5cnNhUDNNSzVJdUc2RTJvSGh3cXlrYmJCQmN3RGFFYloyMXlCMmNpNWI5SHFESlhiRHNyYTlNQWdNdw?oc=5"
-        },
-        {
-          "text": "福岡・糸島エリアの“気分爽快”おでかけスポット20選",
-          "desc": "福岡・糸島エリアの“気分爽快”おでかけスポット20選&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtQ3BRNF8xdGliOU9EZTBtWU5ZRFp1Y3R1RHktaDE2NU1TTmZBejA1c3RMTV9tWk1qclpVX3VBZVl4X09oVkJsaFNxYzdlTk9UOEpDdtIBWkFVX3lxTFBQMUp3dFFXVTdxY2oyVk5iOC15cVNFdUg4NUh0eG5kbU14OUhyZE9lb0ZENDZlV2E3aWFrUzVod1AyYmZaaVB0UEhIMm5uNlphaE9FLThhcUJnQQ?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-14",
+      "lastFetchedAt": "2026-11-16",
       "source": "Google News"
     },
     {
@@ -222,32 +222,32 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOempEM2w4by05bkthNjJCNVZ3Vkk4cmliVlRpb0tSaUU2WExGRDhvajlkT1JfMWZta0tab3VfX1RqSzFQbHBWbzU3SW9mYVdnTV9aQ0dzVEJhbFFobE1uWXljYkVzbVhNWGREZGw3b19HU2dEdWp1Z2R2TTV1Mmh2M2h5S1lMVVYtbUMybkpxOVlNQTRWdHpVWjFkeDNZVE1DbUZYWXczME5IdFJkZEo5clRB?oc=5"
         },
         {
-          "text": "急増する「FDE」 求人票で実像に迫る",
-          "desc": "急増する「FDE」 求人票で実像に迫る&nbsp;&nbsp;日経クロステック",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wNVRjNlJrS0Jtb2NodE93MjJxUEt4RXVGLTVkbmxUZzFjNmhqcmhnclNlem1UT19KdTNuQTMzRVFxdVZ1UHVRZlpWUzZQNURsV1ZsV3lWck9QY1lVZEdZWmtyVXkwUWFCbnlhM1BUNDMyQQ?oc=5"
-        },
-        {
-          "text": "【2026最新】AIツールのおすすめツールを徹底比較| SaaS／業務システムの比較・紹介| ITセレクト",
-          "desc": "【2026最新】AIツールのおすすめツールを徹底比較| SaaS／業務システムの比較・紹介| ITセレクト&nbsp;&nbsp;ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WempTZC1fU1E4SThZazdTLUN3NmZ5ZElzbFI5eDlNT0tYYXM0bUg3SWZRREVNWGgzYWtiRldETjUyMjVkRGFtV2FtZHhyTmpLYW5yOG93?oc=5"
-        },
-        {
           "text": "クラボウ[3106]：コーポレート・ガバナンスに関する報告書 2026/11/13 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
           "desc": "クラボウ[3106]：コーポレート・ガバナンスに関する報告書 2026/11/13 2026年11月13日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1ZERnl6Wm1wRGhsYUxIUFh0bkx1Ny1BajFCNFV4RG9VYmY2NXZoeVUzdVRUVUZsdmFpdU9qZTZpaWN3XzRSWmQ4Q1pUU2x0TXB3cTh4TENYRlM1azdCYTlPdHFfNUJ2U005SWhtWnBUa3F6TEZGSlFzVVJoUVBTVFIyLXlSbzc4YU9IaFNlRkdMQVFnVlctWjBvdEIzMGpxNjh5SXlQTGNpRVE3aTJ1SGthQ002cTNHc3k4OF9QVTNLcUthVFBSb1VJMkg?oc=5"
         },
         {
-          "text": "アバールデータ[6918]：コーポレート・ガバナンスに関する報告書 2026/11/13 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "アバールデータ[6918]：コーポレート・ガバナンスに関する報告書 2026/11/13 2026年11月13日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWU9GbGRCWG95M2JndGpnbDVpbG54ZEJPYXFBTDlUWmRUdTNldTVtcDF5V3dBeVdKZk43aTBpS3lBbmw4aHViRmROUHo0dFQ4WnhIVlRSRTdGOGlFUmtqQTBHSlo2X0toUzgzREs2bDJwSkJnUTMtbWpYZkhvcFdKdHJQbGF2YVB1bmVad2RqM1NfQm1xV3F6cExBWU9CR3NzOWN0bnVGdGNzdXFhbkoxb25KRk5nUTlCTkI2amRZU3VBOWF0VmVmT2JxVlU?oc=5"
+          "text": "デクセリアルズ[4980]：コーポレート・ガバナンスに関する報告書 2026/11/12 2026年11月12日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "デクセリアルズ[4980]：コーポレート・ガバナンスに関する報告書 2026/11/12 2026年11月12日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XTTZ1WUluWHZqVkQzRFV0dE4tQXhYbnBBLXJ5MFFtS1Exc1BWeENZVktHdkxEakIxV2JIUlFCdmFSYzQyUF95LS1yekNsZGh5b1ZLc0l2WjJTbjU3WG1DMVJUQjdoN21ERVE?oc=5"
         },
         {
           "text": "セカンドリテイリング[2681]：コーポレート・ガバナンスに関する報告書 2026/11/09 2026年11月9日(適時開示) ：日経会社情報DIGITAL",
           "desc": "セカンドリテイリング[2681]：コーポレート・ガバナンスに関する報告書 2026/11/09 2026年11月9日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCVFlLOWt5clVyUkFpekRQYW4tbGVCT05CcEUycFZkMFhsaVI5S1JvWmhDeVNiU3hIUlBCRER3UFdfLWVXMkFrVTRad2dtRmlRbnFMenJjTWFNUUlJVWdiRENEN01IM2M1dlE?oc=5"
+        },
+        {
+          "text": "三菱ＵＦＪフィナンシャル・グループ[8306]：コーポレート・ガバナンスに関する報告書 2026/11/09 2026年11月9日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "三菱ＵＦＪフィナンシャル・グループ[8306]：コーポレート・ガバナンスに関する報告書 2026/11/09 2026年11月9日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNWpwaHo4SEx5UTFJbERoQWZYZnN2RXA3WE9OZUVmVVJCMDN2eDUxY2Q2dVBUU2ZZYzVZcU11Zy1KYlFtXzdVaURyaFBGVWstamlGSV80d0x5cnNfbnBjakg5SnoycTQwVUE?oc=5"
+        },
+        {
+          "text": "日揮ホールディングス[1963]：コーポレート・ガバナンスに関する報告書 2026/11/11 2026年11月11日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "日揮ホールディングス[1963]：コーポレート・ガバナンスに関する報告書 2026/11/11 2026年11月11日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pNko1RGFNZktzZmZfaG1vOXUzcVZsaXpUazVFQ2g1am82Q3RqOHNzbWZjZ2RMN0NQdklUS2FFS2s4dFREZU95NGt5YlFkMVRtSzl1TlViN1pQM0hUaWJJMDB4ZnVsbVJJYkE?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-15",
+      "lastFetchedAt": "2026-11-16",
       "source": "Google News"
     },
     {
@@ -256,42 +256,42 @@
       "title": "制度資産 — 制度・法律",
       "items": [
         {
-          "text": "採用情報（期間業務職員（人材開発統括官）)募集情報",
+          "text": "Microsoft365の大規模障害について",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/kouseiroudoushou/saiyou/hijoukin/hj-jinzaikaihatsutoukatsukan04.html"
+          "url": "https://www.mhlw.go.jp/stf/kinkyu/20261113.html"
         },
         {
-          "text": "公益事業に関する争議行為の予告公表ページについて更新されました",
+          "text": "硫黄島戦没者慰霊巡拝（第１次）の延期について",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudouseisaku/sougikoui/index.html"
+          "url": "https://www.mhlw.go.jp/stf/newpage_77399.html"
         },
         {
-          "text": "令和８年度第６回医薬品等安全対策部会安全対策調査会 議事録",
+          "text": "産業競争力強化法に基づく「新技術等実証計画」の認定について",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/newpage_77206.html"
+          "url": "https://www.mhlw.go.jp/stf/newpage_76978.html"
         },
         {
-          "text": "第２回 生命科学・医学系研究等における個人情報の取扱い等に関する合同会議　第１タスクフォース",
+          "text": "社会福祉功労者及びボランティア功労者厚生労働大臣表彰の受賞者を決定しました～令和８年度は個人894名、273団体の方々が受賞～",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/newpage_77198.html"
+          "url": "https://www.mhlw.go.jp/stf/newpage_77269.html"
         },
         {
-          "text": "毎月勤労統計調査の掲載表の訂正について（令和８年11月10日）",
+          "text": "第186回医学的検証作業グループ",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/toukei/list/30-1b.html"
+          "url": "https://www.mhlw.go.jp/stf/newpage_76606.html"
         },
         {
-          "text": "第60回「ねむの木賞」「高木賞」の贈呈式が行われます",
+          "text": "インフルエンザに関する報道発表資料を更新しました",
           "desc": "",
-          "url": "https://www.mhlw.go.jp/stf/newpage_77319.html"
+          "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou01/houdou_00025.html"
         },
         {
-          "text": "ＯＴＣ類似薬の保険給付の在り方の見直しについて（ＯＴＣ類似薬の一部保険外療養）",
-          "desc": "ＯＴＣ類似薬の保険給付の在り方の見直しについて（ＯＴＣ類似薬の一部保険外療養）&nbsp;&nbsp;厚生労働省",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeGVuRTdhMng1RUhjZWoxOFlDUUs4a3BpaF9PRkdZcThaalZsaFIya0FEZHJFdzhDVnFtQmJhMW5ycmMxd1ZRYWlVYVVwYnBZOU5NUzVlUVVZZTAxOXJ2dkdwellYRC1pSGtkTUpTa2FrNElhLXR3aFpZM0VxYlVSeU1LYkh2SjBHak1NejFRSjRVUQ?oc=5"
+          "text": "新型コロナウイルス感染症に関する報道発表資料を更新しました",
+          "desc": "",
+          "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00485.html"
         }
       ],
-      "lastFetchedAt": "2026-11-13",
+      "lastFetchedAt": "2026-11-16",
       "source": "厚生労働省 / Google News"
     }
   ]
