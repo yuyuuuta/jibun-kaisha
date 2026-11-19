@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "summaries": [
     {
       "id": "finance",
@@ -7,19 +7,24 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "中国が開発を進める｢次世代原子炉｣の正体､福島第一原発事故を経験した日本が｢溶融塩炉｣で出遅れた理由 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "原子力発電の未来を左右する｢溶融塩炉｣。従来の燃料棒方式とは一線を画し､液体燃料による高い安全性と効率性で注目を集めています。中国も先手を打って開発に乗り出している溶融塩炉。福島第一原発事故を教訓に…",
-          "url": "https://toyokeizai.net/articles/-/964521?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "評価額は約1兆5000億ドル､アンソロピックのIPOで莫大な利益を得る投資家の横顔 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "AIチャットボット｢Claude（クロード）｣を手掛ける米アンソロピックの記録的な新規株式公開（IPO）により､同社に巨額を投じてきた複数の金融会社は数十億ドル規模のリターンを得る見通しだ。アンソロ…",
+          "url": "https://toyokeizai.net/articles/-/965352?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "今後来る株式市場の｢大きな波｣にどう備えるか…金融ショックや世界経済の変動に一国で対応できるのか | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "米アップルやエヌビディアの驚異的な時価総額が示すように､生成AIや半導体産業には世界中の資金が集まり､株価ひとつの変動が世界経済に甚大な影響を及ぼす時代が到来しています。日本経済はこの変動の波にどう…",
-          "url": "https://toyokeizai.net/articles/-/964386?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "【米中会談】トランプ米大統領はエヌビディアを巡るスパイ疑惑を重要視せず､習近平国家主席との｢友情｣を強調 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "半導体規制やスパイ疑惑が渦巻く一方､トランプ大統領は｢友情｣と｢勝利｣を強調しました。",
+          "url": "https://toyokeizai.net/articles/-/965345?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "M&A大改正と同意なき買収の最前線｢新TOB規制｣で激変する企業の買収防衛策と取締役会が果たすべき\"真の責任\" | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "日本のM&amp;A市場は公開買い付け規制強化や経産省の新指針を背景に､従来型の買収防衛策が通用しない時代に突入しました。買収手続きの透明性が高まる一方で､取締役にはこれまでにない厳しい法的･経営的判断が求…",
-          "url": "https://toyokeizai.net/articles/-/964733?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "【歓迎格差】トランプ米大統領は習氏が自ら出迎え､領有権対立ある比マルコス大統領でさえ高市首相より良い待遇 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "国際会議の舞台裏で注目された､中国による各国首脳への空港での\"出迎え\"には､緻密に計算された外交メッセージが込められています。トランプ大統領を自ら迎えた習近平主席の姿や､日本･高市首相への冷淡な対応…",
+          "url": "https://toyokeizai.net/articles/-/965342?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "｢2027年に台湾侵攻｣は本当か…一人歩きする\"期限付き予言\"の陰に隠れた､開戦すれば\"やり切る\"中国の武力行使の論理 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "｢中国は2027年に台湾侵攻か｣──近年､こうした期限付きの危機予言が世間を席巻しています。数字と政治日程が交錯する中､報道や解説は｢台湾有事の現実味｣を煽り続けますが､本当にそのとおりなのでしょう…",
+          "url": "https://toyokeizai.net/articles/-/960792?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "米ＦＲＢ、金融政策の判断ではインフレ動向を重視＝ジェファーソン副議長",
@@ -27,9 +32,14 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFVDM0p3WW9xbXFjYUNqOGhTa25aZGpZN0VxcXB1OVhvVlpuNFR5MUk0TGJUNno3cTE5TTl5OHdpTzZHT3VicFRWWTkyVENZeEI3Q3M2WHdHSzEzOEtFYVA3MjdvN19NTWwwcnU4dks0LTFjY0dmZkQyaXItZWZkYVBuRXpKQWFUYnNTVmhfeEk3a1NBS2dKWnNRTQ?oc=5"
         },
         {
-          "text": "中間選挙後の米国、インフレは鎮静化の見込み 地主敏樹氏",
-          "desc": "中間選挙後の米国、インフレは鎮静化の見込み 地主敏樹氏&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdUs3VUotZnNmdXlBNXZUaWZrMWZhTDdkMDBFaGRlR0c4Szl4RGhBS3RGaGZDTDBXVHFFRmhtLWdSay13czFVYVdMUmZWRGh4aGlRY19jamEzLTVJb2RtbkluZVc4NWJZUF81Zg?oc=5"
+          "text": "メキシコ中銀「サプライズ利下げ」で政策金利6.25％、米FRBと逆方向に動いた背景とペソ相場の上値が重い理由",
+          "desc": "メキシコ中銀「サプライズ利下げ」で政策金利6.25％、米FRBと逆方向に動いた背景とペソ相場の上値が重い理由&nbsp;&nbsp;ダイヤモンド・オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oWUw4bUVINUgxclh5Ym5iTEZFUFN6YmlrMXNSUXc2dEo3aFJ4S015QVVyc2JaREVSVWZNQklXZXJrSnp2c2tQNktpeV8?oc=5"
+        },
+        {
+          "text": "日銀政策運営、個人消費含む経済・物価を総合判断と理解＝城内経財相",
+          "desc": "日銀政策運営、個人消費含む経済・物価を総合判断と理解＝城内経財相&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZE1nMkxqMWo3aGF6NWtkT09ZYXVkQkdjUnBxcUxCMjl4ajRwMDE4ZWtXQXNFclQyVmRtbU9Td25vQ0w4QjNWTTN4YzR5TEhuZFBxZTd5VF8yRm5BSU16VlFnR2xlcHJFMzV0cTNYSDcyYUtGVWpWSXhDMGZBdXF4WHZhYU12Mnp0LS1KQnJiZmM?oc=5"
         },
         {
           "text": "ＦＲＢ、27年の会合日程発表 金利決定の回数8回から7回に",
@@ -45,19 +55,9 @@
           "text": "ＡＩが金融にもたらすリスク、バーＦＲＢ理事が多角的に指摘",
           "desc": "ＡＩが金融にもたらすリスク、バーＦＲＢ理事が多角的に指摘&nbsp;&nbsp;Reuters",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OcFJFMEdDTjE4X2kwNkRlb2l4M2dUX0JXS0o0MmZJMXF5MUxjS1o0SXdxQzJiWEMyNGMxRmpTR0tiYjRjWWxlNDNnRk1zZ2ZMMzFlSDNWT0I3eEZiMUpuRnhzVGJsQVQxMV81WkpiWlVEZWR4ejQ3Z1NCV3lWUQ?oc=5"
-        },
-        {
-          "text": "〔NY外為〕円、159円台後半（16日朝）（時事通信）",
-          "desc": "〔NY外為〕円、159円台後半（16日朝）（時事通信）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GOC10SFRjQkhRN2Z2QndpZ0ZoekVwOXp0WmUzNFo0S19XakZWUDgwZi1hQ0QwcERnUjlhN1NJbzd3NmF2LU4wTHdLaTJZN1MtWHMxN3FRS2pTUVEwVEFnS1ZWeHBPN19UR3F2aXlTN1RMaTRxWEVQQmlXVXlwRVU?oc=5"
-        },
-        {
-          "text": "〔ロンドン外為〕円上昇、159円台半ば（16日午前10時）（時事通信）",
-          "desc": "〔ロンドン外為〕円上昇、159円台半ば（16日午前10時）（時事通信）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KVS01VEp2aWV4Tll4cjlTLThGRlhDX1JuMWdwWXlmZDl2M25Mck1KNkk4ODliVnBwZ2R4cnZqY2FidUN4eGVlc2s5OVNEQW5LSEkyUXNEdkVVUjFqUmlQQy1vNW1ZV0RicUZjRTRyel9HcXgzbTRaMUFuNXRtMzg?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-19",
+      "lastFetchedAt": "2026-11-20",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "孫正義氏が明かす、アンソロピック出資見送りの舞台裏　「僕の失敗」「あん時入れときゃよかった」",
-          "desc": "ソフトバンクグループの孫正義会長兼社長は、日経主催イベントの対談で米Anthropicへの出資を見送ったことについて「僕の失敗の例の一つ」と明かした。同社のダリオ・アモデイCEOと直接面会し、その凄さを認めながらも、なぜ投資に踏み切らなかったのか。すでに動き出していた米OpenAIへの集中投資と、出資先の企業同士のつながりを創出する「群戦略」におけるパートナー選びのさじ加減など、孫氏の投資判断の舞台裏に迫る。",
-          "url": "https://www.itmedia.co.jp/business/articles/2611/18/news086.html"
+          "text": "「GLM-5.3-Flash」「DeepSeek-V4.1-Flash",
+          "desc": "さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」で、AIモデル「GLM-5.3-Flash」および「DeepSeek-V4.1-Flash-1017」の試験提供を始めた。1カ月あたり3000リクエストまで無料で使える。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003339/"
         },
         {
-          "text": "NotionのAIチャット流出おそれ、幹部が日本での対応状況明かす　「心よりおわび」",
-          "desc": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした可能性がある事案を巡り、Notionを運営する米Notion Labsのデイビッド・ツァオCISOが、日本での対応状況をITmedia AI＋編集部の取材に対して明かした。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003299/"
+          "text": "ファミマが「AIロボット」本格導入へ　飲料補充に活用、作業時間の約7割を削減",
+          "desc": "",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003329/"
         },
         {
-          "text": "アシックス富永社長「売上高1.5兆円を実現する」　オニツカタイガー分社化と株主還元4000億円",
-          "desc": "アシックスは11月17日、2027年度から始まる3カ年の中期経営計画（最終年度は2029年度）を策定し、東京都内で説明会を開催した。業界トップ水準の収益性を維持しながら、2029年度に売上高1兆5000億円を目指す。",
-          "url": "https://www.itmedia.co.jp/business/articles/2611/18/news050.html"
+          "text": "ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……",
+          "desc": "ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調査した研究報告だ。",
+          "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/"
         },
         {
-          "text": "わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始",
-          "desc": "ChatGPTがユーザーに向けて、自社をどのように紹介しているのかを把握したいと考える企業は多いだろう。OpenAIは、その把握に役立つ機能を企業向けにβ版で公開した。米国の対象企業であれば、自社のAIエージェントをChatGPT広告のリンク先に設定することもできる。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html"
+          "text": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？　428件を調べてわかった乗っ取り手口　暗号資産を盗む例も",
+          "desc": "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査した研究報告だ。",
+          "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/"
         },
         {
-          "text": "「AIによる鍵の不正利用」を生体認証で防ぐ日立の新技術、サイバー攻撃対策にも",
-          "desc": "日立製作所は、AIによる業務が人間の承認に基づくことを証明する技術「PoHD」を開発。生体認証を応用し、署名用の秘密鍵を保存せず生体情報から都度復元する。先進技術紹介のイベント「Hitachi R&amp;D Innovation Day 2026」でデモンストレーションも披露した。",
-          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/18/news040.html"
+          "text": "Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」　一部「Fable同等」性能をコスト半分で",
+          "desc": "Googleが「Gemini 4 Neon」を公開。同シリーズのモデルは2カ月足らずで4つ目となる。第三者機関の評価では、コーディングエージェントとしての性能がClaude Fable 5.2と同等で、コストは半分以下だった。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/"
         },
         {
-          "text": "AI時代に必要なエンジニアのスキルとは？　開発現場の“品質問題”から読み解く",
-          "desc": "ソフトウェア品質に関する調査から見えてきた、AI時代に必要なエンジニアのスキルを解説する。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003236/"
+          "text": "AIによるAI研究「指数関数的に増加」でも「依然として人間中心」　OpenAIがレポート公開",
+          "desc": "OpenAIは、AIが同社内のAI研究にどのように貢献しているかに関するレポートを公開した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003318/"
         },
         {
-          "text": "GAS×Geminiが一般提供開始　IT管理者が確認すべき権限設定は？",
-          "desc": "GASとGeminiの連携によってコーディング不要でスクリプト作成やデバッグが可能になった。コーディング知識がないユーザーでも自然言語の指示でスクリプトの作成や編集、エラー修正ができるようになる。",
-          "url": "https://kn.itmedia.co.jp/kn/article/2611/18/2000003256/"
+          "text": "PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築",
+          "desc": "PFUは、「EdgeTech+ 2026」において、ファンレスのエッジAIデバイスと、自然言語入力でAI解析機能を簡単に構築できるSIエージェントを組み合わせた「エッジAIデバイス×SIエージェント」を参考出展した。",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news044.html"
         }
       ],
-      "lastFetchedAt": "2026-11-19",
+      "lastFetchedAt": "2026-11-20",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -113,9 +113,19 @@
           "text": "「睡眠は『質』より、まずは『量』」秋の夜長に眠れない「季節性不眠症」…日照時間短くなると寝つきが悪くなる「お酒の力を借りるくらいなら、薬を服用する方がいい」（大手小町（読売新聞））",
           "desc": "「睡眠は『質』より、まずは『量』」秋の夜長に眠れない「季節性不眠症」…日照時間短くなると寝つきが悪くなる「お酒の力を借りるくらいなら、薬を服用する方がいい」（大手小町（読売新聞））&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02aXp0Y0JKOTJzdUNlaGxPR1ZNU05JVERRUURpR1pFb0NacFNfQWd5MGZwY2xXTG5qM3NCVXV1b0tJVDAxVFM5NG00U0hORE9pbTBfd3A5Tzd1NEVmakFuZk1NY01RUDA0MjN0eFVVb0pUMVdmd09lNnNnUmU5eU0?oc=5"
+        },
+        {
+          "text": "病を防ぐ食事とは？ 国が初のガイド作成へ「健康寿命延ばしたい」",
+          "desc": "病を防ぐ食事とは？ 国が初のガイド作成へ「健康寿命延ばしたい」&nbsp;&nbsp;朝日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOWFdySEF4TU85YWVhQ3BwM2xjamFrX1NPZ3FKXzJqbGhNR0l0SHdHX3Vwbjg1dE9FTlVOcXNLSFFTczMtaEJBMFJCaU5EczRHRlY1NDhxaGpaNHpXMWxLNUJCdnAwWVk?oc=5"
+        },
+        {
+          "text": "「第15回 健康寿命をのばそう！アワード（介護予防・ 高齢者生活支援分野）」の表彰式を行います",
+          "desc": "「第15回 健康寿命をのばそう！アワード（介護予防・ 高齢者生活支援分野）」の表彰式を行います&nbsp;&nbsp;厚生労働省",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ka2xoSERqUGZCaG4tRlA3eWg3TzFpSFRfT0lVVW1sWVRIbGhGeHNhNjltVUxkV1hTSTR3R1h4cWJUWHZaRnZXTDJOc1MxQ2hFVmcxZVJaTlU?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-19",
+      "lastFetchedAt": "2026-11-20",
       "source": "Google News"
     },
     {
@@ -127,11 +137,6 @@
           "text": "高齢の親の暮らし改善術《11月は生活リズムの乱れに要注意》「日中ずっとウトウトしている80代の父が心配…」実例と対策を社会福祉士が解説 (介護ポストセブン)",
           "desc": "高齢の親の暮らし改善術《11月は生活リズムの乱れに要注意》「日中ずっとウトウトしている80代の父が心配…」実例と対策を社会福祉士が解説 (介護ポストセブン)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHFFLWpST25MRHVxejJiaXFjdEs3Z2RIWF82SExOTHJQUTNQZzZxMjBrSktNWElSSm52dnVpZW9ISlV3enJWZlh5dEwwZ3ljUXE0ZmY3WHhLM2lyZ0VUNVU1SGZsd0dVU3pfcmRlUjRoWGJqUVQzS3U4NGhSdlRFZ3g4MVppV1JzOXRsUDVB?oc=5"
-        },
-        {
-          "text": "さいたまの番組 放送予定（11月12日更新）",
-          "desc": "さいたまの番組 放送予定（11月12日更新）&nbsp;&nbsp;NHK",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkeTdvT1lQLW94d2xCV2dZQjBYLVVraE5WQWZFak1DTmFXT1BwUms1Y0Eyb2Y1Z2d5NTJGSnZqZ0wyV1dYaHFmWVZvQzVMM2FfZ3FEcUF2U182Y2JHVmRFV3ZNaGFVUQ?oc=5"
         },
         {
           "text": "【work23】東京のひとり暮らし「時給1900円」必要！？ 最低賃金引き上げ“交渉本格化” 「価格転嫁しにくい…」学食の運営会社は悲鳴【news23】",
@@ -149,17 +154,22 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU21iN0RaYU1tbFNBMnBYSFhBOFg4SGcxWUd1UVhJc0JDTUV2V0ZxRW5kel9LQmQzZGVVeTlTUHpibVNYVVBUUkpSeUI5UUlEVkwxNnlBT1lOS1Nja3YzQ1VXVVNKY19iSnQ0TE92SGVEUllQV3RtaVZrVFpsVUtMcVphUnQzYTV0SG5SNUhn?oc=5"
         },
         {
-          "text": "40代、衣類・食器・洗剤を「最小限」にして暮らしがラクに。服はオールシーズン「13着」に固定（ESSE-online）",
-          "desc": "40代、衣類・食器・洗剤を「最小限」にして暮らしがラクに。服はオールシーズン「13着」に固定（ESSE-online）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11WkZmeFZXSWdCXy0zX0ttTDdfMkxaTktGWjB2MkszQkxYamFObVhybmhhaVN1VldLMWJrbmhuSFp2VXd5bEFtSEc0UWVyMzNLU3F1N0Yyc3VQYUpjanpoS2NtNUlpWWg1a1VnVnFGVUtYRmNJUzBVVmVCejB3c2M?oc=5"
+          "text": "【貧乏になる】貯金ゼロだった主婦がやめた「地味に食費がかさむ習慣」を５つ（リッチじゃない暮らし みさき） - エキスパート",
+          "desc": "【貧乏になる】貯金ゼロだった主婦がやめた「地味に食費がかさむ習慣」を５つ（リッチじゃない暮らし みさき） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWFxaW11RTBjVDdmX1c3bC1rcjRHU2lPcnkyM2w0VXZwN3FvdWpxMW9Sd2xVR1ZCaTJHaENJdzZNak10QW1pSVlOU3NYQ0luR3hDeno5VjY5V0steFBUa09FOHpva05XRkZBWEVES2xPbEhXWW1MZ1FUZHV0bHhIVEsyZnFpejZX?oc=5"
         },
         {
-          "text": "防災庁の緊急要請を受けて──暮らしを圧迫しない「ローリングストック」術。省スペースで無理なく続く、大人の防災備蓄の知恵",
-          "desc": "防災庁の緊急要請を受けて──暮らしを圧迫しない「ローリングストック」術。省スペースで無理なく続く、大人の防災備蓄の知恵&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQkVMaHd6LURxVUV1ME1aMEZlX0Y0VWtVU3lJNFlvQzI3UXZ3M2VfdGd5OGtPWVdQOVZZSDVZQ09CMEFPVGlWeFJRNVhaVVpDUGx3ZnlaeWVnS0dWTGtVSnNQdjdxR0J0M0Nsekw3aEhpWWpIQ29xamF3c2w3dmc?oc=5"
+          "text": "パスワードは手帳で管理。60代ひとり暮らしの「デジタル片づけ」、アカウント管理で見直すべきこと（ESSE-online）",
+          "desc": "パスワードは手帳で管理。60代ひとり暮らしの「デジタル片づけ」、アカウント管理で見直すべきこと（ESSE-online）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQkJTcG5ZaVh0UjBnUElEMXRKaGViR2RheE9wUXhBVkRZc2ZpdlVWV0ZILU1CUWgzNkpUQVVHZ1hQYW5pcTlQVXRQckJVZXhNRUFUaVg3dkxyeHJfc2VvWWRtbFIzbmY0ZGhaYWRtZU1NRkZPTmdobGNScHB1Vmc?oc=5"
+        },
+        {
+          "text": "山菜採り、クマ狩り…朝日連峰での暮らしの記憶 山形で写真展（毎日新聞）",
+          "desc": "山菜採り、クマ狩り…朝日連峰での暮らしの記憶 山形で写真展（毎日新聞）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NNlRXRnZhV2xRVGlVR1hIZndnR1o5Ujl1TGR5OUt3THFBaDc0NTBNWm9tM2ttQ2QtYmNSTU5vR29peGpUQTR4UnZwSVZRQWVLcklrZFVCWHNyZlhxWkpqRVlQTk9iN1dZajVtajdtRjVBYzFMVmxZeDcteVBwV28?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-19",
+      "lastFetchedAt": "2026-11-20",
       "source": "Google News"
     },
     {
@@ -168,42 +178,42 @@
       "title": "関係資産 — トレンド・体験",
       "items": [
         {
-          "text": "今週末(11月14日・11月15日)のおでかけにおすすめな東京都内のイベント5選を紹介！ (ウォーカープラス)",
-          "desc": "今週末(11月14日・11月15日)のおでかけにおすすめな東京都内のイベント5選を紹介！ (ウォーカープラス)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVVdjRTNHZUgtQ2JuUWRkcG9lT3NXdTJTdHhCTzFxbFQwYjdpTzNhT1BIYzBHMEFlUlBCamozWUtBLVpLTGgyMTA1WW5sT3FlcXpfSGdCbHdtVjJiWnRwQU9lb0s3WGdFTXJBYlBuSjVaWVNDLU9DTzVyM182SXBCaVdKYUttUTVUa2ZYNlBB?oc=5"
+          "text": "【東京のイベント】今週末は3連休！東京周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）",
+          "desc": "【東京のイベント】今週末は3連休！東京周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9id3RVVHNDODVycVJSLURzdFpQTDB2TXlDOEpJeUZNb29wLW5vYkh3VTFLYUoxRlpOWkJfNWNibmhLanN4VTlXRkRYSEg1dnhBWHR3aDBBN2pzYW1hWTdtd2o5QXhydFpVUThfNmFUd3NWdDJtSDRrUVl5Y0JodWs?oc=5"
         },
         {
-          "text": "画像2 / 5＞今週末(11月14日・11月15日)のおでかけにおすすめな東京都内のイベント5選を紹介！",
-          "desc": "画像2 / 5＞今週末(11月14日・11月15日)のおでかけにおすすめな東京都内のイベント5選を紹介！&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYUtEZWRqQzloY1F6b0laS0FFcjRsU2N4QlVWdE5WQVFuVkxwQ3pzN3lXZ3BjU2laTHY4cUpoTWgzZnE3SFZwdjFJOXh3c0RXWVdoN19JZnpOWTJFR0V5dFlPTGFBTGQ1TVVLODVoOHowTlZhMThCLUhqclRDb1BzODBqNTlvbGFpOFdHQS1sZDRBSEVqYkVJdkExYmcyaEZXMWdyTE81aV9iVmU1SkJOUUYzaWxjRDVlcmI1TlJqS3Y5eTVPSHktR25HcGNjQ29jclNBal9OZUI4MUhYS2FqY19vUU96dHBtdGF3?oc=5"
+          "text": "【大阪のイベント】今週末は3連休！大阪周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）",
+          "desc": "【大阪のイベント】今週末は3連休！大阪周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VN3NLRXRvWUtrN0VIanNnamhWcnl5OEpWNDFfeFcyUjZjOXhCNHFJOXZSMDBIRXlLcWR0R3hJa3RUdUpDX2ZRdm4wYTNKOHp0blZEY3dUM3VnbDBVOERCdHh3RlZoYzJnRTVEV1AzYXFFd3F3RWtBaHpudUoyUTg?oc=5"
         },
         {
-          "text": "夙川に長さ60mの巨大テントに116人の作品 「テント美術館展」約40年ぶり復活／兵庫県（サンテレビ）",
-          "desc": "夙川に長さ60mの巨大テントに116人の作品 「テント美術館展」約40年ぶり復活／兵庫県（サンテレビ）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Idm1oSkltQ2V4Q0ZGSHdxOHdNeW0xMzU4SXMxLUVCSGZBcjRfVEVjMUpWczFENFZPYjI0aWE4R2tVQVdJTlFrajE2VGhOSy1pNms5eXp3UjU2RHhObTRfcU0xN1pOTGw0b2IzWjhWUlFLTlRiVHpGZlJ4dUdWY2s?oc=5"
+          "text": "画像2 / 9＞今週末は3連休！屋外で楽しめる関西の11月21日・22日・23日のイベント10選を紹介！",
+          "desc": "画像2 / 9＞今週末は3連休！屋外で楽しめる関西の11月21日・22日・23日のイベント10選を紹介！&nbsp;&nbsp;ウォーカープラス",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdEt4clRrUTNTbndiQnF4TXVRcWY0SmFxSjBYalB5bkI2MENMQURaU1V1MHVOeGNWclFRR0hkTkdSUFJWcE4zcDBmN3ZVcUJuendiSGo4b0RhbWZaMmpuLWJaUWFqNzBmTmZjQ0tXYmtLeFF4VktPS2FsMTN6SVhBUW9qYzhUaEgwVGNTUjRQUkJESGdRZGRNUG1zdXAyLUFJR1NNYjhLZnRVbnNfeXJKenJhVFVZYUVxOERQNFRsR3UwTzlYY18xN1RzWDNhZ1Y2djdnU2xhd1JJRFMwSTZtRG8tc2hKbHNsWnFr?oc=5"
         },
         {
-          "text": "クロード・モネの186回目の誕生日を祝う4つのプログラム。11月14日にポーラ美術館で開催（Tokyo Art Beat）",
-          "desc": "クロード・モネの186回目の誕生日を祝う4つのプログラム。11月14日にポーラ美術館で開催（Tokyo Art Beat）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zaHhOX2FzZ3dtLTZ3a0E4TWo1dU9wcGU5U0p0WFVwbHMtRm14bGJJbzhXbTVUTVExbXE2NGJ0TGtnaUNkVXh4ZU1TdngtM3d3RE9tY2p0S1FwRlQ5aHdVanZVazdqVlRWanZnVl9lNUFEVmxjOW1qdm93U0NVbWM?oc=5"
+          "text": "【九州のイベント】今週末は3連休！九州のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）",
+          "desc": "【九州のイベント】今週末は3連休！九州のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50c1g5cUNPU3JtbHRWWGxrWW53eEdVei1pZzdNN0FsSzdSZDBDd0FUdkVLNG9QSFVpdmxydGVoUVA1Y1FMSWhBSU1uekNuRjFpVlpKVUNVcFJ0Q1pEQnhfcGlLa2hzMWJMZXZMclo3NlRWUkdUUlZRSlpVazAtZW8?oc=5"
         },
         {
-          "text": "今週末に見たい展覧会ベスト23。「風間サチコ展」から「オルセー美術館所蔵」展まで（美術手帖）",
-          "desc": "今週末に見たい展覧会ベスト23。「風間サチコ展」から「オルセー美術館所蔵」展まで（美術手帖）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtWktQOV85Z2YtRUdIZjR4eGFjQUgyQVUwUkh5OVU2cnpOWjRYTkY3Qzd1OVJCSHhRS0h2WVhBNWhvTEdfbExjQndxZXBzNUl5emJmT3NLekM5RUhNeGNMMDU0YVF3UFpOdVZ3NzVkN0sxZlYxZ05OMi13OV95WWM?oc=5"
+          "text": "今週末(11月14日・11月15日)のおでかけにおすすめな東京都内のイベント5選を紹介！（ウォーカープラス）",
+          "desc": "今週末(11月14日・11月15日)のおでかけにおすすめな東京都内のイベント5選を紹介！（ウォーカープラス）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jMjBiVjRFZWVsTm9fVEZXaTdWT01aeTRsUjdqOFE1aVJ0ZE5BMkZuemZCc0JYU2QxblhUVWdSTmlpSzdPaUFYTm9MRDBjZTJmTHhqQlpzUE5SenVIcnJMQ2lISkFIclZZeUdUV2t3MWJ1dGZsTXgzU1JRYmJhMVU?oc=5"
         },
         {
-          "text": "豊田市美術館で2つの企画展 井田照一と長谷川繁の展覧会を同時開催（みんなの経済新聞ネットワーク）",
-          "desc": "豊田市美術館で2つの企画展 井田照一と長谷川繁の展覧会を同時開催（みんなの経済新聞ネットワーク）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SRUF4czVIV0M3WDhOVVAzb2ZmNWRKdmM4QWxra3dBZzZBOGF3bDRrdTlvM3U4OVNXY0RMaXNmRFN2X0IxNkNEQXNISy1lMkczd1ljRFlCZGRiRV91OUVWcGNwU3hLMjlBN1l2dWN1d3Y1Z3V1UC02UGcyUkJLUlU?oc=5"
+          "text": "【愛知のイベント】今週末は3連休！名古屋周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）",
+          "desc": "【愛知のイベント】今週末は3連休！名古屋周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05cVVLVjNtV1pXR2ZxSlNCTVZKbUVHeXJQT3RDdFlRTHhIRTByMFJlaEJCcEVJQnFIMDdQMVFCSGptWjhMN3g4UzhpM2ZlV3ZPdUtsb2RKLU9wbFVPdXR4Um40ZV93LVZ4a2I4VVdmTWEzM0Jya0I5amJPSDNPRkE?oc=5"
         },
         {
-          "text": "安藤忠雄と「もの派」の対話。ヴェネチアのピノー・コレクション プンタ・デラ・ドガーナで展覧会が来春開催へ（美術手帖）",
-          "desc": "安藤忠雄と「もの派」の対話。ヴェネチアのピノー・コレクション プンタ・デラ・ドガーナで展覧会が来春開催へ（美術手帖）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FZl9jOXNfN19DNW9aTVVCLWlnU3dFRnRUYU53dnFOazYzcmxyTnB5Q0d5NzJkeWp6N202VnJPb2g2SkFaNnpHYW85Uk5URDNKdlBoVG5GenMxR0tYWldMUGMwOHR6ZEpuYnVEa2xTRDNfS3VWR3FKNmJUN0Z6UjA?oc=5"
+          "text": "金沢21世紀美術館、長期休館前最後の企画展「今日から明日へ」レポート。多様な現代美術作品をいかに未来へ残していけるのか（Tokyo Art Beat）",
+          "desc": "金沢21世紀美術館、長期休館前最後の企画展「今日から明日へ」レポート。多様な現代美術作品をいかに未来へ残していけるのか（Tokyo Art Beat）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SLTlwbTg1VFFoNWxMWXV3aTZtUUY5VTJMakZCUWw2NU04RDhmdHMwekpMN3Y3d2ZLZVR5MW11MW1oTkRmWjNoTmg3NW5lXzB3V3poUnJrVDRreUp4d25kNjNRckFvWUJfdmV3d19LY2liM0dha2g5M1ZXX25Ub2s?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-18",
+      "lastFetchedAt": "2026-11-20",
       "source": "Google News"
     },
     {
@@ -237,9 +247,9 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM20wLWtCTjIycjJFN21zSi1pelpiOHk1TFk0eWNKNnhWaHhONWlpUG1obWFDZDZSODBoVXpxbHlQNHFFZGVMaHdPdEtmWkNjUUU0ZXpOTEh1MjMxa2ZkTmFyRGlRNEg0ckFlVENYQlJHY0JVdmJVRjZuM2EzdUFFcGQ1Vi1kYnRiS2phZmJzNkxOYnp3VDROM0RPaVQyNXVLZGhkczNTdnFrNWl0Vkt0VHp0TWVfYnU5QUo4S215b043a25ONXdIcFNRYmU?oc=5"
         },
         {
-          "text": "デクセリアルズ[4980]：コーポレート・ガバナンスに関する報告書 2026/11/12 2026年11月12日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "デクセリアルズ[4980]：コーポレート・ガバナンスに関する報告書 2026/11/12 2026年11月12日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XTTZ1WUluWHZqVkQzRFV0dE4tQXhYbnBBLXJ5MFFtS1Exc1BWeENZVktHdkxEakIxV2JIUlFCdmFSYzQyUF95LS1yekNsZGh5b1ZLc0l2WjJTbjU3WG1DMVJUQjdoN21ERVE?oc=5"
+          "text": "キャリアリンク[6070]：コーポレート・ガバナンスに関する報告書 2026/11/16 2026年11月16日(適時開示) ：日経会社情報DIGITAL",
+          "desc": "キャリアリンク[6070]：コーポレート・ガバナンスに関する報告書 2026/11/16 2026年11月16日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BLWhndWlmN25kMDBxalFTVHIwUVFMM2ctY2dzSnJOZ0V3eXVac2tMUGswY2xuMHkzeW1hM2JPSE93SlNTa3F6UnA3X0p5bXZpUjJSZE1TcWtpR2dJUjV1SW1uejBPMEdNOEE?oc=5"
         },
         {
           "text": "アバールデータ[6918]：コーポレート・ガバナンスに関する報告書 2026/11/13 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
@@ -247,7 +257,7 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tWTdhUW9hcFZUVU1VblE3VVBPSGgzcmZoRzdRMC1vanFJam1oaHpsSXFwTGxRZ3l2X1hMdHJXTG0wT291Wk1NYVdxRUQxbkNpXzVDM0hOUnY1Q09JSV8tWVptakplWHR3aXc?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-19",
+      "lastFetchedAt": "2026-11-20",
       "source": "Google News"
     },
     {
