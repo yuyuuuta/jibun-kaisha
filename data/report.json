@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "summaries": [
     {
       "id": "finance",
@@ -7,24 +7,39 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "評価額は約1兆5000億ドル､アンソロピックのIPOで莫大な利益を得る投資家の横顔 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "AIチャットボット｢Claude（クロード）｣を手掛ける米アンソロピックの記録的な新規株式公開（IPO）により､同社に巨額を投じてきた複数の金融会社は数十億ドル規模のリターンを得る見通しだ。アンソロ…",
-          "url": "https://toyokeizai.net/articles/-/965352?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "初の米中ロ首脳会談は｢新ヤルタ会談｣ではなく現代版｢協商｣だ､佐藤優が読み解く首脳会談の本質と日本外交への影響 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "2026年､米中ロ3首脳が深圳で初の会談を実現。｢平和に関する宣言｣は協調と利害対立の狭間を浮き彫りにしました。歴史的｢協商｣と重ねて検証される現代大国外交。その実態と日本への影響を探ります。私たち…",
+          "url": "https://toyokeizai.net/articles/-/965468?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "【米中会談】トランプ米大統領はエヌビディアを巡るスパイ疑惑を重要視せず､習近平国家主席との｢友情｣を強調 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "半導体規制やスパイ疑惑が渦巻く一方､トランプ大統領は｢友情｣と｢勝利｣を強調しました。",
-          "url": "https://toyokeizai.net/articles/-/965345?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "高市首相の｢外交敗北｣が露呈した米中ロ首脳会談､3大国が世界秩序を仕切る｢新ヤルタ体制｣に日本はどう立ち向かうのか | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "米中ロの首脳が初めて揃ったAPEC首脳会談。同時に米中ロ3カ国の首脳会談も行われました。世界秩序の主導権を競う大国たちの動きの中､日本は｢蚊帳の外｣となり､高市早苗首相の外交力が問われています。日本…",
+          "url": "https://toyokeizai.net/articles/-/965450?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "【歓迎格差】トランプ米大統領は習氏が自ら出迎え､領有権対立ある比マルコス大統領でさえ高市首相より良い待遇 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "国際会議の舞台裏で注目された､中国による各国首脳への空港での\"出迎え\"には､緻密に計算された外交メッセージが込められています。トランプ大統領を自ら迎えた習近平主席の姿や､日本･高市首相への冷淡な対応…",
-          "url": "https://toyokeizai.net/articles/-/965342?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "中国\"冷遇\"に垣間見えた習近平の｢ツンデレ｣は何を意味するのか？ 台湾有事発言から1年経過で試される高市首相の\"度量\" | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "中国･深圳でAPEC首脳会議に臨んだ高市首相。空港などでの冷遇ぶりがセンセーショナルに報道されましたが､一方で中国側には微妙な態度の変化も見られました。関係改善の糸口は見つかるのか､高市首相の決断が…",
+          "url": "https://toyokeizai.net/articles/-/965477?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "｢2027年に台湾侵攻｣は本当か…一人歩きする\"期限付き予言\"の陰に隠れた､開戦すれば\"やり切る\"中国の武力行使の論理 | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "｢中国は2027年に台湾侵攻か｣──近年､こうした期限付きの危機予言が世間を席巻しています。数字と政治日程が交錯する中､報道や解説は｢台湾有事の現実味｣を煽り続けますが､本当にそのとおりなのでしょう…",
-          "url": "https://toyokeizai.net/articles/-/960792?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "ソ連への勢力圏容認を彷彿とさせる｢ヤルタ2.0｣体制の出現…｢法の支配｣を無視した国際秩序構築にどう対抗できるか | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "米中ロ､三大国による歴史的首脳会談が深圳で実現。戦後秩序を築いた｢ヤルタ会議｣を彷彿とさせる動きに､ウクライナや東欧は危機感を募らせています。彼らの主張する大国主導論ははたして新たな世界安定の礎とな…",
+          "url": "https://toyokeizai.net/articles/-/965463?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "｢核戦争は起こしてはならない｣｢核リスクの低減と核兵器の拡散防止に関する対話を行う｣…米中ロ首脳が平和宣言で合意 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "米中露の首脳が初めて一堂に会し､｢核戦争は決して起こしてはならない｣と平和宣言に合意。しかし軍備管理協議には進展せず､国際社会では｢行動なき言葉｣への懸念も噴出しています。",
+          "url": "https://toyokeizai.net/articles/-/965434?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "〈異例の措置〉ホワイトハウスが中国出発時にトランプ大統領の同行記者から携帯電話を回収､｢安全保障上の理由｣ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "ホワイトハウスは､トランプ米大統領が中国を出発する際､同行記者団の携帯電話を取り上げた。異例の措置だ。トランプ氏は習近平国家主席､ロシアのプーチン大統領との会談を終え､19日に深圳を出発した。同行記…",
+          "url": "https://toyokeizai.net/articles/-/965409?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "〈注文殺到〉アンソロピックIPOの日本募集分､募集額の3倍超となる1兆5000億円超の注文が殺到 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "米AIスタートアップ･アンソロピックのIPOが日本でも注目を集め､募集額の3倍超となる1兆5000億円超の注文が殺到しました。",
+          "url": "https://toyokeizai.net/articles/-/965422?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "米ＦＲＢ、金融政策の判断ではインフレ動向を重視＝ジェファーソン副議長",
@@ -37,27 +52,12 @@
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oWUw4bUVINUgxclh5Ym5iTEZFUFN6YmlrMXNSUXc2dEo3aFJ4S015QVVyc2JaREVSVWZNQklXZXJrSnp2c2tQNktpeV8?oc=5"
         },
         {
-          "text": "日銀政策運営、個人消費含む経済・物価を総合判断と理解＝城内経財相",
-          "desc": "日銀政策運営、個人消費含む経済・物価を総合判断と理解＝城内経財相&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZE1nMkxqMWo3aGF6NWtkT09ZYXVkQkdjUnBxcUxCMjl4ajRwMDE4ZWtXQXNFclQyVmRtbU9Td25vQ0w4QjNWTTN4YzR5TEhuZFBxZTd5VF8yRm5BSU16VlFnR2xlcHJFMzV0cTNYSDcyYUtGVWpWSXhDMGZBdXF4WHZhYU12Mnp0LS1KQnJiZmM?oc=5"
-        },
-        {
-          "text": "ＦＲＢ、27年の会合日程発表 金利決定の回数8回から7回に",
-          "desc": "ＦＲＢ、27年の会合日程発表 金利決定の回数8回から7回に&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYklEWkZMelFLU0ZLWjR0Y3pidjBSd25BVG54VzdxUDdpTjBYNUJHT1lURFJlUXlqTllPTFRXR2lPUlVXWUpUNFVDb3RjeG92cWJzQy1KbXhwcGtZZTFMTW9vMWNERl9xaUYwaDA4RXNpWTJGUjkzRjBKLV9BTFcyMzl4SkMtbkg1cW83TlZwaHIxMWN0a2RXUXNVYw?oc=5"
-        },
-        {
-          "text": "ＦＲＢ、追加利上げ必要の可能性 「劇的な対応」不要＝ＮＹ連銀総裁",
-          "desc": "ＦＲＢ、追加利上げ必要の可能性 「劇的な対応」不要＝ＮＹ連銀総裁&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNFRzaHhaVU01ME1JTDlBVVpWdTFnRFNLbUxsWkJTd0NMQzlXM2xJOGpheS1wQzlTcEJPcF9IZ0dvQWhub3lPN3hXQlU5Rk95UVFyTko3cEprTm1vMExoOFROdVRDV0tXbDU1S09nRndXTGk4OS1odGJ3WHhSRWFYUmFvVXFMR2p6WHEtQlJBTFhLanBVWFdtZ0FZWQ?oc=5"
-        },
-        {
-          "text": "ＡＩが金融にもたらすリスク、バーＦＲＢ理事が多角的に指摘",
-          "desc": "ＡＩが金融にもたらすリスク、バーＦＲＢ理事が多角的に指摘&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OcFJFMEdDTjE4X2kwNkRlb2l4M2dUX0JXS0o0MmZJMXF5MUxjS1o0SXdxQzJiWEMyNGMxRmpTR0tiYjRjWWxlNDNnRk1zZ2ZMMzFlSDNWT0I3eEZiMUpuRnhzVGJsQVQxMV81WkpiWlVEZWR4ejQ3Z1NCV3lWUQ?oc=5"
+          "text": "中間選挙後の米国、インフレは鎮静化の見込み 地主敏樹氏",
+          "desc": "中間選挙後の米国、インフレは鎮静化の見込み 地主敏樹氏&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdUs3VUotZnNmdXlBNXZUaWZrMWZhTDdkMDBFaGRlR0c4Szl4RGhBS3RGaGZDTDBXVHFFRmhtLWdSay13czFVYVdMUmZWRGh4aGlRY19jamEzLTVJb2RtbkluZVc4NWJZUF81Zg?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-20",
+      "lastFetchedAt": "2026-11-21",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
-          "text": "「GLM-5.3-Flash」「DeepSeek-V4.1-Flash",
-          "desc": "さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」で、AIモデル「GLM-5.3-Flash」および「DeepSeek-V4.1-Flash-1017」の試験提供を始めた。1カ月あたり3000リクエストまで無料で使える。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003339/"
+          "text": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
+          "desc": "京都大学の学生相談部門は「AIに悩みを相談する際に気をつけて欲しいこと」と題した文書を公開した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/"
         },
         {
-          "text": "ファミマが「AIロボット」本格導入へ　飲料補充に活用、作業時間の約7割を削減",
-          "desc": "",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003329/"
+          "text": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
+          "desc": "「Google Antigravity」を他社のAIツールを介して利用すると規約違反でアカウント停止の可能性があるとXなどで話題になっている。Google Cloud日本法人への取材や公開されている規約などを基に状況と対応を整理する。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/"
         },
         {
-          "text": "ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……",
-          "desc": "ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調査した研究報告だ。",
-          "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/"
+          "text": "「Muse」専用メアド、無料で作成可能に　AIが送受信を代理",
+          "desc": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/"
         },
         {
-          "text": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？　428件を調べてわかった乗っ取り手口　暗号資産を盗む例も",
-          "desc": "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査した研究報告だ。",
-          "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/"
+          "text": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+          "desc": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
+          "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/"
         },
         {
-          "text": "Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」　一部「Fable同等」性能をコスト半分で",
-          "desc": "Googleが「Gemini 4 Neon」を公開。同シリーズのモデルは2カ月足らずで4つ目となる。第三者機関の評価では、コーディングエージェントとしての性能がClaude Fable 5.2と同等で、コストは半分以下だった。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/"
+          "text": "日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？",
+          "desc": "日立製作所は2027年4月、米国子会社2社を統合し、27カ国・約3万5000人規模のデジタル新会社「Hitachi Digital」を発足させる。CEO兼Chairmanに就任するアナンド・ビルジェ氏が取材に応じ、今後5年で事業規模2倍を見据える戦略を語った。現場に入る精鋭チーム「FDE」を1年で3000人へ3倍増させ、売上の9割を占める上位200～300社への集中でフィジカルAIの覇権を狙う。",
+          "url": "https://www.itmedia.co.jp/business/articles/2611/20/news024.html"
         },
         {
-          "text": "AIによるAI研究「指数関数的に増加」でも「依然として人間中心」　OpenAIがレポート公開",
-          "desc": "OpenAIは、AIが同社内のAI研究にどのように貢献しているかに関するレポートを公開した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003318/"
+          "text": "車体形状を変えながら空力性能をAI予測、AutodeskがNVIDIAとの技術統合を計画",
+          "desc": "米Autodeskは、自動車デザイナー向けソリューション「Autodesk NavPack」にNVIDIAの技術を統合する計画を発表した。対応するAIモデルアーキテクチャの拡張や、ワークフローの一部をGPUで高速化することを目指す。",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news029.html"
         },
         {
-          "text": "PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築",
-          "desc": "PFUは、「EdgeTech+ 2026」において、ファンレスのエッジAIデバイスと、自然言語入力でAI解析機能を簡単に構築できるSIエージェントを組み合わせた「エッジAIデバイス×SIエージェント」を参考出展した。",
-          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news044.html"
+          "text": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁　「Business Standard」全ユーザーにも",
+          "desc": "OpenAIは「ChatGPT」の「Plus」プランユーザーの一部向けに、同社の常時稼働型エージェント「dots」の提供を開始する。",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/"
         }
       ],
-      "lastFetchedAt": "2026-11-20",
+      "lastFetchedAt": "2026-11-21",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -110,14 +110,19 @@
       "title": "健康資産 — 健康トピック",
       "items": [
         {
-          "text": "「睡眠は『質』より、まずは『量』」秋の夜長に眠れない「季節性不眠症」…日照時間短くなると寝つきが悪くなる「お酒の力を借りるくらいなら、薬を服用する方がいい」（大手小町（読売新聞））",
-          "desc": "「睡眠は『質』より、まずは『量』」秋の夜長に眠れない「季節性不眠症」…日照時間短くなると寝つきが悪くなる「お酒の力を借りるくらいなら、薬を服用する方がいい」（大手小町（読売新聞））&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02aXp0Y0JKOTJzdUNlaGxPR1ZNU05JVERRUURpR1pFb0NacFNfQWd5MGZwY2xXTG5qM3NCVXV1b0tJVDAxVFM5NG00U0hORE9pbTBfd3A5Tzd1NEVmakFuZk1NY01RUDA0MjN0eFVVb0pUMVdmd09lNnNnUmU5eU0?oc=5"
+          "text": "スマホのブルーライトをカットすれば、睡眠の質は改善するの？",
+          "desc": "スマホのブルーライトをカットすれば、睡眠の質は改善するの？&nbsp;&nbsp;読売新聞",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVdiR3hTNWFZNENUZUIyYURpM0dLWHZHbzJYMk1xM1lBVXl5SHNIZ01NNE1uVTZMNng5aFJfd21KMkVBSmZyTEJ4bXVBTVF5UmQwalFFckY1NWc4Y3ZvYVFaUXFrakRLSnY0R1hjbDNKV01UZE9NeXdCWG14WjV4aF9fUmlDRUR2eXZ2dURoQQ?oc=5"
         },
         {
-          "text": "病を防ぐ食事とは？ 国が初のガイド作成へ「健康寿命延ばしたい」",
-          "desc": "病を防ぐ食事とは？ 国が初のガイド作成へ「健康寿命延ばしたい」&nbsp;&nbsp;朝日新聞",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOWFdySEF4TU85YWVhQ3BwM2xjamFrX1NPZ3FKXzJqbGhNR0l0SHdHX3Vwbjg1dE9FTlVOcXNLSFFTczMtaEJBMFJCaU5EczRHRlY1NDhxaGpaNHpXMWxLNUJCdnAwWVk?oc=5"
+          "text": "「快眠グッズは逆効果」 欧米で睡眠薬に代わって主流となった「認知行動療法」とは？ 今年6月から保険適用に (デイリー新潮)",
+          "desc": "「快眠グッズは逆効果」 欧米で睡眠薬に代わって主流となった「認知行動療法」とは？ 今年6月から保険適用に (デイリー新潮)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWFM4M2NiUVR5ZWJhZG4xM2dzMFJkV2k4TkJnSlc0eTBLSW4zLXlGQlRUal8xQVJBbDF2NFFheERjNlpiVFJNVHdiRGE5OEx0MlJ5blozTkdnYUZBbnVodmh5OUtLLVplQkQtZmZOUjByNks5eFBKbDEwdXFIREZ0OVBOQU50UWIyc0txekF3?oc=5"
+        },
+        {
+          "text": "【ＰＲ】睡眠の質を上げるために 重要なのは“眠りの深さ”だけじゃない？",
+          "desc": "【ＰＲ】睡眠の質を上げるために 重要なのは“眠りの深さ”だけじゃない？&nbsp;&nbsp;読売新聞",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUJjWG9NWWY0SUI5N1d0bHRHOHRWeHpnYXFtX3VQNTgwTHNoejJNSElCOXZqSHl1UTdaUlhORy1QdTllbkpJbXMtWHRybGNGQ0FNSVFkUFRMUmROR1ZDTE5WNU43UG12NVNwbWxBemJPVE80QWpqUk5xZjc1QmdnS0QzN1ZaMGxpRldseUp0OA?oc=5"
         },
         {
           "text": "「第15回 健康寿命をのばそう！アワード（介護予防・ 高齢者生活支援分野）」の表彰式を行います",
@@ -125,7 +130,7 @@
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ka2xoSERqUGZCaG4tRlA3eWg3TzFpSFRfT0lVVW1sWVRIbGhGeHNhNjltVUxkV1hTSTR3R1h4cWJUWHZaRnZXTDJOc1MxQ2hFVmcxZVJaTlU?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-20",
+      "lastFetchedAt": "2026-11-21",
       "source": "Google News"
     },
     {
@@ -144,19 +149,9 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UZWhvZ0NtX3RRTXZaYUllS2tEWTVPb0g0NzdIWFhzZjJ6bjVaZGM1UDFPLVdiQ3JWUFN4X25GeWhvUlZTTzVFVm14bTlqSnRqNU8zQ3dfSFZOM29zRWp6akVqbVZQMXhGUUp0U2JyT3ZEcHpQ?oc=5"
         },
         {
-          "text": "暮らしに浸透するＡＩ 便利さの一方でリスクも 青森中央学院大学はＡＩ対応を必修授業に（2026年11月17日掲載）",
-          "desc": "暮らしに浸透するＡＩ 便利さの一方でリスクも 青森中央学院大学はＡＩ対応を必修授業に（2026年11月17日掲載）&nbsp;&nbsp;日テレNEWS NNN",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yUjBQaVoxTmJVRUo1Uml1a1NjSlN6WG9wY0ZoeHpNbjNkVzYyR29Wb1BXNkFfRHVEQWdNWW5IOXQ3eUdfLTB0aklPS3ZFdDk1NkRUSkZDRGo2M0NLYnNhek8xbFdtd3V4Zk54WEJKSlBBSnpYZThGcGpRRFdBTlk?oc=5"
-        },
-        {
           "text": "「今後は自分たちだけで暮らして」〈年金月19万円・72歳夫婦〉息子から月5万円の仕送りを打ち切られ…見直しを迫られた老後の家計 (THE GOLD ONLINE（ゴールドオンライン）)",
           "desc": "「今後は自分たちだけで暮らして」〈年金月19万円・72歳夫婦〉息子から月5万円の仕送りを打ち切られ…見直しを迫られた老後の家計 (THE GOLD ONLINE（ゴールドオンライン）)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU21iN0RaYU1tbFNBMnBYSFhBOFg4SGcxWUd1UVhJc0JDTUV2V0ZxRW5kel9LQmQzZGVVeTlTUHpibVNYVVBUUkpSeUI5UUlEVkwxNnlBT1lOS1Nja3YzQ1VXVVNKY19iSnQ0TE92SGVEUllQV3RtaVZrVFpsVUtMcVphUnQzYTV0SG5SNUhn?oc=5"
-        },
-        {
-          "text": "【貧乏になる】貯金ゼロだった主婦がやめた「地味に食費がかさむ習慣」を５つ（リッチじゃない暮らし みさき） - エキスパート",
-          "desc": "【貧乏になる】貯金ゼロだった主婦がやめた「地味に食費がかさむ習慣」を５つ（リッチじゃない暮らし みさき） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWFxaW11RTBjVDdmX1c3bC1rcjRHU2lPcnkyM2w0VXZwN3FvdWpxMW9Sd2xVR1ZCaTJHaENJdzZNak10QW1pSVlOU3NYQ0luR3hDeno5VjY5V0steFBUa09FOHpva05XRkZBWEVES2xPbEhXWW1MZ1FUZHV0bHhIVEsyZnFpejZX?oc=5"
         },
         {
           "text": "パスワードは手帳で管理。60代ひとり暮らしの「デジタル片づけ」、アカウント管理で見直すべきこと（ESSE-online）",
@@ -164,12 +159,22 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQkJTcG5ZaVh0UjBnUElEMXRKaGViR2RheE9wUXhBVkRZc2ZpdlVWV0ZILU1CUWgzNkpUQVVHZ1hQYW5pcTlQVXRQckJVZXhNRUFUaVg3dkxyeHJfc2VvWWRtbFIzbmY0ZGhaYWRtZU1NRkZPTmdobGNScHB1Vmc?oc=5"
         },
         {
-          "text": "山菜採り、クマ狩り…朝日連峰での暮らしの記憶 山形で写真展（毎日新聞）",
-          "desc": "山菜採り、クマ狩り…朝日連峰での暮らしの記憶 山形で写真展（毎日新聞）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NNlRXRnZhV2xRVGlVR1hIZndnR1o5Ujl1TGR5OUt3THFBaDc0NTBNWm9tM2ttQ2QtYmNSTU5vR29peGpUQTR4UnZwSVZRQWVLcklrZFVCWHNyZlhxWkpqRVlQTk9iN1dZajVtajdtRjVBYzFMVmxZeDcteVBwV28?oc=5"
+          "text": "家賃6万円、食費と生活費込みで月19万円以内。50代でタイ移住、FIREした日本人のリアルな資金と暮らし（SPA!）",
+          "desc": "家賃6万円、食費と生活費込みで月19万円以内。50代でタイ移住、FIREした日本人のリアルな資金と暮らし（SPA!）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLaGRxZE1LdFpEdGp5REZVSkNmWm1GLWV4WDBYb0ltSVZIVUNZMmdLMlgxWllCdFpYbldna0V4VjFySHR5M3Zvb3hVM05wUmRBSU5JZ3o3Z1Frald2aEpUdG0xUXZzZ0pkd2o3dFhUbkpSQlNnbjltc3lyM0JSOEk?oc=5"
+        },
+        {
+          "text": "食費月2万円、40代ひとり暮らしの「リアルな食事」。納豆ご飯に冷凍の魚、ごほうびパンで満足（ESSE-online）",
+          "desc": "食費月2万円、40代ひとり暮らしの「リアルな食事」。納豆ご飯に冷凍の魚、ごほうびパンで満足（ESSE-online）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTk5rUHo3RnpwN1hwa2FJOGdBV0ZOVWh4eUVpTmRGZ0Zsd3REVTlGTFdEOTQwcGQza3UxQTJrNUx5OGRpMmQwRXVGSXI1dnVwVGV1YWhYUWZfWlpPUTE0cmxxMVFzSUFSRkZmY1lDc19kQ1IyQmh0X0t6d1hzT1k?oc=5"
+        },
+        {
+          "text": "千葉県が地震や津波への備えを紹介する「ちば地震防災ガイド」を10年ぶりに新しくしました",
+          "desc": "千葉県が地震や津波への備えを紹介する「ちば地震防災ガイド」を10年ぶりに新しくしました&nbsp;&nbsp;やさしい朝日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MQUg0SVM0eUQtd0JISGFJaEhHcTQ1dGlkR3VuSlZfb0hCcmNhOVZMaUhjY0o5UWQ4RFBCLUhhNVdVSXlNUHhnaXdqWHNRWjhoZ2pWY2wyMDNvQ1RESUFUVGJYM0lwMjA?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-20",
+      "lastFetchedAt": "2026-11-21",
       "source": "Google News"
     },
     {
@@ -232,14 +237,14 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOempEM2w4by05bkthNjJCNVZ3Vkk4cmliVlRpb0tSaUU2WExGRDhvajlkT1JfMWZta0tab3VfX1RqSzFQbHBWbzU3SW9mYVdnTV9aQ0dzVEJhbFFobE1uWXljYkVzbVhNWGREZGw3b19HU2dEdWp1Z2R2TTV1Mmh2M2h5S1lMVVYtbUMybkpxOVlNQTRWdHpVWjFkeDNZVE1DbUZYWXczME5IdFJkZEo5clRB?oc=5"
         },
         {
+          "text": "「生成AI普及で今後の仕事に不安」8割超 住友生命の全国調査",
+          "desc": "「生成AI普及で今後の仕事に不安」8割超 住友生命の全国調査&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0U04tdndlbkplbkpxc3RQUDBSb0IzOGdfclBLeDZWWGZqLVROWmNQSU53dTQ3QTNsYmJtR3pTbmVmTFlOY00wb2FBNHU1Ym82bC1WYkVQNlowR2pCZkJzVGs4TmF5WUJHemNYcA?oc=5"
+        },
+        {
           "text": "十全十美の「営業スキルマップ」",
           "desc": "十全十美の「営業スキルマップ」&nbsp;&nbsp;日経クロストレンド",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmWjN3Vm02WUQ0T3NUcGZRanFNTldJWDYzUk5naF9ZSXVTVkYxdUloQ2ZHYlhaeE94dExJOWtDZmNGRnJsc3hDLS1nMUtIRWo2ZTJwb1ZqcnRmN0xYaXc?oc=5"
-        },
-        {
-          "text": "爆速「Claude」マーケティングの極意",
-          "desc": "爆速「Claude」マーケティングの極意&nbsp;&nbsp;日経クロストレンド",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyU0txRm9XS2w1SUZNNENwWnJJN0hESFE5VDJSSGxQNFdXQTlnbkVhXzRhOGo1elRxZmt1amh1ZzB5aW9oMTNzeWhTc3R2WnFyWlgxOHNNWDhiWXNlVnc?oc=5"
         },
         {
           "text": "ＪＢＣＣホールディングス[9889]：コーポレート・ガバナンスに関する報告書 2026/11/18 2026年11月18日(適時開示) ：日経会社情報DIGITAL",
@@ -247,17 +252,12 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM20wLWtCTjIycjJFN21zSi1pelpiOHk1TFk0eWNKNnhWaHhONWlpUG1obWFDZDZSODBoVXpxbHlQNHFFZGVMaHdPdEtmWkNjUUU0ZXpOTEh1MjMxa2ZkTmFyRGlRNEg0ckFlVENYQlJHY0JVdmJVRjZuM2EzdUFFcGQ1Vi1kYnRiS2phZmJzNkxOYnp3VDROM0RPaVQyNXVLZGhkczNTdnFrNWl0Vkt0VHp0TWVfYnU5QUo4S215b043a25ONXdIcFNRYmU?oc=5"
         },
         {
-          "text": "キャリアリンク[6070]：コーポレート・ガバナンスに関する報告書 2026/11/16 2026年11月16日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "キャリアリンク[6070]：コーポレート・ガバナンスに関する報告書 2026/11/16 2026年11月16日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BLWhndWlmN25kMDBxalFTVHIwUVFMM2ctY2dzSnJOZ0V3eXVac2tMUGswY2xuMHkzeW1hM2JPSE93SlNTa3F6UnA3X0p5bXZpUjJSZE1TcWtpR2dJUjV1SW1uejBPMEdNOEE?oc=5"
-        },
-        {
-          "text": "アバールデータ[6918]：コーポレート・ガバナンスに関する報告書 2026/11/13 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
-          "desc": "アバールデータ[6918]：コーポレート・ガバナンスに関する報告書 2026/11/13 2026年11月13日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tWTdhUW9hcFZUVU1VblE3VVBPSGgzcmZoRzdRMC1vanFJam1oaHpsSXFwTGxRZ3l2X1hMdHJXTG0wT291Wk1NYVdxRUQxbkNpXzVDM0hOUnY1Q09JSV8tWVptakplWHR3aXc?oc=5"
+          "text": "｢学費全額免除､月5万円の奨学金｣台湾の大学が日本人学生を厚遇する理由､TSMC進出で変わる半導体人材争奪戦",
+          "desc": "｢学費全額免除､月5万円の奨学金｣台湾の大学が日本人学生を厚遇する理由､TSMC進出で変わる半導体人材争奪戦&nbsp;&nbsp;東洋経済オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XQnVpN0JfUzBNTWhlaUtmY2phWUF0UEpscGtSZllUOVN1MVJXTklaWHdKd1N1OXdkeU1CaUFBaFctZ0xjY3hYSVhidlRuWEN0QTZUYzVuWmNFdWM?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-20",
+      "lastFetchedAt": "2026-11-21",
       "source": "Google News"
     },
     {
