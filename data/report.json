@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "summaries": [
     {
       "id": "finance",
@@ -7,14 +7,39 @@
       "title": "金融資産 — マーケット動向",
       "items": [
         {
-          "text": "スターバックス経営陣が語った｢成長計画｣…抹茶が10億ドル事業に､昼下がりの定番に変化も | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "スターバックスの最新の決算説明会で､意外な成長戦略が語られました。",
-          "url": "https://toyokeizai.net/articles/-/964096?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "フアン氏｢エヌビディアCEO電撃復帰｣の衝撃､トランプ米大統領の介入で取締役会が翻意 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "エヌビディアCEOジェンスン･フアン氏の電撃復帰は各所に波紋を広げています。",
+          "url": "https://toyokeizai.net/articles/-/965655?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
-          "text": "〈売りの号砲が鳴った〉アンソロピックは初値から真っ逆さまに落ちてゆく…｢夢見る自転車操業｣のAI循環投資にブレーキ | 政治・経済・投資 | 東洋経済オンライン",
-          "desc": "AIバブルがついに崩壊を迎えた今､市場の専門家たちの楽観論は説得力を失いました。アンソロピック上場を合図に､個人投資家のセンチメントは一気に崩壊。下落は一時的な調整なのか､それとも実体経済をも揺るが…",
-          "url": "https://toyokeizai.net/articles/-/965573?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+          "text": "｢人類を滅亡させるかもしれない｣AIへ投資する人間…アメリカ中間選挙の結果は楽観論を修正できるか | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "AIがもたらす未来に金融界は楽観的ですが､社会全体には深まる不安と反発の空気が漂います。特にアメリカ中間選挙の結果やデータセンターへの規制強化は､その象徴です。市場と技術革新のはざまで､私たちはどん…",
+          "url": "https://toyokeizai.net/articles/-/965443?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "｢金利が上がれば地価は下がる｣は本当か？ 武蔵野･三鷹は加速､調布･府中は鈍化… 最新基準地価に見た｢静かな地殻変動｣ | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "長期金利の上昇が続いています。9月には一時､約30年ぶりとなる3％台に到達しました。この影響は不動産市場にも表れているのでしょうか。最新の基準地価データから見えてきた｢新たな傾向｣について解説します。",
+          "url": "https://toyokeizai.net/articles/-/965356?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "ジェンスン･フアン氏の処遇巡るエヌビディア取締役会の｢方針転換｣､経営陣には知らせずに決定していた | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "米半導体大手エヌビディアが解任していたジェンスン･フアン氏のCEO復帰を決めた舞台裏で､経営幹部への事前相談がなかったことが判明しました。",
+          "url": "https://toyokeizai.net/articles/-/965646?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "【株価急伸】エヌビディア､ジェンスン･フアン氏を取締役社長兼CEOに即時復帰させると発表 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "エヌビディアは､ジェンスン･フアン氏を社長兼CEOとして電撃復帰させ､市場に衝撃を与えました。株価は一時31％超の急騰を記録しました。",
+          "url": "https://toyokeizai.net/articles/-/965639?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "トランプが犯した｢大きな過ち｣－同盟国を軽視し中国に世界秩序の主導者を喧伝する場を与えた米中ロ首脳会談という茶番 | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "2026年､経済成長著しい深圳で開催されたAPEC首脳会議。米中ロの｢G3｣会談や､不透明なWTO議論､さらには日本首相への\"冷遇\"も波紋を呼びました。大国の思惑が交錯する中､国際秩序と日本の立ち位…",
+          "url": "https://toyokeizai.net/articles/-/965578?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+        },
+        {
+          "text": "ソフトバンクGが26年中の買収完了目指す｢ABBロボット事業｣､中国当局の阻止で白紙となった場合の選択肢とは | 政治・経済・投資 | 東洋経済オンライン",
+          "desc": "スイスの重電大手ABBがソフトバンクグループ（SBG）にロボット事業を売却する計画は､中国当局の阻止により白紙撤回の可能性が浮上しています。ABBとSBGは計画の修正に取り組んでいるようです。",
+          "url": "https://toyokeizai.net/articles/-/965604?utm_source=rss&utm_medium=http&utm_campaign=link_back"
         },
         {
           "text": "メキシコ中銀「サプライズ利下げ」で政策金利6.25％、米FRBと逆方向に動いた背景とペソ相場の上値が重い理由",
@@ -22,42 +47,17 @@
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oWUw4bUVINUgxclh5Ym5iTEZFUFN6YmlrMXNSUXc2dEo3aFJ4S015QVVyc2JaREVSVWZNQklXZXJrSnp2c2tQNktpeV8?oc=5"
         },
         {
-          "text": "米ＦＲＢ、金融政策の判断ではインフレ動向を重視＝ジェファーソン副議長",
-          "desc": "米ＦＲＢ、金融政策の判断ではインフレ動向を重視＝ジェファーソン副議長&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFVDM0p3WW9xbXFjYUNqOGhTa25aZGpZN0VxcXB1OVhvVlpuNFR5MUk0TGJUNno3cTE5TTl5OHdpTzZHT3VicFRWWTkyVENZeEI3Q3M2WHdHSzEzOEtFYVA3MjdvN19NTWwwcnU4dks0LTFjY0dmZkQyaXItZWZkYVBuRXpKQWFUYnNTVmhfeEk3a1NBS2dKWnNRTQ?oc=5"
+          "text": "中間選挙後の米国、インフレは鎮静化の見込み 地主敏樹氏",
+          "desc": "中間選挙後の米国、インフレは鎮静化の見込み 地主敏樹氏&nbsp;&nbsp;日本経済新聞",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdUs3VUotZnNmdXlBNXZUaWZrMWZhTDdkMDBFaGRlR0c4Szl4RGhBS3RGaGZDTDBXVHFFRmhtLWdSay13czFVYVdMUmZWRGh4aGlRY19jamEzLTVJb2RtbkluZVc4NWJZUF81Zg?oc=5"
         },
         {
-          "text": "米国株急落で強まるリスク回避 日経平均「年内5万円接近」の声",
-          "desc": "米国株急落で強まるリスク回避 日経平均「年内5万円接近」の声&nbsp;&nbsp;日本経済新聞",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DSUIycW9td1ZocjVaMzFSbWc1ZXFUc3BadHVFaHhseXdjWmtwN2NrbWplRF9HTjgyOGd3b0xUR3dfd0NBSTdUM1hNY1BYRFdCbEM1cHdCMzI2VjhBVUMxeTJNcHNSc2dYbzVaRw?oc=5"
-        },
-        {
-          "text": "米国株式市場＝主要3指数2％超安、アンソロピック上場でもＡＩ熱戻らず | ロイター",
-          "desc": "米国株式市場＝主要3指数2％超安、アンソロピック上場でもＡＩ熱戻らず | ロイター&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3FMTlNIaUdpZ2VlNnZoMk5LRXZYTjV2bDdIN3c2eGxCVmdZOVYwYjBVWW96MjdTLV9rcnkyRW00U0xiV3hSaEdsLUkwMU5HZDljVDJiNFEzV0REdlp3SjZHZ3d6aGpkQ20wbG1KSXZTWWlJdndkTDl6V1JKRXVBcWpDY2RLT2ZBakg3SVZpSFA?oc=5"
-        },
-        {
-          "text": "米株主要3指数安でリスクオフ波及【今日の市場はどう動いた？】",
-          "desc": "米株主要3指数安でリスクオフ波及【今日の市場はどう動いた？】&nbsp;&nbsp;Yahoo!ファイナンス",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IdjBaZHI3Ni01eFoxWmdLM1NmRVg2SUc5aDBmeUxaNXRDWFppYUdTajloWFNRZzFmVjh4NjBfWVpJV0x3Ymc1OFdlZkpnYTQxVVgyUXg2X3QtLXJ6OXdJU3pvdFQ?oc=5"
-        },
-        {
-          "text": "１８日の株式相場見通し＝反発、エヌビディアは決算後に時間外で上昇",
-          "desc": "１８日の株式相場見通し＝反発、エヌビディアは決算後に時間外で上昇&nbsp;&nbsp;株探",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pelNfdE1BT0d0WFg3NzJuaUpmeVNISHJMZHgyVFFfWHZuMVRnckcwcWFzRFhIaHdNRHdQZDhuSTl6V0NYS0lOMTVmX1VmMVc0bkpOSzdyaE1JeVJmQ0JTbg?oc=5"
-        },
-        {
-          "text": "20日寄り付き直後の日本株は大幅安､AI懸念が払拭されず",
-          "desc": "20日寄り付き直後の日本株は大幅安､AI懸念が払拭されず&nbsp;&nbsp;四季報オンライン",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fMUxMZVE5MWtjRWRIT2N5LUdwbGpkVFhoWGdOLTJzTXE1WGM2R0V2Q19ENEt6TVJTazdfSWJZdGpzQ2s3ZHB4VTZ6RlQxOVFBcV8wMGZHVQ?oc=5"
-        },
-        {
-          "text": "COMMENTARY: コラム：米国株の天井近いか、超大型ＩＰＯなど警戒信号相次ぐ",
-          "desc": "COMMENTARY: コラム：米国株の天井近いか、超大型ＩＰＯなど警戒信号相次ぐ&nbsp;&nbsp;Reuters",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UQ00xRHJNSE9FTGRvdlJZaEctVkFTTmFMQTZxQWZnX0JJcngxdHVtb0hKMUt4MXVrY2xOc2lKaHZGS3hRTkZCS1BHamFZakEwc3pBWFotWlYyMDN1dmdOaWZBRUZDSDY4c3NSU21vWGt1T083azN6V3dxODAyQQ?oc=5"
+          "text": "ＦＲＢ内でインフレ懸念強まる、ＡＩ投資リスクも警戒＝議事要旨",
+          "desc": "ＦＲＢ内でインフレ懸念強まる、ＡＩ投資リスクも警戒＝議事要旨&nbsp;&nbsp;Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGxQdXVzbEV1cnc2VkpOcFJPWmFwWXdQVThiMF9BbW9ncnFrdGFNYVJkT1VjNkR2Y2FFZVNWLVFtS3Y2MU1GNW1USEtmaFc1aXdKbDh6cWFxZFUtTFp4NzljcUtRRmZ3NjY1QXRvdmxkZWFVbHZxVk5PQm1pOWZVbHUzaU1yblYySEFXUDVfZ3R4Qk4tMllDVHFraw?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-23",
+      "lastFetchedAt": "2026-11-24",
       "source": "東洋経済 / Google News"
     },
     {
@@ -66,42 +66,42 @@
       "title": "認知資産 — AI・テクノロジー・科学",
       "items": [
         {
+          "text": "CrowdStrike、Zscalerを約439億ドルで買収へ　狙いはAIエージェントの安全確保",
+          "desc": "CrowdStrikeは、ネットワークセキュリティ大手のZscalerを全額株式交換で買収すると発表した。Zscalerの企業価値は約7兆円。Zscalerの「Zero Trust Exchange」などを「Falcon」基盤に統合し、AIエージェントの保護を強化する。統合後の年間経常収益は100億ドルを超える見込みだ。",
+          "url": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/"
+        },
+        {
+          "text": "住友生命がChatGPT導入で524％のROI達成　金融の厳格な基準をどう突破した？",
+          "desc": "住友生命は「ChatGPT Enterprise」の導入によって、ヘビーユーザー層の平均推定ROI524％を実現した。AI利用を組織の成果につなげるための実践的なポイントを解説する。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2611/24/2000003335/"
+        },
+        {
+          "text": "データセンター「迷惑施設」から“名誉挽回“なるか？　東大教授が「あとはやる気の問題」と指摘するワケ",
+          "desc": "データセンターの消費電力は「自転車からロケット級」へと増大した。水、電気、煙、工事……“迷惑施設”とされるデータセンターが模索する「地域と共生」について東大教授が解説した。",
+          "url": "https://www.itmedia.co.jp/business/articles/2611/24/news007.html"
+        },
+        {
+          "text": "ロックウェルがAIで狙う工程革新　各エージェントを“指揮”する新製品とは",
+          "desc": "製造業が人手不足や国際競争に直面する中、ロックウェル オートメーションは「自動化から自律化へ」の変革を提唱する。LLMの進化やフィジカルAIの台頭を背景に、設備全体が自ら学習・最適化する次世代生産システムの姿とはどのようなものか。同社主催の「Automation Fair」で披露された新技術「FactoryTalk Conductor」やソフトウェア主導の生産基盤、今後の展望を聞いた。",
+          "url": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news024.html"
+        },
+        {
+          "text": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
+          "desc": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
+          "url": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/"
+        },
+        {
+          "text": "メルカリの情報流出、AI委託先で何が起きた？　確認された2つの攻撃",
+          "desc": "メルカリグループが業務で利用する「Notion AI」で、チャット記録の一部が外部に流出した可能性があることが公表された。AI処理を委託企業では、外部クラウド事業者への侵害や認証情報の窃取、サービスの脆弱性を悪用した不正アクセスが確認された。",
+          "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/"
+        },
+        {
           "text": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
           "desc": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
           "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/"
-        },
-        {
-          "text": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
-          "desc": "管理職を対象とした勤務先でのAI活用に関する調査では、半数以上が利用されなくなったAIツールや用途があると回答した。背景には、企業独自の判断基準に関わる課題があるようだ。",
-          "url": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/"
-        },
-        {
-          "text": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
-          "desc": "企業が業務で利用するAIサービスの顔ぶれが変わりつつある。従来のように個別のAIサービスを選ぶだけでなく、既存の業務環境に組み込まれたAIを利用する動きも広がっているようだ。",
-          "url": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/"
-        },
-        {
-          "text": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
-          "desc": "「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。",
-          "url": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html"
-        },
-        {
-          "text": "京大がAI依存チェックリスト公開　「当てはまるものあれば、しばらくAI触らないで」",
-          "desc": "京都大学の学生相談部門は「AIに悩みを相談する際に気をつけて欲しいこと」と題した文書を公開した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/"
-        },
-        {
-          "text": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
-          "desc": "「Google Antigravity」を他社のAIツールを介して利用すると規約違反でアカウント停止の可能性があるとXなどで話題になっている。Google Cloud日本法人への取材や公開されている規約などを基に状況と対応を整理する。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/"
-        },
-        {
-          "text": "「Muse」専用メアド、無料で作成可能に　AIが送受信を代理",
-          "desc": "米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/"
         }
       ],
-      "lastFetchedAt": "2026-11-23",
+      "lastFetchedAt": "2026-11-24",
       "source": "ITmedia / TechCrunch / JAXA / 理研 / Google News"
     },
     {
@@ -125,6 +125,16 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcTZqMTVEaG1qemRndTEtTFZVbldDcEVyVDVBRGNFSnZvQmlHazNhRVNDY1pKamZFcVZ1c2l4UzZvMjM5UFhxcThYeUFYcFZsYlYwaUctVk1iV05uVXFLbDUtUTdBbHZHTDVTRjlwWkVBUVFwMF9PYXlEY2Z5amYtTUpPVkc4ckdTM250a254bw?oc=5"
         },
         {
+          "text": "「睡眠は『質』より、まずは『量』」秋の夜長に眠れない「季節性不眠症」…日照時間短くなると寝つきが悪くなる「お酒の力を借りるくらいなら、薬を服用する方がいい」（大手小町（読売新聞））",
+          "desc": "「睡眠は『質』より、まずは『量』」秋の夜長に眠れない「季節性不眠症」…日照時間短くなると寝つきが悪くなる「お酒の力を借りるくらいなら、薬を服用する方がいい」（大手小町（読売新聞））&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02aXp0Y0JKOTJzdUNlaGxPR1ZNU05JVERRUURpR1pFb0NacFNfQWd5MGZwY2xXTG5qM3NCVXV1b0tJVDAxVFM5NG00U0hORE9pbTBfd3A5Tzd1NEVmakFuZk1NY01RUDA0MjN0eFVVb0pUMVdmd09lNnNnUmU5eU0?oc=5"
+        },
+        {
+          "text": "預金1億円を超える口座の増加について、どのような点が最も気になりますか？(みんなの意見)へのコメント",
+          "desc": "預金1億円を超える口座の増加について、どのような点が最も気になりますか？(みんなの意見)へのコメント&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDRWT1VlSkdvVmhiZmItR3NJRU9xRERpVGEtUFlLa0RVampMdzlmZ1NaZ2VlWHRFVGVjanNrLTEyclNQM0hPNXlXTlBpSEVKcDdNaUVnaGF0RTRFUDIzMWprVVZ5LVhQV1JIZTV4TU1NYllSYlhxdzBCeUF5cjR1SngwV0pKSlFEVjB5NA?oc=5"
+        },
+        {
           "text": "「第15回 健康寿命をのばそう！アワード（介護予防・ 高齢者生活支援分野）」の表彰式を行います",
           "desc": "「第15回 健康寿命をのばそう！アワード（介護予防・ 高齢者生活支援分野）」の表彰式を行います&nbsp;&nbsp;厚生労働省",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ka2xoSERqUGZCaG4tRlA3eWg3TzFpSFRfT0lVVW1sWVRIbGhGeHNhNjltVUxkV1hTSTR3R1h4cWJUWHZaRnZXTDJOc1MxQ2hFVmcxZVJaTlU?oc=5"
@@ -133,14 +143,9 @@
           "text": "糖尿病リスク把握の指標、医師と生活者の考えにギャップあり（＠ＤＩＭＥ）",
           "desc": "糖尿病リスク把握の指標、医師と生活者の考えにギャップあり（＠ＤＩＭＥ）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRd0tIQ0w2bVg1c0RxZEtzanIzdUg0Vy1RbmQ0WEZidEhDa01XYWNjQVlzUm1tMUFiYXhGcl9KQWdaTlpjcE5Tc19wQWhoU25kT2I0NGJlTjVHYmluZTVyajZwdngtOFAtbXJFVTg5d2tmN0E0WmtGXzBJdlZJSUE?oc=5"
-        },
-        {
-          "text": "野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材",
-          "desc": "野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFl0c0FlNnd0OV9hN3EzVTNlM2ZwekxkdjZXTHE2NXJqUzRMS3NCSHUtZGRyY1QtOEI1THFJcUZxLVNvQkx5NVRRR0VmTUZKSmVBTm1YY2tDcjJDZ2RBRkhQZzUzRDJqMk9BZmVhQXBfQjVVdEVrbWZMYWlUay1HcnpvNEZmbFJx?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-23",
+      "lastFetchedAt": "2026-11-24",
       "source": "Google News"
     },
     {
@@ -151,7 +156,7 @@
         {
           "text": "しんどい「名もなき家事」はやめられる！暮らしが激変する家事の見直しポイント11 (HALMEK up)",
           "desc": "しんどい「名もなき家事」はやめられる！暮らしが激変する家事の見直しポイント11 (HALMEK up)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbldDM2kwT05EWGllX2Y1V0tDX3Fiak9URGJnaV9HSm5laEdXQ3NDQ0xqRE82cTVPWElmdEZxZW95bzgzZklNdm1EMlJFY1pmeWptRTRzQnZqNUlHN1lvOHJyTjFhNk1TVHNRWFdkNmQzbWxLUTR0TGV3Y1lCSE1XMFdDWEtmTlhVS3FkWVpn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQm5yZXQtZmoxLXg0RVM5X2VNZXJjMkg4V1ZIalE0REhKTDBqV3RxWm1SM190MFV3MHU4dVY1WlJXN2owTTBKZ2Z6TTVieW53cmx3SWhWaXAxb0VuZWliSmFrNi1RYTZfajJZb0ZKR3V6b1dlT3BpZHNkSXZmMy1pUG1aclVsWDFNbGRhWV9B?oc=5"
         },
         {
           "text": "40代ひとり暮らし「手放してラクになった習慣」3つ。生活費16万円台だけれど節約思考はやめた、食器は7枚まで（ESSE-online）",
@@ -159,14 +164,14 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sbncxQUZLNTROa2YwVXhEUUc4SVVMQURCYW5neVRmMTN2TWZOWkp1YkQ5aU4tNnBrSGNzelNyUFdYVGhUOWhTMDN6T2NkUkdteUQ4YWFaNjdlMldDZXVQMmhTS1AyaTF6Wlo1X3JpSFkzbEFiMnRocmdXdWk5NzQ?oc=5"
         },
         {
-          "text": "「今後は自分たちだけで暮らして」〈年金月19万円・72歳夫婦〉息子から月5万円の仕送りを打ち切られ…見直しを迫られた老後の家計 (THE GOLD ONLINE（ゴールドオンライン）)",
-          "desc": "「今後は自分たちだけで暮らして」〈年金月19万円・72歳夫婦〉息子から月5万円の仕送りを打ち切られ…見直しを迫られた老後の家計 (THE GOLD ONLINE（ゴールドオンライン）)&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU21iN0RaYU1tbFNBMnBYSFhBOFg4SGcxWUd1UVhJc0JDTUV2V0ZxRW5kel9LQmQzZGVVeTlTUHpibVNYVVBUUkpSeUI5UUlEVkwxNnlBT1lOS1Nja3YzQ1VXVVNKY19iSnQ0TE92SGVEUllQV3RtaVZrVFpsVUtMcVphUnQzYTV0SG5SNUhn?oc=5"
+          "text": "もう朝ごはんや着る服に迷わない。40代、暮らし上手が「朝にしていること」3つ (ESSE-online)",
+          "desc": "もう朝ごはんや着る服に迷わない。40代、暮らし上手が「朝にしていること」3つ (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMmhzMUV2WG1RaWdITDg5ckFlcjhFVU1WNmZ1M29sbFZmSWxlX09acC1oYTNoZGU1ejhzYzBvbU1BRFp3eXdXbXhRaEhfWWNXRC1OUi01Z0dhVEE3SzNMcUZUSVRNOFFKYUNLRnNHRDQ5bzR1dDVubXloQ0ZsT0UxQnA3eXVrQVV4Z294UVZR?oc=5"
         },
         {
-          "text": "食費月2万円、40代ひとり暮らしの「リアルな食事」。納豆ご飯に冷凍の魚、ごほうびパンで満足（ESSE-online）",
-          "desc": "食費月2万円、40代ひとり暮らしの「リアルな食事」。納豆ご飯に冷凍の魚、ごほうびパンで満足（ESSE-online）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QTk5rUHo3RnpwN1hwa2FJOGdBV0ZOVWh4eUVpTmRGZ0Zsd3REVTlGTFdEOTQwcGQza3UxQTJrNUx5OGRpMmQwRXVGSXI1dnVwVGV1YWhYUWZfWlpPUTE0cmxxMVFzSUFSRkZmY1lDc19kQ1IyQmh0X0t6d1hzT1k?oc=5"
+          "text": "食費月2万円、40代ひとり暮らしの「リアルな食事」。納豆ご飯に冷凍の魚、ごほうびパンで満足 (ESSE-online)",
+          "desc": "食費月2万円、40代ひとり暮らしの「リアルな食事」。納豆ご飯に冷凍の魚、ごほうびパンで満足 (ESSE-online)&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkNGaXVnQmtLYkZ0VUlVREI5VjhsbVBoaDY0SThKWVpJaW1GeTBNdXE4NGNEa3dLNVo1Y2tFU2VWRFdKVHAxUmxRLWFUdV9mMVMzbzI4MVN3NlgxMjl3bFRLWEVWRk9CRzlqcFZSb19qUmxlMnY5MmlQTUpXNmZlVGNRNW5IeGc3OVBsZ2h3?oc=5"
         },
         {
           "text": "“冬の嵐”到来 防寒・停電 100円グッズで格安防災 家の中に潜む危険も対策（テレビ朝日系（ANN））",
@@ -179,12 +184,12 @@
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MQUg0SVM0eUQtd0JISGFJaEhHcTQ1dGlkR3VuSlZfb0hCcmNhOVZMaUhjY0o5UWQ4RFBCLUhhNVdVSXlNUHhnaXdqWHNRWjhoZ2pWY2wyMDNvQ1RESUFUVGJYM0lwMjA?oc=5"
         },
         {
-          "text": "大規模地震による津波被害に備え 和歌山県警や消防、海南の防災公園で対応訓練（産経新聞）",
-          "desc": "大規模地震による津波被害に備え 和歌山県警や消防、海南の防災公園で対応訓練（産経新聞）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52X29DYy03dDdzRTRSUjl3ekRkM2I0b2FWUU01bzB5ZzJURFZodkdtRHpwRkFZUFdCUkxwS0NvYkk3Z0FOQjdJYXFxcjFPaTVzaDhqUTJTb3VCbFU5V2tSUGZwLWVvYTVzOUNBSWRsdGNIY1VuN08xajZWYWJranM?oc=5"
+          "text": "愛犬と避難の備えを学ぶ 「ペット防災セミナー」（テレQ（TVQ九州放送））",
+          "desc": "愛犬と避難の備えを学ぶ 「ペット防災セミナー」（テレQ（TVQ九州放送））&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sLTNyaC13Q3dVLWxJRXlGZEtNcXEzaUlpUGNSWjFoSzR0bGxmTVh6Wlh3NE5VLXRPdnJJbnhiUXVFaW1VbkdWdW9QR3p1ckxfTmtuRmloUjRQOUxUSC1ZVTgwQkdKZXhpczF3ZUhCOTlzSWp5eEV6OWNLTzZhVFU?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-23",
+      "lastFetchedAt": "2026-11-24",
       "source": "Google News"
     },
     {
@@ -198,14 +203,14 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9id3RVVHNDODVycVJSLURzdFpQTDB2TXlDOEpJeUZNb29wLW5vYkh3VTFLYUoxRlpOWkJfNWNibmhLanN4VTlXRkRYSEg1dnhBWHR3aDBBN2pzYW1hWTdtd2o5QXhydFpVUThfNmFUd3NWdDJtSDRrUVl5Y0JodWs?oc=5"
         },
         {
+          "text": "【愛知のイベント】今週末は3連休！名古屋周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）",
+          "desc": "【愛知のイベント】今週末は3連休！名古屋周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05cVVLVjNtV1pXR2ZxSlNCTVZKbUVHeXJQT3RDdFlRTHhIRTByMFJlaEJCcEVJQnFIMDdQMVFCSGptWjhMN3g4UzhpM2ZlV3ZPdUtsb2RKLU9wbFVPdXR4Um40ZV93LVZ4a2I4VVdmTWEzM0Jya0I5amJPSDNPRkE?oc=5"
+        },
+        {
           "text": "【大阪のイベント】今週末は3連休！大阪周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）",
           "desc": "【大阪のイベント】今週末は3連休！大阪周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VN3NLRXRvWUtrN0VIanNnamhWcnl5OEpWNDFfeFcyUjZjOXhCNHFJOXZSMDBIRXlLcWR0R3hJa3RUdUpDX2ZRdm4wYTNKOHp0blZEY3dUM3VnbDBVOERCdHh3RlZoYzJnRTVEV1AzYXFFd3F3RWtBaHpudUoyUTg?oc=5"
-        },
-        {
-          "text": "画像2 / 9＞今週末は3連休！屋外で楽しめる関西の11月21日・22日・23日のイベント10選を紹介！",
-          "desc": "画像2 / 9＞今週末は3連休！屋外で楽しめる関西の11月21日・22日・23日のイベント10選を紹介！&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdEt4clRrUTNTbndiQnF4TXVRcWY0SmFxSjBYalB5bkI2MENMQURaU1V1MHVOeGNWclFRR0hkTkdSUFJWcE4zcDBmN3ZVcUJuendiSGo4b0RhbWZaMmpuLWJaUWFqNzBmTmZjQ0tXYmtLeFF4VktPS2FsMTN6SVhBUW9qYzhUaEgwVGNTUjRQUkJESGdRZGRNUG1zdXAyLUFJR1NNYjhLZnRVbnNfeXJKenJhVFVZYUVxOERQNFRsR3UwTzlYY18xN1RzWDNhZ1Y2djdnU2xhd1JJRFMwSTZtRG8tc2hKbHNsWnFr?oc=5"
         },
         {
           "text": "【東京のイベント】今週末は3連休！東京周辺のおすすめ展覧会・展示会系「おでかけスポット」を紹介！11月21日〜23日",
@@ -213,22 +218,22 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ESGdqQU4zcEhodnZmdV85MU5vTjQyWXc0XzhWdE1CV25oTzVUQXc5UWU5ZkJUUWptckliUXA2V2hseHgwbFJTVkEzZE1IU2l5ajU0WUhPQXl6TE02ZmFtM3VXRkVPeURUSEtveFgya3VuYjZGY2F0UDZOYXhnWlU?oc=5"
         },
         {
-          "text": "【九州のイベント】今週末は3連休！九州のおすすめ「おでかけスポット」を紹介！11月21日〜23日",
-          "desc": "【九州のイベント】今週末は3連休！九州のおすすめ「おでかけスポット」を紹介！11月21日〜23日&nbsp;&nbsp;ウォーカープラス",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XakFCWHN2bW50b2lBUGlmTzQza01VYVRkQVdGZDZsNFlmMF9MLU9UbGpIOXRPbm9FZXFFemR1eEVla3lEZ3B4aEVfWE15RXFFYjZTUm130gFbQVVfeXFMTWxZdFNYaC00UWdCY3hXajMtaE1xaXMwRzJ5WDlISFdNX2Z6Wm5KRnBZOTB6UDA4WnViTEplNDluOTNoTzRidi1Hb3p4Wmxfd3VyUTg4Q1RSUzE2Yw?oc=5"
-        },
-        {
-          "text": "【愛知のイベント】今週末は3連休！名古屋周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）",
-          "desc": "【愛知のイベント】今週末は3連休！名古屋周辺のおすすめ「おでかけスポット」を紹介！11月21日〜23日（ウォーカープラス）&nbsp;&nbsp;Yahoo!ニュース",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05cVVLVjNtV1pXR2ZxSlNCTVZKbUVHeXJQT3RDdFlRTHhIRTByMFJlaEJCcEVJQnFIMDdQMVFCSGptWjhMN3g4UzhpM2ZlV3ZPdUtsb2RKLU9wbFVPdXR4Um40ZV93LVZ4a2I4VVdmTWEzM0Jya0I5amJPSDNPRkE?oc=5"
+          "text": "今週末は3連休！屋外で楽しめる関西の11月21日・22日・23日のイベント10選を紹介！（ウォーカープラス）",
+          "desc": "今週末は3連休！屋外で楽しめる関西の11月21日・22日・23日のイベント10選を紹介！（ウォーカープラス）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15T3NYM1I0MklQWTY1a1VtWEUyVUF1ODUzSWJRSDBCRU41UndoMnZ6V3Z2TU1KTEtVcjlSZTRlNFhSS3ptNzlYSFJJUDdxSDZqSlVzajhkcV9UWmp0SVBfMjRLMzV0bkNFRFVpS1BpVkM1NFp2MmtVU1B4YUtlRUE?oc=5"
         },
         {
           "text": "【九州のイベント】今週末は3連休！九州のおすすめ「おでかけスポット」を紹介！11月21日〜23日 (ウォーカープラス)",
           "desc": "【九州のイベント】今週末は3連休！九州のおすすめ「おでかけスポット」を紹介！11月21日〜23日 (ウォーカープラス)&nbsp;&nbsp;Yahoo!ニュース",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUZmVUZqYmRUUTBkTVNSbFUxNEVyOHdOSXhBY1RtMkxrcmEtNXA5RThZQm50d2U3Mm1zWmhGMGQ3V1M1X0FyQUtkZHBWRTQwcXdkTWI1czMwVFZQd0hUTVlnbGFqVFdva0ZibEZxYks1V3UzZkh1cVpxZ09XN0Vla1JmZUgwOGRfZ0NjSXB3?oc=5"
+        },
+        {
+          "text": "今週末に見たい展覧会ベスト21。ナムジュン・パイク、マリー・アントワネットから目［mé］まで（美術手帖）",
+          "desc": "今週末に見たい展覧会ベスト21。ナムジュン・パイク、マリー・アントワネットから目［mé］まで（美術手帖）&nbsp;&nbsp;Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jMmViSGFKUlhBcmVUVllzdFNZRUJaNmRsdEdEQjM1Z2VNaTd0WlYxVGtGZFZ0SWwyR3BnZTl3NllpOVRXRUxBQWtiMEt5TUQ4SlN0Z3UzUzkyRE0yLXdFYUs5TVhBaERfdFc5bGxSN3BQTGhnT1dEX1FjaDBjMWM?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-22",
+      "lastFetchedAt": "2026-11-24",
       "source": "Google News"
     },
     {
@@ -237,42 +242,17 @@
       "title": "仕事資産 — キャリア・副業",
       "items": [
         {
-          "text": "「AIエンジニア」の呼び名さえ消える時代、ITエンジニアが磨くべきスキル：職種の寿命は5年もたない？（1/2 ページ）",
-          "desc": "「AIエンジニア」の呼び名さえ消える時代、ITエンジニアが磨くべきスキル：職種の寿命は5年もたない？（1/2 ページ）&nbsp;&nbsp;ITmedia",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LWjA3RTRGb1Y4VzFsWVpVeXc5cU1Sa1M3V3RMbkk5NVUza0dfQmxFVUxvbjBwTHducjRfTjdqNVVCRU11VHl3T1NfWmJSSGNlcUoyeWpPbkE5Q1NKQkstVms4RWVxaXI5S21abm5Bc01XUQ?oc=5"
-        },
-        {
-          "text": "AIに仕事を奪われないデータサイエンティスト、変わるスキルセット",
-          "desc": "AIに仕事を奪われないデータサイエンティスト、変わるスキルセット&nbsp;&nbsp;日経クロステック",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOempEM2w4by05bkthNjJCNVZ3Vkk4cmliVlRpb0tSaUU2WExGRDhvajlkT1JfMWZta0tab3VfX1RqSzFQbHBWbzU3SW9mYVdnTV9aQ0dzVEJhbFFobE1uWXljYkVzbVhNWGREZGw3b19HU2dEdWp1Z2R2TTV1Mmh2M2h5S1lMVVYtbUMybkpxOVlNQTRWdHpVWjFkeDNZVE1DbUZYWXczME5IdFJkZEo5clRB?oc=5"
-        },
-        {
-          "text": "AIを“部下”に持つ若手が「上司の仕事」を担う…コンサル業界で始まった変化を前に、30～40代のビジネスパーソンがとるべきキャリア戦略とは？",
-          "desc": "AIを“部下”に持つ若手が「上司の仕事」を担う…コンサル業界で始まった変化を前に、30～40代のビジネスパーソンがとるべきキャリア戦略とは？&nbsp;&nbsp;ダイヤモンド・オンライン",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VSDRBUm84X3N1TkM1dlFXYkozN2NUNDlxZWNFSTFJSTczVmpQZTgtV24zSmhPZTJZVW9xRW1iSkhVU1R1elJkOGhZLVk?oc=5"
-        },
-        {
           "text": "「生成AI普及で今後の仕事に不安」8割超 住友生命の全国調査",
           "desc": "「生成AI普及で今後の仕事に不安」8割超 住友生命の全国調査&nbsp;&nbsp;日本経済新聞",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0U04tdndlbkplbkpxc3RQUDBSb0IzOGdfclBLeDZWWGZqLVROWmNQSU53dTQ3QTNsYmJtR3pTbmVmTFlOY00wb2FBNHU1Ym82bC1WYkVQNlowR2pCZkJzVGs4TmF5WUJHemNYcA?oc=5"
         },
         {
-          "text": "十全十美の「営業スキルマップ」",
-          "desc": "十全十美の「営業スキルマップ」&nbsp;&nbsp;日経クロストレンド",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmWjN3Vm02WUQ0T3NUcGZRanFNTldJWDYzUk5naF9ZSXVTVkYxdUloQ2ZHYlhaeE94dExJOWtDZmNGRnJsc3hDLS1nMUtIRWo2ZTJwb1ZqcnRmN0xYaXc?oc=5"
-        },
-        {
-          "text": "富士通の女子バスケ部、インスタは37万人規模に 多様な価値創出",
-          "desc": "富士通の女子バスケ部、インスタは37万人規模に 多様な価値創出&nbsp;&nbsp;日経人財グロース&コンサルティング",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fVkY5MTNjX2hxSUdZZDMzWVZ2UkJjNjVtaFhfT2ZRcEFTU1BwQ1JhM01MQkpnam1zQnREaUtwUllWMEE5dnlTZERmT0V4RDM4NGljY1lpVWlnLWdkbXM2VFpHd2l6WlV6ekFRbHlGYXo5TGl1?oc=5"
-        },
-        {
-          "text": "｢学費全額免除､月5万円の奨学金｣台湾の大学が日本人学生を厚遇する理由､TSMC進出で変わる半導体人材争奪戦",
-          "desc": "｢学費全額免除､月5万円の奨学金｣台湾の大学が日本人学生を厚遇する理由､TSMC進出で変わる半導体人材争奪戦&nbsp;&nbsp;東洋経済オンライン",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XQnVpN0JfUzBNTWhlaUtmY2phWUF0UEpscGtSZllUOVN1MVJXTklaWHdKd1N1OXdkeU1CaUFBaFctZ0xjY3hYSVhidlRuWEN0QTZUYzVuWmNFdWM?oc=5"
+          "text": "AIを“部下”に持つ若手が「上司の仕事」を担う…コンサル業界で始まった変化を前に、30～40代のビジネスパーソンがとるべきキャリア戦略とは？",
+          "desc": "AIを“部下”に持つ若手が「上司の仕事」を担う…コンサル業界で始まった変化を前に、30～40代のビジネスパーソンがとるべきキャリア戦略とは？&nbsp;&nbsp;ダイヤモンド・オンライン",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9VSDRBUm84X3N1TkM1dlFXYkozN2NUNDlxZWNFSTFJSTczVmpQZTgtV24zSmhPZTJZVW9xRW1iSkhVU1R1elJkOGhZLVk?oc=5"
         }
       ],
-      "lastFetchedAt": "2026-11-23",
+      "lastFetchedAt": "2026-11-24",
       "source": "Google News"
     },
     {
